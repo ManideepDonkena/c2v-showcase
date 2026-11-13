@@ -1,6 +1,6 @@
 \begin{table*}[!tbp]\centering\footnotesize
 \caption{Which model does each part. Every model runs locally through Ollama, except the authors of the final quizzes. The student and the judge come from different families; the NOVEL-12 final quiz is written by a family the pipeline never uses.}\label{tab:models}
-\begin{tabular}{@{}lp{9.2cm}l@{}}\toprule Part & What it does & Model\\
+\begin{adjustbox}{max width=\linewidth}\begin{tabular}{@{}lp{9.2cm}l@{}}\toprule Part & What it does & Model\\
 \midrule
 \multicolumn{3}{c}{\textit{Making the video (every step and stage)}}\\
 Planner & lesson plan: what each section teaches, shows and says & \texttt{qwen3.6:latest} \\
@@ -34,5 +34,5 @@ Claude fixer & repairs layout and timing only; sees code, frames and reports, ne
 \midrule
 \multicolumn{3}{c}{\textit{Reference, not run here}}\\
 Code2Video's student & watches the video file with sound (needs a paid key) & Gemini \\
-\bottomrule\end{tabular}
+\bottomrule\end{tabular}\end{adjustbox}
 \end{table*}

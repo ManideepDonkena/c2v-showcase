@@ -14,6 +14,16 @@
 \usepackage[colorlinks=true,linkcolor=blue!50!black,citecolor=blue!50!black,urlcolor=blue!50!black]{hyperref}
 \usepackage{url}
 \usepackage{enumitem}
+\usepackage{adjustbox}  % generated tables shrink to the line width when wider (make_tables.fit)
+% Header and footer on every page, the title page included.
+\usepackage{fancyhdr}
+\setlength{\headheight}{14pt}
+\fancypagestyle{c2v}{\fancyhf{}%
+  \fancyhead[C]{\small c2v-lab: Code-Generated Teaching Videos}%
+  \fancyfoot[C]{\small \thepage}%
+  \renewcommand{\headrulewidth}{0.4pt}\renewcommand{\footrulewidth}{0pt}}
+\fancypagestyle{plain}{\pagestyle{c2v}}
+\AtBeginDocument{\pagestyle{c2v}}
 \usepackage{fvextra}  % the prompts appendix (prompts.tex)
 \setlist{nosep,leftmargin=*}
 
@@ -28,13 +38,9 @@
 
 % A method figure generated from a prompt in figures/IMAGE_PROMPTS.md (Part A); a box names the prompt until the
 % image file exists. Full text width in every document.
-\newcommand{\paperfig}[4]{%
-  \begin{figure*}[t]\centering
-  \IfFileExists{figures/#1}{\includegraphics[width=\textwidth]{figures/#1}}{%
-    \fbox{\parbox{0.92\textwidth}{\centering\small\vspace{22pt}\textit{Figure to generate: prompt #2 in}
-    \texttt{paper/figures/IMAGE\_PROMPTS.md}, saved as \texttt{\detokenize{paper/figures/#1}}\vspace{22pt}}}}
-  \caption{#3}\label{fig:#4}
-  \end{figure*}}
+\newcommand{\paperfig}[4]{%  % an illustration; left out until its image file exists
+  \IfFileExists{figures/#1}{\begin{figure*}[t]\centering\includegraphics[width=\textwidth]{figures/#1}
+  \caption{#3}\label{fig:#4}\end{figure*}}{}}
 
 % Every number below comes from paper/make_tables.py; a result that does not exist yet prints as [pending].
 \newcommand{\pend}{\textcolor{red!70!black}{\textbf{[pending]}}}

@@ -89,8 +89,16 @@ def pilot_dirs():
     return out
 
 
+def fit(text):
+    """Shrink a table to the line width when, and only when, it is wider (adjustbox's max width)."""
+    if "\\begin{adjustbox}" in text:
+        return text
+    text = re.sub(r"\\begin\{tabular\}", r"\\begin{adjustbox}{max width=\\linewidth}\\begin{tabular}", text)
+    return text.replace("\\end{tabular}", "\\end{tabular}\\end{adjustbox}")
+
+
 def write(name, text):
-    (OUT / f"{name}.tex").write_text(text)
+    (OUT / f"{name}.tex").write_text(fit(text))
 
 
 def pilot(macros):
@@ -104,13 +112,13 @@ def pilot(macros):
         m = a["means"][c]
         d = "" if c == "base" else delta((m["teachquiz"] - base["teachquiz"]) / 100, "up")
         rows.append(f"{NAMES[c]} & {m['teachquiz']:.1f}{d} & {m['evidence']:.1f} & {m['mvqs']:.1f} & {m['sections_rendered']:.2f} \\\\")
-    write("pilot", "\\begin{table}[!htbp]\\centering\\small\n\\caption{Pilot on 12 MMMC topics, scored with TeachQuiz as in "
+    write("pilot", "\\begin{table*}[!tbp]\\centering\\small\n\\caption{Pilot on 12 MMMC topics, scored with TeachQuiz as in "
           "Code2Video (local student, 3 frames per section, graded as in the pilot, before the fix of Break 1; the regraded score is version M1 of the ladder). TeachQuiz: quiz score with the video "
           "minus without it. Evidence: answers a judge could find in the frames. Layout: SGA's MVQS. Small numbers: "
           "change against the base video.}\\label{tab:pilot}\n"
           "\\begin{tabular}{lrrrr}\\toprule Method & TeachQuiz ($\\uparrow$) & Evidence ($\\uparrow$) & Layout ($\\uparrow$) & "
           "Sections rendered ($\\uparrow$)\\\\\n" + group(5, "Repair of the base video") .replace("\\midrule\n", "\\midrule\n", 1)
-          + "\n".join(rows) + "\n\\bottomrule\\end{tabular}\n\\end{table}\n")  # fmt: skip
+          + "\n".join(rows) + "\n\\bottomrule\\end{tabular}\n\\end{table*}\n")  # fmt: skip
     macros["PilotTies"] = a["paired"]["learner - base"]["teachquiz"]["ties"]
     macros["PilotLayoutBase"] = f"{a['means']['base']['mvqs']:.1f}"
     macros["PilotLayoutAll"] = f"{a['means']['learner_all']['mvqs']:.1f}"

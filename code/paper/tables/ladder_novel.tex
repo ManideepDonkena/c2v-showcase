@@ -1,6 +1,6 @@
 \begin{table*}[!tbp]\centering\footnotesize
 \caption{Metric ladder on NOVEL-12. 10 topics, 40 videos. Each row adds one change to the row above; points on a 0--100 scale. The first three columns use each topic's base video only, since its repairs are near-copies of it. Scored: base videos that get a score (-- : the student already knew everything). Own $-$ other: a topic's video minus another topic's video on the same quiz. Agreement: rank correlation of two measurements of the same base videos. Learner $-$ \ldots: mean change over topics, the versions paired by topic. Ties: topics where learner and base score the same.}\label{tab:ladder_novel}
-\setlength{\tabcolsep}{4pt}\begin{tabular}{@{}llrrrrrrr@{}}\toprule & & \multicolumn{3}{c}{Does it measure teaching?} & \multicolumn{4}{c}{Does the learner repair help?}\\
+\setlength{\tabcolsep}{4pt}\begin{adjustbox}{max width=\linewidth}\begin{tabular}{@{}llrrrrrrr@{}}\toprule & & \multicolumn{3}{c}{Does it measure teaching?} & \multicolumn{4}{c}{Does the learner repair help?}\\
 \cmidrule(lr){3-5}\cmidrule(lr){6-9}
 & Measure & Scored & \hd{Own $-$\\other ($\uparrow$)} & \hd{Agree-\\ment ($\uparrow$)} & \hd{Learner\\$-$ base} & \hd{Learner\\$-$ generic} & \hd{Learner $-$\\every section} & Ties ($\downarrow$)\\\midrule
 M0 & TeachQuiz (Code2Video) & 10/10 & +45.4 & -- & 0.0 & +2.1 & +12.9 & 2/10 \\
@@ -17,5 +17,5 @@ M9 & M7 on 3 frames per section & 10/10 & +64.4 & -- & +6.1 & +6.1 & +9.6 & 0/10
 \multicolumn{9}{c}{\textit{Raw difference in confidence, not normalised (for reference)}}\\
 R7 & Dense video minus no video & 10/10 & +11.7 & -0.32 & +0.7 & +1.9 & $-$2.0 & 0/10 \\
 R9 & 3 frames minus no video & 10/10 & +36.3 & 0.30 & +2.0 & +2.7 & +4.6 & 0/10 \\
-\bottomrule\end{tabular}
+\bottomrule\end{tabular}\end{adjustbox}
 \end{table*}

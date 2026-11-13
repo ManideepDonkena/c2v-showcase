@@ -1,6 +1,6 @@
 # Reproducing the paper
 
-This folder is the research repository at commit `ee9bd1f`. It contains the code, the benchmark, every result file
+This folder is the research repository at commit `1ddc4c8`. It contains the code, the benchmark, every result file
 the tables are built from, and the per-video caches (`runs/`) without the rendered media.
 
 ## 1. Rebuild the tables and numbers (no models needed)

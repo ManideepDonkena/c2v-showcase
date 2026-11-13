@@ -5,7 +5,7 @@ versions we made of them, side-by-side comparisons, and the code of the main imp
 the PDFs in [`paper/`](paper/) for the method and statistics.
 
 - [`paper/paper.pdf`](paper/paper.pdf): the paper (12 pages)
-- [`paper/report.pdf`](paper/report.pdf): the technical report (20 pages)
+- [`paper/report.pdf`](paper/report.pdf): the technical report (18 pages)
 - [`paper/long_report.pdf`](paper/long_report.pdf): the long report, with every study and its status
 - [`paper/c2v-paper-latex.zip`](paper/c2v-paper-latex.zip): LaTeX sources of all three, with tables and figures (`pdflatex`, `bibtex`, `pdflatex` twice)
 
@@ -76,7 +76,7 @@ which versions exist.
 
 ## The code
 
-[`code/`](code/) is the implementation as of the paper's results (commit `ee9bd1f` of the research repository),
+[`code/`](code/) is the implementation as of the paper's results (commit `1ddc4c8` of the research repository),
 with the benchmark, every result file and the per-video caches. [`code/REPRODUCE.md`](code/REPRODUCE.md) explains how
 to rebuild the tables and re-run the studies, with the exact model versions.
 

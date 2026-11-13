@@ -1,6 +1,6 @@
 \begin{table*}[!tbp]\centering\small
 \caption{Effect of each pipeline feature on NOVEL-12. Features are added one at a time; the base video is the same in every row. Gain: share of what the student did not know that it learned from 3 frames per section (version M9), in points. Learner $-$ generic: the learner repair against an equally large repair without the student's signal, scored on 3 frames (M9) and on the dense video (M7); small numbers: change against the row above. Layout: MVQS of the learner videos. Rewritten: sections rewritten and rendered. Used: topics whose final video is the revision.}\label{tab:stages}
-\begin{tabular}{lrrrrrrrrr}\toprule & \multicolumn{4}{c}{Gain ($\uparrow$)} & \multicolumn{2}{c}{Learner $-$ generic ($\uparrow$)} & & & \\
+\begin{adjustbox}{max width=\linewidth}\begin{tabular}{lrrrrrrrrr}\toprule & \multicolumn{4}{c}{Gain ($\uparrow$)} & \multicolumn{2}{c}{Learner $-$ generic ($\uparrow$)} & & & \\
 \cmidrule(lr){2-5}\cmidrule(lr){6-7}
 Stage & Base & Generic & Every section & Learner & 3 frames & Dense & Layout ($\uparrow$) & Rewritten & Used\\\midrule
 F0: pilot loop & 42.4 & 42.4 & 38.9 & 48.5 & +6.1 & +3.4 & 81.3 & 25 & 10/10 \\
@@ -9,5 +9,5 @@ F0: pilot loop & 42.4 & 42.4 & 38.9 & 48.5 & +6.1 & +3.4 & 81.3 & 25 & 10/10 \\
 + find the weak section like a debugger & 42.4 & 43.7 & 43.4 & 45.9 & +2.1\worse{$-$1.3} & $-$3.0 & 84.9 & 10 & 1/10 \\
 + block fixes that copy the practice quiz & 42.4 & 42.9 & 46.3 & 44.9 & +2.0\worse{$-$0.1} & $-$1.4 & 84.3 & 8 & 3/10 \\
 + small edits instead of rewrites & 42.4 & 42.2 & 42.8 & 48.5 & +6.3\better{+4.3} & $-$4.1 & 84.4 & 9 & 4/10 \\
-\bottomrule\end{tabular}
+\bottomrule\end{tabular}\end{adjustbox}
 \end{table*}

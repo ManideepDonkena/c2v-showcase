@@ -10,13 +10,9 @@
 }
 
 % An illustration to be generated from a prompt; until the file exists, a box names the prompt.
-\newcommand{\imageslot}[3]{%
-  \begin{figure}[htbp]\centering
-  \IfFileExists{figures/#1}{\includegraphics[width=0.62\linewidth]{figures/#1}}{%
-    \fbox{\parbox{0.62\linewidth}{\centering\small\vspace{14pt}\textit{Illustration to generate: prompt #2 in}\\
-    \texttt{paper/figures/IMAGE\_PROMPTS.md}, saved as \texttt{paper/figures/#1}\vspace{14pt}}}}
-  \caption{#3}
-  \end{figure}}
+\newcommand{\imageslot}[3]{%  % an illustration; left out until its image file exists
+  \IfFileExists{figures/#1}{\begin{figure}[htbp]\centering\includegraphics[width=0.62\linewidth]{figures/#1}
+  \caption{#3}\end{figure}}{}}
 
 % A data figure from make_figures.py; a pending box until its data exists.
 \newcommand{\datafig}[3][0.9]{%
