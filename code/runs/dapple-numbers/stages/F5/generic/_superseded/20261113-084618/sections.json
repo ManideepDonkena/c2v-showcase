@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "Defining the Condition",
+  "teaches": "A whole number is 'dapple' if its tens digit is strictly greater than its units digit.",
+  "visual": "Two large digits, '5' and '2', appear side-by-side. A comparison operator '>' animates between them, turning green. The combined number '52' pulses with a golden glow. Below it, the text 'Tens > Units' appears clearly.",
+  "narration": "We define a 'dapple number' as any whole number where the digit in the tens place is strictly greater than the digit in the units place. For example, in 52, the tens digit 5 is greater than the units digit 2, making it a dapple number.",
+  "start": 0.0,
+  "end": 18.8
+ },
+ {
+  "id": "s2",
+  "title": "The Multiple of Ten Rule",
+  "teaches": "Every multiple of 10 from 10 to 90 is dapple because its units digit is 0.",
+  "visual": "A number line appears. Numbers 10, 20, 30, ..., 90 slide in sequentially. As each lands, it turns green and is labeled 'Dapple'. The number 0 is shown separately with a red 'X' and the label 'Not Dapple (No Tens Digit)'.",
+  "narration": "Consider multiples of ten: 10, 20, up to 90. Since their units digit is always 0, and any positive tens digit is greater than 0, every multiple of ten from 10 to 90 is automatically a dapple number.",
+  "start": 18.8,
+  "end": 84.87
+ },
+ {
+  "id": "s3",
+  "title": "Non-Examples and Edge Cases",
+  "teaches": "Numbers with equal digits (e.g., 44) or reversed digits (e.g., 25) are not dapple.",
+  "visual": "The number '44' appears. The two '4's highlight each other, and an '=' sign appears between them. It turns red with the label 'Not Dapple'. Next, '25' appears, turns red, and is labeled 'Not Dapple (2 < 5)'.",
+  "narration": "If the digits are equal, like in 44, the condition fails because 4 is not greater than 4. Similarly, if the tens digit is smaller than the units digit, such as in 25, it is not a dapple number.",
+  "start": 84.87,
+  "end": 102.07
+ },
+ {
+  "id": "s4",
+  "title": "The Reversal Property",
+  "teaches": "Reversing the digits of a dapple number results in a non-dapple number.",
+  "visual": "The number '52' (green, labeled 'Dapple') appears. It splits into '5' and '2', swaps positions to form '25', and then turns red with the label 'Not Dapple'. An arrow connects '52' to '25' with the text 'Reversal'.",
+  "narration": "A key property of dapple numbers is their behavior under reversal. If you reverse the digits of a dapple number, such as turning 52 into 25, the new number will never be dapple because the tens digit becomes smaller than the units digit.",
+  "start": 102.07,
+  "end": 114.87
+ }
+]

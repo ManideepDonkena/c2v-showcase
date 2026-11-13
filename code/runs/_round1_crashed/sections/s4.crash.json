@@ -1,0 +1,88 @@
+{
+ "states": [
+  {
+   "after_line": 6,
+   "objects": []
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.66,
+      3.116,
+      2.66,
+      3.5
+     ],
+     "name": "title",
+     "line": 17,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.66,
+      3.116,
+      2.66,
+      3.5
+     ],
+     "name": "title",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.605,
+      -0.299,
+      1.605,
+      0.299
+     ],
+     "name": "formula",
+     "line": 9,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.66,
+      3.116,
+      2.66,
+      3.5
+     ],
+     "name": "title",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.634,
+      -0.299,
+      1.605,
+      0.299
+     ],
+     "name": "formula",
+     "line": 9,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "AttributeError",
+  "message": "VMobjectFromSVGPath object has no attribute 'reverse'",
+  "line": 30
+ }
+}

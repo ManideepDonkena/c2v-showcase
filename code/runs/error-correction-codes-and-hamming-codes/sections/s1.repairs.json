@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 18,
+  "scope": "line",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find https:/svgshare.com/i/1234.svg at either of these locations: ['https:/svgshare.com/i/1234.svg', 'https:/svgshare.com/i/1234.svg', 'https:/svgshare.com/i/1234.svg.svg']"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 17,
+  "scope": "block",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find https:/svgshare.com/i/1234.svg at either of these locations: ['https:/svgshare.com/i/1234.svg', 'https:/svgshare.com/i/1234.svg', 'https:/svgshare.com/i/1234.svg.svg']"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 17,
+  "scope": "section",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find https:/svgshare.com/i/1234.svg at either of these locations: ['https:/svgshare.com/i/1234.svg', 'https:/svgshare.com/i/1234.svg', 'https:/svgshare.com/i/1234.svg.svg']"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

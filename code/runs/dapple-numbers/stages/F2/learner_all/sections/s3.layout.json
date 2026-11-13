@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 84.42,
+  "s_sp": 97.6,
+  "s_ly": 32.2,
+  "s_ed": 97.2,
+  "states": 65,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 84.28,
+   "conflicts": 3
+  },
+  {
+   "level": "block",
+   "mvqs": 84.42,
+   "conflict": "MathTex \"gt7\" (created line 111, box [-0.214, -0.144, 0.091, 0.144]) overlaps MathTex \"num7\" (line 106, box [-0.214, -0.348, 0.214, 0.348]) by 100%; moving it by [-0.45, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"gt7\" (created line 111, box [0.236, -0.144, 0.541, 0.144]) overlaps MathTex \"units7\" (line 110, box [0.464, -0.174, 0.677, 0.174]) by 29%; moving it by [-0.23, 0.0] would clear it"
+  }
+ ]
+}

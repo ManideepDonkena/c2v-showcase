@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 19,
+  "scope": "line",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 24,
+  "scope": "block",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 25,
+  "scope": "section",
+  "error": "SyntaxError: '(' was never closed (s4.py, line 25)"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 30,
+  "scope": "section",
+  "error": "UnboundLocalError: cannot access local variable 'highlight' where it is not associated with a value"
+ }
+]

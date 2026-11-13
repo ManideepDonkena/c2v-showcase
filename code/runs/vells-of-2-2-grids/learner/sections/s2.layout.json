@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 61.11,
+  "s_sp": 80.7,
+  "s_ly": 33.6,
+  "s_ed": 46.9,
+  "states": 35,
+  "states_with_conflict": 31
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 61.11,
+   "conflicts": 17
+  },
+  {
+   "level": "none kept",
+   "conflict": "Integer \"grid1_mob\" (created line 12, box [-0.407, -0.124, -0.258, 0.124]) overlaps Integer \"grid1_mob\" (line 12, box [-0.394, -0.124, -0.271, 0.124]) by 100%; moving it by [0.29, 0.0] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 82.8,
+  "s_sp": 91.5,
+  "s_ly": 69.4,
+  "s_ed": 77.1,
+  "states": 21,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 68.61,
+   "conflicts": 8
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.2,
+   "conflict": "Line \"line\" (created line 30, box [-1.744, -1.2, -1.5, 0.5]) overlaps MathTex \"formula\" (line 12, box [-1.744, 0.082, 1.744, 0.918]) by 24%; moving it by [-0.39, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 78.17,
+   "conflict": "Line \"line\" (created line 30, box [-2.134, -1.2, -0.39, 0.5]) overlaps MathTex \"formula\" (line 12, box [-1.744, 0.082, 1.744, 0.918]) by 19%; moving it by [0.0, -0.57] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.8,
+   "conflict": "MathTex \"basel\" (created line 38, box [-0.903, -1.825, 0.903, -0.918]) overlaps Circle \"circle\" (line 23, box [-0.3, -1.8, 0.3, -1.2]) by 100%; moving it by [0.0, 0.78] would clear it"
+  }
+ ]
+}

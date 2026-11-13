@@ -1,0 +1,261 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the formula for the Pythagorean theorem?",
+   "options": {
+    "A": "a + b = c",
+    "B": "a^2 + b^2 = c^2",
+    "C": "a * b = c",
+    "D": "a^2 - b^2 = c^2"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "If a=3 and b=4, what is c?",
+   "options": {
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q6",
+   "question": "Why do we square the sides in the theorem?",
+   "options": {
+    "A": "To make numbers bigger",
+    "B": "To relate areas of squares",
+    "C": "To find the perimeter",
+    "D": "To divide equally"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q8",
+   "question": "If c=10 and a=6, what is b?",
+   "options": {
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "9"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q10",
+   "question": "If a=1 and b=1, what is c?",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "√2",
+    "D": "√3"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q12",
+   "question": "If a=9 and b=12, what is c?",
+   "options": {
+    "A": "13",
+    "B": "14",
+    "C": "15",
+    "D": "16"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q14",
+   "question": "If a=5 and b=12, what is c?",
+   "options": {
+    "A": "11",
+    "B": "13",
+    "C": "15",
+    "D": "17"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q16",
+   "question": "If a=8 and c=10, what is b?",
+   "options": {
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q18",
+   "question": "If a=7 and b=24, what is c?",
+   "options": {
+    "A": "23",
+    "B": "25",
+    "C": "27",
+    "D": "31"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q20",
+   "question": "If a=9 and b=40, what is c?",
+   "options": {
+    "A": "31",
+    "B": "41",
+    "C": "49",
+    "D": "50"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q22",
+   "question": "If a=10 and b=24, what is c?",
+   "options": {
+    "A": "26",
+    "B": "34",
+    "C": "36",
+    "D": "40"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q24",
+   "question": "If a=15 and b=8, what is c?",
+   "options": {
+    "A": "13",
+    "B": "17",
+    "C": "23",
+    "D": "25"
+   },
+   "answer": "B"
+  }
+ ],
+ "test": [
+  {
+   "id": "q2",
+   "question": "In a right-angled triangle, which side is 'c'?",
+   "options": {
+    "A": "The shortest side",
+    "B": "The longest side",
+    "C": "The vertical side",
+    "D": "The horizontal side"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q5",
+   "question": "Which shape must have a right angle to use this theorem?",
+   "options": {
+    "A": "Any triangle",
+    "B": "Right-angled triangle",
+    "C": "Isosceles triangle",
+    "D": "Equilateral triangle"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q7",
+   "question": "If a=6 and b=8, what is c?",
+   "options": {
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "14"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q9",
+   "question": "What is the hypotenuse?",
+   "options": {
+    "A": "Side opposite right angle",
+    "B": "Side adjacent to right angle",
+    "C": "Shortest side",
+    "D": "Middle side"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q11",
+   "question": "Which is NOT a Pythagorean triple?",
+   "options": {
+    "A": "3, 4, 5",
+    "B": "5, 12, 13",
+    "C": "6, 8, 10",
+    "D": "7, 8, 9"
+   },
+   "answer": "D"
+  },
+  {
+   "id": "q13",
+   "question": "Can the hypotenuse be shorter than a leg?",
+   "options": {
+    "A": "Yes, always",
+    "B": "No, never",
+    "C": "Only if isosceles",
+    "D": "Only if equilateral"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q15",
+   "question": "What is the square root of 144?",
+   "options": {
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "13"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q17",
+   "question": "What is a common mistake in this theorem?",
+   "options": {
+    "A": "Adding sides directly",
+    "B": "Squaring the hypotenuse only",
+    "C": "Using wrong angle",
+    "D": "Forgetting units"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q19",
+   "question": "What is the area of a square with side 5?",
+   "options": {
+    "A": "10",
+    "B": "15",
+    "C": "20",
+    "D": "25"
+   },
+   "answer": "D"
+  },
+  {
+   "id": "q21",
+   "question": "Which number is a perfect square?",
+   "options": {
+    "A": "12",
+    "B": "15",
+    "C": "16",
+    "D": "18"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q23",
+   "question": "What is the square of 9?",
+   "options": {
+    "A": "18",
+    "B": "72",
+    "C": "81",
+    "D": "90"
+   },
+   "answer": "C"
+  }
+ ],
+ "written": 24,
+ "kept": 23
+}

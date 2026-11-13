@@ -1,0 +1,334 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.934,
+      3.0,
+      2.934,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.934,
+      3.0,
+      2.934,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.934,
+      3.0,
+      2.934,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "A",
+     "line": 20,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -0.529,
+      0.264,
+      -0.28
+     ],
+     "name": "label_A",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.934,
+      3.0,
+      2.934,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "A",
+     "line": 20,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -0.529,
+      0.264,
+      -0.28
+     ],
+     "name": "label_A",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.113,
+      0.05,
+      0.113,
+      0.95
+     ],
+     "name": "step1_arrow",
+     "line": 22,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.336,
+      1.05,
+      0.336,
+      1.274
+     ],
+     "name": "step1_label",
+     "line": 27,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.934,
+      3.0,
+      2.934,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "A",
+     "line": 20,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -0.529,
+      0.264,
+      -0.28
+     ],
+     "name": "label_A",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.113,
+      0.05,
+      0.113,
+      0.95
+     ],
+     "name": "step1_arrow",
+     "line": 22,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.336,
+      1.05,
+      0.336,
+      1.274
+     ],
+     "name": "step1_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "B_intermediate",
+     "line": 32,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.479,
+      1.28,
+      0.479,
+      1.529
+     ],
+     "name": "label_B_int",
+     "line": 33,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "operands could not be broadcast together with shapes (2,) (3,) ",
+  "line": 38
+ }
+}

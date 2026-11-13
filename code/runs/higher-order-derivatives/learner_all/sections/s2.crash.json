@@ -1,0 +1,67 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.706,
+      3.084,
+      4.706,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.706,
+      3.084,
+      4.706,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -21.0,
+      6.0,
+      21.0
+     ],
+     "name": "graph",
+     "line": 13,
+     "type": "ParametricFunction"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "Mobject.__getattr__.<locals>.getter() got an unexpected keyword argument 'x_range'",
+  "line": 18
+ }
+}

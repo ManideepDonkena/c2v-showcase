@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 83.57,
+  "s_sp": 91.6,
+  "s_ly": 51.6,
+  "s_ed": 91.4,
+  "states": 14,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 73.64,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.57,
+   "conflict": "Arrow \"arrow\" (created line 46, box [-0.321, -1.439, 2.695, 0.893]) overlaps MathTex \"result\" (line 27, box [1.698, 0.605, 2.774, 1.302]) by 38%; moving it by [0.0, -0.44] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Polygon \"loss_bracket\" (created line 73, box [-2.0, -1.5, 2.0, 1.5]) overlaps MathTex \"result\" (line 27, box [1.698, 0.605, 2.774, 1.302]) by 28%; moving it by [-0.45, 0.0] would clear it"
+  }
+ ]
+}

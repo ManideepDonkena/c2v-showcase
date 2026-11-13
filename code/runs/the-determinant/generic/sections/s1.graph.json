@@ -1,0 +1,655 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.5,
+      0.5,
+      0.5
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.5,
+      0.5,
+      0.5
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "i_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 17,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.681,
+      -0.715,
+      0.819,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.454,
+      -0.031,
+      -0.25,
+      0.531
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.5,
+      0.5,
+      0.5
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "i_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 17,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.681,
+      -0.715,
+      0.819,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.454,
+      -0.031,
+      -0.25,
+      0.531
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.868,
+      -4.35,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 28,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.358,
+      -3.297,
+      1.618
+     ],
+     "name": "matrix_label",
+     "line": 30,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.5,
+      1.5,
+      1.5
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.25,
+      1.5,
+      0.75
+     ],
+     "name": "i_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      0.5,
+      0.75,
+      1.5
+     ],
+     "name": "j_hat",
+     "line": 17,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.739,
+      -0.683,
+      1.32,
+      0.253
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.211,
+      1.768,
+      1.054,
+      2.971
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.868,
+      -4.35,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 28,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.358,
+      -3.297,
+      1.618
+     ],
+     "name": "matrix_label",
+     "line": 30,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.5,
+      1.5,
+      1.5
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.25,
+      1.5,
+      0.75
+     ],
+     "name": "i_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      0.5,
+      0.75,
+      1.5
+     ],
+     "name": "j_hat",
+     "line": 17,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.739,
+      -0.683,
+      1.32,
+      0.253
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.211,
+      1.768,
+      1.054,
+      2.971
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.868,
+      -4.35,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 28,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.358,
+      -3.297,
+      1.618
+     ],
+     "name": "matrix_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.798,
+      -3.5,
+      0.798,
+      -3.194
+     ],
+     "name": "area_text",
+     "line": 51,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.5,
+      1.5,
+      1.5
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.25,
+      1.5,
+      0.75
+     ],
+     "name": "i_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      0.5,
+      0.75,
+      1.5
+     ],
+     "name": "j_hat",
+     "line": 17,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.739,
+      -0.683,
+      1.32,
+      0.253
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.211,
+      1.768,
+      1.054,
+      2.971
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.868,
+      -4.35,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 28,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.358,
+      -3.297,
+      1.618
+     ],
+     "name": "matrix_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.798,
+      -3.5,
+      0.798,
+      -3.194
+     ],
+     "name": "area_text",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.272,
+      -2.944,
+      1.272,
+      -2.687
+     ],
+     "name": "explanation",
+     "line": 56,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.798,
+      -3.5,
+      0.798,
+      -3.194
+     ],
+     "name": "area_text",
+     "line": 51,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.798,
+      -3.5,
+      0.798,
+      -3.194
+     ],
+     "name": "area_text",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.97,
+      -3.5,
+      0.97,
+      -3.085
+     ],
+     "name": "final_area",
+     "line": 73,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.798,
+      -3.5,
+      0.798,
+      -3.194
+     ],
+     "name": "area_text",
+     "line": 51,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

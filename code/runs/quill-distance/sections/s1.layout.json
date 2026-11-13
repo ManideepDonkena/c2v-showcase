@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 83.04,
+  "s_sp": 94.6,
+  "s_ly": 28.6,
+  "s_ed": 100.0,
+  "states": 15,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 79.88,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.04,
+   "conflict": "Text \"label_h\" (created line 35, box [-0.494, -2.445, 0.494, -2.2]) overlaps Text \"label_A\" (line 25, box [-0.518, -2.318, -0.282, -2.08]) by 44%; moving it by [0.0, -0.27] would clear it"
+  }
+ ]
+}

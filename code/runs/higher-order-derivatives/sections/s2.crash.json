@@ -1,0 +1,108 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -28.5,
+      6.0,
+      27.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.606,
+      1.75,
+      3.394,
+      2.248
+     ],
+     "name": "f_label",
+     "line": 18,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "Mobject.__getattr__.<locals>.getter() got an unexpected keyword argument 'x'",
+  "line": 23
+ }
+}

@@ -1,0 +1,286 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.943,
+      3.38,
+      3.943,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.943,
+      3.38,
+      3.943,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.5,
+      -0.5,
+      1.5,
+      1.5
+     ],
+     "name": "triangle",
+     "line": 18,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.943,
+      3.38,
+      3.943,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.5,
+      -0.5,
+      1.5,
+      1.5
+     ],
+     "name": "triangle",
+     "line": 18,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.842,
+      0.329,
+      -4.7,
+      0.671
+     ],
+     "name": "label_a",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.039,
+      -1.057,
+      -0.961,
+      -0.7
+     ],
+     "name": "label_b",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.7,
+      0.329,
+      2.787,
+      0.671
+     ],
+     "name": "label_c",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.943,
+      3.38,
+      3.943,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.5,
+      -0.5,
+      1.5,
+      1.5
+     ],
+     "name": "triangle",
+     "line": 18,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.842,
+      0.329,
+      -4.7,
+      0.671
+     ],
+     "name": "label_a",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.039,
+      -1.057,
+      -0.961,
+      -0.7
+     ],
+     "name": "label_b",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.7,
+      0.329,
+      2.787,
+      0.671
+     ],
+     "name": "label_c",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.419,
+      -1.26,
+      -0.581,
+      -1.0
+     ],
+     "name": "check_text",
+     "line": 30,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.943,
+      3.38,
+      3.943,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.5,
+      -0.5,
+      1.5,
+      1.5
+     ],
+     "name": "triangle",
+     "line": 18,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.842,
+      0.329,
+      -4.7,
+      0.671
+     ],
+     "name": "label_a",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.039,
+      -1.057,
+      -0.961,
+      -0.7
+     ],
+     "name": "label_b",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.7,
+      0.329,
+      2.787,
+      0.671
+     ],
+     "name": "label_c",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.419,
+      -1.26,
+      -0.581,
+      -1.0
+     ],
+     "name": "check_text",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.287,
+      -2.008,
+      1.287,
+      -1.56
+     ],
+     "name": "cond",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "latex error converting to dvi. See log output above or the log file: media/Tex/6f7b5692288f4ace.log",
+  "line": 45
+ }
+}

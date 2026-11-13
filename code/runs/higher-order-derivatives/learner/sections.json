@@ -1,0 +1,20 @@
+[
+ {
+  "id": "s3",
+  "title": "The Third Derivative: Jerk",
+  "teaches": "The third derivative represents jerk—the rate of change of acceleration.",
+  "visual": "A third graph appears below the second. The green f''(t) curve is now differentiated to create a red curve, f'''(t). A slider moves along the time axis; when the green line (acceleration) rises sharply, the red line (jerk) spikes upward. Labels 'Jerk' and 'f'''(t)' are highlighted.",
+  "narration": "But acceleration doesn't change smoothly in real life. The third derivative, known as jerk, measures how abruptly acceleration changes. High jerk means a sudden, jarring shift in force.",
+  "start": 0.0,
+  "end": 23.0
+ },
+ {
+  "id": "s4",
+  "title": "Generalization: Higher Orders",
+  "teaches": "Higher-order derivatives continue this pattern, describing the rate of change of the previous derivative.",
+  "visual": "A stack of graphs builds up: f(t), f'(t), f''(t), f'''(t), and then a dashed curve for f^(4)(t). Each step shows an arrow labeled 'd/dt' pointing to the next. The sequence fades into a general formula notation: d^n/dx^n. Text appears: 'Mathematical Abstraction'.",
+  "narration": "We can continue this process indefinitely. Each higher-order derivative describes how the previous rate of change is evolving. While physical interpretations become abstract, the mathematical pattern remains consistent: differentiation applied repeatedly.",
+  "start": 23.0,
+  "end": 64.8
+ }
+]

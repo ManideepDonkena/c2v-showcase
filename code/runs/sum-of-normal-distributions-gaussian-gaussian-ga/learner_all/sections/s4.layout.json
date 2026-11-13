@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 71.05,
+  "s_sp": 86.3,
+  "s_ly": 62.2,
+  "s_ed": 51.5,
+  "states": 26,
+  "states_with_conflict": 9
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.05,
+   "conflicts": 21
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"mu2_label\" (created line 16, box [-0.35, -0.47, 0.35, -0.25]) overlaps MathTex \"mu1_label\" (line 15, box [-0.345, -0.47, 0.345, -0.25]) by 100%; moving it by [0.0, 0.37] would clear it"
+  }
+ ]
+}

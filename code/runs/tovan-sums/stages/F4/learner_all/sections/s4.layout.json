@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 83.4,
+  "s_sp": 97.6,
+  "s_ly": 28.9,
+  "s_ed": 96.2,
+  "states": 21,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 72.71,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.4,
+   "conflict": "MathTex \"paren_text\" (created line 71, box [-0.949, 3.085, 0.949, 3.5]) overlaps Text \"title\" (line 6, box [-3.294, 3.116, 3.294, 3.5]) by 92%; moving it by [0.0, -0.53] would clear it"
+  }
+ ]
+}

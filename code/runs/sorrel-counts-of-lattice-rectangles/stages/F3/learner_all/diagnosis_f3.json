@@ -1,0 +1,43 @@
+{
+ "kind": "f3",
+ "fixes": {
+  "s2": [
+   "SHOW a generic w by h rectangle with its interior points labeled as (w-1)×(h-1) and its edge points labeled as 2×(w+h). SAY that the Sorrel Count is calculated by subtracting the edge count from the interior count: [(w-1)×(h-1)] - [2×(w+h)]. Demonstrate that for small dimensions like w=2 and h=3, the interior term (1×2=2) is smaller than the edge term (2×5=10), resulting in a negative value."
+  ]
+ },
+ "items": {
+  "q1": 1.0,
+  "q2": 0.979124,
+  "q3": 0.9959359999999999,
+  "q5": 0.999997,
+  "q6": 0.9999990000000001,
+  "q10": 0.4731305,
+  "q11": 0.938377,
+  "q12": 0.999978
+ },
+ "qmap": {
+  "q1": "s2",
+  "q2": "s2",
+  "q3": "s4",
+  "q5": "s3",
+  "q6": "s4",
+  "q10": "s2",
+  "q11": "s2",
+  "q12": "s2"
+ },
+ "ochiai": {
+  "s1": 0.0,
+  "s2": 0.4472135954999579,
+  "s3": 0.0,
+  "s4": 0.0
+ },
+ "chosen": [
+  "s2"
+ ],
+ "k": 2,
+ "failing": [
+  "q10"
+ ],
+ "refused": [],
+ "dev": 8
+}

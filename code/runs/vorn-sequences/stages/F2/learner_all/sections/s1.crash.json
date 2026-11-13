@@ -1,0 +1,197 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.116,
+      2.615,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.116,
+      2.615,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -5.149,
+      3.5
+     ],
+     "name": "v1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.619,
+      2.42,
+      -5.141,
+      2.835
+     ],
+     "name": "v2",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.116,
+      2.615,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -5.149,
+      3.5
+     ],
+     "name": "v1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.619,
+      2.42,
+      -5.141,
+      2.835
+     ],
+     "name": "v2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.043,
+      1.685,
+      -5.718,
+      2.985
+     ],
+     "name": "arrow",
+     "line": 17,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.116,
+      2.615,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -5.149,
+      3.5
+     ],
+     "name": "v1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.619,
+      2.42,
+      -5.141,
+      2.835
+     ],
+     "name": "v2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.043,
+      1.685,
+      -5.718,
+      2.985
+     ],
+     "name": "arrow",
+     "line": 17,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -8.88,
+      -0.565,
+      -2.88,
+      1.435
+     ],
+     "name": "formula_box",
+     "line": 13,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.004,
+      0.269,
+      -3.757,
+      0.601
+     ],
+     "name": "formula",
+     "line": 18,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "unsupported operand type(s) for +: 'NoneType' and 'float'",
+  "line": 32
+ }
+}

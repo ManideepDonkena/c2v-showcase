@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 75.08,
+  "s_sp": 91.3,
+  "s_ly": 49.3,
+  "s_ed": 65.3,
+  "states": 13,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.08,
+   "conflicts": 3
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"wrong_label\" (created line 50, box [-3.093, -0.167, 0.003, 0.167]) overlaps Text \"grid_label\" (line 13, box [-1.923, -0.129, -1.167, 0.129]) by 100%; moving it by [0.0, 0.45] would clear it"
+  }
+ ]
+}

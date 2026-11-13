@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 77.74,
+  "s_sp": 92.9,
+  "s_ly": 32.8,
+  "s_ed": 82.4,
+  "states": 11,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.39,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.74,
+   "conflict": "Polygon \"parallelogram\" (created line 20, box [0.0, 0.0, 1.0, 1.0]) overlaps MathTex \"j_label\" (line 17, box [0.25, 0.464, 0.522, 1.036]) by 93%; moving it by [0.67, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"j_label\" (created line 17, box [0.614, -0.822, 0.886, -0.25]) overlaps MathTex \"i_label\" (line 16, box [0.64, -0.725, 0.86, -0.25]) by 100%; moving it by [0.4, 0.0] would clear it"
+  }
+ ]
+}

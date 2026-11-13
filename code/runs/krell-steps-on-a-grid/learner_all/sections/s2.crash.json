@@ -1,0 +1,262 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": "point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.28,
+      2.28,
+      3.288,
+      2.778
+     ],
+     "name": "label",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": "point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.28,
+      2.28,
+      3.288,
+      2.778
+     ],
+     "name": "label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.938,
+      2.25,
+      2.063,
+      2.75
+     ],
+     "name": "arrow",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.043,
+      2.95,
+      2.957,
+      3.448
+     ],
+     "name": "formula",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      2.92,
+      2.08,
+      3.08
+     ],
+     "name": "point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.28,
+      3.28,
+      3.288,
+      3.778
+     ],
+     "name": "label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.938,
+      2.25,
+      2.063,
+      2.75
+     ],
+     "name": "arrow",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.043,
+      2.95,
+      2.957,
+      3.448
+     ],
+     "name": "formula",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "latex error converting to dvi. See log output above or the log file: media/Tex/1af5d6f1255760eb.log",
+  "line": 37
+ }
+}

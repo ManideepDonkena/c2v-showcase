@@ -1,0 +1,531 @@
+{
+ "topics": 12,
+ "videos": 48,
+ "rungs": {
+  "M0": {
+   "name": "TeachQuiz, as in the pilot",
+   "defined": "12/12",
+   "mean": 0.106,
+   "distinct_values": 5,
+   "separation_own_minus_other": null,
+   "reliability": null,
+   "reliability_kind": "n/a",
+   "defined_all": "48/48",
+   "distinct_values_all": 8,
+   "reliability_all": null,
+   "learner_base_ties": 7,
+   "conditions": {
+    "learner - base": {
+     "n": 12,
+     "mean_diff": 0.0166,
+     "ci95": [
+      -0.0168,
+      0.0554
+     ],
+     "wins": 3,
+     "ties": 7,
+     "losses": 2,
+     "wilcoxon_p": 0.5
+    },
+    "learner - generic": {
+     "n": 12,
+     "mean_diff": -0.0223,
+     "ci95": [
+      -0.1055,
+      0.061
+     ],
+     "wins": 1,
+     "ties": 9,
+     "losses": 2,
+     "wilcoxon_p": 0.75
+    },
+    "learner - learner_all": {
+     "n": 12,
+     "mean_diff": -0.0445,
+     "ci95": [
+      -0.1113,
+      0.0056
+     ],
+     "wins": 1,
+     "ties": 8,
+     "losses": 3,
+     "wilcoxon_p": 0.25
+    },
+    "generic - base": {
+     "n": 12,
+     "mean_diff": 0.0388,
+     "ci95": [
+      -0.0501,
+      0.1444
+     ],
+     "wins": 2,
+     "ties": 7,
+     "losses": 3,
+     "wilcoxon_p": 0.75
+    }
+   }
+  },
+  "M1": {
+   "name": "+ answers matched by order",
+   "defined": "0/12",
+   "mean": null,
+   "distinct_values": 0,
+   "separation_own_minus_other": null,
+   "reliability": null,
+   "reliability_kind": "n/a",
+   "defined_all": "0/48",
+   "distinct_values_all": 0,
+   "reliability_all": null,
+   "learner_base_ties": null,
+   "conditions": {
+    "learner - base": null,
+    "learner - generic": null,
+    "learner - learner_all": null,
+    "generic - base": null
+   }
+  },
+  "M2": {
+   "name": "+ forced choice",
+   "defined": "12/12",
+   "mean": -0.05,
+   "distinct_values": 4,
+   "separation_own_minus_other": {
+    "n": 12,
+    "mean_diff": 0.1,
+    "ci95": [
+     0.0,
+     0.25
+    ],
+    "wins": 3,
+    "ties": 9,
+    "losses": 0,
+    "wilcoxon_p": 0.25
+   },
+   "reliability": 0.57,
+   "reliability_kind": "option order 0 vs 1",
+   "defined_all": "48/48",
+   "distinct_values_all": 6,
+   "reliability_all": 0.651,
+   "learner_base_ties": 9,
+   "conditions": {
+    "learner - base": {
+     "n": 12,
+     "mean_diff": -0.0333,
+     "ci95": [
+      -0.1833,
+      0.0667
+     ],
+     "wins": 2,
+     "ties": 9,
+     "losses": 1,
+     "wilcoxon_p": 1.0
+    },
+    "learner - generic": {
+     "n": 12,
+     "mean_diff": 0.0167,
+     "ci95": [
+      0.0,
+      0.05
+     ],
+     "wins": 1,
+     "ties": 11,
+     "losses": 0,
+     "wilcoxon_p": 1.0
+    },
+    "learner - learner_all": {
+     "n": 12,
+     "mean_diff": 0.0333,
+     "ci95": [
+      0.0,
+      0.1
+     ],
+     "wins": 1,
+     "ties": 11,
+     "losses": 0,
+     "wilcoxon_p": 1.0
+    },
+    "generic - base": {
+     "n": 12,
+     "mean_diff": -0.05,
+     "ci95": [
+      -0.2,
+      0.05
+     ],
+     "wins": 1,
+     "ties": 10,
+     "losses": 1,
+     "wilcoxon_p": 1.0
+    }
+   }
+  },
+  "M3": {
+   "name": "+ normalised gain (NVG)",
+   "defined": "6/12",
+   "mean": -0.5,
+   "distinct_values": 3,
+   "separation_own_minus_other": {
+    "n": 6,
+    "mean_diff": 0.1667,
+    "ci95": [
+     0.0,
+     0.3333
+    ],
+    "wins": 2,
+    "ties": 4,
+    "losses": 0,
+    "wilcoxon_p": 0.5
+   },
+   "reliability": 0.822,
+   "reliability_kind": "option order 0 vs 1",
+   "defined_all": "24/48",
+   "distinct_values_all": 4,
+   "reliability_all": 0.725,
+   "learner_base_ties": 4,
+   "conditions": {
+    "learner - base": {
+     "n": 6,
+     "mean_diff": 0.25,
+     "ci95": [
+      0.0,
+      0.5833
+     ],
+     "wins": 2,
+     "ties": 4,
+     "losses": 0,
+     "wilcoxon_p": 0.5
+    },
+    "learner - generic": {
+     "n": 6,
+     "mean_diff": 0.0833,
+     "ci95": [
+      0.0,
+      0.25
+     ],
+     "wins": 1,
+     "ties": 5,
+     "losses": 0,
+     "wilcoxon_p": 1.0
+    },
+    "learner - learner_all": {
+     "n": 6,
+     "mean_diff": 0.1667,
+     "ci95": [
+      0.0,
+      0.5
+     ],
+     "wins": 1,
+     "ties": 5,
+     "losses": 0,
+     "wilcoxon_p": 1.0
+    },
+    "generic - base": {
+     "n": 6,
+     "mean_diff": 0.1667,
+     "ci95": [
+      0.0,
+      0.5
+     ],
+     "wins": 1,
+     "ties": 5,
+     "losses": 0,
+     "wilcoxon_p": 1.0
+    }
+   }
+  },
+  "M4": {
+   "name": "+ dense silent video",
+   "defined": "0/12",
+   "mean": null,
+   "distinct_values": 0,
+   "separation_own_minus_other": null,
+   "reliability": null,
+   "reliability_kind": "option order 0 vs 1",
+   "defined_all": "0/48",
+   "distinct_values_all": 0,
+   "reliability_all": null,
+   "learner_base_ties": null,
+   "conditions": {
+    "learner - base": null,
+    "learner - generic": null,
+    "learner - learner_all": null,
+    "generic - base": null
+   }
+  },
+  "M5": {
+   "name": "+ motion control (D-VGAIN)",
+   "defined": "0/12",
+   "mean": null,
+   "distinct_values": 0,
+   "separation_own_minus_other": null,
+   "reliability": null,
+   "reliability_kind": "option order 0 vs 1",
+   "defined_all": "0/48",
+   "distinct_values_all": 0,
+   "reliability_all": null,
+   "learner_base_ties": null,
+   "conditions": {
+    "learner - base": null,
+    "learner - generic": null,
+    "learner - learner_all": null,
+    "generic - base": null
+   }
+  },
+  "M6": {
+   "name": "+ continuous scoring",
+   "defined": "0/12",
+   "mean": null,
+   "distinct_values": 0,
+   "separation_own_minus_other": null,
+   "reliability": null,
+   "reliability_kind": "option order 0 vs 1",
+   "defined_all": "0/48",
+   "distinct_values_all": 0,
+   "reliability_all": null,
+   "learner_base_ties": null,
+   "conditions": {
+    "learner - base": null,
+    "learner - generic": null,
+    "learner - learner_all": null,
+    "generic - base": null
+   }
+  },
+  "M7": {
+   "name": "+ option rotation",
+   "defined": "0/12",
+   "mean": null,
+   "distinct_values": 0,
+   "separation_own_minus_other": null,
+   "reliability": null,
+   "reliability_kind": "n/a",
+   "defined_all": "0/48",
+   "distinct_values_all": 0,
+   "reliability_all": null,
+   "learner_base_ties": null,
+   "conditions": {
+    "learner - base": null,
+    "learner - generic": null,
+    "learner - learner_all": null,
+    "generic - base": null
+   }
+  },
+  "M8": {
+   "name": "+ prior filter (unknown items only)",
+   "defined": "0/12",
+   "mean": null,
+   "distinct_values": 0,
+   "separation_own_minus_other": null,
+   "reliability": null,
+   "reliability_kind": "n/a",
+   "defined_all": "0/48",
+   "distinct_values_all": 0,
+   "reliability_all": null,
+   "learner_base_ties": null,
+   "conditions": {
+    "learner - base": null,
+    "learner - generic": null,
+    "learner - learner_all": null,
+    "generic - base": null
+   }
+  },
+  "M9": {
+   "name": "M7 on 3 frames per section (no dense video)",
+   "defined": "9/12",
+   "mean": -0.131,
+   "distinct_values": 9,
+   "separation_own_minus_other": {
+    "n": 9,
+    "mean_diff": 0.3792,
+    "ci95": [
+     -0.0076,
+     0.9627
+    ],
+    "wins": 6,
+    "ties": 1,
+    "losses": 2,
+    "wilcoxon_p": 0.1484
+   },
+   "reliability": null,
+   "reliability_kind": "n/a",
+   "defined_all": "36/48",
+   "distinct_values_all": 31,
+   "reliability_all": null,
+   "learner_base_ties": 1,
+   "conditions": {
+    "learner - base": {
+     "n": 9,
+     "mean_diff": -0.2368,
+     "ci95": [
+      -0.895,
+      0.2359
+     ],
+     "wins": 5,
+     "ties": 1,
+     "losses": 3,
+     "wilcoxon_p": 0.9453
+    },
+    "learner - generic": {
+     "n": 9,
+     "mean_diff": -0.0058,
+     "ci95": [
+      -0.2469,
+      0.1858
+     ],
+     "wins": 4,
+     "ties": 2,
+     "losses": 3,
+     "wilcoxon_p": 0.5781
+    },
+    "learner - learner_all": {
+     "n": 9,
+     "mean_diff": 0.0593,
+     "ci95": [
+      -0.0402,
+      0.1683
+     ],
+     "wins": 4,
+     "ties": 2,
+     "losses": 3,
+     "wilcoxon_p": 0.5781
+    },
+    "generic - base": {
+     "n": 9,
+     "mean_diff": -0.231,
+     "ci95": [
+      -0.8671,
+      0.1977
+     ],
+     "wins": 4,
+     "ties": 1,
+     "losses": 4,
+     "wilcoxon_p": 0.9453
+    }
+   }
+  },
+  "R7": {
+   "name": "raw: dense video P(right) minus no-video P(right)",
+   "defined": "0/12",
+   "mean": null,
+   "distinct_values": 0,
+   "separation_own_minus_other": null,
+   "reliability": null,
+   "reliability_kind": "option order 0 vs 1",
+   "defined_all": "0/48",
+   "distinct_values_all": 0,
+   "reliability_all": null,
+   "learner_base_ties": null,
+   "conditions": {
+    "learner - base": null,
+    "learner - generic": null,
+    "learner - learner_all": null,
+    "generic - base": null
+   }
+  },
+  "R9": {
+   "name": "raw: 3 frames/section P(right) minus no-video P(right)",
+   "defined": "12/12",
+   "mean": -0.022,
+   "distinct_values": 12,
+   "separation_own_minus_other": {
+    "n": 12,
+    "mean_diff": 0.0637,
+    "ci95": [
+     0.0081,
+     0.1561
+    ],
+    "wins": 9,
+    "ties": 1,
+    "losses": 2,
+    "wilcoxon_p": 0.0322
+   },
+   "reliability": 0.315,
+   "reliability_kind": "option order 0 vs 1",
+   "defined_all": "48/48",
+   "distinct_values_all": 41,
+   "reliability_all": 0.7,
+   "learner_base_ties": 1,
+   "conditions": {
+    "learner - base": {
+     "n": 12,
+     "mean_diff": -0.0289,
+     "ci95": [
+      -0.1339,
+      0.0441
+     ],
+     "wins": 6,
+     "ties": 1,
+     "losses": 5,
+     "wilcoxon_p": 0.8984
+    },
+    "learner - generic": {
+     "n": 12,
+     "mean_diff": 0.0022,
+     "ci95": [
+      -0.0192,
+      0.021
+     ],
+     "wins": 5,
+     "ties": 2,
+     "losses": 5,
+     "wilcoxon_p": 0.7695
+    },
+    "learner - learner_all": {
+     "n": 12,
+     "mean_diff": 0.0123,
+     "ci95": [
+      -0.0042,
+      0.038
+     ],
+     "wins": 5,
+     "ties": 2,
+     "losses": 5,
+     "wilcoxon_p": 0.8457
+    },
+    "generic - base": {
+     "n": 12,
+     "mean_diff": -0.031,
+     "ci95": [
+      -0.1327,
+      0.0359
+     ],
+     "wins": 5,
+     "ties": 1,
+     "losses": 6,
+     "wilcoxon_p": 0.9658
+    }
+   }
+  }
+ },
+ "prior": {
+  "s_blind_mean": 0.867,
+  "s_blind_p_mean": 0.817,
+  "topics_blind_all_right": 6,
+  "unknown_items_per_topic": [
+   2,
+   0,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   1,
+   1
+  ],
+  "s_visual_mean": null,
+  "s_visual_mean_all": null,
+  "s_static_mean": null,
+  "s_static_mean_all": null,
+  "s_frames_mean": 0.817,
+  "s_frames_mean_all": 0.779,
+  "s_visual_p_mean": null,
+  "s_visual_p_mean_all": null,
+  "s_frames_p_mean": 0.795,
+  "s_frames_p_mean_all": 0.77,
+  "s_static_p_mean": null,
+  "s_static_p_mean_all": null,
+  "tq_abstained_mean": null,
+  "tq_abstained_mean_all": null
+ }
+}

@@ -1,0 +1,544 @@
+{
+ "split": "test",
+ "questions": 11,
+ "none": 36.4,
+ "full": 42.5,
+ "evidence": 15.2,
+ "runs": {
+  "none": [
+   {
+    "score": 36.4,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what 'c' refers to in this context."
+     },
+     {
+      "id": "q5",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not explain the requirements for this theorem."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I cannot calculate this without knowing the rule for these letters."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what a 'hypotenuse' is."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what a Pythagorean triple is."
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the relationship between these sides."
+     },
+     {
+      "id": "q15",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "12 times 12 is 144."
+     },
+     {
+      "id": "q17",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the rules of this theorem."
+     },
+     {
+      "id": "q19",
+      "choice": "D",
+      "right": true,
+      "time": "null",
+      "why": "Area of a square is side times side, 5 times 5 is 25."
+     },
+     {
+      "id": "q21",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "4 times 4 is 16."
+     },
+     {
+      "id": "q23",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "9 times 9 is 81."
+     }
+    ]
+   },
+   {
+    "score": 36.4,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what 'c' refers to in this triangle."
+     },
+     {
+      "id": "q5",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what this theorem is."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I cannot calculate this without knowing the rule for c."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what a hypotenuse is."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what a Pythagorean triple is."
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the properties of a hypotenuse or leg."
+     },
+     {
+      "id": "q15",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "12 times 12 is 144."
+     },
+     {
+      "id": "q17",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the rules of this theorem."
+     },
+     {
+      "id": "q19",
+      "choice": "D",
+      "right": true,
+      "time": "null",
+      "why": "Area of a square is side times side, so 5 times 5 is 25."
+     },
+     {
+      "id": "q21",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "16 is 4 times 4."
+     },
+     {
+      "id": "q23",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "9 times 9 is 81."
+     }
+    ]
+   },
+   {
+    "score": 36.4,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what side 'c' refers to."
+     },
+     {
+      "id": "q5",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what this theorem is."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I cannot calculate this without knowing the rule."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what a hypotenuse is."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what a Pythagorean triple is."
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the properties of these sides."
+     },
+     {
+      "id": "q15",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "12 times 12 is 144."
+     },
+     {
+      "id": "q17",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what mistakes exist in this theorem."
+     },
+     {
+      "id": "q19",
+      "choice": "D",
+      "right": true,
+      "time": "null",
+      "why": "Area is side times side, so 5 times 5 is 25."
+     },
+     {
+      "id": "q21",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "4 times 4 is 16."
+     },
+     {
+      "id": "q23",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "9 times 9 is 81."
+     }
+    ]
+   }
+  ],
+  "full": [
+   {
+    "score": 36.4,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "B",
+      "right": true,
+      "time": "00:09",
+      "why": "The image shows c is the longest side.",
+      "backed": true
+     },
+     {
+      "id": "q5",
+      "choice": "B",
+      "right": true,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q15",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q17",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q19",
+      "choice": "D",
+      "right": true,
+      "time": "00:31",
+      "why": "The image shows a square with side 5 has area 25.",
+      "backed": false
+     },
+     {
+      "id": "q21",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q23",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     }
+    ],
+    "evidence": 9.1
+   },
+   {
+    "score": 45.5,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "B",
+      "right": true,
+      "time": "00:09",
+      "why": "The image shows c is the longest side of the triangle.",
+      "backed": true
+     },
+     {
+      "id": "q5",
+      "choice": "B",
+      "right": true,
+      "time": "00:09",
+      "why": "The text mentions the right angle and legs.",
+      "backed": true
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The provided material does not contain this calculation.",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The term 'hypotenuse' is not defined in the material.",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not list or define Pythagorean triples.",
+      "backed": false
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not discuss side length comparisons.",
+      "backed": false
+     },
+     {
+      "id": "q15",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide the square root of 144.",
+      "backed": false
+     },
+     {
+      "id": "q17",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not mention common mistakes.",
+      "backed": false
+     },
+     {
+      "id": "q19",
+      "choice": "D",
+      "right": true,
+      "time": "null",
+      "why": "The image shows a square with side 5 has area 25.",
+      "backed": false
+     },
+     {
+      "id": "q21",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "Using everyday knowledge, 16 is 4 times 4.",
+      "backed": false
+     },
+     {
+      "id": "q23",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "Using everyday knowledge, 9 times 9 is 81.",
+      "backed": false
+     }
+    ],
+    "evidence": 18.2
+   },
+   {
+    "score": 45.5,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "B",
+      "right": true,
+      "time": "00:09",
+      "why": "The image shows c is the longest side.",
+      "backed": true
+     },
+     {
+      "id": "q5",
+      "choice": "B",
+      "right": true,
+      "time": "00:09",
+      "why": "The text mentions a right angle in the triangle.",
+      "backed": true
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide calculations for these values.",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The word 'hypotenuse' is not defined in the provided text.",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not list or define Pythagorean triples.",
+      "backed": false
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not discuss comparing side lengths in this way.",
+      "backed": false
+     },
+     {
+      "id": "q15",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide the square root of 144.",
+      "backed": false
+     },
+     {
+      "id": "q17",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not mention common mistakes.",
+      "backed": false
+     },
+     {
+      "id": "q19",
+      "choice": "D",
+      "right": true,
+      "time": "null",
+      "why": "Common knowledge: 5 times 5 is 25.",
+      "backed": false
+     },
+     {
+      "id": "q21",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "Common knowledge: 4 times 4 is 16.",
+      "backed": false
+     },
+     {
+      "id": "q23",
+      "choice": "C",
+      "right": true,
+      "time": "null",
+      "why": "Common knowledge: 9 times 9 is 81.",
+      "backed": false
+     }
+    ],
+    "evidence": 18.2
+   }
+  ]
+ },
+ "teachquiz": 6.1,
+ "control_first_section": 45.5,
+ "mvqs": 87.36
+}

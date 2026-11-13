@@ -1,0 +1,92 @@
+{
+ "topic": "Error correction codes and Hamming codes",
+ "base": {
+  "teachquiz": 6.7,
+  "teachquiz_clean": 6.7,
+  "none": 0.0,
+  "full": 6.7,
+  "evidence": 6.7,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 73.72,
+  "sections_rendered": 2
+ },
+ "learner": {
+  "teachquiz": 0.0,
+  "teachquiz_clean": 0.0,
+  "none": 0.0,
+  "full": 0.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 71.63,
+  "sections_rendered": 3,
+  "changed": [
+   "s2",
+   "s3"
+  ],
+  "kept_by_dev": true
+ },
+ "generic": {
+  "teachquiz": 0.0,
+  "teachquiz_clean": 0.0,
+  "none": 0.0,
+  "full": 0.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 80.54,
+  "sections_rendered": 3,
+  "changed": [
+   "s2",
+   "s3"
+  ],
+  "kept_by_dev": true
+ },
+ "learner_all": {
+  "teachquiz": 0.0,
+  "teachquiz_clean": 0.0,
+  "none": 0.0,
+  "full": 0.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 72.22,
+  "sections_rendered": 3,
+  "changed": [
+   "s1",
+   "s2",
+   "s3"
+  ],
+  "kept_by_dev": true
+ },
+ "diagnosis": {
+  "gaps": [
+   "q1",
+   "q2",
+   "q3",
+   "q5",
+   "q8",
+   "q9",
+   "q10",
+   "q11",
+   "q12"
+  ],
+  "dev": 9,
+  "fixes": {
+   "s2": [
+    "A visual comparison showing that while simple parity only detects an odd number of errors (a 'fail' state), Hamming codes use multiple overlapping parity groups to pinpoint the exact location of a single error, enabling the system to not just notice the problem but also identify and fix it.",
+    "A visual grid where specific slots are explicitly labeled with numbers 1, 2, 4, and 8 (powers of two) to demonstrate that parity bits occupy these exact mathematical positions, while data bits fill the remaining gaps.",
+    "Visualize parity bits as 'guardians' placed at specific intervals (powers of 2) that each watch over a unique subset of data bits. Show that by checking the even or odd count of 1s in these subsets, we create a unique 'fingerprint' for every bit position, allowing us to pinpoint exactly which bit is wrong rather than just knowing one exists.",
+    "A clear visual count of the parity bit slots (P1, P2, P4) distinct from the data bits (D1, D2, D3), explicitly stating that there are exactly 3 parity bits required to protect the 4 data bits in this specific configuration."
+   ],
+   "s3": [
+    "SHOW two distinct binary codewords separated by exactly three bit positions (e.g., '000' and '111'). SAY: 'To guarantee we can distinguish between a valid message and a corrupted one with one flip, the shortest path between any two valid codes must be at least 3 steps. If they were only 2 steps apart, a single error could land exactly in the middle, making it impossible to know which original message was intended.'",
+    "A visual demonstration showing two simultaneous bit flips resulting in a valid parity check (a '0' syndrome) or an ambiguous syndrome, explicitly illustrating that the code fails to distinguish between a single error and multiple errors, thereby proving it cannot correct more than one error at a time.",
+    "A clear visual mapping showing that the syndrome bits correspond directly to the binary place values of the error position (e.g., P4 represents 4, P2 represents 2, P1 represents 1), so that a syndrome of '011' is explicitly calculated as 0*4 + 1*2 + 1*1 = 3.",
+    "Show two bits flipping simultaneously (e.g., D1 and D2) and demonstrate that the resulting syndrome points to a single, incorrect valid position (like D3), proving the decoder cannot distinguish between one error at D3 and two errors at D1/D2.",
+    "A visual demonstration where a single parity bit (e.g., P2) is flipped, causing only that specific circle in the Venn diagram to turn red while the others remain green. Show that the resulting syndrome binary number corresponds exactly to the position of that parity bit itself, proving the error is detected and located within the parity section rather than being invisible or creating an uncorrectable double error."
+   ]
+  }
+ }
+}

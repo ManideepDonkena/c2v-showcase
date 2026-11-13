@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 17,
+  "scope": "line",
+  "error": "AttributeError: ComplexPlane object has no attribute 'input_to_point'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 23,
+  "scope": "block",
+  "error": "AttributeError: ComplexPlane object has no attribute 'input_to_point'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 35,
+  "scope": "section",
+  "error": "AttributeError: ComplexPlane object has no attribute 'input_to_point'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 118,
+  "scope": "section",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find julia_c_0.png at either of these locations: ['julia_c_0.png', 'julia_c_0.png', 'julia_c_0.png.jpg', 'julia_c_0.png.jpeg', 'julia_c_0.png.png', 'julia_c_0.png.gif', 'julia_c_0.png.ico']"
+ }
+]

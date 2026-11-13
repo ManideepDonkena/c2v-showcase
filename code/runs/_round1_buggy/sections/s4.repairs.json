@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 16,
+  "scope": "line",
+  "error": "TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 15,
+  "scope": "block",
+  "error": "TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 14,
+  "scope": "section",
+  "error": "TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 16,
+  "scope": "section",
+  "error": "TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'"
+ }
+]

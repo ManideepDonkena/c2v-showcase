@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 64.76,
+  "s_sp": 86.6,
+  "s_ly": 44.2,
+  "s_ed": 42.0,
+  "states": 27,
+  "states_with_conflict": 19
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 58.5,
+   "conflicts": 18
+  },
+  {
+   "level": "shift",
+   "mvqs": 62.3,
+   "conflict": "MathTex \"v_label\" (created line 21, box [2.111, 3.042, 3.292, 3.265]) overlaps Text \"title\" (line 6, box [-2.489, 3.116, 2.489, 3.5]) by 21%; moving it by [0.0, -0.3] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 62.83,
+   "conflict": "Text \"perp_text\" (created line 34, box [-0.126, -0.376, 2.126, -0.042]) overlaps Arrow \"i_vec\" (line 11, box [0.25, -0.062, 0.75, 0.063]) by 16%; moving it by [0.0, -0.17] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 64.76,
+   "conflict": "Text \"perp_text\" (created line 34, box [-0.126, -0.546, 2.126, -0.212]) overlaps MathTex \"i_label\" (line 13, box [1.72, -0.423, 1.78, -0.25]) by 100%; moving it by [0.0, -0.36] would clear it"
+  }
+ ]
+}

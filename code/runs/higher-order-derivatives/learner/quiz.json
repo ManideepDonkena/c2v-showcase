@@ -1,0 +1,165 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the standard mathematical notation for the third derivative of y with respect to x?",
+   "options": {
+    "A": "y'''",
+    "B": "y^3",
+    "C": "dy^3/dx",
+    "D": "d^3y/dx"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q3",
+   "question": "Why does the nth derivative of a polynomial of degree n become a constant?",
+   "options": {
+    "A": "The power rule reduces the exponent to zero.",
+    "B": "Integration cancels out the variable terms.",
+    "C": "Higher derivatives always vanish for polynomials.",
+    "D": "The coefficient becomes the only remaining term."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q4",
+   "question": "Given f(x) = sin(x), what is f^(4)(x)?",
+   "options": {
+    "A": "-sin(x)",
+    "B": "cos(x)",
+    "C": "-cos(x)",
+    "D": "sin(x)"
+   },
+   "answer": "D"
+  },
+  {
+   "id": "q5",
+   "question": "A student reads a graph where the slope is increasing at a constant rate. What can be said about the second derivative?",
+   "options": {
+    "A": "It is zero.",
+    "B": "It is negative.",
+    "C": "It is positive and constant.",
+    "D": "It is undefined."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q6",
+   "question": "What is the second derivative of f(x) = e^(2x)?",
+   "options": {
+    "A": "e^(2x)",
+    "B": "2e^(2x)",
+    "C": "4e^(2x)",
+    "D": "4xe^(2x)"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q8",
+   "question": "If f(x) = x^3 - 2x, what is the value of f'''(1)?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "6",
+    "D": "3"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q9",
+   "question": "What is the relationship between f''(x) and the concavity of f(x)?",
+   "options": {
+    "A": "f'' > 0 implies concave down.",
+    "B": "f'' < 0 implies concave up.",
+    "C": "f'' = 0 implies an inflection point always.",
+    "D": "f'' > 0 implies concave up."
+   },
+   "answer": "D"
+  },
+  {
+   "id": "q11",
+   "question": "Why is Clairaut's Theorem relevant to higher-order derivatives?",
+   "options": {
+    "A": "It guarantees the existence of derivatives.",
+    "B": "It ensures mixed partials are equal under continuity.",
+    "C": "It limits the order of differentiability.",
+    "D": "It defines the domain of the function."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q12",
+   "question": "If f(x) = cos(x^2), what is the first step to find f''(x)?",
+   "options": {
+    "A": "Apply chain rule then product rule.",
+    "B": "Differentiate twice directly.",
+    "C": "Integrate first, then differentiate.",
+    "D": "Use L'Hopital's Rule."
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "Which of the following best describes the meaning of the derivative of a function at a point?",
+   "options": {
+    "A": "It gives the total distance covered by the function.",
+    "B": "It tells how rapidly the function’s value is changing at that point.",
+    "C": "It provides the average value of the function near that point.",
+    "D": "It measures the area under the curve from zero to that point."
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "If a car's position as a function of time is s(t), which statement best describes its acceleration?",
+   "options": {
+    "A": "Acceleration is the third derivative of s(t) with respect to time.",
+    "B": "Acceleration is the second derivative of s(t), representing how velocity changes over time.",
+    "C": "Acceleration is simply the value of s(t) at any time.",
+    "D": "Acceleration is the derivative of the car’s speed divided by time."
+   },
+   "answer": "B",
+   "id": "t2"
+  },
+  {
+   "question": "On a graph of a dolphin jumping, what does the point where the second derivative of position changes sign represent?",
+   "options": {
+    "A": "A maximum or minimum point of the jump.",
+    "B": "An inflection point where the direction of curvature changes.",
+    "C": "The exact speed of the dolphin.",
+    "D": "Where the dolphin’s height is zero."
+   },
+   "answer": "B",
+   "id": "t3"
+  },
+  {
+   "question": "Which of the following notations correctly represents the third derivative of a function f(x)?",
+   "options": {
+    "A": "f'(x)",
+    "B": "f''(x)",
+    "C": "f'''(x)",
+    "D": "f(x)^3"
+   },
+   "answer": "C",
+   "id": "t4"
+  },
+  {
+   "question": "In real-world applications, what does the 'jerk' (third derivative with respect to time) of a moving object indicate?",
+   "options": {
+    "A": "The instantaneous velocity",
+    "B": "The rapidity of position change",
+    "C": "How quickly acceleration is changing",
+    "D": "The total distance traveled"
+   },
+   "answer": "C",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 9,
+ "dev_leaked": []
+}

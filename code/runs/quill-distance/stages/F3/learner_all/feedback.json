@@ -1,0 +1,43 @@
+{
+ "stage": "F3",
+ "mode": "learner_all",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s1": [
+   "SHOW a central point and four specific points lighting up in sequence: two points located 4 units horizontally away (cost 4+0=4), one point located 2 units vertically up (cost 0+4=4), and one point located 2 units vertically down (cost 0+4=4). SAY that just as distance 2 required 2 sideways or 1 vertical step, distance 4 requires 4 sideways steps or 2 vertical steps."
+  ],
+  "s2": [
+   "SHOW a central point and four specific points lighting up in sequence: two points located 4 units horizontally away (cost 4+0=4), one point located 2 units vertically up (cost 0+4=4), and one point located 2 units vertically down (cost 0+4=4). SAY that just as distance 2 required 2 sideways or 1 vertical step, distance 4 requires 4 sideways steps or 2 vertical steps."
+  ],
+  "s3": [
+   "SHOW a central point and four specific points lighting up in sequence: two points located 4 units horizontally away (cost 4+0=4), one point located 2 units vertically up (cost 0+4=4), and one point located 2 units vertically down (cost 0+4=4). SAY that just as distance 2 required 2 sideways or 1 vertical step, distance 4 requires 4 sideways steps or 2 vertical steps."
+  ],
+  "s4": [
+   "SHOW a central point and four specific points lighting up in sequence: two points located 4 units horizontally away (cost 4+0=4), one point located 2 units vertically up (cost 0+4=4), and one point located 2 units vertically down (cost 0+4=4). SAY that just as distance 2 required 2 sideways or 1 vertical step, distance 4 requires 4 sideways steps or 2 vertical steps."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "edit_size": {
+  "s1": 0.587,
+  "s2": 0.579,
+  "s3": 0.656,
+  "s4": 0.671
+ },
+ "diagnosis": "f3",
+ "dev_before": 0.8951164090909092,
+ "dev_after": 0.8643235909090908,
+ "mvqs_before": 85.01,
+ "mvqs_after": 79.97,
+ "kept": false,
+ "served": "base"
+}

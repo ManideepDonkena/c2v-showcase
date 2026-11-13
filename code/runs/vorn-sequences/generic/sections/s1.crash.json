@@ -1,0 +1,197 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.116,
+      2.615,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.116,
+      2.615,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -5.149,
+      3.5
+     ],
+     "name": "v1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.619,
+      2.42,
+      -5.141,
+      2.835
+     ],
+     "name": "v2",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.116,
+      2.615,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -5.149,
+      3.5
+     ],
+     "name": "v1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.619,
+      2.42,
+      -5.141,
+      2.835
+     ],
+     "name": "v2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.043,
+      1.685,
+      -5.718,
+      2.985
+     ],
+     "name": "arrow",
+     "line": 17,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.116,
+      2.615,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -5.149,
+      3.5
+     ],
+     "name": "v1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.619,
+      2.42,
+      -5.141,
+      2.835
+     ],
+     "name": "v2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.043,
+      1.685,
+      -5.718,
+      2.985
+     ],
+     "name": "arrow",
+     "line": 17,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.954,
+      -0.508,
+      2.954,
+      0.508
+     ],
+     "name": "formula_box",
+     "line": 23,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.654,
+      -0.208,
+      2.654,
+      0.208
+     ],
+     "name": "formula",
+     "line": 22,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "Mobject.__getattr__.<locals>.getter() takes 1 positional argument but 2 were given",
+  "line": 28
+ }
+}

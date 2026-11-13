@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 74.31,
+  "s_sp": 91.5,
+  "s_ly": 18.7,
+  "s_ed": 82.9,
+  "states": 21,
+  "states_with_conflict": 6
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 74.31,
+   "conflicts": 4
+  },
+  {
+   "level": "none kept",
+   "conflict": "Arrow \"arrow1\" (created line 20, box [-0.49, -0.119, 0.459, 0.119]) overlaps Integer \"mobs1\" (line 13, box [-0.09, -0.124, 0.059, 0.124]) by 96%; moving it by [0.0, 0.39] would clear it"
+  }
+ ]
+}

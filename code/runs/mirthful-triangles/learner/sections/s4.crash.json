@@ -1,0 +1,687 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.1,
+      0.3,
+      1.1,
+      2.7
+     ],
+     "name": "triangle1",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.8,
+      0.26,
+      5.2,
+      2.34
+     ],
+     "name": "triangle2",
+     "line": 22,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.1,
+      0.3,
+      1.1,
+      2.7
+     ],
+     "name": "triangle1",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.8,
+      0.26,
+      5.2,
+      2.34
+     ],
+     "name": "triangle2",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.555,
+      -0.119,
+      -0.445,
+      0.05
+     ],
+     "name": "sides1",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.55,
+      -0.49,
+      -0.45,
+      -0.319
+     ],
+     "name": "sides1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.552,
+      -0.861,
+      -0.448,
+      -0.69
+     ],
+     "name": "sides1",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.948,
+      -0.161,
+      4.052,
+      0.01
+     ],
+     "name": "sides2",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.945,
+      -0.53,
+      4.055,
+      -0.361
+     ],
+     "name": "sides2",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.95,
+      -0.901,
+      4.05,
+      -0.73
+     ],
+     "name": "sides2",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.1,
+      0.3,
+      1.1,
+      2.7
+     ],
+     "name": "triangle1",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.8,
+      0.26,
+      5.2,
+      2.34
+     ],
+     "name": "triangle2",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.555,
+      -0.119,
+      -0.445,
+      0.05
+     ],
+     "name": "sides1",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.55,
+      -0.49,
+      -0.45,
+      -0.319
+     ],
+     "name": "sides1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.552,
+      -0.861,
+      -0.448,
+      -0.69
+     ],
+     "name": "sides1",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.948,
+      -0.161,
+      4.052,
+      0.01
+     ],
+     "name": "sides2",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.945,
+      -0.53,
+      4.055,
+      -0.361
+     ],
+     "name": "sides2",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.95,
+      -0.901,
+      4.05,
+      -0.73
+     ],
+     "name": "sides2",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.283,
+      -1.127,
+      -0.896,
+      -0.913
+     ],
+     "name": "calc1",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.596,
+      -1.141,
+      -0.406,
+      -0.9
+     ],
+     "name": "calc1a",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.106,
+      -1.129,
+      1.283,
+      -0.912
+     ],
+     "name": "calc1b",
+     "line": 40,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.1,
+      0.3,
+      1.1,
+      2.7
+     ],
+     "name": "triangle1",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.8,
+      0.26,
+      5.2,
+      2.34
+     ],
+     "name": "triangle2",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.555,
+      -0.119,
+      -0.445,
+      0.05
+     ],
+     "name": "sides1",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.55,
+      -0.49,
+      -0.45,
+      -0.319
+     ],
+     "name": "sides1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.552,
+      -0.861,
+      -0.448,
+      -0.69
+     ],
+     "name": "sides1",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.948,
+      -0.161,
+      4.052,
+      0.01
+     ],
+     "name": "sides2",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.945,
+      -0.53,
+      4.055,
+      -0.361
+     ],
+     "name": "sides2",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.95,
+      -0.901,
+      4.05,
+      -0.73
+     ],
+     "name": "sides2",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.283,
+      -1.127,
+      -0.896,
+      -0.913
+     ],
+     "name": "calc1",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.596,
+      -1.141,
+      -0.406,
+      -0.9
+     ],
+     "name": "calc1a",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.106,
+      -1.129,
+      1.283,
+      -0.912
+     ],
+     "name": "calc1b",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.533,
+      -1.171,
+      1.809,
+      -0.87
+     ],
+     "name": "check",
+     "line": 48,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.1,
+      0.3,
+      1.1,
+      2.7
+     ],
+     "name": "triangle1",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.8,
+      0.26,
+      5.2,
+      2.34
+     ],
+     "name": "triangle2",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.555,
+      -0.119,
+      -0.445,
+      0.05
+     ],
+     "name": "sides1",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.55,
+      -0.49,
+      -0.45,
+      -0.319
+     ],
+     "name": "sides1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.552,
+      -0.861,
+      -0.448,
+      -0.69
+     ],
+     "name": "sides1",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.948,
+      -0.161,
+      4.052,
+      0.01
+     ],
+     "name": "sides2",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.945,
+      -0.53,
+      4.055,
+      -0.361
+     ],
+     "name": "sides2",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.95,
+      -0.901,
+      4.05,
+      -0.73
+     ],
+     "name": "sides2",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.283,
+      -1.127,
+      -0.896,
+      -0.913
+     ],
+     "name": "calc1",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.596,
+      -1.141,
+      -0.406,
+      -0.9
+     ],
+     "name": "calc1a",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.106,
+      -1.129,
+      1.283,
+      -0.912
+     ],
+     "name": "calc1b",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.533,
+      -1.171,
+      1.809,
+      -0.87
+     ],
+     "name": "check",
+     "line": 48,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.292,
+      -1.154,
+      3.682,
+      -0.94
+     ],
+     "name": "calc2",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.982,
+      -1.137,
+      4.172,
+      -0.957
+     ],
+     "name": "calc2a",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.472,
+      -1.154,
+      5.708,
+      -0.94
+     ],
+     "name": "calc2b",
+     "line": 55,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "latex error converting to dvi. See log output above or the log file: media/Tex/ea85079f29a3df61.log",
+  "line": 62
+ }
+}

@@ -1,0 +1,274 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.299,
+      3.0,
+      3.299,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.299,
+      3.0,
+      3.299,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.078,
+      1.056,
+      -1.509,
+      1.293
+     ],
+     "name": "A_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.259,
+      0.349,
+      1.259,
+      2.0
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.299,
+      3.0,
+      3.299,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.078,
+      1.056,
+      -1.509,
+      1.293
+     ],
+     "name": "A_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.259,
+      0.349,
+      1.259,
+      2.0
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.992,
+      0.065,
+      -1.5,
+      0.292
+     ],
+     "name": "I_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.25,
+      -0.643,
+      1.25,
+      1.0
+     ],
+     "name": "I",
+     "line": 21,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.299,
+      3.0,
+      3.299,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.078,
+      1.056,
+      -1.509,
+      1.293
+     ],
+     "name": "A_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.259,
+      0.349,
+      1.259,
+      2.0
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.992,
+      0.065,
+      -1.5,
+      0.292
+     ],
+     "name": "I_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.25,
+      -0.643,
+      1.25,
+      1.0
+     ],
+     "name": "I",
+     "line": 21,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.315,
+      -1.404,
+      -2.635,
+      -1.169
+     ],
+     "name": "lambda_I_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.385,
+      -2.572,
+      2.385,
+      0.0
+     ],
+     "name": "lambda_I",
+     "line": 30,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.299,
+      3.0,
+      3.299,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.246,
+      -0.112,
+      -1.728,
+      1.539
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.25,
+      -0.643,
+      1.25,
+      1.0
+     ],
+     "name": "I",
+     "line": 21,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.572,
+      4.246,
+      2.0
+     ],
+     "name": "lambda_I",
+     "line": 30,
+     "type": "Matrix"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "Could not find VGroup of 3 submobjects in scene",
+  "line": 52
+ }
+}

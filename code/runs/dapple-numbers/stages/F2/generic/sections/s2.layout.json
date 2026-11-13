@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 57.18,
+  "s_sp": 70.0,
+  "s_ly": 44.7,
+  "s_ed": 44.2,
+  "states": 19,
+  "states_with_conflict": 17
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 56.95,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 56.96,
+   "conflict": "NumberLine \"number_line\" (created line 11, box [-6.0, -0.537, 6.0, -0.463]) overlaps DecimalNumber \"num_obj_copy\" (line None, box [-4.825, -0.491, -4.764, -0.46]) by 90%; moving it by [0.0, -0.18] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 57.16,
+   "conflict": "NumberLine \"number_line\" (created line 11, box [-6.0, -0.717, 6.0, -0.643]) overlaps DecimalNumber \"num_obj_copy\" (line None, box [-4.825, -0.671, -4.764, -0.64]) by 90%; moving it by [0.0, -0.18] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 57.18,
+   "conflict": "NumberLine \"number_line\" (created line 11, box [-6.0, -0.897, 6.0, -0.823]) overlaps DecimalNumber \"num_obj_copy\" (line None, box [-4.825, -0.851, -4.764, -0.82]) by 90%; moving it by [0.0, -0.18] would clear it"
+  }
+ ]
+}

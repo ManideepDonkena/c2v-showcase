@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 17,
+  "scope": "line",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 20,
+  "scope": "block",
+  "error": "UnboundLocalError: cannot access local variable 'pulse' where it is not associated with a value"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

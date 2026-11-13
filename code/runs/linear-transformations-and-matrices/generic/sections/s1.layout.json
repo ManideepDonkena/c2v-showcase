@@ -1,0 +1,27 @@
+{
+ "score": {
+  "mvqs": 92.68,
+  "s_sp": 98.2,
+  "s_ly": 84.2,
+  "s_ed": 89.1,
+  "states": 11,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 90.34,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 90.58,
+   "conflict": "Text \"i_direction\" (created line 58, box [1.2, 0.2, 3.889, 0.534]) overlaps MathTex \"i_label\" (line 27, box [1.1, 0.1, 1.238, 0.565]) by 19%; moving it by [0.19, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 92.68,
+   "conflict": "Text \"j_direction\" (created line 55, box [-2.89, 1.2, -0.2, 1.534]) overlaps MathTex \"j_label\" (line 31, box [-0.304, 1.1, -0.1, 1.662]) by 30%; moving it by [-0.25, 0.0] would clear it"
+  }
+ ]
+}

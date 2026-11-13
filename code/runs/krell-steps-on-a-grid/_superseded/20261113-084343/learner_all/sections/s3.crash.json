@@ -1,0 +1,286 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.654,
+      2.995,
+      3.654,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.654,
+      2.995,
+      3.654,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -2.5,
+      -2.5,
+      2.5,
+      2.5
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.654,
+      2.995,
+      3.654,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -2.5,
+      -2.5,
+      2.5,
+      2.5
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "origin",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.252,
+      -0.579,
+      0.252,
+      -0.33
+     ],
+     "name": "orig_label",
+     "line": 18,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.654,
+      2.995,
+      3.654,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -2.5,
+      -2.5,
+      2.5,
+      2.5
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "origin",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.252,
+      -0.579,
+      0.252,
+      -0.33
+     ],
+     "name": "orig_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "step1_arrow",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.252,
+      1.25,
+      0.252,
+      1.499
+     ],
+     "name": "step1_label",
+     "line": 24,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.654,
+      2.995,
+      3.654,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -2.5,
+      -2.5,
+      2.5,
+      2.5
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "origin",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.252,
+      -0.579,
+      0.252,
+      -0.33
+     ],
+     "name": "orig_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "step1_arrow",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.252,
+      1.25,
+      0.252,
+      1.499
+     ],
+     "name": "step1_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.875,
+      1.0,
+      1.125
+     ],
+     "name": "step2_arrow",
+     "line": 29,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.748,
+      1.25,
+      1.252,
+      1.499
+     ],
+     "name": "step2_label",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "could not broadcast input array from shape (1,2) into shape (1,3)",
+  "line": 35
+ }
+}

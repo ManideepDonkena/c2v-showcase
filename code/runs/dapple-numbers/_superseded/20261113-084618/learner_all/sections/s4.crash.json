@@ -1,0 +1,67 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.643,
+      3.0,
+      2.643,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.643,
+      3.0,
+      2.643,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.336,
+      -0.257,
+      0.336,
+      0.257
+     ],
+     "name": "num_52",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.092,
+      -1.173,
+      1.092,
+      -0.507
+     ],
+     "name": "num_52_label",
+     "line": 12,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "unsupported operand type(s) for -: 'NoneType' and 'float'",
+  "line": 16
+ }
+}

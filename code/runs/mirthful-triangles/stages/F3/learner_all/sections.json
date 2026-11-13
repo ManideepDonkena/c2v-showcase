@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "Defining Mirth",
+  "teaches": "The core definition of a mirthful triangle using the inequality 2*longest ≤ 3*shortest.",
+  "visual": "A triangle with sides labeled 'a', 'b', and 'c' (where c is longest, a is shortest) appears. The text '2 × c' and '3 × a' animates in on either side of the inequality '≤'. The triangle pulses green when the condition holds.",
+  "narration": "A triangle is mirthful if twice its longest side is at most three times its shortest side. This simple ratio determines the triangle's classification, ignoring the middle length entirely.",
+  "start": 0.0,
+  "end": 20.8
+ },
+ {
+  "id": "s2",
+  "title": "The Equilateral Case",
+  "teaches": "Rule 1: All equilateral triangles are mirthful.",
+  "visual": "An equilateral triangle with sides labeled '5' appears. The calculation '2 × 5 ≤ 3 × 5' (10 ≤ 15) displays below it. The triangle turns bright green and bounces slightly to indicate validity.",
+  "narration": "Every equilateral triangle is mirthful because its longest and shortest sides are equal. Since twice any side is always less than three times that same side, the condition is always satisfied.",
+  "start": 20.8,
+  "end": 48.6
+ },
+ {
+  "id": "s3",
+  "title": "Scaling Invariance",
+  "teaches": "Rule 2: Scaling does not change mirthfulness.",
+  "visual": "A mirthful triangle (sides 4, 5, 6) is shown. It scales up to sides 8, 10, 12 while remaining green. The text 'Scaling preserves mirth' appears. Then it scales down to 2, 2.5, 3, still green.",
+  "narration": "Scaling a triangle does not change whether it is mirthful. Multiplying all sides by the same factor preserves the ratio between the longest and shortest sides, keeping the inequality valid.",
+  "start": 48.6,
+  "end": 76.93
+ },
+ {
+  "id": "s4",
+  "title": "Worked Examples",
+  "teaches": "Rule 3: Middle side doesn't matter; comparing specific examples.",
+  "visual": "Two triangles appear side-by-side. Left: sides 4, 5, 6 (green check). Right: sides 3, 4, 5 (red X). Calculations '12 ≤ 12' and '10 > 9' animate below each respectively.",
+  "narration": "Consider sides 4, 5, 6: twice the longest is 12, three times the shortest is 12, so it is mirthful. But for 3, 4, 5: twice the longest is 10, which exceeds nine, so it is not mirthful.",
+  "start": 76.93,
+  "end": 102.27
+ }
+]

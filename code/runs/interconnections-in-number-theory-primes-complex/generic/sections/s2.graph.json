@@ -1,0 +1,784 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.198,
+      -0.804,
+      5.198,
+      -0.196
+     ],
+     "name": "number_line",
+     "line": 12,
+     "type": "NumberLine"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "complex_plane",
+     "line": 22,
+     "type": "ComplexPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "complex_plane",
+     "line": 22,
+     "type": "ComplexPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "surface",
+     "line": 40,
+     "type": "Surface"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "complex_plane",
+     "line": 22,
+     "type": "ComplexPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "surface",
+     "line": 40,
+     "type": "Surface"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.0
+     ],
+     "name": "critical_line",
+     "line": 40,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "complex_plane",
+     "line": 22,
+     "type": "ComplexPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "surface",
+     "line": 40,
+     "type": "Surface"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.0
+     ],
+     "name": "critical_line",
+     "line": 40,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      9.03,
+      0.6,
+      9.23
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      15.92,
+      0.6,
+      16.12
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      19.91,
+      0.6,
+      20.11
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      25.32,
+      0.6,
+      25.52
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      27.83,
+      0.6,
+      28.03
+     ],
+     "name": "dot",
+     "line": 77,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 90,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "complex_plane",
+     "line": 22,
+     "type": "ComplexPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "surface",
+     "line": 40,
+     "type": "Surface"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.0
+     ],
+     "name": "critical_line",
+     "line": 40,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      9.03,
+      0.6,
+      9.23
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      15.92,
+      0.6,
+      16.12
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      19.91,
+      0.6,
+      20.11
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      25.32,
+      0.6,
+      25.52
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      27.83,
+      0.6,
+      28.03
+     ],
+     "name": "dot",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.667,
+      3.659,
+      1.667,
+      3.9
+     ],
+     "name": "keywords",
+     "line": 86,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "complex_plane",
+     "line": 22,
+     "type": "ComplexPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "surface",
+     "line": 40,
+     "type": "Surface"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.0
+     ],
+     "name": "critical_line",
+     "line": 40,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      9.03,
+      0.6,
+      9.23
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      15.92,
+      0.6,
+      16.12
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      19.91,
+      0.6,
+      20.11
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      25.32,
+      0.6,
+      25.52
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      27.83,
+      0.6,
+      28.03
+     ],
+     "name": "dot",
+     "line": 77,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 100,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "complex_plane",
+     "line": 22,
+     "type": "ComplexPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "surface",
+     "line": 40,
+     "type": "Surface"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.0
+     ],
+     "name": "critical_line",
+     "line": 40,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      9.03,
+      0.6,
+      9.23
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      15.92,
+      0.6,
+      16.12
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      19.91,
+      0.6,
+      20.11
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      25.32,
+      0.6,
+      25.52
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      27.83,
+      0.6,
+      28.03
+     ],
+     "name": "dot",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.075,
+      -0.85,
+      3.075,
+      -0.55
+     ],
+     "name": "message",
+     "line": 96,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 103,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "complex_plane",
+     "line": 22,
+     "type": "ComplexPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "surface",
+     "line": 40,
+     "type": "Surface"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.0
+     ],
+     "name": "critical_line",
+     "line": 40,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      9.03,
+      0.6,
+      9.23
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      15.92,
+      0.6,
+      16.12
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      19.91,
+      0.6,
+      20.11
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      25.32,
+      0.6,
+      25.52
+     ],
+     "name": "zero_dots",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.4,
+      27.83,
+      0.6,
+      28.03
+     ],
+     "name": "dot",
+     "line": 77,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 106,
+   "objects": []
+  }
+ ],
+ "error": null
+}

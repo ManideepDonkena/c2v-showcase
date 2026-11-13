@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 74.93,
+  "s_sp": 90.3,
+  "s_ly": 43.8,
+  "s_ed": 70.0,
+  "states": 10,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 67.55,
+   "conflicts": 7
+  },
+  {
+   "level": "shift",
+   "mvqs": 68.39,
+   "conflict": "Text \"step0_text\" (created line 12, box [-6.611, 3.179, -5.603, 3.5]) overlaps Text \"title\" (line 6, box [-5.774, 3.0, 5.774, 3.5]) by 17%; moving it by [-0.32, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 73.51,
+   "conflict": "Text \"x_word\" (created line 13, box [-5.303, 3.141, -4.945, 3.538]) overlaps Text \"title\" (line 6, box [-5.774, 3.0, 5.774, 3.5]) by 90%; moving it by [0.0, -0.69] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.93,
+   "conflict": "Text \"step1_text\" (created line 30, box [-6.611, 3.179, -5.603, 3.5]) overlaps Text \"title\" (line 6, box [-5.774, 3.0, 5.774, 3.5]) by 17%; moving it by [-0.32, 0.0] would clear it"
+  }
+ ]
+}

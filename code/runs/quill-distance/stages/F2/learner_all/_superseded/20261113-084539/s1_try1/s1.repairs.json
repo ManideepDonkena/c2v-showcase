@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 11,
+  "scope": "line",
+  "error": "TypeError: VMobject.set_style() got an unexpected keyword argument 'opacity'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 11,
+  "scope": "block",
+  "error": "TypeError: VMobject.set_style() got an unexpected keyword argument 'opacity'"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

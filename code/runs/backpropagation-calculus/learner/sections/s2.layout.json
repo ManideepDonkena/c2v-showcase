@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 85.34,
+  "s_sp": 97.1,
+  "s_ly": 58.9,
+  "s_ed": 83.3,
+  "states": 29,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 82.58,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.45,
+   "conflict": "MathTex \"mult_text\" (created line 93, box [-0.732, -3.5, 0.732, -3.286]) overlaps MathTexPart \"equation\" (line 27, box [-0.504, -3.5, 0.001, -2.663]) by 34%; moving it by [0.0, -0.36] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.78,
+   "conflict": "Arrow \"arrow_a\" (created line 106, box [-2.933, -0.526, -2.067, 0.426]) overlaps Text \"None\" (line 67, box [-3.838, -0.084, -2.162, 0.25]) by 46%; moving it by [0.0, -0.66] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.34,
+   "conflict": "Arrow \"arrow_b\" (created line 107, box [-2.902, -0.674, 1.902, 0.479]) overlaps Text \"None\" (line 48, box [-3.838, -0.084, -2.162, 0.25]) by 44%; moving it by [0.0, -0.71] would clear it"
+  }
+ ]
+}

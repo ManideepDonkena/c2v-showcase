@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 79.28,
+  "s_sp": 81.0,
+  "s_ly": 95.6,
+  "s_ed": 65.6,
+  "states": 18,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.54,
+   "conflicts": 10
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.28,
+   "conflict": "MathTex \"label_step1\" (created line 27, box [0.499, 1.476, 1.172, 1.7]) overlaps Dot \"point_B_intermediate\" (line 25, box [0.477, 1.383, 0.637, 1.543]) by 36%; moving it by [0.0, 0.22] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"label_step2\" (created line 36, box [0.774, 1.522, 1.454, 1.746]) overlaps MathTex \"label_step1\" (line 27, box [0.499, 1.696, 1.172, 1.92]) by 13%; moving it by [0.0, -0.2] would clear it"
+  }
+ ]
+}

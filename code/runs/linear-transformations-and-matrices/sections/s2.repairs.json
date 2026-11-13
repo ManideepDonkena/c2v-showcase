@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 8,
+  "scope": "line",
+  "error": "SyntaxError: invalid syntax (s2.py, line 8)"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 30,
+  "scope": "block",
+  "error": "SyntaxError: invalid syntax (s2.py, line 30)"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

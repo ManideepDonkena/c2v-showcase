@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 67.0,
+  "s_sp": 84.8,
+  "s_ly": 58.8,
+  "s_ed": 42.8,
+  "states": 13,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 67.0,
+   "conflicts": 3
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"formula\" (created line 66, box [-2.562, 2.152, 2.562, 2.492]) overlaps Text \"count_inside\" (line 41, box [1.922, 2.3, 2.078, 2.545]) by 78%; moving it by [0.0, -0.34] would clear it"
+  }
+ ]
+}

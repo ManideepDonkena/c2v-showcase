@@ -1,0 +1,9 @@
+[project]
+name = "c2v-lab"
+version = "0.1.0"
+description = "A small lab for code-to-video teaching: Code2Video's TeachQuiz, SGA's scene graph and MVQS, and learner-feedback repair"
+requires-python = ">=3.10"
+dependencies = ["manim>=0.19", "numpy"]
+
+[tool.ruff]
+line-length = 120

@@ -1,0 +1,835 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.526,
+      1.802,
+      0.526,
+      2.5
+     ],
+     "name": "grad1",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.526,
+      1.802,
+      0.526,
+      2.5
+     ],
+     "name": "grad1",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.538,
+      0.605,
+      0.538,
+      1.302
+     ],
+     "name": "grad2",
+     "line": 13,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.526,
+      1.802,
+      0.526,
+      2.5
+     ],
+     "name": "grad1",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.538,
+      0.605,
+      0.538,
+      1.302
+     ],
+     "name": "grad2",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.038,
+      0.874,
+      1.198,
+      1.034
+     ],
+     "name": "multiply",
+     "line": 24,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.526,
+      1.802,
+      0.526,
+      2.5
+     ],
+     "name": "grad1",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.538,
+      0.605,
+      0.538,
+      1.302
+     ],
+     "name": "grad2",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.038,
+      0.874,
+      1.198,
+      1.034
+     ],
+     "name": "multiply",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.698,
+      0.605,
+      2.774,
+      1.302
+     ],
+     "name": "result",
+     "line": 27,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.698,
+      0.605,
+      2.774,
+      1.302
+     ],
+     "name": "result",
+     "line": 27,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 42,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.698,
+      0.605,
+      2.774,
+      1.302
+     ],
+     "name": "result",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      -1.9,
+      0.4,
+      -1.1
+     ],
+     "name": "weight_node",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      -1.556,
+      0.082,
+      -1.444
+     ],
+     "name": "w_label",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.698,
+      0.605,
+      2.774,
+      1.302
+     ],
+     "name": "result",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      -1.9,
+      0.4,
+      -1.1
+     ],
+     "name": "weight_node",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      -1.556,
+      0.082,
+      -1.444
+     ],
+     "name": "w_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.321,
+      -1.879,
+      2.695,
+      0.453
+     ],
+     "name": "arrow",
+     "line": 46,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.698,
+      0.605,
+      2.774,
+      1.302
+     ],
+     "name": "result",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      -1.9,
+      0.4,
+      -1.1
+     ],
+     "name": "weight_node",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      -1.556,
+      0.082,
+      -1.444
+     ],
+     "name": "w_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.321,
+      -1.879,
+      2.695,
+      0.453
+     ],
+     "name": "arrow",
+     "line": 46,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.086,
+      0.993,
+      1.289,
+      1.006
+     ],
+     "name": "minus",
+     "line": 48,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 66,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.698,
+      0.605,
+      2.774,
+      1.302
+     ],
+     "name": "result",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      -1.9,
+      0.4,
+      -1.1
+     ],
+     "name": "weight_node",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      -1.556,
+      0.082,
+      -1.444
+     ],
+     "name": "w_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.321,
+      -1.879,
+      2.695,
+      0.453
+     ],
+     "name": "arrow",
+     "line": 46,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.086,
+      0.993,
+      1.289,
+      1.006
+     ],
+     "name": "minus",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.409,
+      -2.571,
+      0.409,
+      -2.4
+     ],
+     "name": "old_w_text",
+     "line": 52,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.698,
+      0.605,
+      2.774,
+      1.302
+     ],
+     "name": "result",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      -1.9,
+      0.4,
+      -1.1
+     ],
+     "name": "weight_node",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      -1.556,
+      0.082,
+      -1.444
+     ],
+     "name": "w_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.321,
+      -1.879,
+      2.695,
+      0.453
+     ],
+     "name": "arrow",
+     "line": 46,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.086,
+      0.993,
+      1.289,
+      1.006
+     ],
+     "name": "minus",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.473,
+      -2.574,
+      0.473,
+      -2.4
+     ],
+     "name": "old_w_text",
+     "line": 52,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.698,
+      0.605,
+      2.774,
+      1.302
+     ],
+     "name": "result",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      -1.9,
+      0.4,
+      -1.1
+     ],
+     "name": "weight_node",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      -1.556,
+      0.082,
+      -1.444
+     ],
+     "name": "w_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.321,
+      -1.879,
+      2.695,
+      0.453
+     ],
+     "name": "arrow",
+     "line": 46,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 80,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.698,
+      0.605,
+      2.774,
+      1.302
+     ],
+     "name": "result",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      -1.9,
+      0.4,
+      -1.1
+     ],
+     "name": "weight_node",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      -1.556,
+      0.082,
+      -1.444
+     ],
+     "name": "w_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.321,
+      -1.879,
+      2.695,
+      0.453
+     ],
+     "name": "arrow",
+     "line": 46,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -1.5,
+      2.0,
+      1.5
+     ],
+     "name": "loss_bracket",
+     "line": 73,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.698,
+      0.605,
+      2.774,
+      1.302
+     ],
+     "name": "result",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      -1.9,
+      0.4,
+      -1.1
+     ],
+     "name": "weight_node",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      -1.556,
+      0.082,
+      -1.444
+     ],
+     "name": "w_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.321,
+      -1.879,
+      2.695,
+      0.453
+     ],
+     "name": "arrow",
+     "line": 46,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -1.5,
+      2.0,
+      1.5
+     ],
+     "name": "loss_bracket",
+     "line": 73,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 90,
+   "objects": []
+  }
+ ],
+ "error": null
+}

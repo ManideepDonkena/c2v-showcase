@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 76.21,
+  "s_sp": 93.1,
+  "s_ly": 46.4,
+  "s_ed": 67.9,
+  "states": 7,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 55.32,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 65.33,
+   "conflict": "Dot \"edge_dots\" (created line 33, box [-0.08, 2.92, 0.08, 3.08]) overlaps Text \"title\" (line 6, box [-4.097, 2.995, 4.097, 3.5]) by 53%; moving it by [0.0, -0.23] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 68.28,
+   "conflict": "Text \"edge_label\" (created line 44, box [0.382, 3.1, 2.618, 3.434]) overlaps Text \"title\" (line 6, box [-4.097, 2.995, 4.097, 3.5]) by 100%; moving it by [0.0, 0.55] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.21,
+   "conflict": "Text \"interior_label\" (created line 43, box [0.222, 0.336, 2.778, 0.67]) overlaps Dot \"grid\" (line 14, box [0.636, 0.536, 0.764, 0.664]) by 100%; moving it by [0.0, -0.28] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,3986 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.819,
+      -3.7,
+      4.819,
+      -3.363
+     ],
+     "name": "narration",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.937,
+      -3.7,
+      4.937,
+      -3.366
+     ],
+     "name": "narration2",
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.4,
+      -3.7,
+      4.4,
+      -3.363
+     ],
+     "name": "narration3",
+     "line": 73,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "p6",
+     "line": 81,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 87,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "p6",
+     "line": 81,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.08,
+      -0.08,
+      -5.92,
+      0.08
+     ],
+     "name": "p7",
+     "line": 86,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 92,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "p6",
+     "line": 81,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.08,
+      -0.08,
+      -5.92,
+      0.08
+     ],
+     "name": "p7",
+     "line": 86,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      5.92,
+      0.08,
+      6.08
+     ],
+     "name": "p8",
+     "line": 91,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 97,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "p6",
+     "line": 81,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.08,
+      -0.08,
+      -5.92,
+      0.08
+     ],
+     "name": "p7",
+     "line": 86,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      5.92,
+      0.08,
+      6.08
+     ],
+     "name": "p8",
+     "line": 91,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -6.08,
+      0.08,
+      -5.92
+     ],
+     "name": "p9",
+     "line": 82,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 102,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "p6",
+     "line": 81,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.08,
+      -0.08,
+      -5.92,
+      0.08
+     ],
+     "name": "p7",
+     "line": 86,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      5.92,
+      0.08,
+      6.08
+     ],
+     "name": "p8",
+     "line": 91,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -6.08,
+      0.08,
+      -5.92
+     ],
+     "name": "p9",
+     "line": 82,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.794,
+      -3.7,
+      8.794,
+      -3.366
+     ],
+     "name": "narration4",
+     "line": 92,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 105,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.805,
+      3.295,
+      2.805,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "C",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.152,
+      -0.542,
+      0.152,
+      -0.18
+     ],
+     "name": "c_label",
+     "line": 19,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": "p1",
+     "line": 24,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.455,
+      -0.678,
+      2.545,
+      -0.18
+     ],
+     "name": "p1_label",
+     "line": 25,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.015,
+      0.38,
+      2.985,
+      0.753
+     ],
+     "name": "calc1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -0.08,
+      -1.92,
+      0.08
+     ],
+     "name": "p2",
+     "line": 31,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.628,
+      -0.678,
+      -1.372,
+      -0.18
+     ],
+     "name": "p2_label",
+     "line": 32,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.985,
+      0.38,
+      -1.015,
+      0.753
+     ],
+     "name": "calc2",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "p3",
+     "line": 38,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.545,
+      1.18,
+      0.545,
+      1.678
+     ],
+     "name": "p3_label",
+     "line": 39,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      0.247,
+      0.988,
+      0.62
+     ],
+     "name": "calc3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.08,
+      0.08,
+      -0.92
+     ],
+     "name": "p4",
+     "line": 41,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      -1.678,
+      0.628,
+      -1.18
+     ],
+     "name": "p4_label",
+     "line": 46,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.988,
+      -0.92,
+      0.988,
+      -0.547
+     ],
+     "name": "calc4",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "p5",
+     "line": 49,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.455,
+      1.18,
+      1.545,
+      1.678
+     ],
+     "name": "p5_label",
+     "line": 54,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.221,
+      -0.132,
+      1.779,
+      0.23
+     ],
+     "name": "cost_label",
+     "line": 55,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "p6",
+     "line": 81,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.08,
+      -0.08,
+      -5.92,
+      0.08
+     ],
+     "name": "p7",
+     "line": 86,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      5.92,
+      0.08,
+      6.08
+     ],
+     "name": "p8",
+     "line": 91,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -6.08,
+      0.08,
+      -5.92
+     ],
+     "name": "p9",
+     "line": 82,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 108,
+   "objects": [
+    {
+     "kind": "Deco",
+     "box": [
+      -6.5,
+      -3.6,
+      6.5,
+      3.6
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,27 @@
+{
+ "score": {
+  "mvqs": 81.11,
+  "s_sp": 97.7,
+  "s_ly": 35.9,
+  "s_ed": 83.6,
+  "states": 14,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 73.97,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 75.9,
+   "conflict": "MathTex \"length_text_3\" (created line 64, box [-0.116, -0.924, 0.116, -0.75]) overlaps MathTex \"length_text_2\" (line 37, box [-0.052, -0.921, 0.052, -0.75]) by 100%; moving it by [0.32, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.11,
+   "conflict": "Text \"explanation\" (created line 102, box [-2.724, -1.413, 2.724, -0.75]) overlaps MathTex \"length_text_2\" (line 37, box [-0.052, -0.921, 0.052, -0.75]) by 100%; moving it by [0.0, -0.32] would clear it"
+  }
+ ]
+}

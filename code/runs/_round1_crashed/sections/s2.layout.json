@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 92.14,
+  "s_sp": 98.1,
+  "s_ly": 72.9,
+  "s_ed": 95.0,
+  "states": 8,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 77.4,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 92.14,
+   "conflict": "Square \"square_a\" (created line 33, box [-3.724, -2.214, -0.26, 1.25]) overlaps MathTex \"label_b\" (line 15, box [-1.532, -2.256, -1.349, -1.904]) by 88%; moving it by [0.0, 0.46] would clear it"
+  }
+ ]
+}

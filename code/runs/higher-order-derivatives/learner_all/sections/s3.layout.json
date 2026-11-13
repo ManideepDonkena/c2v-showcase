@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 61.86,
+  "s_sp": 69.8,
+  "s_ly": 59.2,
+  "s_ed": 50.4,
+  "states": 23,
+  "states_with_conflict": 18
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 60.84,
+   "conflicts": 34
+  },
+  {
+   "level": "shift",
+   "mvqs": 61.68,
+   "conflict": "ParametricFunction \"f2_graph\" (created line 19, box [-4.8, -2.3, 4.8, 4.1]) is outside the frame; shift it by [0.0, -0.25]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 61.86,
+   "conflict": "MathTex \"f2_label\" (created line 20, box [5.05, 4.35, 6.093, 4.875]) is outside the frame; shift it by [0.0, -1.02]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"example_text\" (created line 40, box [-6.611, 3.145, -3.836, 3.5]) overlaps ParametricFunction \"f2_graph\" (line 19, box [-4.8, -2.55, 4.8, 3.85]) by 34%; moving it by [0.0, -6.2] would clear it"
+  }
+ ]
+}

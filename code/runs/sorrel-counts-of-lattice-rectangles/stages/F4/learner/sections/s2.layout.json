@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 91.38,
+  "s_sp": 93.3,
+  "s_ly": 73.7,
+  "s_ed": 100.0,
+  "states": 18,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 87.25,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 87.74,
+   "conflict": "Text \"rule_text\" (created line 71, box [-2.983, -5.0, 2.983, -4.722]) is outside the frame; shift it by [0.0, 1.15]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 89.18,
+   "conflict": "MathTex \"edge_3x3\" (created line 89, box [-1.309, -2.5, 1.309, -2.251]) overlaps MathTex \"edge_count\" (line 59, box [-1.31, -2.5, 1.31, -2.251]) by 100%; moving it by [0.0, 0.4] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 91.38,
+   "conflict": "MathTex \"final_sorrel_3x3\" (created line 96, box [-0.655, -0.087, 0.655, 0.087]) overlaps MathTex \"interior_count\" (line 53, box [-0.71, -0.086, 0.71, 0.086]) by 98%; moving it by [0.0, 0.32] would clear it"
+  }
+ ]
+}

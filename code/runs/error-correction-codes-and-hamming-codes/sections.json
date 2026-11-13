@@ -1,0 +1,20 @@
+[
+ {
+  "id": "s1",
+  "title": "The Problem: Bit Flips",
+  "teaches": "Understanding that noise in transmission channels can flip bits, necessitating error detection.",
+  "visual": "A binary string '1011' appears on the left. A red lightning bolt strikes the second bit, flipping it to '0'. The string becomes '0011' and shakes slightly to indicate corruption.",
+  "narration": "Imagine sending a simple message through a noisy channel. Sometimes, interference causes bits to flip unexpectedly, turning your data into garbage upon arrival.",
+  "start": 0.0,
+  "end": 13.8
+ },
+ {
+  "id": "s3",
+  "title": "The Mechanism: Syndrome Calculation",
+  "teaches": "Explaining how mismatched parity checks create a binary 'syndrome' that points to the error location.",
+  "visual": "Three circles representing P1, P2, and P4 overlap like a Venn diagram over the data bits. When an error occurs in D2, the circles for P1 and P4 light up red (fail), while P2 stays green (pass). The binary result '101' (decimal 5) highlights position 5.",
+  "narration": "If a parity check fails, it contributes a '1' to a special code called the syndrome. By combining these results, we get a binary number that directly points to the exact location of the corrupted bit.",
+  "start": 13.8,
+  "end": 36.6
+ }
+]

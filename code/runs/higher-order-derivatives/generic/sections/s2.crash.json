@@ -1,0 +1,108 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.106,
+      3.002,
+      4.894,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 18,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "AttributeError",
+  "message": "VGroup object has no attribute 'secant_slope'",
+  "line": 30
+ }
+}

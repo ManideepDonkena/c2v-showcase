@@ -1,0 +1,27 @@
+{
+ "score": {
+  "mvqs": 87.52,
+  "s_sp": 98.3,
+  "s_ly": 41.9,
+  "s_ed": 100.0,
+  "states": 11,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 83.94,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.5,
+   "conflict": "Text \"rule2\" (created line 51, box [-8.349, -0.227, -0.914, 0.033]) is outside the frame; shift it by [1.39, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 87.52,
+   "conflict": "MathTex \"calc2\" (created line 66, box [-1.351, -3.258, 1.351, -2.968]) overlaps MathTex \"formula\" (line 60, box [-2.207, -3.5, 2.207, -3.168]) by 31%; moving it by [0.0, 0.24] would clear it"
+  }
+ ]
+}

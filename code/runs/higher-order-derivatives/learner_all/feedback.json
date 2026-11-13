@@ -1,0 +1,70 @@
+{
+ "mode": "learner_all",
+ "gaps": [
+  "q1",
+  "q3",
+  "q4",
+  "q5",
+  "q6",
+  "q8",
+  "q9",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s1": [
+   "Show the specific notation 'd^3y/dx^3' appearing clearly on screen next to the label 'Jerk' and the red curve, explicitly linking the visual concept of jerk to this standard mathematical symbol.",
+   "A concrete example showing that differentiating a cubic term (like x^3) three times results in a constant non-zero value (specifically 6), demonstrating that the 'jerk' is not always zero even if the acceleration graph appears linear or simple.",
+   "Show a concrete example of a polynomial, such as f(x) = x^3. Visually demonstrate the step-by-step differentiation process: first derivative becomes 3x^2 (degree 2), second becomes 6x (degree 1), and third becomes 6 (degree 0). Highlight that each differentiation reduces the power of the variable by one, so after n steps for a degree-n polynomial, the variable term x^0 equals 1, leaving only the constant coefficient.",
+   "A visual demonstration of the cyclic pattern of derivatives for sine and cosine functions, showing that applying the differentiation operator four times returns to the original function, accompanied by the explicit calculation steps: d/dx(sin(x)) = cos(x), d^2/dx^2(sin(x)) = -sin(x), d^3/dx^3(sin(x)) = -cos(x), and d^4/dx^4(sin(x)) = sin(x).",
+   "A visual demonstration of a function with two variables (x and y) where the order of differentiation is swapped (first differentiate with respect to x then y, versus first y then x), showing that if the mixed partial derivatives are continuous, the resulting surfaces or values are identical, illustrating that the 'path' taken through the higher-order layers does not change the final result.",
+   "Show a straight green line with a positive slope representing f''(t) corresponding to a blue curve that is curving upwards at an increasingly steady rate. Say: 'When the slope grows by the same amount every second, the acceleration is not just positive—it is constant.'",
+   "A visual demonstration of differentiating an exponential function twice: first showing that the slope of e^(2x) is 2e^(2x), and then showing that the slope of that result (the second derivative) is 4e^(2x), emphasizing that the constant factor '2' is multiplied by itself.",
+   "Show a specific point on the blue curve where it curves upward like a cup, and explicitly state that at this location, the green acceleration line is above the zero axis (positive). Contrast this with a downward-curving section where the green line is below zero. Emphasize that 'concave up' is synonymous with 'positive second derivative'.",
+   "A visual demonstration of differentiating a composite function like cos(x^2) step-by-step: first showing the outer layer (cosine) being differentiated while keeping the inner part intact, then multiplying by the derivative of the inner part (x^2), explicitly highlighting that the Chain Rule is applied before any other rules like the Product Rule are considered for subsequent steps."
+  ],
+  "s2": [
+   "Show the specific notation 'd^3y/dx^3' appearing clearly on screen next to the label 'Jerk' and the red curve, explicitly linking the visual concept of jerk to this standard mathematical symbol.",
+   "A concrete example showing that differentiating a cubic term (like x^3) three times results in a constant non-zero value (specifically 6), demonstrating that the 'jerk' is not always zero even if the acceleration graph appears linear or simple.",
+   "Show a concrete example of a polynomial, such as f(x) = x^3. Visually demonstrate the step-by-step differentiation process: first derivative becomes 3x^2 (degree 2), second becomes 6x (degree 1), and third becomes 6 (degree 0). Highlight that each differentiation reduces the power of the variable by one, so after n steps for a degree-n polynomial, the variable term x^0 equals 1, leaving only the constant coefficient.",
+   "A visual demonstration of the cyclic pattern of derivatives for sine and cosine functions, showing that applying the differentiation operator four times returns to the original function, accompanied by the explicit calculation steps: d/dx(sin(x)) = cos(x), d^2/dx^2(sin(x)) = -sin(x), d^3/dx^3(sin(x)) = -cos(x), and d^4/dx^4(sin(x)) = sin(x).",
+   "A visual demonstration of a function with two variables (x and y) where the order of differentiation is swapped (first differentiate with respect to x then y, versus first y then x), showing that if the mixed partial derivatives are continuous, the resulting surfaces or values are identical, illustrating that the 'path' taken through the higher-order layers does not change the final result.",
+   "Show a straight green line with a positive slope representing f''(t) corresponding to a blue curve that is curving upwards at an increasingly steady rate. Say: 'When the slope grows by the same amount every second, the acceleration is not just positive—it is constant.'",
+   "A visual demonstration of differentiating an exponential function twice: first showing that the slope of e^(2x) is 2e^(2x), and then showing that the slope of that result (the second derivative) is 4e^(2x), emphasizing that the constant factor '2' is multiplied by itself.",
+   "Show a specific point on the blue curve where it curves upward like a cup, and explicitly state that at this location, the green acceleration line is above the zero axis (positive). Contrast this with a downward-curving section where the green line is below zero. Emphasize that 'concave up' is synonymous with 'positive second derivative'.",
+   "A visual demonstration of differentiating a composite function like cos(x^2) step-by-step: first showing the outer layer (cosine) being differentiated while keeping the inner part intact, then multiplying by the derivative of the inner part (x^2), explicitly highlighting that the Chain Rule is applied before any other rules like the Product Rule are considered for subsequent steps."
+  ],
+  "s3": [
+   "Show the specific notation 'd^3y/dx^3' appearing clearly on screen next to the label 'Jerk' and the red curve, explicitly linking the visual concept of jerk to this standard mathematical symbol.",
+   "A concrete example showing that differentiating a cubic term (like x^3) three times results in a constant non-zero value (specifically 6), demonstrating that the 'jerk' is not always zero even if the acceleration graph appears linear or simple.",
+   "Show a concrete example of a polynomial, such as f(x) = x^3. Visually demonstrate the step-by-step differentiation process: first derivative becomes 3x^2 (degree 2), second becomes 6x (degree 1), and third becomes 6 (degree 0). Highlight that each differentiation reduces the power of the variable by one, so after n steps for a degree-n polynomial, the variable term x^0 equals 1, leaving only the constant coefficient.",
+   "A visual demonstration of the cyclic pattern of derivatives for sine and cosine functions, showing that applying the differentiation operator four times returns to the original function, accompanied by the explicit calculation steps: d/dx(sin(x)) = cos(x), d^2/dx^2(sin(x)) = -sin(x), d^3/dx^3(sin(x)) = -cos(x), and d^4/dx^4(sin(x)) = sin(x).",
+   "A visual demonstration of a function with two variables (x and y) where the order of differentiation is swapped (first differentiate with respect to x then y, versus first y then x), showing that if the mixed partial derivatives are continuous, the resulting surfaces or values are identical, illustrating that the 'path' taken through the higher-order layers does not change the final result.",
+   "Show a straight green line with a positive slope representing f''(t) corresponding to a blue curve that is curving upwards at an increasingly steady rate. Say: 'When the slope grows by the same amount every second, the acceleration is not just positive—it is constant.'",
+   "A visual demonstration of differentiating an exponential function twice: first showing that the slope of e^(2x) is 2e^(2x), and then showing that the slope of that result (the second derivative) is 4e^(2x), emphasizing that the constant factor '2' is multiplied by itself.",
+   "Show a specific point on the blue curve where it curves upward like a cup, and explicitly state that at this location, the green acceleration line is above the zero axis (positive). Contrast this with a downward-curving section where the green line is below zero. Emphasize that 'concave up' is synonymous with 'positive second derivative'.",
+   "A visual demonstration of differentiating a composite function like cos(x^2) step-by-step: first showing the outer layer (cosine) being differentiated while keeping the inner part intact, then multiplying by the derivative of the inner part (x^2), explicitly highlighting that the Chain Rule is applied before any other rules like the Product Rule are considered for subsequent steps."
+  ],
+  "s4": [
+   "Show the specific notation 'd^3y/dx^3' appearing clearly on screen next to the label 'Jerk' and the red curve, explicitly linking the visual concept of jerk to this standard mathematical symbol.",
+   "A concrete example showing that differentiating a cubic term (like x^3) three times results in a constant non-zero value (specifically 6), demonstrating that the 'jerk' is not always zero even if the acceleration graph appears linear or simple.",
+   "Show a concrete example of a polynomial, such as f(x) = x^3. Visually demonstrate the step-by-step differentiation process: first derivative becomes 3x^2 (degree 2), second becomes 6x (degree 1), and third becomes 6 (degree 0). Highlight that each differentiation reduces the power of the variable by one, so after n steps for a degree-n polynomial, the variable term x^0 equals 1, leaving only the constant coefficient.",
+   "A visual demonstration of the cyclic pattern of derivatives for sine and cosine functions, showing that applying the differentiation operator four times returns to the original function, accompanied by the explicit calculation steps: d/dx(sin(x)) = cos(x), d^2/dx^2(sin(x)) = -sin(x), d^3/dx^3(sin(x)) = -cos(x), and d^4/dx^4(sin(x)) = sin(x).",
+   "A visual demonstration of a function with two variables (x and y) where the order of differentiation is swapped (first differentiate with respect to x then y, versus first y then x), showing that if the mixed partial derivatives are continuous, the resulting surfaces or values are identical, illustrating that the 'path' taken through the higher-order layers does not change the final result.",
+   "Show a straight green line with a positive slope representing f''(t) corresponding to a blue curve that is curving upwards at an increasingly steady rate. Say: 'When the slope grows by the same amount every second, the acceleration is not just positive—it is constant.'",
+   "A visual demonstration of differentiating an exponential function twice: first showing that the slope of e^(2x) is 2e^(2x), and then showing that the slope of that result (the second derivative) is 4e^(2x), emphasizing that the constant factor '2' is multiplied by itself.",
+   "Show a specific point on the blue curve where it curves upward like a cup, and explicitly state that at this location, the green acceleration line is above the zero axis (positive). Contrast this with a downward-curving section where the green line is below zero. Emphasize that 'concave up' is synonymous with 'positive second derivative'.",
+   "A visual demonstration of differentiating a composite function like cos(x^2) step-by-step: first showing the outer layer (cosine) being differentiated while keeping the inner part intact, then multiplying by the derivative of the inner part (x^2), explicitly highlighting that the Chain Rule is applied before any other rules like the Product Rule are considered for subsequent steps."
+  ]
+ },
+ "changed": [
+  "s3",
+  "s4"
+ ],
+ "dev_before": 0.0,
+ "dev_after": 22.2,
+ "mvqs_before": 69.15,
+ "mvqs_after": 54.05,
+ "kept": false,
+ "dir": "/home/mani/c2v-lab/runs/higher-order-derivatives/learner_all"
+}

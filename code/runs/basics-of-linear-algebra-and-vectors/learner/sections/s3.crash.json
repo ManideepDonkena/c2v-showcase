@@ -1,0 +1,67 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "V",
+     "line": 11,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.1,
+      1.1,
+      2.239,
+      1.281
+     ],
+     "name": "V_label",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "NameError",
+  "message": "name 'WriteText' is not defined",
+  "line": 22
+ }
+}

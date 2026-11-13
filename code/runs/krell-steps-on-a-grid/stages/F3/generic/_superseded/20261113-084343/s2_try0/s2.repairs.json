@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 12,
+  "scope": "line",
+  "error": "ValueError: operands could not be broadcast together with shapes (32,3) (2,) (32,3) "
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 12,
+  "scope": "block",
+  "error": "ValueError: operands could not be broadcast together with shapes (32,3) (2,) (32,3) "
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 12,
+  "scope": "section",
+  "error": "ValueError: operands could not be broadcast together with shapes (32,3) (2,) (32,3) "
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 12,
+  "scope": "section",
+  "error": "ValueError: operands could not be broadcast together with shapes (32,3) (2,) (32,3) "
+ }
+]

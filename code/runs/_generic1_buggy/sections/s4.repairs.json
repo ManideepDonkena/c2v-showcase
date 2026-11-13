@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 14,
+  "scope": "line",
+  "error": "IndexError: list index out of range"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 30,
+  "scope": "block",
+  "error": "AttributeError: VMobjectFromSVGPath object has no attribute 'reverse'"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 30,
+  "scope": "section",
+  "error": "AttributeError: VMobjectFromSVGPath object has no attribute 'reverse'"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

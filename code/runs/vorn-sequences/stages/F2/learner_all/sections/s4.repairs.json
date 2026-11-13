@@ -1,0 +1,21 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 31,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 31: NameError: name 'ShowCreation' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": null,
+  "scope": "section",
+  "error": "ay with no animations\")  \u2502\n\u2502   1306 \u2502   \u2502                                                                 \u2502\n\u2502   1307 \u2502   \u2502   self.animations = self.compile_animations(*animations, **play \u2502\n\u2502   1308 \u2502   \u2502   self.add_mobjects_from_animations(self.animations)            \u2502\n\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256f\nValueError: Called Scene.play with no animations\n"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

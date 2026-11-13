@@ -1,0 +1,93 @@
+{
+ "topic": "Lumen clocks",
+ "before": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 85.79,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 88.81,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 83.48,
+   "conflicts": 2,
+   "ok": false
+  }
+ },
+ "regenerated": {
+  "s3": {
+   "tries": [
+    {
+     "id": "s3",
+     "mvqs": null,
+     "conflicts": null,
+     "rendered": false,
+     "ok": false
+    }
+   ],
+   "kept": "s3_try0"
+  },
+  "s4": {
+   "tries": [
+    {
+     "id": "s4",
+     "mvqs": 86.04,
+     "conflicts": 2,
+     "rendered": true,
+     "ok": false
+    }
+   ],
+   "kept": "s4_try1"
+  }
+ },
+ "min_mvqs": 70.0,
+ "superseded": "/home/mani/c2v-lab/runs/lumen-clocks/_superseded/20261113-084720",
+ "after": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 85.79,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 88.81,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 86.04,
+   "conflicts": 2,
+   "ok": false
+  }
+ },
+ "complete": false,
+ "clean": false
+}

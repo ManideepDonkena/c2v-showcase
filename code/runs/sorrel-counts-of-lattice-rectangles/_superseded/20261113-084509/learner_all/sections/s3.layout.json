@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 86.64,
+  "s_sp": 93.9,
+  "s_ly": 72.0,
+  "s_ed": 84.3,
+  "states": 14,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 83.05,
+   "conflicts": 3
+  },
+  {
+   "level": "block",
+   "mvqs": 86.64,
+   "conflict": "MathTex \"interior_count\" (created line 17, box [-1.11, -1.499, 1.11, -1.25]) overlaps Rectangle \"rect1\" (line 12, box [-1.0, -2.0, 1.0, 2.0]) by 90%; moving it by [0.0, -0.9] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"interior_count\" (created line 17, box [-1.226, -1.749, 1.226, -1.5]) overlaps Rectangle \"rect1\" (line 12, box [-1.0, -2.0, 1.0, 2.0]) by 81%; moving it by [0.0, -0.65] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,648 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "V",
+     "line": 12,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.1,
+      1.1,
+      2.239,
+      1.281
+     ],
+     "name": "V_label",
+     "line": 13,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "V",
+     "line": 12,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.1,
+      1.1,
+      2.239,
+      1.281
+     ],
+     "name": "V_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.481,
+      -3.26,
+      -0.109,
+      -3.084
+     ],
+     "name": "k_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.195,
+      -0.086,
+      0.195,
+      0.086
+     ],
+     "name": "k_text",
+     "line": 20,
+     "type": "DecimalNumber"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "V",
+     "line": 12,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.1,
+      1.1,
+      2.239,
+      1.281
+     ],
+     "name": "V_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.481,
+      -3.26,
+      -0.109,
+      -3.084
+     ],
+     "name": "k_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.204,
+      -0.086,
+      0.204,
+      0.086
+     ],
+     "name": "k_text",
+     "line": 20,
+     "type": "DecimalNumber"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      4.0,
+      2.0
+     ],
+     "name": "V2",
+     "line": 36,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.1,
+      2.1,
+      4.239,
+      2.281
+     ],
+     "name": "V2_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.481,
+      -3.26,
+      -0.109,
+      -3.084
+     ],
+     "name": "k_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.204,
+      -0.086,
+      0.204,
+      0.086
+     ],
+     "name": "k_text",
+     "line": 20,
+     "type": "DecimalNumber"
+    }
+   ]
+  },
+  {
+   "after_line": 42,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.0,
+      0.0,
+      0.0
+     ],
+     "name": "V2",
+     "line": 36,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.1,
+      2.1,
+      4.239,
+      2.281
+     ],
+     "name": "V2_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.481,
+      -3.26,
+      -0.109,
+      -3.084
+     ],
+     "name": "k_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.283,
+      -0.086,
+      0.283,
+      0.086
+     ],
+     "name": "k_text",
+     "line": 20,
+     "type": "DecimalNumber"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "V3",
+     "line": 50,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.761,
+      0.719,
+      1.9,
+      0.9
+     ],
+     "name": "V3_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.481,
+      -3.26,
+      -0.109,
+      -3.084
+     ],
+     "name": "k_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.283,
+      -0.086,
+      0.283,
+      0.086
+     ],
+     "name": "k_text",
+     "line": 20,
+     "type": "DecimalNumber"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "V3",
+     "line": 50,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.761,
+      0.719,
+      1.9,
+      0.9
+     ],
+     "name": "V3_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.481,
+      -3.26,
+      -0.109,
+      -3.084
+     ],
+     "name": "k_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.283,
+      -0.086,
+      0.283,
+      0.086
+     ],
+     "name": "k_text",
+     "line": 20,
+     "type": "DecimalNumber"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.797,
+      -3.0,
+      1.797,
+      -2.74
+     ],
+     "name": "explanation",
+     "line": 36,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.0,
+      0.0,
+      0.0
+     ],
+     "name": "V3",
+     "line": 50,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.761,
+      0.719,
+      1.9,
+      0.9
+     ],
+     "name": "V3_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.481,
+      -3.26,
+      -0.109,
+      -3.084
+     ],
+     "name": "k_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.195,
+      -0.086,
+      0.195,
+      0.086
+     ],
+     "name": "k_text",
+     "line": 20,
+     "type": "DecimalNumber"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.797,
+      -3.0,
+      1.797,
+      -2.74
+     ],
+     "name": "explanation",
+     "line": 36,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.469,
+      3.0,
+      2.469,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.0,
+      0.0,
+      0.0
+     ],
+     "name": "V3",
+     "line": 50,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.761,
+      0.719,
+      1.9,
+      0.9
+     ],
+     "name": "V3_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.481,
+      -3.26,
+      -0.109,
+      -3.084
+     ],
+     "name": "k_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.195,
+      -0.086,
+      0.195,
+      0.086
+     ],
+     "name": "k_text",
+     "line": 20,
+     "type": "DecimalNumber"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.054,
+      -0.168,
+      2.054,
+      0.168
+     ],
+     "name": "explanation",
+     "line": 36,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.0,
+      0.0,
+      0.0
+     ],
+     "name": "V3",
+     "line": 50,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.761,
+      0.719,
+      1.9,
+      0.9
+     ],
+     "name": "V3_label",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

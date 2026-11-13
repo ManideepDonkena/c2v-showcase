@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 84.36,
+  "s_sp": 97.3,
+  "s_ly": 41.2,
+  "s_ed": 91.6,
+  "states": 45,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 82.87,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.57,
+   "conflict": "MathTex \"zero_demo\" (created line 164, box [-0.739, 3.243, 0.739, 3.5]) overlaps Text \"title\" (line 6, box [-3.445, 3.0, 3.445, 3.5]) by 100%; moving it by [0.0, 0.41] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.76,
+   "conflict": "Text \"formula_text\" (created line 170, box [-10.362, 1.39, -0.67, 1.699]) is outside the frame; shift it by [3.4, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.36,
+   "conflict": "MathTex \"eq_rearrange\" (created line 187, box [-1.369, 3.233, 1.369, 3.5]) overlaps Text \"title\" (line 6, box [-3.445, 3.0, 3.445, 3.5]) by 100%; moving it by [0.0, 0.42] would clear it"
+  }
+ ]
+}

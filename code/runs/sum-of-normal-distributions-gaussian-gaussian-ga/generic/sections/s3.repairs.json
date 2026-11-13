@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 53,
+  "scope": "line",
+  "error": "AttributeError: ParametricFunction object has no attribute 'underlying_function'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 53,
+  "scope": "block",
+  "error": "AttributeError: ParametricFunction object has no attribute 'point_from_function'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 42,
+  "scope": "section",
+  "error": "SyntaxError: '(' was never closed (s3.py, line 42)"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

@@ -1,0 +1,190 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.898,
+      2.995,
+      2.898,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.898,
+      2.995,
+      2.898,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -0.537,
+      6.0,
+      -0.463
+     ],
+     "name": "number_line",
+     "line": 11,
+     "type": "NumberLine"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.898,
+      2.995,
+      2.898,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -0.537,
+      6.0,
+      -0.463
+     ],
+     "name": "number_line",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.825,
+      -0.491,
+      -4.764,
+      -0.46
+     ],
+     "name": "num_obj_copy",
+     "line": null,
+     "type": "DecimalNumber"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.898,
+      2.995,
+      2.898,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -0.537,
+      6.0,
+      -0.463
+     ],
+     "name": "number_line",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.825,
+      -0.491,
+      -4.764,
+      -0.46
+     ],
+     "name": "num_obj_copy",
+     "line": null,
+     "type": "DecimalNumber"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.898,
+      2.995,
+      2.898,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -0.537,
+      6.0,
+      -0.463
+     ],
+     "name": "number_line",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.825,
+      -0.491,
+      -4.764,
+      -0.46
+     ],
+     "name": "num_obj_copy",
+     "line": null,
+     "type": "DecimalNumber"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.341,
+      -0.21,
+      -4.249,
+      0.124
+     ],
+     "name": "dapple_text",
+     "line": null,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "IndexError",
+  "message": "list index out of range",
+  "line": 27
+ }
+}

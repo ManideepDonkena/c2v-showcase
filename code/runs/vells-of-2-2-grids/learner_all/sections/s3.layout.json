@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 75.9,
+  "s_sp": 93.7,
+  "s_ly": 40.3,
+  "s_ed": 70.0,
+  "states": 36,
+  "states_with_conflict": 11
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.9,
+   "conflicts": 2
+  },
+  {
+   "level": "none kept",
+   "conflict": "Line \"line1\" (created line 33, box [-4.545, -0.824, -3.491, -0.18]) overlaps MathTex \"a1_copy\" (line None, box [-4.624, -0.317, -4.465, -0.043]) by 25%; moving it by [0.23, 0.0] would clear it"
+  }
+ ]
+}

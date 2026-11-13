@@ -1,0 +1,187 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the geometric interpretation of the dot product $\\mathbf{a} \\cdot \\mathbf{b}$?",
+   "options": {
+    "A": "Area of parallelogram",
+    "B": "Signed projection length",
+    "C": "Volume of tetrahedron",
+    "D": "Angle between vectors"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "If $\\mathbf{u} \\cdot \\mathbf{v} = 0$ and neither vector is zero, what is true?",
+   "options": {
+    "A": "Vectors are parallel",
+    "B": "Vectors are orthogonal",
+    "C": "Vectors are equal",
+    "D": "Vectors are collinear"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "Compute $\\mathbf{a} \\cdot \\mathbf{b}$ for $\\mathbf{a}=(1,2)$ and $\\mathbf{b}=(-3,4)$.",
+   "options": {
+    "A": "5",
+    "B": "-5",
+    "C": "10",
+    "D": "-10"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q4",
+   "question": "In duality, a vector $\\mathbf{v}$ can be viewed as a linear functional acting on what?",
+   "options": {
+    "A": "Scalars only",
+    "B": "Other vectors",
+    "C": "Matrices only",
+    "D": "Functions only"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q5",
+   "question": "Which property makes the dot product symmetric?",
+   "options": {
+    "A": "$\\mathbf{a} \\cdot \\mathbf{b} = |\\mathbf{a}|$",
+    "B": "$\\mathbf{a} \\cdot \\mathbf{b} = \\mathbf{b} \\cdot \\mathbf{a}$",
+    "C": "$\\mathbf{a} \\cdot \\mathbf{b} = 0$",
+    "D": "$\\mathbf{a} \\cdot \\mathbf{b} = -\\mathbf{b} \\cdot \\mathbf{a}$"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q6",
+   "question": "What does the dot product measure when vectors are unit length?",
+   "options": {
+    "A": "Sum of angles",
+    "B": "Cosine of angle",
+    "C": "Sine of angle",
+    "D": "Tangent of angle"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q7",
+   "question": "A common misconception is that dot product yields a vector. What does it actually yield?",
+   "options": {
+    "A": "A scalar value",
+    "B": "A matrix",
+    "C": "Another vector",
+    "D": "A tensor"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q8",
+   "question": "If $\\mathbf{a}=(2,0)$ and $\\mathbf{b}=(0,3)$, what is $\\mathbf{a} \\cdot \\mathbf{b}$?",
+   "options": {
+    "A": "6",
+    "B": "5",
+    "C": "0",
+    "D": "1"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q9",
+   "question": "In the context of duality, the map $\\mathbf{v} \\mapsto (\\mathbf{x} \\mapsto \\mathbf{v} \\cdot \\mathbf{x})$ is:",
+   "options": {
+    "A": "Non-linear",
+    "B": "An isomorphism",
+    "C": "Injective only",
+    "D": "Surjective only"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q11",
+   "question": "Calculate $\\mathbf{u} \\cdot \\mathbf{v}$ for $\\mathbf{u}=(1,-1)$ and $\\mathbf{v}=(2,2)$.",
+   "options": {
+    "A": "0",
+    "B": "4",
+    "C": "-4",
+    "D": "1"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q12",
+   "question": "How does duality relate vectors to linear functionals?",
+   "options": {
+    "A": "They are identical objects",
+    "B": "Vectors map to scalars via dot product",
+    "C": "Functionals map to vectors only",
+    "D": "No relation exists"
+   },
+   "answer": "B"
+  }
+ ],
+ "test": [
+  {
+   "question": "In the context of vectors and physical situations, what does the dot product represent when projecting one vector onto another (for example, the wind pushing a running cheetah forward)?",
+   "options": {
+    "A": "The perpendicular distance between the two vectors.",
+    "B": "The area formed by the vectors.",
+    "C": "The component of one vector in the direction of the other.",
+    "D": "The sum of the magnitudes of both vectors."
+   },
+   "answer": "C",
+   "id": "t1"
+  },
+  {
+   "question": "Which of the following best distinguishes a scalar from a vector?",
+   "options": {
+    "A": "A scalar has both magnitude and direction, a vector has only magnitude.",
+    "B": "A scalar has only direction, not magnitude.",
+    "C": "A scalar has magnitude only; a vector has both magnitude and direction.",
+    "D": "A scalar must always be positive; a vector can be negative."
+   },
+   "answer": "C",
+   "id": "t2"
+  },
+  {
+   "question": "Given two vectors a and b with an angle θ between them, what does the dot product a · b = |a||b|cosθ calculate?",
+   "options": {
+    "A": "A new vector perpendicular to both a and b.",
+    "B": "The area of the parallelogram they form.",
+    "C": "A scalar representing the magnitude of one vector projected onto the other.",
+    "D": "The length of the shorter vector."
+   },
+   "answer": "C",
+   "id": "t3"
+  },
+  {
+   "question": "If vector a = (2, 3) and vector b = (-1, 5), what is their dot product?",
+   "options": {
+    "A": "13",
+    "B": "17",
+    "C": "-13",
+    "D": "7"
+   },
+   "answer": "A",
+   "id": "t4"
+  },
+  {
+   "question": "Which of the following scenarios best illustrates the concept of duality in the context of dot products?",
+   "options": {
+    "A": "Adding two vectors tip-to-tail to find their resultant.",
+    "B": "Measuring the effect of a force along a particular axis using the dot product.",
+    "C": "Scaling a vector by multiplying by a number.",
+    "D": "Drawing a vector as an arrow on a plane."
+   },
+   "answer": "B",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 11,
+ "dev_leaked": []
+}

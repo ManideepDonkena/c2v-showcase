@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 56.44,
+  "s_sp": 71.1,
+  "s_ly": 29.5,
+  "s_ed": 50.0,
+  "states": 12,
+  "states_with_conflict": 10
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 56.44,
+   "conflicts": 6
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"i_label\" (created line 14, box [-0.065, 0.267, 0.065, 0.5]) overlaps Arrow \"i_hat\" (line 12, box [-0.062, 0.25, 0.063, 0.75]) by 96%; moving it by [-0.28, 0.0] would clear it"
+  }
+ ]
+}

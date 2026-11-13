@@ -1,0 +1,88 @@
+{
+ "topic": "Dapple numbers",
+ "base": {
+  "teachquiz": 62.5,
+  "teachquiz_clean": 62.5,
+  "none": 0.0,
+  "full": 62.5,
+  "evidence": 37.5,
+  "control_first_section": 75.0,
+  "control_other_topic": null,
+  "mvqs": 75.04,
+  "sections_rendered": 4
+ },
+ "learner": {
+  "teachquiz": 0.0,
+  "teachquiz_clean": 0.0,
+  "none": 0.0,
+  "full": 0.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 74.85,
+  "sections_rendered": 4,
+  "changed": [
+   "s1"
+  ],
+  "kept_by_dev": false
+ },
+ "generic": {
+  "teachquiz": 62.5,
+  "teachquiz_clean": 62.5,
+  "none": 0.0,
+  "full": 62.5,
+  "evidence": 37.5,
+  "control_first_section": 75.0,
+  "control_other_topic": null,
+  "mvqs": 72.46,
+  "sections_rendered": 4,
+  "changed": [
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "learner_all": {
+  "teachquiz": 0.0,
+  "teachquiz_clean": 0.0,
+  "none": 0.0,
+  "full": 0.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 77.28,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2"
+  ],
+  "kept_by_dev": false
+ },
+ "diagnosis": {
+  "gaps": [
+   "q2",
+   "q3",
+   "q5",
+   "q7",
+   "q9",
+   "q10",
+   "q12"
+  ],
+  "dev": 12,
+  "fixes": {
+   "s3": [
+    "Show the number '77' with its tens digit '7' and units digit '7' highlighted. Display an '=' sign between them to indicate they are equal, then turn the number red with the label 'Not Dapple (Tens = Units)'.",
+    "Show the number '44' with its tens digit and units digit highlighted. Display an equals sign between them to indicate they are equal, then mark it red with the label 'Not Dapple (Tens = Units)'.",
+    "Show the number '44' with an '=' sign between the digits, and show the number '10' with a '<' sign between its digits, labeling both as 'Not Dapple' to demonstrate that non-dapple numbers include cases where digits are equal or tens is less than units."
+   ],
+   "s1": [
+    "Show the number '10'. Highlight the tens digit '1' and the units digit '0'. Display a green '>' symbol between them with the text '1 > 0', confirming it is Dapple. Then show '11' turning red with an '=' sign, proving that 10 is the smallest because any smaller two-digit number (like those starting with 0) is not a two-digit number.",
+    "Show a one-digit number like '7'. Explain that for any one-digit number, the tens digit is 0 and the units digit is the number itself. Show the comparison '0 > 7' which is false, proving it is not dapple.",
+    "Show the number '98' with its digits highlighted. Animate a comparison operator '>' between the tens digit '9' and the units digit '8', turning green to indicate true. Display the text 'Tens > Units' to confirm it meets the definition of a dapple number."
+   ],
+   "s2": [
+    "Show the number 0 separately from the multiples of 10. Display a single digit '0' with no tens place. State that because it lacks a tens digit, it cannot satisfy the condition 'Tens > Units', and mark it as 'Not Dapple'."
+   ]
+  }
+ }
+}

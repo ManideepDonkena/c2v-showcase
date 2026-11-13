@@ -1,0 +1,13 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 45,
+  "scope": "line",
+  "error": "ValueError: latex error converting to dvi. See log output above or the log file: media/Tex/6f7b5692288f4ace.log\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ },
+ {
+  "attempt": 1,
+  "ok": true
+ }
+]

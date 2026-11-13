@@ -1,0 +1,29 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 11,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 11: TypeError: NumberLine() does not accept the keyword 'numbers_to_show' in this Manim\nline 11: TypeError: NumberLine() does not accept the keyword 'width' in this Manim\nHINT: Remove that keyword argument; set the property after creating the object."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 11,
+  "scope": "block",
+  "preflight": true,
+  "error": "line 11: TypeError: NumberLine() does not accept the keyword 'numbers_to_show' in this Manim\nline 11: TypeError: NumberLine() does not accept the keyword 'width' in this Manim\nHINT: Remove that keyword argument; set the property after creating the object."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 27,
+  "scope": "section",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

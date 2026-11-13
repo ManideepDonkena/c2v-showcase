@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 18,
+  "scope": "line",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() got an unexpected keyword argument 'x_range'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 24,
+  "scope": "block",
+  "error": "IndentationError: unexpected indent (s2.py, line 24)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 24,
+  "scope": "section",
+  "error": "IndentationError: unexpected indent (s2.py, line 24)"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 18,
+  "scope": "section",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() got an unexpected keyword argument 'x_range'"
+ }
+]

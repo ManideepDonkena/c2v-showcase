@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 23,
+  "scope": "line",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() got an unexpected keyword argument 'x'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 23,
+  "scope": "block",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() got an unexpected keyword argument 'x'"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 23,
+  "scope": "section",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() got an unexpected keyword argument 'point'"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 23,
+  "scope": "section",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() got an unexpected keyword argument 'x'"
+ }
+]

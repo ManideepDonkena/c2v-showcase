@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 84.22,
+  "s_sp": 98.5,
+  "s_ly": 36.9,
+  "s_ed": 92.0,
+  "states": 15,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 79.0,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 80.91,
+   "conflict": "Text \"rule_text\" (created line 28, box [-2.544, -0.726, 2.544, -0.393]) overlaps Cross \"cross\" (line 22, box [-1.5, -1.5, 1.5, 1.5]) by 59%; moving it by [0.0, -1.26] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.39,
+   "conflict": "Cross \"cross2\" (created line 55, box [-1.5, -1.5, 1.5, 1.5]) overlaps Text \"rule_text2\" (line 45, box [-2.544, -0.726, 2.544, -0.393]) by 59%; moving it by [0.0, 1.26] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.22,
+   "conflict": "Text \"div_text\" (created line 88, box [-2.364, -0.726, 2.364, -0.393]) overlaps Cross \"cross3\" (line 82, box [-1.5, -1.5, 1.5, 1.5]) by 63%; moving it by [0.0, -1.26] would clear it"
+  }
+ ]
+}

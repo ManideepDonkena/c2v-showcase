@@ -1,0 +1,27 @@
+{
+ "score": {
+  "mvqs": 88.14,
+  "s_sp": 98.1,
+  "s_ly": 45.5,
+  "s_ed": 100.0,
+  "states": 9,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 78.15,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.87,
+   "conflict": "MathTex \"proj_label\" (created line 39, box [1.699, 0.151, 3.301, 0.8]) overlaps Vector \"A\" (line 12, box [0.0, 0.0, 3.0, 1.055]) by 81%; moving it by [0.0, -0.95] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 88.14,
+   "conflict": "MathTex \"proj_label_new\" (created line 62, box [-0.301, 0.151, 1.301, 0.8]) overlaps Vector \"A\" (line 12, box [0.0, 0.0, 3.0, 1.055]) by 81%; moving it by [0.0, -0.95] would clear it"
+  }
+ ]
+}

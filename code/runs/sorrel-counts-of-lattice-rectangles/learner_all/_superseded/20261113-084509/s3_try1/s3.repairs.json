@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 20,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 20: SyntaxError: invalid syntax. Perhaps you forgot a comma?"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 20,
+  "scope": "block",
+  "preflight": true,
+  "error": "line 20: SyntaxError: invalid syntax. Perhaps you forgot a comma?"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 20,
+  "scope": "section",
+  "preflight": true,
+  "error": "line 20: SyntaxError: invalid syntax. Perhaps you forgot a comma?"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

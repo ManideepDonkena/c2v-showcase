@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 79.55,
+  "s_sp": 94.8,
+  "s_ly": 23.6,
+  "s_ed": 91.4,
+  "states": 21,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 76.54,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.55,
+   "conflict": "Arrow \"arrow1\" (created line 19, box [-0.859, -0.063, 0.84, 0.287]) overlaps Integer \"mobs1_group\" (line 12, box [-0.404, -0.111, -0.271, 0.111]) by 78%; moving it by [0.0, 0.32] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"sum2\" (created line 31, box [-0.994, 0.611, 0.319, 0.859]) overlaps MathTex \"sum1\" (line 30, box [-1.609, 0.611, -0.309, 0.863]) by 52%; moving it by [0.0, -0.4] would clear it"
+  }
+ ]
+}

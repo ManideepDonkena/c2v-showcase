@@ -1,0 +1,52 @@
+{
+ "kind": "f3",
+ "fixes": {
+  "s2": [
+   "SHOW the number 10 with its last digit '0' turning red and shaking, accompanied by a large red 'X'. SAY: 'Ending in 0 is NEVER Glint.'"
+  ],
+  "s1": [
+   "Show the number 22 with its last digit '2' pulsing. Display the equation '22 ÷ 2 = 11' with a green checkmark to demonstrate that it IS a Glint number, contrasting this success with the failure of non-divisible numbers like 26 shown in s4."
+  ]
+ },
+ "items": {
+  "q1": 0.996607,
+  "q2": 1.0,
+  "q3": 1.0,
+  "q4": 0.9999915,
+  "q6": 0.034189,
+  "q7": 0.9999990000000001,
+  "q9": 1.0,
+  "q10": 1.0,
+  "q11": 0.9999994999999999,
+  "q12": 0.000185
+ },
+ "qmap": {
+  "q1": "s3",
+  "q2": "s2",
+  "q3": "s4",
+  "q4": "s1",
+  "q6": "s1",
+  "q7": "s1",
+  "q9": "s4",
+  "q10": "s3",
+  "q11": "s2",
+  "q12": "s2"
+ },
+ "ochiai": {
+  "s1": 0.4082482904638631,
+  "s2": 0.4082482904638631,
+  "s3": 0.0,
+  "s4": 0.0
+ },
+ "chosen": [
+  "s1",
+  "s2"
+ ],
+ "k": 2,
+ "failing": [
+  "q12",
+  "q6"
+ ],
+ "refused": [],
+ "dev": 10
+}

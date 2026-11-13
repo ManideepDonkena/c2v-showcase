@@ -1,0 +1,4425 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      -1.5,
+      0.0
+     ],
+     "name": "path_a",
+     "line": 35,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      -2.0,
+      3.0,
+      0.0
+     ],
+     "name": "path_b",
+     "line": 40,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      -1.5,
+      0.0
+     ],
+     "name": "path_a",
+     "line": 35,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      -2.0,
+      3.0,
+      0.0
+     ],
+     "name": "path_b",
+     "line": 40,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.17,
+      -1.67,
+      0.212,
+      -1.421
+     ],
+     "name": "overlap_label",
+     "line": 54,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 66,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      -1.5,
+      0.0
+     ],
+     "name": "path_a",
+     "line": 35,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      -2.0,
+      3.0,
+      0.0
+     ],
+     "name": "path_b",
+     "line": 40,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.17,
+      -1.67,
+      0.212,
+      -1.421
+     ],
+     "name": "overlap_label",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 80,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point2",
+     "line": 78,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point2",
+     "line": 79,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 86,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point2",
+     "line": 78,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point2",
+     "line": 79,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "mapped_a",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "mapped_b",
+     "line": 80,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 88,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point2",
+     "line": 78,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point2",
+     "line": 79,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "mapped_a",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "mapped_b",
+     "line": 80,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.17,
+      -1.67,
+      0.047,
+      -1.421
+     ],
+     "name": "f_label",
+     "line": 87,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 92,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point2",
+     "line": 78,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point2",
+     "line": 79,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 98,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point2",
+     "line": 78,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point2",
+     "line": 79,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.5,
+      3.0,
+      -3.5
+     ],
+     "name": "tear_line",
+     "line": 95,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.824,
+      -3.25,
+      1.824,
+      -2.913
+     ],
+     "name": "tear_label",
+     "line": 97,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 102,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point2",
+     "line": 78,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point2",
+     "line": 79,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 112,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point2",
+     "line": 78,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point2",
+     "line": 79,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.88,
+      -3.08,
+      -1.72,
+      -2.92
+     ],
+     "name": "p1",
+     "line": 105,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.78,
+      -3.08,
+      -1.62,
+      -2.92
+     ],
+     "name": "p2",
+     "line": 106,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 114,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point2",
+     "line": 78,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point2",
+     "line": 79,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.88,
+      -3.08,
+      -1.72,
+      -2.92
+     ],
+     "name": "p1",
+     "line": 105,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.78,
+      -3.08,
+      -1.62,
+      -2.92
+     ],
+     "name": "p2",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.98,
+      -0.08,
+      -2.82,
+      0.08
+     ],
+     "name": "pre1",
+     "line": 109,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.82,
+      -0.08,
+      2.98,
+      0.08
+     ],
+     "name": "pre2",
+     "line": 110,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 123,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point2",
+     "line": 78,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point2",
+     "line": 79,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.88,
+      -3.08,
+      -1.72,
+      -2.92
+     ],
+     "name": "p1",
+     "line": 105,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.78,
+      -3.08,
+      -1.62,
+      -2.92
+     ],
+     "name": "p2",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.98,
+      -0.08,
+      -2.82,
+      0.08
+     ],
+     "name": "pre1",
+     "line": 109,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.82,
+      -0.08,
+      2.98,
+      0.08
+     ],
+     "name": "pre2",
+     "line": 110,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.8,
+      -3.0,
+      -1.7,
+      -3.0
+     ],
+     "name": "dist_square",
+     "line": 117,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.9,
+      0.0,
+      2.9,
+      0.0
+     ],
+     "name": "dist_line",
+     "line": 114,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 124,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      3.0,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point2",
+     "line": 78,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point2",
+     "line": 79,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.88,
+      -3.08,
+      -1.72,
+      -2.92
+     ],
+     "name": "p1",
+     "line": 105,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.78,
+      -3.08,
+      -1.62,
+      -2.92
+     ],
+     "name": "p2",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.98,
+      -0.08,
+      -2.82,
+      0.08
+     ],
+     "name": "pre1",
+     "line": 109,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.82,
+      -0.08,
+      2.98,
+      0.08
+     ],
+     "name": "pre2",
+     "line": 110,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.8,
+      -3.0,
+      -1.7,
+      -3.0
+     ],
+     "name": "dist_square",
+     "line": 117,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.9,
+      0.0,
+      2.9,
+      0.0
+     ],
+     "name": "dist_line",
+     "line": 114,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.445,
+      -2.75,
+      -1.055,
+      -2.501
+     ],
+     "name": "dist_label_sq",
+     "line": 112,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.305,
+      -0.531,
+      1.305,
+      -0.25
+     ],
+     "name": "dist_label_line",
+     "line": 121,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 128,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "line",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.461,
+      -0.499,
+      0.461,
+      -0.25
+     ],
+     "name": "line_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point",
+     "line": 17,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.083,
+      -0.523,
+      -2.917,
+      -0.33
+     ],
+     "name": "a_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.914,
+      -0.523,
+      3.086,
+      -0.33
+     ],
+     "name": "b_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -3.5,
+      2.0,
+      0.5
+     ],
+     "name": "square",
+     "line": 27,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.074,
+      0.75,
+      0.074,
+      0.931
+     ],
+     "name": "square_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.08,
+      -1.42,
+      -1.92
+     ],
+     "name": "overlap",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -3.58,
+      -1.92,
+      -3.42
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -3.358,
+      -1.42,
+      -3.198
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -3.136,
+      -0.92,
+      -2.976
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.913,
+      -1.92,
+      -2.753
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.691,
+      -1.42,
+      -2.531
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -2.469,
+      -0.92,
+      -2.309
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.247,
+      -1.92,
+      -2.087
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.58,
+      -2.024,
+      -1.42,
+      -1.864
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.08,
+      -1.802,
+      -0.92,
+      -1.642
+     ],
+     "name": "all_points",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "p",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -0.08,
+      -2.92,
+      0.08
+     ],
+     "name": "a_point2",
+     "line": 78,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "b_point2",
+     "line": 79,
+     "type": "Dot"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

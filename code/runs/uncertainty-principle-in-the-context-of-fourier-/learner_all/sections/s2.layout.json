@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 89.54,
+  "s_sp": 94.6,
+  "s_ly": 79.1,
+  "s_ed": 88.0,
+  "states": 25,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 89.35,
+   "conflicts": 1
+  },
+  {
+   "level": "block",
+   "mvqs": 89.54,
+   "conflict": "Rectangle \"brick_wall\" (created line 114, box [-0.25, 0.0, 0.25, 3.0]) overlaps Text \"freq_label\" (line 28, box [-1.509, 2.75, 1.509, 3.084]) by 12%; moving it by [0.0, -0.4] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Rectangle \"brick_wall\" (created line 114, box [-0.25, -0.4, 0.25, 2.6]) overlaps Text \"time_label\" (line 17, box [-1.067, -0.25, 1.067, 0.007]) by 23%; moving it by [0.0, 0.56] would clear it"
+  }
+ ]
+}

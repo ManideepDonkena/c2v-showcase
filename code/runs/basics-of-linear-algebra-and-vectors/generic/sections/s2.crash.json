@@ -1,0 +1,132 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.85,
+      3.116,
+      1.85,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 12,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.85,
+      3.116,
+      1.85,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.776,
+      -0.888,
+      -0.224,
+      0.888
+     ],
+     "name": "A",
+     "line": 10,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.024,
+      1.088,
+      0.363,
+      1.57
+     ],
+     "name": "A_label",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.85,
+      3.116,
+      1.85,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.776,
+      -0.888,
+      -0.224,
+      0.888
+     ],
+     "name": "A",
+     "line": 10,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.024,
+      1.088,
+      0.363,
+      1.57
+     ],
+     "name": "A_label",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.861,
+      -0.792,
+      -2.139,
+      1.792
+     ],
+     "name": "B",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.939,
+      1.992,
+      -1.568,
+      2.474
+     ],
+     "name": "B_label",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "AttributeError",
+  "message": "Arrow object has no attribute 'move_arc_center_to'",
+  "line": 23
+ }
+}

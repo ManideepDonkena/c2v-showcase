@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 85.55,
+  "s_sp": 87.8,
+  "s_ly": 64.3,
+  "s_ed": 96.0,
+  "states": 20,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 65.32,
+   "conflicts": 8
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.55,
+   "conflict": "Arrow \"arrow\" (created line 13, box [-6.043, 1.685, -5.718, 2.985]) overlaps MathTex \"v2\" (line 12, box [-6.619, 2.42, -5.141, 2.835]) by 31%; moving it by [0.0, -0.71] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Rectangle \"formula_box\" (created line 23, box [-8.88, -1.275, -2.88, 0.725]) is outside the frame; shift it by [1.92, 0.0]"
+  }
+ ]
+}

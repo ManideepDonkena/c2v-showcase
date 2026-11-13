@@ -1,0 +1,250 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 43,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 35,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.238,
+      0.565
+     ],
+     "name": "i_label",
+     "line": 36,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 35,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.238,
+      0.565
+     ],
+     "name": "i_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 22,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.1,
+      1.1,
+      0.304,
+      1.662
+     ],
+     "name": "j_label",
+     "line": 40,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "object of type 'function' has no len()",
+  "line": 52
+ }
+}

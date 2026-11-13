@@ -1,0 +1,241 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "gaussian1",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.04,
+      0.002,
+      6.96,
+      0.199
+     ],
+     "name": "gaussian2",
+     "line": 21,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      10.0,
+      0.178
+     ],
+     "name": "gaussian1",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      10.0,
+      0.178
+     ],
+     "name": "gaussian2",
+     "line": 21,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.141,
+      -3.0,
+      1.141,
+      -2.725
+     ],
+     "name": "mean_label",
+     "line": 53,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 60,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.141,
+      -3.0,
+      1.141,
+      -2.725
+     ],
+     "name": "mean_label",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.135,
+      -3.602,
+      1.135,
+      -3.25
+     ],
+     "name": "var_label",
+     "line": 58,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 64,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.867,
+      -3.5,
+      2.867,
+      -3.243
+     ],
+     "name": "closure_text",
+     "line": 68,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": []
+  }
+ ],
+ "error": null
+}

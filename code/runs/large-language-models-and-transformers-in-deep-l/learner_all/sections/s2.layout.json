@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 66.99,
+  "s_sp": 72.2,
+  "s_ly": 75.9,
+  "s_ed": 52.3,
+  "states": 15,
+  "states_with_conflict": 11
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 63.14,
+   "conflicts": 16
+  },
+  {
+   "level": "shift",
+   "mvqs": 65.5,
+   "conflict": "Rectangle \"merged\" (created line 20, box [-1.0, -2.5, 1.0, -1.5]) overlaps Text \"head4\" (line 14, box [-2.17, -1.667, 2.17, -1.333]) by 23%; moving it by [0.0, -0.32] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 66.99,
+   "conflict": "Text \"rnn_text\" (created line 26, box [-2.18, 1.166, 2.18, 1.5]) overlaps Text \"head1\" (line 11, box [-1.633, 1.333, 1.633, 1.667]) by 50%; moving it by [0.0, -0.32] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"rnn_text\" (created line 26, box [-2.19, 1.24, 2.19, 1.5]) overlaps Text \"head1\" (line 11, box [-1.633, 1.333, 1.633, 1.667]) by 50%; moving it by [0.0, -0.32] would clear it"
+  }
+ ]
+}

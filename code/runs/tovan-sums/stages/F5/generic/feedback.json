@@ -1,0 +1,35 @@
+{
+ "stage": "F5",
+ "mode": "generic",
+ "features": [
+  "gate",
+  "leak_gate",
+  "minimal_edit",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s2": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s2",
+  "s4"
+ ],
+ "edit_size": {
+  "s2": 0.06,
+  "s4": 0.091
+ },
+ "diagnosis": "f4",
+ "dev_before": 0.7852851999999999,
+ "dev_after": 0.73549435,
+ "mvqs_before": 84.3,
+ "mvqs_after": 85.09,
+ "kept": false,
+ "served": "base"
+}

@@ -1,0 +1,38 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q1",
+  "q3",
+  "q8",
+  "q10",
+  "q12",
+  "q14",
+  "q17",
+  "q20",
+  "q24"
+ ],
+ "fixes": {
+  "s4": [
+   "A clear, static display of the equation 'a² + b² = c²' with a legend explicitly defining 'a' and 'b' as the legs and 'c' as the hypotenuse, ensuring the student knows which variable corresponds to which side.",
+   "An algebraic manipulation example showing how to isolate a variable, specifically demonstrating 'b² = c² - a²' and then taking the square root of both sides to find 'b'."
+  ],
+  "s3": [
+   "A step-by-step calculation demonstration: showing the square root operation applied to the sum of the areas (e.g., '√25 = 5') to derive the length of side 'c', rather than just showing the area equality.",
+   "A visual or numerical example involving irrational numbers, such as showing that when legs are 1 and 1, the hypotenuse length is '√2' (approx 1.41), not a whole number, to introduce non-integer results.",
+   "A calculation sequence for larger numbers: explicitly showing '9² = 81' and '12² = 144', summing them to get '225', and then identifying that '√225 = 15'.",
+   "A calculation sequence for larger numbers: explicitly showing '5² = 25' and '12² = 144', summing them to get '169', and then identifying that '√169 = 13'.",
+   "A side-by-side comparison: showing the incorrect method (adding lengths 'a + b') resulting in a wrong length, contrasted with the correct method (squaring areas first) to highlight why squaring is necessary.",
+   "A calculation sequence for larger numbers: explicitly showing '9² = 81' and '40² = 1600', summing them to get '1681', and then identifying that '√1681 = 41'.",
+   "A calculation sequence for larger numbers: explicitly showing '15² = 225' and '8² = 64', summing them to get '289', and then identifying that '√289 = 17'."
+  ]
+ },
+ "changed": [
+  "s3"
+ ],
+ "dev_before": 20.0,
+ "dev_after": 30.0,
+ "mvqs_before": 87.36,
+ "mvqs_after": 84.01,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/pythagoras-theorem/round1"
+}

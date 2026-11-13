@@ -1,0 +1,29 @@
+{
+ "stage": "F4",
+ "mode": "learner",
+ "features": [
+  "gate",
+  "leak_gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s1": [
+   "SHOW a triangle with sides labeled '5', '7', and '8' (identifying 8 as longest and 5 as shortest). SAY: 'Check the rule: Is twice the longest side at most three times the shortest?' SHOW the calculation '2 × 8 ≤ 3 × 5' animating in, which resolves to '16 ≤ 15'. SHOW a red X or pulse red to indicate the condition fails."
+  ]
+ },
+ "changed": [
+  "s1"
+ ],
+ "edit_size": {
+  "s1": 0.746
+ },
+ "diagnosis": "f4",
+ "dev_before": 0.8162924545454545,
+ "dev_after": 0.8466966818181819,
+ "mvqs_before": 85.12,
+ "mvqs_after": 82.87,
+ "kept": true,
+ "served": "revision"
+}

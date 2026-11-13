@@ -1,0 +1,198 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the characteristic equation used to find eigenvalues for a 2x2 matrix A?",
+   "options": {
+    "A": "det(A - λI) = 0",
+    "B": "det(A + λI) = 0",
+    "C": "trace(A) - λ = 0",
+    "D": "det(A) * λ = 1"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q2",
+   "question": "If a matrix A has eigenvalues 3 and -2, what is the trace of A?",
+   "options": {
+    "A": "1",
+    "B": "5",
+    "C": "-6",
+    "D": "0"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q3",
+   "question": "If a matrix A has eigenvalues 3 and -2, what is the determinant of A?",
+   "options": {
+    "A": "-6",
+    "B": "1",
+    "C": "5",
+    "D": "0"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q4",
+   "question": "Consider matrix A = [[2, 0], [0, 5]]. What are its eigenvalues?",
+   "options": {
+    "A": "2 and 5",
+    "B": "7 and -3",
+    "C": "1 and 10",
+    "D": "0 and 7"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q5",
+   "question": "Consider matrix A = [[1, 1], [0, 1]]. What are its eigenvalues?",
+   "options": {
+    "A": "1 and 1",
+    "B": "0 and 2",
+    "C": "1 and 0",
+    "D": "2 and 1"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q6",
+   "question": "Why is the sum of eigenvalues equal to the trace of a 2x2 matrix?",
+   "options": {
+    "A": "From Vieta's formulas on char poly",
+    "B": "Because det(A) = trace(A)",
+    "C": "It is always true for symmetric matrices only",
+    "D": "Due to the Cayley-Hamilton theorem"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q7",
+   "question": "If det(A) = 0, what can be said about the eigenvalues of A?",
+   "options": {
+    "A": "At least one is zero",
+    "B": "Both are non-zero",
+    "C": "They are complex conjugates",
+    "D": "They are equal to the trace"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q8",
+   "question": "Matrix A = [[0, -1], [1, 0]]. What are its eigenvalues?",
+   "options": {
+    "A": "i and -i",
+    "B": "1 and -1",
+    "C": "0 and 0",
+    "D": "2 and -2"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q9",
+   "question": "What is a common misconception about eigenvectors corresponding to distinct eigenvalues?",
+   "options": {
+    "A": "They must be orthogonal",
+    "B": "They are always unit vectors",
+    "C": "They are linearly independent",
+    "D": "They are unique up to scaling"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q10",
+   "question": "If A is invertible, how do the eigenvalues of A⁻¹ relate to those of A?",
+   "options": {
+    "A": "They are reciprocals",
+    "B": "They are negatives",
+    "C": "They are squares",
+    "D": "They are identical"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q11",
+   "question": "Matrix A = [[3, 1], [0, 2]]. What is the eigenvalue associated with eigenvector [1, 0]?",
+   "options": {
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "0"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q12",
+   "question": "If a 2x2 matrix has real, distinct eigenvalues, is it necessarily diagonalizable?",
+   "options": {
+    "A": "Yes",
+    "B": "No",
+    "C": "Only if symmetric",
+    "D": "Only if positive"
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "What is an eigenvalue of a matrix, in the context of linear transformations?",
+   "options": {
+    "A": "A number that represents how a matrix stretches or shrinks specific directions in space.",
+    "B": "Any number you can multiply by a matrix.",
+    "C": "A value that only works for square matrices larger than 2x2.",
+    "D": "The same as the determinant of the matrix."
+   },
+   "answer": "A",
+   "id": "t1"
+  },
+  {
+   "question": "For the 2x2 matrix [[a, b], [c, d]], what is the formula for its determinant?",
+   "options": {
+    "A": "a + d",
+    "B": "ad - bc",
+    "C": "ab + cd",
+    "D": "a - b + c - d"
+   },
+   "answer": "B",
+   "id": "t2"
+  },
+  {
+   "question": "Which equation must you solve to find the eigenvalues of a 2x2 matrix A?",
+   "options": {
+    "A": "A + \\u03bbI = 0",
+    "B": "A - I = 0",
+    "C": "det(A - \\u03bb I) = 0",
+    "D": "tr(A) - \\u03bb = 0"
+   },
+   "answer": "C",
+   "id": "t3"
+  },
+  {
+   "question": "Given the 'Bunny Matrix' [[2, 0], [0, 3]], what are its eigenvalues?",
+   "options": {
+    "A": "0 and 1",
+    "B": "2 and 3",
+    "C": "2 and -3",
+    "D": "5 and 6"
+   },
+   "answer": "B",
+   "id": "t4"
+  },
+  {
+   "question": "Which of the following best describes a real-life application of eigenvalues?",
+   "options": {
+    "A": "They only help calculate addition of matrices.",
+    "B": "They determine the stability and behavior of systems like robots or populations.",
+    "C": "They are only needed to find the size of a matrix.",
+    "D": "They are used only to draw pictures."
+   },
+   "answer": "B",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 12,
+ "dev_leaked": []
+}

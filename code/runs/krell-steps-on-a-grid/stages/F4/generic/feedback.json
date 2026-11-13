@@ -1,0 +1,29 @@
+{
+ "stage": "F4",
+ "mode": "generic",
+ "features": [
+  "gate",
+  "leak_gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s4"
+ ],
+ "edit_size": {
+  "s4": 0.485
+ },
+ "diagnosis": "f4",
+ "dev_before": 0.711144,
+ "dev_after": 0.7375628333333334,
+ "mvqs_before": 79.29,
+ "mvqs_after": 82.14,
+ "kept": true,
+ "served": "revision"
+}

@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 81.13,
+  "s_sp": 91.2,
+  "s_ly": 59.9,
+  "s_ed": 78.5,
+  "states": 13,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 81.03,
+   "conflicts": 4
+  },
+  {
+   "level": "block",
+   "mvqs": 81.06,
+   "conflict": "MathTex \"rect_label2\" (created line 37, box [-0.267, -2.419, 0.267, -2.25]) overlaps MathTex \"edge_label1\" (line 20, box [-0.525, -2.321, 0.525, -2.097]) by 42%; moving it by [0.0, -0.22] would clear it"
+  },
+  {
+   "level": "section",
+   "mvqs": 81.13,
+   "conflict": "MathTex \"rect_label2\" (created line 37, box [-0.732, -2.421, 0.732, -2.25]) overlaps MathTex \"edge_label1\" (line 20, box [-0.525, -2.321, 0.525, -2.097]) by 31%; moving it by [0.0, -0.22] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"rect_label2\" (created line 37, box [-0.267, -2.419, 0.267, -2.25]) overlaps MathTex \"edge_label1\" (line 20, box [-0.525, -2.321, 0.525, -2.097]) by 42%; moving it by [0.0, -0.22] would clear it"
+  }
+ ]
+}

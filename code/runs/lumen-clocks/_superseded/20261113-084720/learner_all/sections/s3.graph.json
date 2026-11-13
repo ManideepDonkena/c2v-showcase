@@ -1,0 +1,5658 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.375,
+      -1.318,
+      -3.3,
+      -1.018
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.375,
+      -1.318,
+      -3.3,
+      -1.018
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.715,
+      -3.5,
+      0.715,
+      -3.255
+     ],
+     "name": "narration1",
+     "line": 32,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 39,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.844,
+      -3.144,
+      1.919,
+      -2.844
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.715,
+      -3.5,
+      0.715,
+      -3.255
+     ],
+     "name": "narration1",
+     "line": 32,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.462,
+      2.35,
+      2.538,
+      2.65
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.715,
+      -3.5,
+      0.715,
+      -3.255
+     ],
+     "name": "narration1",
+     "line": 32,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.462,
+      2.35,
+      2.538,
+      2.65
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.737,
+      -3.68,
+      4.737,
+      -3.346
+     ],
+     "name": "narration2",
+     "line": 54,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 60,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.844,
+      -3.144,
+      1.919,
+      -2.844
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.737,
+      -3.68,
+      4.737,
+      -3.346
+     ],
+     "name": "narration2",
+     "line": 54,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.844,
+      -3.144,
+      1.919,
+      -2.844
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.737,
+      -3.68,
+      4.737,
+      -3.346
+     ],
+     "name": "narration2",
+     "line": 54,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.599,
+      -1.851,
+      1.357,
+      -1.672
+     ],
+     "name": "mark5_label",
+     "line": 67,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.462,
+      2.35,
+      2.538,
+      2.65
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.737,
+      -3.68,
+      4.737,
+      -3.346
+     ],
+     "name": "narration2",
+     "line": 54,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.599,
+      -1.851,
+      1.357,
+      -1.672
+     ],
+     "name": "mark5_label",
+     "line": 67,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.462,
+      2.35,
+      2.538,
+      2.65
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.737,
+      -3.68,
+      4.737,
+      -3.346
+     ],
+     "name": "narration2",
+     "line": 54,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 83,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.433,
+      3.363,
+      -0.358,
+      3.663
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.737,
+      -3.68,
+      4.737,
+      -3.346
+     ],
+     "name": "narration2",
+     "line": 54,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 90,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.375,
+      -1.318,
+      -3.3,
+      -1.018
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.737,
+      -3.68,
+      4.737,
+      -3.346
+     ],
+     "name": "narration2",
+     "line": 54,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 99,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.375,
+      -1.318,
+      -3.3,
+      -1.018
+     ],
+     "name": "hand",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      -3.68,
+      3.194,
+      -3.346
+     ],
+     "name": "narration3",
+     "line": 97,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 103,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 117,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.812,
+      2.652,
+      -0.652,
+      2.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.812,
+      0.652,
+      -2.652,
+      0.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.08,
+      -1.92,
+      -1.92
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.652,
+      -2.812,
+      0.812,
+      -2.652
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.652,
+      -0.812,
+      2.812,
+      -0.652
+     ],
+     "name": "mark",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.214,
+      1.352,
+      1.386
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.517,
+      1.693,
+      -0.435,
+      1.859
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.826,
+      0.393,
+      -1.726,
+      0.559
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.352,
+      -1.386,
+      -1.248,
+      -1.214
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.421,
+      -1.86,
+      0.531,
+      -1.692
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.726,
+      -0.562,
+      1.826,
+      -0.39
+     ],
+     "name": "label",
+     "line": 113,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 122,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.812,
+      2.652,
+      -0.652,
+      2.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.812,
+      0.652,
+      -2.652,
+      0.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.08,
+      -1.92,
+      -1.92
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.652,
+      -2.812,
+      0.812,
+      -2.652
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.652,
+      -0.812,
+      2.812,
+      -0.652
+     ],
+     "name": "mark",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.214,
+      1.352,
+      1.386
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.517,
+      1.693,
+      -0.435,
+      1.859
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.826,
+      0.393,
+      -1.726,
+      0.559
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.352,
+      -1.386,
+      -1.248,
+      -1.214
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.421,
+      -1.86,
+      0.531,
+      -1.692
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.726,
+      -0.562,
+      1.826,
+      -0.39
+     ],
+     "name": "label",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.962,
+      1.85,
+      2.038,
+      2.15
+     ],
+     "name": "hand6",
+     "line": 120,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 128,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.812,
+      2.652,
+      -0.652,
+      2.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.812,
+      0.652,
+      -2.652,
+      0.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.08,
+      -1.92,
+      -1.92
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.652,
+      -2.812,
+      0.812,
+      -2.652
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.652,
+      -0.812,
+      2.812,
+      -0.652
+     ],
+     "name": "mark",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.214,
+      1.352,
+      1.386
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.517,
+      1.693,
+      -0.435,
+      1.859
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.826,
+      0.393,
+      -1.726,
+      0.559
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.352,
+      -1.386,
+      -1.248,
+      -1.214
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.421,
+      -1.86,
+      0.531,
+      -1.692
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.726,
+      -0.562,
+      1.826,
+      -0.39
+     ],
+     "name": "label",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.77,
+      0.582,
+      -2.695,
+      0.882
+     ],
+     "name": "hand6",
+     "line": 120,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 128,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.812,
+      2.652,
+      -0.652,
+      2.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.812,
+      0.652,
+      -2.652,
+      0.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.08,
+      -1.92,
+      -1.92
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.652,
+      -2.812,
+      0.812,
+      -2.652
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.652,
+      -0.812,
+      2.812,
+      -0.652
+     ],
+     "name": "mark",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.214,
+      1.352,
+      1.386
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.517,
+      1.693,
+      -0.435,
+      1.859
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.826,
+      0.393,
+      -1.726,
+      0.559
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.352,
+      -1.386,
+      -1.248,
+      -1.214
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.421,
+      -1.86,
+      0.531,
+      -1.692
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.726,
+      -0.562,
+      1.826,
+      -0.39
+     ],
+     "name": "label",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.695,
+      -2.882,
+      0.77,
+      -2.582
+     ],
+     "name": "hand6",
+     "line": 120,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 128,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.812,
+      2.652,
+      -0.652,
+      2.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.812,
+      0.652,
+      -2.652,
+      0.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.08,
+      -1.92,
+      -1.92
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.652,
+      -2.812,
+      0.812,
+      -2.652
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.652,
+      -0.812,
+      2.812,
+      -0.652
+     ],
+     "name": "mark",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.214,
+      1.352,
+      1.386
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.517,
+      1.693,
+      -0.435,
+      1.859
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.826,
+      0.393,
+      -1.726,
+      0.559
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.352,
+      -1.386,
+      -1.248,
+      -1.214
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.421,
+      -1.86,
+      0.531,
+      -1.692
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.726,
+      -0.562,
+      1.826,
+      -0.39
+     ],
+     "name": "label",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.962,
+      1.85,
+      2.038,
+      2.15
+     ],
+     "name": "hand6",
+     "line": 120,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 137,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.812,
+      2.652,
+      -0.652,
+      2.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.812,
+      0.652,
+      -2.652,
+      0.812
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -2.08,
+      -1.92,
+      -1.92
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.652,
+      -2.812,
+      0.812,
+      -2.652
+     ],
+     "name": "clock6_group",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.652,
+      -0.812,
+      2.812,
+      -0.652
+     ],
+     "name": "mark",
+     "line": 112,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.214,
+      1.352,
+      1.386
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.517,
+      1.693,
+      -0.435,
+      1.859
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.826,
+      0.393,
+      -1.726,
+      0.559
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.352,
+      -1.386,
+      -1.248,
+      -1.214
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.421,
+      -1.86,
+      0.531,
+      -1.692
+     ],
+     "name": "clock6_group",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.726,
+      -0.562,
+      1.826,
+      -0.39
+     ],
+     "name": "label",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.962,
+      1.85,
+      2.038,
+      2.15
+     ],
+     "name": "hand6",
+     "line": 120,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.121,
+      -3.68,
+      2.121,
+      -3.346
+     ],
+     "name": "narration4",
+     "line": 135,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 141,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 145,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 150,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.375,
+      -1.318,
+      -3.3,
+      -1.018
+     ],
+     "name": "hand",
+     "line": 148,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 163,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.375,
+      -1.318,
+      -3.3,
+      -1.018
+     ],
+     "name": "hand",
+     "line": 148,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.4,
+      -1.2,
+      -1.6,
+      -0.8
+     ],
+     "name": "block1",
+     "line": 26,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.6,
+      -1.2,
+      -0.8,
+      -0.8
+     ],
+     "name": "block2",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.8,
+      -1.2,
+      -0.0,
+      -0.8
+     ],
+     "name": "block3",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.0,
+      -1.2,
+      0.8,
+      -0.8
+     ],
+     "name": "block4",
+     "line": 157,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.8,
+      -1.2,
+      1.6,
+      -0.8
+     ],
+     "name": "block5",
+     "line": 158,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.6,
+      -1.2,
+      2.4,
+      -0.8
+     ],
+     "name": "block6",
+     "line": 159,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -1.2,
+      3.2,
+      -0.8
+     ],
+     "name": "block7",
+     "line": 150,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 167,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.375,
+      -1.318,
+      -3.3,
+      -1.018
+     ],
+     "name": "hand",
+     "line": 148,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.4,
+      -1.2,
+      -1.6,
+      -0.8
+     ],
+     "name": "block1",
+     "line": 26,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.6,
+      -1.2,
+      -0.8,
+      -0.8
+     ],
+     "name": "block2",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.8,
+      -1.2,
+      -0.0,
+      -0.8
+     ],
+     "name": "block3",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.0,
+      -1.2,
+      0.8,
+      -0.8
+     ],
+     "name": "block4",
+     "line": 157,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.8,
+      -1.2,
+      1.6,
+      -0.8
+     ],
+     "name": "block5",
+     "line": 158,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.6,
+      -1.2,
+      2.4,
+      -0.8
+     ],
+     "name": "block6",
+     "line": 159,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -1.2,
+      3.2,
+      -0.8
+     ],
+     "name": "block7",
+     "line": 150,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.296,
+      -0.55,
+      1.096,
+      -0.332
+     ],
+     "name": "total_distance",
+     "line": 166,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 171,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.463,
+      2.35,
+      2.538,
+      2.65
+     ],
+     "name": "hand",
+     "line": 148,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.4,
+      -1.2,
+      -1.6,
+      -0.8
+     ],
+     "name": "block1",
+     "line": 26,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.6,
+      -1.2,
+      -0.8,
+      -0.8
+     ],
+     "name": "block2",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.8,
+      -1.2,
+      -0.0,
+      -0.8
+     ],
+     "name": "block3",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.0,
+      -1.2,
+      0.8,
+      -0.8
+     ],
+     "name": "block4",
+     "line": 157,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.8,
+      -1.2,
+      1.6,
+      -0.8
+     ],
+     "name": "block5",
+     "line": 158,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.6,
+      -1.2,
+      2.4,
+      -0.8
+     ],
+     "name": "block6",
+     "line": 159,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -1.2,
+      3.2,
+      -0.8
+     ],
+     "name": "block7",
+     "line": 150,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.296,
+      -0.55,
+      1.096,
+      -0.332
+     ],
+     "name": "total_distance",
+     "line": 166,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 180,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.463,
+      2.35,
+      2.538,
+      2.65
+     ],
+     "name": "hand",
+     "line": 148,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.4,
+      -1.2,
+      -1.6,
+      -0.8
+     ],
+     "name": "block1",
+     "line": 26,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.6,
+      -1.2,
+      -0.8,
+      -0.8
+     ],
+     "name": "block2",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.8,
+      -1.2,
+      -0.0,
+      -0.8
+     ],
+     "name": "block3",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.0,
+      -1.2,
+      0.8,
+      -0.8
+     ],
+     "name": "block4",
+     "line": 157,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.8,
+      -1.2,
+      1.6,
+      -0.8
+     ],
+     "name": "block5",
+     "line": 158,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.6,
+      -1.2,
+      2.4,
+      -0.8
+     ],
+     "name": "block6",
+     "line": 159,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -1.2,
+      3.2,
+      -0.8
+     ],
+     "name": "block7",
+     "line": 150,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.296,
+      -0.55,
+      1.096,
+      -0.332
+     ],
+     "name": "total_distance",
+     "line": 166,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.951,
+      -3.68,
+      3.951,
+      -3.343
+     ],
+     "name": "final_text",
+     "line": 178,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 183,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.0,
+      2.168,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.42,
+      2.64,
+      2.58,
+      2.8
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.476,
+      3.653,
+      -0.316,
+      3.813
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.074,
+      2.021,
+      -2.914,
+      2.181
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.417,
+      -1.028,
+      -3.257,
+      -0.868
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.248,
+      -3.197,
+      -1.088,
+      -3.037
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.801,
+      -2.854,
+      1.961,
+      -2.694
+     ],
+     "name": "clock_group",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.433,
+      -0.256,
+      3.593,
+      -0.096
+     ],
+     "name": "mark",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.248,
+      1.434,
+      1.352,
+      1.606
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.247,
+      1.964,
+      -0.165,
+      2.13
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.606,
+      1.115,
+      -1.507,
+      1.281
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.787,
+      -0.473,
+      -1.684,
+      -0.302
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -1.6,
+      -0.552,
+      -1.431
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.928,
+      -1.422,
+      1.028,
+      -1.251
+     ],
+     "name": "clock_group",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.775,
+      -0.072,
+      1.879,
+      0.1
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.463,
+      2.35,
+      2.538,
+      2.65
+     ],
+     "name": "hand",
+     "line": 148,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.4,
+      -1.2,
+      -1.6,
+      -0.8
+     ],
+     "name": "block1",
+     "line": 26,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.6,
+      -1.2,
+      -0.8,
+      -0.8
+     ],
+     "name": "block2",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.8,
+      -1.2,
+      -0.0,
+      -0.8
+     ],
+     "name": "block3",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.0,
+      -1.2,
+      0.8,
+      -0.8
+     ],
+     "name": "block4",
+     "line": 157,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.8,
+      -1.2,
+      1.6,
+      -0.8
+     ],
+     "name": "block5",
+     "line": 158,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.6,
+      -1.2,
+      2.4,
+      -0.8
+     ],
+     "name": "block6",
+     "line": 159,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -1.2,
+      3.2,
+      -0.8
+     ],
+     "name": "block7",
+     "line": 150,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.296,
+      -0.55,
+      1.096,
+      -0.332
+     ],
+     "name": "total_distance",
+     "line": 166,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.951,
+      -3.68,
+      3.951,
+      -3.343
+     ],
+     "name": "final_text",
+     "line": 178,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

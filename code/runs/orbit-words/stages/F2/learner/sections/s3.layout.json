@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 72.4,
+  "s_sp": 81.1,
+  "s_ly": 45.2,
+  "s_ed": 76.0,
+  "states": 10,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 66.57,
+   "conflicts": 4
+  },
+  {
+   "level": "block",
+   "mvqs": 69.0,
+   "conflict": "Text \"None\" (created line 26, box [-0.356, -0.198, 0.356, 0.198]) overlaps Text \"None\" (line 22, box [-0.529, -0.198, 0.529, 0.198]) by 100%; moving it by [0.0, 0.55] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 70.89,
+   "conflict": "Text \"None\" (created line 26, box [-0.529, -0.198, 0.529, 0.198]) overlaps Text \"None\" (line 26, box [-0.356, -0.198, 0.356, 0.198]) by 100%; moving it by [0.0, 0.55] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 72.4,
+   "conflict": "Text \"None\" (created line 26, box [-0.529, -0.198, 0.529, 0.198]) overlaps Text \"None\" (line 26, box [-0.356, -0.198, 0.356, 0.198]) by 100%; moving it by [0.0, 0.55] would clear it"
+  }
+ ]
+}

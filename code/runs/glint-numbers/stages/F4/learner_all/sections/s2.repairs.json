@@ -1,0 +1,34 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 17,
+  "scope": "line",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 16,
+  "scope": "block",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 33,
+  "scope": "section",
+  "error": "UnboundLocalError: cannot access local variable 'zero' where it is not associated with a value"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 42,
+  "scope": "section",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 4,
+  "ok": true
+ }
+]

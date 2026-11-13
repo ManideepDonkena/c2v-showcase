@@ -1,0 +1,274 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      2.6
+     ],
+     "name": "triangle",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -0.363,
+      0.057,
+      -0.25
+     ],
+     "name": "a_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.954,
+      -0.426,
+      3.046,
+      -0.25
+     ],
+     "name": "b_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.452,
+      2.85,
+      1.548,
+      2.963
+     ],
+     "name": "c_label",
+     "line": 16,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      2.6
+     ],
+     "name": "triangle",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -0.363,
+      0.057,
+      -0.25
+     ],
+     "name": "a_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.954,
+      -0.426,
+      3.046,
+      -0.25
+     ],
+     "name": "b_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.452,
+      2.85,
+      1.548,
+      2.963
+     ],
+     "name": "c_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.94,
+      -0.133,
+      0.94,
+      0.133
+     ],
+     "name": "inequality_text",
+     "line": 22,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      2.6
+     ],
+     "name": "triangle",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -0.363,
+      0.057,
+      -0.25
+     ],
+     "name": "a_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.954,
+      -0.426,
+      3.046,
+      -0.25
+     ],
+     "name": "b_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.452,
+      2.85,
+      1.548,
+      2.963
+     ],
+     "name": "c_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.784,
+      -0.133,
+      0.784,
+      0.133
+     ],
+     "name": "inequality_text",
+     "line": 22,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.784,
+      -0.133,
+      0.784,
+      0.133
+     ],
+     "name": "inequality_text",
+     "line": 22,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "AttributeError",
+  "message": "Polygon object has no attribute 'vertices'",
+  "line": 39
+ }
+}

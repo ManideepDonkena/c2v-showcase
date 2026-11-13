@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 16,
+  "scope": "line",
+  "error": "NameError: name 'cos' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 16,
+  "scope": "block",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() takes 1 positional argument but 2 were given\nHINT: That get_... method does not exist in Manim CE: Mobject turns unknown get_* names into attribute getters that take no arguments. Compute the value yourself (e.g. np.linalg.norm(p2 - p1) on get_vertices() points)."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 39,
+  "scope": "section",
+  "error": "NameError: name 'cos' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 45,
+  "scope": "section",
+  "error": "ValueError: latex error converting to dvi. See log output above or the log file: media/Tex/0ac01e63fb6e75e2.log\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ }
+]

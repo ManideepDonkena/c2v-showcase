@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 77.34,
+  "s_sp": 86.2,
+  "s_ly": 61.7,
+  "s_ed": 73.0,
+  "states": 20,
+  "states_with_conflict": 9
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 76.4,
+   "conflicts": 12
+  },
+  {
+   "level": "section",
+   "mvqs": 77.34,
+   "conflict": "Text \"y1_text\" (created line 19, box [-0.32, -0.179, 0.32, 0.179]) overlaps Text \"x_text\" (line 18, box [-0.476, -0.179, 0.476, 0.179]) by 100%; moving it by [0.0, 0.51] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"y1_text\" (created line 19, box [-0.32, -0.179, 0.32, 0.179]) overlaps Text \"x_text\" (line 18, box [-0.476, -0.179, 0.476, 0.179]) by 100%; moving it by [0.0, 0.51] would clear it"
+  }
+ ]
+}

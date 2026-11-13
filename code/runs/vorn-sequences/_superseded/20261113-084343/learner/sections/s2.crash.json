@@ -1,0 +1,149 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.873,
+      3.0,
+      2.873,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.873,
+      3.0,
+      2.873,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.392,
+      2.187,
+      0.392,
+      2.7
+     ],
+     "name": "seq",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.873,
+      3.0,
+      2.873,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.392,
+      2.187,
+      0.392,
+      2.7
+     ],
+     "name": "seq",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.639,
+      0.789,
+      2.639,
+      1.387
+     ],
+     "name": "calc3",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.873,
+      3.0,
+      2.873,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.392,
+      2.187,
+      0.392,
+      2.7
+     ],
+     "name": "seq",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.639,
+      0.789,
+      2.639,
+      1.387
+     ],
+     "name": "calc3",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.779,
+      -0.609,
+      2.779,
+      -0.011
+     ],
+     "name": "calc4",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "IndexError",
+  "message": "list index out of range",
+  "line": 37
+ }
+}

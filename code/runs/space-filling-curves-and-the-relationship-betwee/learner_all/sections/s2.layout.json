@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 87.16,
+  "s_sp": 96.9,
+  "s_ly": 48.3,
+  "s_ed": 96.8,
+  "states": 15,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 70.01,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.76,
+   "conflict": "Square \"square\" (created line 61, box [-0.5, -0.5, 0.5, 0.5]) overlaps MathTex \"label1\" (line 12, box [-0.233, -0.698, 0.233, -0.35]) by 43%; moving it by [0.0, 0.3] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.29,
+   "conflict": "MathTex \"label1\" (created line 12, box [-0.082, -0.582, 0.082, -0.25]) overlaps Line \"curve1\" (line 11, box [-0.3, -0.3, 0.3, 0.3]) by 15%; moving it by [0.0, -0.2] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 87.16,
+   "conflict": "MathTex \"scale_text\" (created line 119, box [-1.882, -3.5, 1.882, -3.002]) overlaps Text \"paradox\" (line 52, box [-3.021, -3.5, 3.021, -3.162]) by 67%; moving it by [0.0, 0.49] would clear it"
+  }
+ ]
+}

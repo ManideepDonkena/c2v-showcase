@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 84.53,
+  "s_sp": 93.9,
+  "s_ly": 64.5,
+  "s_ed": 82.2,
+  "states": 27,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 81.57,
+   "conflicts": 9
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.34,
+   "conflict": "Circle \"baton\" (created line 49, box [1.8, 1.3, 2.2, 1.7]) overlaps MathTex \"y_hat\" (line 14, box [1.885, 1.276, 2.115, 1.724]) by 89%; moving it by [0.47, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.53,
+   "conflict": "MathTex \"delta\" (created line 77, box [-0.082, 1.863, 0.082, 2.151]) overlaps MathTex \"grad2\" (line 60, box [-0.207, 1.863, 0.207, 2.103]) by 83%; moving it by [0.0, 0.39] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"sigma\" (created line 88, box [-0.092, 1.863, 0.092, 2.017]) overlaps MathTex \"grad2\" (line 60, box [-0.207, 1.863, 0.207, 2.103]) by 100%; moving it by [0.0, -0.3] would clear it"
+  }
+ ]
+}

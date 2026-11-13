@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 171,
+  "scope": "line",
+  "error": "s not support converting .dvi files to SVG. Consider updating dvisvgm to at least version 2.4. If this does not solve the problem, please refer to our troubleshooting guide at: https://docs.manim.community/en/stable/faq/general.html#my-installation-does-not-support-converting-pdf-to-svg-help\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 188,
+  "scope": "block",
+  "error": "TypeError: VMobject.scale() got an unexpected keyword argument 'scale_tips'"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 190,
+  "scope": "section",
+  "error": "SyntaxError: '(' was never closed (s1.py, line 190)"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 188,
+  "scope": "section",
+  "error": "TypeError: VMobject.scale() got an unexpected keyword argument 'scale_tips'"
+ }
+]

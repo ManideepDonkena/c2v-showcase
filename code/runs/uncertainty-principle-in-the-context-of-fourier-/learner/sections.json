@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "The Narrow Pulse",
+  "teaches": "A signal localized in time (narrow pulse) has a broad frequency spectrum.",
+  "visual": "A sharp, narrow Gaussian pulse appears on the left graph (Time Domain). As it stabilizes, its Fourier Transform (frequency domain) appears on the right as a wide, flat bell curve. Arrows connect the narrow width on the left to the wide width on the right.",
+  "narration": "Consider a sound that lasts only a split second—a sharp click. Because it is so brief in time, it contains a vast range of frequencies. This wide spread in frequency is necessary to construct such a localized event.",
+  "start": 0.0,
+  "end": 27.87
+ },
+ {
+  "id": "s2",
+  "title": "The Wide Pulse",
+  "teaches": "A signal extended in time (wide pulse) has a narrow frequency spectrum.",
+  "visual": "The left graph now shows a long, wide Gaussian pulse. Its corresponding Fourier Transform on the right is a tall, narrow spike centered at zero. The animation highlights how the time-width increases while the frequency-width decreases.",
+  "narration": "Now imagine a pure, sustained tone held for a long duration. Because it persists over time, its frequency content is very precise and concentrated around a single value. The longer the signal lasts, the more defined its pitch becomes.",
+  "start": 27.87,
+  "end": 40.27
+ },
+ {
+  "id": "s3",
+  "title": "The Trade-off",
+  "teaches": "The product of uncertainties in time and frequency has a lower bound; they are inversely related.",
+  "visual": "Split screen: Left side shows a slider controlling the width of the time pulse. Right side shows the frequency spectrum changing dynamically. As the user slides the time pulse narrower, the frequency spectrum widens proportionally. Text overlay displays 'Δt · Δω ≥ 1/2'.",
+  "narration": "There is an inherent trade-off: you cannot simultaneously know both the exact time and the exact frequency of a signal. Compressing the signal in time inevitably blurs its frequency, and vice versa.",
+  "start": 40.27,
+  "end": 72.07
+ },
+ {
+  "id": "s4",
+  "title": "Quantum Connection",
+  "teaches": "The Heisenberg Uncertainty Principle is mathematically identical to this Fourier duality.",
+  "visual": "The time axis label changes from 't' to 'x' (position), and the frequency axis changes from 'ω' to 'k' (momentum). The Gaussian curves remain, but now represent a quantum wave packet. The inequality updates to 'Δx · Δp ≥ ħ/2'.",
+  "narration": "In quantum mechanics, particles are described by wave functions. Just like sound waves, a particle's position and momentum obey this same mathematical constraint. This is not a limitation of measurement, but a fundamental property of nature.",
+  "start": 72.07,
+  "end": 107.67
+ }
+]

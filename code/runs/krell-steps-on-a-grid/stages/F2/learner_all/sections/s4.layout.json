@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 67.25,
+  "s_sp": 80.3,
+  "s_ly": 58.5,
+  "s_ed": 51.2,
+  "states": 32,
+  "states_with_conflict": 26
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 62.14,
+   "conflicts": 21
+  },
+  {
+   "level": "shift",
+   "mvqs": 67.14,
+   "conflict": "MathTex \"axes_labels\" (created line 16, box [0.275, 3.05, 0.505, 3.372]) overlaps Text \"title\" (line 6, box [-2.934, 3.0, 2.934, 3.5]) by 100%; moving it by [0.0, -0.52] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 67.25,
+   "conflict": "MathTex \"label_step2\" (created line 41, box [1.803, 2.665, 2.483, 2.889]) overlaps MathTex \"label_step1\" (line 29, box [1.378, 2.558, 2.051, 2.782]) by 19%; moving it by [0.0, 0.27] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"label_step2\" (created line 7, box [1.803, 2.935, 2.483, 3.159]) overlaps Text \"title\" (line 6, box [-2.934, 3.0, 2.934, 3.5]) by 71%; moving it by [0.0, -0.31] would clear it"
+  }
+ ]
+}

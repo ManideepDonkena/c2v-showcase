@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 69.82,
+  "s_sp": 77.6,
+  "s_ly": 59.1,
+  "s_ed": 63.9,
+  "states": 28,
+  "states_with_conflict": 16
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 63.15,
+   "conflicts": 28
+  },
+  {
+   "level": "shift",
+   "mvqs": 64.29,
+   "conflict": "Text \"absorb_text\" (created line 34, box [-4.405, -0.167, 4.405, 0.167]) overlaps Circle \"neg_one_circle\" (line 11, box [0.5, -1.0, 2.5, 1.0]) by 22%; moving it by [0.0, 1.32] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 66.49,
+   "conflict": "Text \"chain_text\" (created line 25, box [-2.722, 3.163, 2.722, 3.5]) overlaps Text \"title\" (line 6, box [-3.232, 3.0, 3.232, 3.5]) by 100%; moving it by [0.0, 0.49] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 69.82,
+   "conflict": "Circle \"circle7\" (created line 49, box [1.5, -0.5, 2.5, 0.5]) overlaps MathTex \"result_label\" (line 29, box [1.292, -0.124, 1.708, 0.124]) by 50%; moving it by [0.36, 0.0] would clear it"
+  }
+ ]
+}

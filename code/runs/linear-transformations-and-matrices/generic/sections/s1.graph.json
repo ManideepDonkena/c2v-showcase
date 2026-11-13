@@ -1,0 +1,5628 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      8.4,
+      -3.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.22,
+      8.4,
+      -3.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.82,
+      8.4,
+      -2.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.42,
+      8.4,
+      -2.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.02,
+      8.4,
+      -2.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.62,
+      8.4,
+      -1.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.22,
+      8.4,
+      -1.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.82,
+      8.4,
+      -0.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.42,
+      8.4,
+      -0.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.02,
+      8.4,
+      -0.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.38,
+      8.4,
+      0.38
+     ],
+     "name": "grid",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.78,
+      8.4,
+      0.78
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.18,
+      8.4,
+      1.18
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.58,
+      8.4,
+      1.58
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.98,
+      8.4,
+      1.98
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      2.38,
+      8.4,
+      2.38
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      -8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.8,
+      -3.62,
+      -7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.2,
+      -3.62,
+      -7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.6,
+      -3.62,
+      -6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -3.62,
+      -6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.4,
+      -3.62,
+      -5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.8,
+      -3.62,
+      -4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.62,
+      -4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.6,
+      -3.62,
+      -3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.62,
+      -3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -3.62,
+      -2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.8,
+      -3.62,
+      -1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.62,
+      -1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.6,
+      -3.62,
+      -0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.0,
+      -3.62,
+      0.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.6,
+      -3.62,
+      0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.2,
+      -3.62,
+      1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -3.62,
+      1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.4,
+      -3.62,
+      2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -3.62,
+      3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.6,
+      -3.62,
+      3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.2,
+      -3.62,
+      4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -3.62,
+      4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.4,
+      -3.62,
+      5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.0,
+      -3.62,
+      6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.6,
+      -3.62,
+      6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.2,
+      -3.62,
+      7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -3.62,
+      7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.4,
+      -3.62,
+      8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.0,
+      -3.62,
+      9.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.238,
+      0.565
+     ],
+     "name": "i_label",
+     "line": 27,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      8.4,
+      -3.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.22,
+      8.4,
+      -3.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.82,
+      8.4,
+      -2.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.42,
+      8.4,
+      -2.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.02,
+      8.4,
+      -2.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.62,
+      8.4,
+      -1.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.22,
+      8.4,
+      -1.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.82,
+      8.4,
+      -0.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.42,
+      8.4,
+      -0.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.02,
+      8.4,
+      -0.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.38,
+      8.4,
+      0.38
+     ],
+     "name": "grid",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.78,
+      8.4,
+      0.78
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.18,
+      8.4,
+      1.18
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.58,
+      8.4,
+      1.58
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.98,
+      8.4,
+      1.98
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      2.38,
+      8.4,
+      2.38
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      -8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.8,
+      -3.62,
+      -7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.2,
+      -3.62,
+      -7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.6,
+      -3.62,
+      -6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -3.62,
+      -6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.4,
+      -3.62,
+      -5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.8,
+      -3.62,
+      -4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.62,
+      -4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.6,
+      -3.62,
+      -3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.62,
+      -3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -3.62,
+      -2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.8,
+      -3.62,
+      -1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.62,
+      -1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.6,
+      -3.62,
+      -0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.0,
+      -3.62,
+      0.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.6,
+      -3.62,
+      0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.2,
+      -3.62,
+      1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -3.62,
+      1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.4,
+      -3.62,
+      2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -3.62,
+      3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.6,
+      -3.62,
+      3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.2,
+      -3.62,
+      4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -3.62,
+      4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.4,
+      -3.62,
+      5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.0,
+      -3.62,
+      6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.6,
+      -3.62,
+      6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.2,
+      -3.62,
+      7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -3.62,
+      7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.4,
+      -3.62,
+      8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.0,
+      -3.62,
+      9.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.238,
+      0.565
+     ],
+     "name": "i_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.304,
+      1.1,
+      -0.1,
+      1.662
+     ],
+     "name": "j_label",
+     "line": 31,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 42,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      8.4,
+      -3.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.22,
+      8.4,
+      -3.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.82,
+      8.4,
+      -2.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.42,
+      8.4,
+      -2.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.02,
+      8.4,
+      -2.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.62,
+      8.4,
+      -1.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.22,
+      8.4,
+      -1.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.82,
+      8.4,
+      -0.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.42,
+      8.4,
+      -0.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.02,
+      8.4,
+      -0.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.38,
+      8.4,
+      0.38
+     ],
+     "name": "grid",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.78,
+      8.4,
+      0.78
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.18,
+      8.4,
+      1.18
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.58,
+      8.4,
+      1.58
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.98,
+      8.4,
+      1.98
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      2.38,
+      8.4,
+      2.38
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      -8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.8,
+      -3.62,
+      -7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.2,
+      -3.62,
+      -7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.6,
+      -3.62,
+      -6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -3.62,
+      -6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.4,
+      -3.62,
+      -5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.8,
+      -3.62,
+      -4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.62,
+      -4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.6,
+      -3.62,
+      -3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.62,
+      -3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -3.62,
+      -2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.8,
+      -3.62,
+      -1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.62,
+      -1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.6,
+      -3.62,
+      -0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.0,
+      -3.62,
+      0.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.6,
+      -3.62,
+      0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.2,
+      -3.62,
+      1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -3.62,
+      1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.4,
+      -3.62,
+      2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -3.62,
+      3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.6,
+      -3.62,
+      3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.2,
+      -3.62,
+      4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -3.62,
+      4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.4,
+      -3.62,
+      5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.0,
+      -3.62,
+      6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.6,
+      -3.62,
+      6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.2,
+      -3.62,
+      7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -3.62,
+      7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.4,
+      -3.62,
+      8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.0,
+      -3.62,
+      9.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.238,
+      0.565
+     ],
+     "name": "i_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.304,
+      1.1,
+      -0.1,
+      1.662
+     ],
+     "name": "j_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.506,
+      -3.5,
+      2.506,
+      -3.163
+     ],
+     "name": "narration",
+     "line": 40,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      8.4,
+      -3.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.22,
+      8.4,
+      -3.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.82,
+      8.4,
+      -2.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.42,
+      8.4,
+      -2.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.02,
+      8.4,
+      -2.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.62,
+      8.4,
+      -1.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.22,
+      8.4,
+      -1.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.82,
+      8.4,
+      -0.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.42,
+      8.4,
+      -0.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.02,
+      8.4,
+      -0.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.38,
+      8.4,
+      0.38
+     ],
+     "name": "grid",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.78,
+      8.4,
+      0.78
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.18,
+      8.4,
+      1.18
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.58,
+      8.4,
+      1.58
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.98,
+      8.4,
+      1.98
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      2.38,
+      8.4,
+      2.38
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      -8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.8,
+      -3.62,
+      -7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.2,
+      -3.62,
+      -7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.6,
+      -3.62,
+      -6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -3.62,
+      -6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.4,
+      -3.62,
+      -5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.8,
+      -3.62,
+      -4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.62,
+      -4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.6,
+      -3.62,
+      -3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.62,
+      -3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -3.62,
+      -2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.8,
+      -3.62,
+      -1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.62,
+      -1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.6,
+      -3.62,
+      -0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.0,
+      -3.62,
+      0.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.6,
+      -3.62,
+      0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.2,
+      -3.62,
+      1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -3.62,
+      1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.4,
+      -3.62,
+      2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -3.62,
+      3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.6,
+      -3.62,
+      3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.2,
+      -3.62,
+      4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -3.62,
+      4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.4,
+      -3.62,
+      5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.0,
+      -3.62,
+      6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.6,
+      -3.62,
+      6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.2,
+      -3.62,
+      7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -3.62,
+      7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.4,
+      -3.62,
+      8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.0,
+      -3.62,
+      9.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.238,
+      0.565
+     ],
+     "name": "i_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.304,
+      1.1,
+      -0.1,
+      1.662
+     ],
+     "name": "j_label",
+     "line": 31,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 51,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      8.4,
+      -3.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.22,
+      8.4,
+      -3.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.82,
+      8.4,
+      -2.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.42,
+      8.4,
+      -2.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.02,
+      8.4,
+      -2.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.62,
+      8.4,
+      -1.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.22,
+      8.4,
+      -1.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.82,
+      8.4,
+      -0.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.42,
+      8.4,
+      -0.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.02,
+      8.4,
+      -0.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.38,
+      8.4,
+      0.38
+     ],
+     "name": "grid",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.78,
+      8.4,
+      0.78
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.18,
+      8.4,
+      1.18
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.58,
+      8.4,
+      1.58
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.98,
+      8.4,
+      1.98
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      2.38,
+      8.4,
+      2.38
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      -8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.8,
+      -3.62,
+      -7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.2,
+      -3.62,
+      -7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.6,
+      -3.62,
+      -6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -3.62,
+      -6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.4,
+      -3.62,
+      -5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.8,
+      -3.62,
+      -4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.62,
+      -4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.6,
+      -3.62,
+      -3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.62,
+      -3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -3.62,
+      -2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.8,
+      -3.62,
+      -1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.62,
+      -1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.6,
+      -3.62,
+      -0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.0,
+      -3.62,
+      0.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.6,
+      -3.62,
+      0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.2,
+      -3.62,
+      1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -3.62,
+      1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.4,
+      -3.62,
+      2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -3.62,
+      3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.6,
+      -3.62,
+      3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.2,
+      -3.62,
+      4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -3.62,
+      4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.4,
+      -3.62,
+      5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.0,
+      -3.62,
+      6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.6,
+      -3.62,
+      6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.2,
+      -3.62,
+      7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -3.62,
+      7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.4,
+      -3.62,
+      8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.0,
+      -3.62,
+      9.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.238,
+      0.565
+     ],
+     "name": "i_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.304,
+      1.1,
+      -0.1,
+      1.662
+     ],
+     "name": "j_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.968,
+      -3.5,
+      5.968,
+      -3.163
+     ],
+     "name": "explanation",
+     "line": 49,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      8.4,
+      -3.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.22,
+      8.4,
+      -3.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.82,
+      8.4,
+      -2.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.42,
+      8.4,
+      -2.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.02,
+      8.4,
+      -2.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.62,
+      8.4,
+      -1.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.22,
+      8.4,
+      -1.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.82,
+      8.4,
+      -0.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.42,
+      8.4,
+      -0.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.02,
+      8.4,
+      -0.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.38,
+      8.4,
+      0.38
+     ],
+     "name": "grid",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.78,
+      8.4,
+      0.78
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.18,
+      8.4,
+      1.18
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.58,
+      8.4,
+      1.58
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.98,
+      8.4,
+      1.98
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      2.38,
+      8.4,
+      2.38
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      -8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.8,
+      -3.62,
+      -7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.2,
+      -3.62,
+      -7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.6,
+      -3.62,
+      -6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -3.62,
+      -6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.4,
+      -3.62,
+      -5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.8,
+      -3.62,
+      -4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.62,
+      -4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.6,
+      -3.62,
+      -3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.62,
+      -3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -3.62,
+      -2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.8,
+      -3.62,
+      -1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.62,
+      -1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.6,
+      -3.62,
+      -0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.0,
+      -3.62,
+      0.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.6,
+      -3.62,
+      0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.2,
+      -3.62,
+      1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -3.62,
+      1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.4,
+      -3.62,
+      2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -3.62,
+      3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.6,
+      -3.62,
+      3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.2,
+      -3.62,
+      4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -3.62,
+      4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.4,
+      -3.62,
+      5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.0,
+      -3.62,
+      6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.6,
+      -3.62,
+      6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.2,
+      -3.62,
+      7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -3.62,
+      7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.4,
+      -3.62,
+      8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.0,
+      -3.62,
+      9.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.238,
+      0.565
+     ],
+     "name": "i_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.304,
+      1.1,
+      -0.1,
+      1.662
+     ],
+     "name": "j_label",
+     "line": 31,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      8.4,
+      -3.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.22,
+      8.4,
+      -3.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.82,
+      8.4,
+      -2.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.42,
+      8.4,
+      -2.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.02,
+      8.4,
+      -2.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.62,
+      8.4,
+      -1.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.22,
+      8.4,
+      -1.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.82,
+      8.4,
+      -0.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.42,
+      8.4,
+      -0.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.02,
+      8.4,
+      -0.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.38,
+      8.4,
+      0.38
+     ],
+     "name": "grid",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.78,
+      8.4,
+      0.78
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.18,
+      8.4,
+      1.18
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.58,
+      8.4,
+      1.58
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.98,
+      8.4,
+      1.98
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      2.38,
+      8.4,
+      2.38
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      -8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.8,
+      -3.62,
+      -7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.2,
+      -3.62,
+      -7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.6,
+      -3.62,
+      -6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -3.62,
+      -6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.4,
+      -3.62,
+      -5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.8,
+      -3.62,
+      -4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.62,
+      -4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.6,
+      -3.62,
+      -3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.62,
+      -3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -3.62,
+      -2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.8,
+      -3.62,
+      -1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.62,
+      -1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.6,
+      -3.62,
+      -0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.0,
+      -3.62,
+      0.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.6,
+      -3.62,
+      0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.2,
+      -3.62,
+      1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -3.62,
+      1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.4,
+      -3.62,
+      2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -3.62,
+      3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.6,
+      -3.62,
+      3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.2,
+      -3.62,
+      4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -3.62,
+      4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.4,
+      -3.62,
+      5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.0,
+      -3.62,
+      6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.6,
+      -3.62,
+      6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.2,
+      -3.62,
+      7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -3.62,
+      7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.4,
+      -3.62,
+      8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.0,
+      -3.62,
+      9.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 26,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.238,
+      0.565
+     ],
+     "name": "i_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.304,
+      1.1,
+      -0.1,
+      1.662
+     ],
+     "name": "j_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.39,
+      0.2,
+      4.079,
+      0.534
+     ],
+     "name": "i_direction",
+     "line": 58,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.14,
+      1.2,
+      -0.45,
+      1.534
+     ],
+     "name": "j_direction",
+     "line": 59,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 67,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      3.116,
+      2.042,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      8.4,
+      -3.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.22,
+      8.4,
+      -3.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.82,
+      8.4,
+      -2.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.42,
+      8.4,
+      -2.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.02,
+      8.4,
+      -2.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.62,
+      8.4,
+      -1.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.22,
+      8.4,
+      -1.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.82,
+      8.4,
+      -0.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.42,
+      8.4,
+      -0.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.02,
+      8.4,
+      -0.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.38,
+      8.4,
+      0.38
+     ],
+     "name": "grid",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.78,
+      8.4,
+      0.78
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.18,
+      8.4,
+      1.18
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.58,
+      8.4,
+      1.58
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.98,
+      8.4,
+      1.98
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      2.38,
+      8.4,
+      2.38
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      -8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.8,
+      -3.62,
+      -7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.2,
+      -3.62,
+      -7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.6,
+      -3.62,
+      -6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -3.62,
+      -6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.4,
+      -3.62,
+      -5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.8,
+      -3.62,
+      -4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.62,
+      -4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.6,
+      -3.62,
+      -3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.62,
+      -3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -3.62,
+      -2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.8,
+      -3.62,
+      -1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.62,
+      -1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.6,
+      -3.62,
+      -0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.0,
+      -3.62,
+      0.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.6,
+      -3.62,
+      0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.2,
+      -3.62,
+      1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -3.62,
+      1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.4,
+      -3.62,
+      2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -3.62,
+      3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.6,
+      -3.62,
+      3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.2,
+      -3.62,
+      4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -3.62,
+      4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.4,
+      -3.62,
+      5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.0,
+      -3.62,
+      6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.6,
+      -3.62,
+      6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.2,
+      -3.62,
+      7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -3.62,
+      7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.4,
+      -3.62,
+      8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.0,
+      -3.62,
+      9.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.9,
+      4.8,
+      1.9
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      8.4,
+      -3.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.22,
+      8.4,
+      -3.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.82,
+      8.4,
+      -2.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.42,
+      8.4,
+      -2.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -2.02,
+      8.4,
+      -2.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.62,
+      8.4,
+      -1.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -1.22,
+      8.4,
+      -1.22
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.82,
+      8.4,
+      -0.82
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.42,
+      8.4,
+      -0.42
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -0.02,
+      8.4,
+      -0.02
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.38,
+      8.4,
+      0.38
+     ],
+     "name": "grid",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      0.78,
+      8.4,
+      0.78
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.18,
+      8.4,
+      1.18
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.58,
+      8.4,
+      1.58
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      1.98,
+      8.4,
+      1.98
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      2.38,
+      8.4,
+      2.38
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.4,
+      -3.62,
+      -8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.8,
+      -3.62,
+      -7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.2,
+      -3.62,
+      -7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.6,
+      -3.62,
+      -6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -3.62,
+      -6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.4,
+      -3.62,
+      -5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.8,
+      -3.62,
+      -4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.62,
+      -4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.6,
+      -3.62,
+      -3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.62,
+      -3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -3.62,
+      -2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.8,
+      -3.62,
+      -1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.62,
+      -1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.6,
+      -3.62,
+      -0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.0,
+      -3.62,
+      0.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.6,
+      -3.62,
+      0.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.2,
+      -3.62,
+      1.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -3.62,
+      1.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.4,
+      -3.62,
+      2.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -3.62,
+      3.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.6,
+      -3.62,
+      3.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.2,
+      -3.62,
+      4.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -3.62,
+      4.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.4,
+      -3.62,
+      5.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.0,
+      -3.62,
+      6.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.6,
+      -3.62,
+      6.6,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.2,
+      -3.62,
+      7.2,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -3.62,
+      7.8,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.4,
+      -3.62,
+      8.4,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.0,
+      -3.62,
+      9.0,
+      2.62
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Line"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

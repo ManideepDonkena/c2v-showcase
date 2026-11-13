@@ -1,0 +1,364 @@
+{
+ "split": "test",
+ "questions": 7,
+ "none": 0.0,
+ "full": 42.9,
+ "evidence": 0.0,
+ "runs": {
+  "none": [
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what 'c' refers to in this context."
+     },
+     {
+      "id": "q4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not have a rule to calculate c from a and b."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know which side is the hypotenuse."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to find a leg using the hypotenuse."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the relationship between these sides and squares."
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the criteria for a right triangle."
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to calculate the missing leg."
+     }
+    ]
+   },
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what 'c' refers to in this context."
+     },
+     {
+      "id": "q4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not have a way to calculate this value."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know which side is the hypotenuse."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to find a missing leg."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to calculate the area of the square."
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the rules for right triangles."
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to solve for the other leg."
+     }
+    ]
+   },
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what side c refers to."
+     },
+     {
+      "id": "q4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the relationship between these numbers."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what a hypotenuse is."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to calculate a missing leg."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the relationship between these sides and squares."
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to identify a right triangle."
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to find a leg."
+     }
+    ]
+   }
+  ],
+  "full": [
+   {
+    "score": 42.9,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The images do not define which side is 'c'.",
+      "backed": false
+     },
+     {
+      "id": "q4",
+      "choice": "A",
+      "right": true,
+      "time": "00:12",
+      "why": "The image shows c^2 = 25, and 5 squared is 25.",
+      "backed": false
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The provided images do not contain these specific numbers.",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The provided images do not contain these specific numbers.",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "C",
+      "right": true,
+      "time": "00:07",
+      "why": "The image shows c^2 = 25.",
+      "backed": false
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The images do not mention these side lengths or right triangles.",
+      "backed": false
+     },
+     {
+      "id": "q16",
+      "choice": "C",
+      "right": true,
+      "time": "00:12",
+      "why": "The image shows a^2=9 and b^2=16, which works with c^2=25.",
+      "backed": false
+     }
+    ],
+    "evidence": 0.0
+   },
+   {
+    "score": 42.9,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not define which side is 'c'.",
+      "backed": false
+     },
+     {
+      "id": "q4",
+      "choice": "A",
+      "right": true,
+      "time": "00:12",
+      "why": "The image shows 3 squared plus 4 squared equals 5 squared.",
+      "backed": false
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not mention sides 5, 12, or 13.",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide information for these numbers.",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "C",
+      "right": true,
+      "time": "00:12",
+      "why": "The image shows c squared is 25.",
+      "backed": false
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not discuss sides with square roots.",
+      "backed": false
+     },
+     {
+      "id": "q16",
+      "choice": "C",
+      "right": true,
+      "time": "00:12",
+      "why": "The image shows 3 squared and 4 squared relate to 5 squared.",
+      "backed": false
+     }
+    ],
+    "evidence": 0.0
+   },
+   {
+    "score": 42.9,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not define side c.",
+      "backed": false
+     },
+     {
+      "id": "q4",
+      "choice": "A",
+      "right": true,
+      "time": "00:12",
+      "why": "The image shows c^2 = 25, and 5 squared is 25.",
+      "backed": false
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "No information about sides 5, 12, or 13 is provided.",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "No information about a leg being 7 is provided.",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "C",
+      "right": true,
+      "time": "00:12",
+      "why": "The image shows c^2 = 25.",
+      "backed": false
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not mention sides 1, 1, or √2.",
+      "backed": false
+     },
+     {
+      "id": "q16",
+      "choice": "C",
+      "right": true,
+      "time": "00:12",
+      "why": "The image shows 3^2 = 9 and 4^2 = 16 for sides a and b.",
+      "backed": false
+     }
+    ],
+    "evidence": 0.0
+   }
+  ]
+ },
+ "teachquiz": 42.9,
+ "control_first_section": 28.6,
+ "mvqs": 83.31
+}

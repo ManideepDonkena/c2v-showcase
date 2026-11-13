@@ -1,0 +1,35 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q1",
+  "q2",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s3": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s1": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s1",
+  "s4"
+ ],
+ "dev_before": 10.0,
+ "dev_after": 10.0,
+ "mvqs_before": 70.16,
+ "mvqs_after": 72.44,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/large-language-models-and-transformers-in-deep-l/generic"
+}

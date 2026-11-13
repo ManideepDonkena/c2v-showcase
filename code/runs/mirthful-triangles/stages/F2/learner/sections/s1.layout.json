@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 74.14,
+  "s_sp": 85.0,
+  "s_ly": 35.3,
+  "s_ed": 82.0,
+  "states": 30,
+  "states_with_conflict": 9
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 68.88,
+   "conflicts": 30
+  },
+  {
+   "level": "block",
+   "mvqs": 73.11,
+   "conflict": "Polygon \"triangle\" (created line 14, box [-1.5, 0.0, 10.5, 4.0]) overlaps Text \"title\" (line 6, box [-1.746, 2.992, 1.746, 3.5]) by 93%; moving it by [0.0, -1.16] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 73.78,
+   "conflict": "Polygon \"triangle\" (created line 13, box [-1.5, -1.16, 10.5, 2.84]) is outside the frame; shift it by [-3.54, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.14,
+   "conflict": "MathTex \"lb\" (created line 19, box [10.454, -1.586, 10.546, -1.41]) is outside the frame; shift it by [-3.58, 0.0]"
+  }
+ ]
+}

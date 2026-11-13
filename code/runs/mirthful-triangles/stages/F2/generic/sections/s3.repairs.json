@@ -1,0 +1,34 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 33,
+  "scope": "line",
+  "error": "ValueError: latex error converting to dvi. See log output above or the log file: media/Tex/9f127f75af995abe.log\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 33,
+  "scope": "block",
+  "error": "ValueError: latex error converting to dvi. See log output above or the log file: media/Tex/9f127f75af995abe.log\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 33,
+  "scope": "section",
+  "error": "ValueError: latex error converting to dvi. See log output above or the log file: media/Tex/9f127f75af995abe.log\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 33,
+  "scope": "section",
+  "error": "ValueError: latex error converting to dvi. See log output above or the log file: media/Tex/9f127f75af995abe.log\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ },
+ {
+  "attempt": 4,
+  "ok": false
+ }
+]

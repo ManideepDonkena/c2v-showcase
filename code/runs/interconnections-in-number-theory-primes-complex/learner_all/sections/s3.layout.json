@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 59.1,
+  "s_sp": 74.3,
+  "s_ly": 61.9,
+  "s_ed": 31.9,
+  "states": 28,
+  "states_with_conflict": 19
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 45.94,
+   "conflicts": 8
+  },
+  {
+   "level": "shift",
+   "mvqs": 58.58,
+   "conflict": "Dot \"dot\" (created line 19, box [0.92, -0.08, 1.08, 0.08]) overlaps MathTex \"formula\" (line 12, box [-1.744, -0.418, 1.744, 0.418]) by 100%; moving it by [0.0, 0.65] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 58.84,
+   "conflict": "Dot \"prime_count\" (created line 36, box [7.46, 2.46, 7.54, 2.54]) is outside the frame; shift it by [-0.58, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 59.1,
+   "conflict": "Dot \"prime_count\" (created line 36, box [7.38, 2.46, 7.46, 2.54]) is outside the frame; shift it by [-0.5, 0.0]"
+  }
+ ]
+}

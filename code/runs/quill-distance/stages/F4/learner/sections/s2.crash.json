@@ -1,0 +1,173 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.902,
+      3.0,
+      2.902,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.902,
+      3.0,
+      2.902,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.902,
+      3.0,
+      2.902,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 23,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.902,
+      3.0,
+      2.902,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "operands could not be broadcast together with shapes (2,) (3,) ",
+  "line": 35
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 69.0,
+  "s_sp": 79.9,
+  "s_ly": 17.8,
+  "s_ed": 85.0,
+  "states": 16,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 69.0,
+   "conflicts": 9
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"narration\" (created line 64, box [-10.956, -3.7, 10.956, -3.363]) is outside the frame; shift it by [3.99, 0.0]"
+  }
+ ]
+}

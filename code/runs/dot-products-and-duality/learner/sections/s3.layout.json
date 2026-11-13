@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 74.25,
+  "s_sp": 87.2,
+  "s_ly": 51.0,
+  "s_ed": 68.1,
+  "states": 11,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 41.59,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.25,
+   "conflict": "Dot \"grid\" (created line 19, box [-3.03, 2.97, -2.97, 3.03]) overlaps Text \"title\" (line 6, box [-3.592, 3.0, 3.592, 3.5]) by 50%; moving it by [0.0, -0.18] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Dot \"grid\" (created line 19, box [-6.03, -4.21, -5.97, -4.15]) is outside the frame; shift it by [0.0, 0.36]"
+  }
+ ]
+}

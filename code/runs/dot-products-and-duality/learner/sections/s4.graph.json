@@ -1,0 +1,2957 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "L_func",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.0,
+      7.0,
+      1.0
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.5,
+      7.0,
+      -0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -2.0
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.5,
+      7.0,
+      -2.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -3.0,
+      7.0,
+      -3.0
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -3.5,
+      7.0,
+      -3.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      -4.0
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.989,
+      -1.25,
+      0.989,
+      -0.993
+     ],
+     "name": "L_text",
+     "line": 16,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "L_func",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.0,
+      7.0,
+      1.0
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.5,
+      7.0,
+      -0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -2.0
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.5,
+      7.0,
+      -2.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -3.0,
+      7.0,
+      -3.0
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -3.5,
+      7.0,
+      -3.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      -4.0
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.989,
+      -1.25,
+      0.989,
+      -0.993
+     ],
+     "name": "L_text",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "A_prime",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      1.25,
+      2.538,
+      1.551
+     ],
+     "name": "A_label",
+     "line": 20,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "L_func",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.441,
+      -0.618,
+      8.559,
+      -0.618
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.553,
+      -0.394,
+      8.447,
+      -0.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.665,
+      -0.171,
+      8.335,
+      -0.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.776,
+      0.053,
+      8.224,
+      0.053
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.888,
+      0.276,
+      8.112,
+      0.276
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      0.5,
+      8.0,
+      0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.112,
+      0.724,
+      7.888,
+      0.724
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.224,
+      0.947,
+      7.776,
+      0.947
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.335,
+      1.171,
+      7.665,
+      1.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.447,
+      1.394,
+      7.553,
+      1.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.559,
+      1.618,
+      7.441,
+      1.618
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.989,
+      -1.25,
+      0.989,
+      -0.993
+     ],
+     "name": "L_text",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "A_prime",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      1.25,
+      2.538,
+      1.551
+     ],
+     "name": "A_label",
+     "line": 20,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "L_func",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.441,
+      -0.618,
+      8.559,
+      -0.618
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.553,
+      -0.394,
+      8.447,
+      -0.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.665,
+      -0.171,
+      8.335,
+      -0.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.776,
+      0.053,
+      8.224,
+      0.053
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.888,
+      0.276,
+      8.112,
+      0.276
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      0.5,
+      8.0,
+      0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.112,
+      0.724,
+      7.888,
+      0.724
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.224,
+      0.947,
+      7.776,
+      0.947
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.335,
+      1.171,
+      7.665,
+      1.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.447,
+      1.394,
+      7.553,
+      1.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.559,
+      1.618,
+      7.441,
+      1.618
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.989,
+      -1.25,
+      0.989,
+      -0.993
+     ],
+     "name": "L_text",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "A_prime",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      1.25,
+      2.538,
+      1.551
+     ],
+     "name": "A_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.95,
+      -3.5,
+      0.95,
+      -3.121
+     ],
+     "name": "dot_product_text",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "L_func",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.441,
+      -0.618,
+      8.559,
+      -0.618
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.553,
+      -0.394,
+      8.447,
+      -0.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.665,
+      -0.171,
+      8.335,
+      -0.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.776,
+      0.053,
+      8.224,
+      0.053
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.888,
+      0.276,
+      8.112,
+      0.276
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      0.5,
+      8.0,
+      0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.112,
+      0.724,
+      7.888,
+      0.724
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.224,
+      0.947,
+      7.776,
+      0.947
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.335,
+      1.171,
+      7.665,
+      1.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.447,
+      1.394,
+      7.553,
+      1.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.559,
+      1.618,
+      7.441,
+      1.618
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.989,
+      -1.25,
+      0.989,
+      -0.993
+     ],
+     "name": "L_text",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "A_prime",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      1.25,
+      2.538,
+      1.551
+     ],
+     "name": "A_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.95,
+      -3.5,
+      0.95,
+      -3.121
+     ],
+     "name": "dot_product_text",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "L_func",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.441,
+      -0.618,
+      8.559,
+      -0.618
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.553,
+      -0.394,
+      8.447,
+      -0.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.665,
+      -0.171,
+      8.335,
+      -0.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.776,
+      0.053,
+      8.224,
+      0.053
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.888,
+      0.276,
+      8.112,
+      0.276
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      0.5,
+      8.0,
+      0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.112,
+      0.724,
+      7.888,
+      0.724
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.224,
+      0.947,
+      7.776,
+      0.947
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.335,
+      1.171,
+      7.665,
+      1.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.447,
+      1.394,
+      7.553,
+      1.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.559,
+      1.618,
+      7.441,
+      1.618
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.989,
+      -1.25,
+      0.989,
+      -0.993
+     ],
+     "name": "L_text",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "A_prime",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      1.25,
+      2.538,
+      1.551
+     ],
+     "name": "A_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.95,
+      -3.5,
+      0.95,
+      -3.121
+     ],
+     "name": "dot_product_text",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "A",
+     "line": 53,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.25,
+      0.375,
+      1.492,
+      0.676
+     ],
+     "name": "A_label2",
+     "line": 55,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "L_func",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.441,
+      -0.618,
+      8.559,
+      -0.618
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.553,
+      -0.394,
+      8.447,
+      -0.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.665,
+      -0.171,
+      8.335,
+      -0.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.776,
+      0.053,
+      8.224,
+      0.053
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.888,
+      0.276,
+      8.112,
+      0.276
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      0.5,
+      8.0,
+      0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.112,
+      0.724,
+      7.888,
+      0.724
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.224,
+      0.947,
+      7.776,
+      0.947
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.335,
+      1.171,
+      7.665,
+      1.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.447,
+      1.394,
+      7.553,
+      1.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.559,
+      1.618,
+      7.441,
+      1.618
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.989,
+      -1.25,
+      0.989,
+      -0.993
+     ],
+     "name": "L_text",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "A_prime",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      1.25,
+      2.538,
+      1.551
+     ],
+     "name": "A_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.95,
+      -3.5,
+      0.95,
+      -3.121
+     ],
+     "name": "dot_product_text",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "A",
+     "line": 53,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      0.425,
+      2.476,
+      0.733
+     ],
+     "name": "A_label2",
+     "line": 55,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 75,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "L_func",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.441,
+      -0.618,
+      8.559,
+      -0.618
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.553,
+      -0.394,
+      8.447,
+      -0.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.665,
+      -0.171,
+      8.335,
+      -0.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.776,
+      0.053,
+      8.224,
+      0.053
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.888,
+      0.276,
+      8.112,
+      0.276
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      0.5,
+      8.0,
+      0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.112,
+      0.724,
+      7.888,
+      0.724
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.224,
+      0.947,
+      7.776,
+      0.947
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.335,
+      1.171,
+      7.665,
+      1.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.447,
+      1.394,
+      7.553,
+      1.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.559,
+      1.618,
+      7.441,
+      1.618
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.989,
+      -1.25,
+      0.989,
+      -0.993
+     ],
+     "name": "L_text",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "A_prime",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      1.25,
+      2.538,
+      1.551
+     ],
+     "name": "A_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.95,
+      -3.5,
+      0.95,
+      -3.121
+     ],
+     "name": "dot_product_text",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "A",
+     "line": 53,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      0.425,
+      2.476,
+      0.733
+     ],
+     "name": "A_label2",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.0,
+      7.0,
+      1.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.5,
+      7.0,
+      -0.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -2.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.5,
+      7.0,
+      -2.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -3.0,
+      7.0,
+      -3.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -3.5,
+      7.0,
+      -3.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      -4.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "L_func",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.441,
+      -0.618,
+      8.559,
+      -0.618
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.553,
+      -0.394,
+      8.447,
+      -0.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.665,
+      -0.171,
+      8.335,
+      -0.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.776,
+      0.053,
+      8.224,
+      0.053
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.888,
+      0.276,
+      8.112,
+      0.276
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      0.5,
+      8.0,
+      0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.112,
+      0.724,
+      7.888,
+      0.724
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.224,
+      0.947,
+      7.776,
+      0.947
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.335,
+      1.171,
+      7.665,
+      1.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.447,
+      1.394,
+      7.553,
+      1.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.559,
+      1.618,
+      7.441,
+      1.618
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.989,
+      -1.25,
+      0.989,
+      -0.993
+     ],
+     "name": "L_text",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "A_prime",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      1.25,
+      2.538,
+      1.551
+     ],
+     "name": "A_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.95,
+      -3.5,
+      0.95,
+      -3.121
+     ],
+     "name": "dot_product_text",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "A",
+     "line": 53,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      0.425,
+      2.476,
+      0.733
+     ],
+     "name": "A_label2",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.25,
+      7.0,
+      -0.25
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.5,
+      7.0,
+      -0.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.75,
+      7.0,
+      -0.75
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.25,
+      7.0,
+      -1.25
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.75,
+      7.0,
+      -1.75
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -2.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.25,
+      7.0,
+      -2.25
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.5,
+      7.0,
+      -2.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.75,
+      7.0,
+      -2.75
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    }
+   ]
+  },
+  {
+   "after_line": 83,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "L_func",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.441,
+      -0.618,
+      8.559,
+      -0.618
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.553,
+      -0.394,
+      8.447,
+      -0.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.665,
+      -0.171,
+      8.335,
+      -0.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.776,
+      0.053,
+      8.224,
+      0.053
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.888,
+      0.276,
+      8.112,
+      0.276
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      0.5,
+      8.0,
+      0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.112,
+      0.724,
+      7.888,
+      0.724
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.224,
+      0.947,
+      7.776,
+      0.947
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.335,
+      1.171,
+      7.665,
+      1.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.447,
+      1.394,
+      7.553,
+      1.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.559,
+      1.618,
+      7.441,
+      1.618
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.989,
+      -1.25,
+      0.989,
+      -0.993
+     ],
+     "name": "L_text",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "A_prime",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      1.25,
+      2.538,
+      1.551
+     ],
+     "name": "A_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.95,
+      -3.5,
+      0.95,
+      -3.121
+     ],
+     "name": "dot_product_text",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "A",
+     "line": 53,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      0.425,
+      2.476,
+      0.733
+     ],
+     "name": "A_label2",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.25,
+      7.0,
+      -0.25
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.5,
+      7.0,
+      -0.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.75,
+      7.0,
+      -0.75
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.25,
+      7.0,
+      -1.25
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.75,
+      7.0,
+      -1.75
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -2.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.25,
+      7.0,
+      -2.25
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.5,
+      7.0,
+      -2.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.75,
+      7.0,
+      -2.75
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.232,
+      -2.97,
+      3.232,
+      -2.308
+     ],
+     "name": "conclusion",
+     "line": 81,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 86,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "L_func",
+     "line": 11,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.441,
+      -0.618,
+      8.559,
+      -0.618
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.553,
+      -0.394,
+      8.447,
+      -0.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.665,
+      -0.171,
+      8.335,
+      -0.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.776,
+      0.053,
+      8.224,
+      0.053
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.888,
+      0.276,
+      8.112,
+      0.276
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      0.5,
+      8.0,
+      0.5
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.112,
+      0.724,
+      7.888,
+      0.724
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.224,
+      0.947,
+      7.776,
+      0.947
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.335,
+      1.171,
+      7.665,
+      1.171
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.447,
+      1.394,
+      7.553,
+      1.394
+     ],
+     "name": "contour_lines_L",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.559,
+      1.618,
+      7.441,
+      1.618
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.989,
+      -1.25,
+      0.989,
+      -0.993
+     ],
+     "name": "L_text",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "A_prime",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      1.25,
+      2.538,
+      1.551
+     ],
+     "name": "A_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.95,
+      -3.5,
+      0.95,
+      -3.121
+     ],
+     "name": "dot_product_text",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "A",
+     "line": 53,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      0.425,
+      2.476,
+      0.733
+     ],
+     "name": "A_label2",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.25,
+      7.0,
+      -0.25
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.5,
+      7.0,
+      -0.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.75,
+      7.0,
+      -0.75
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.25,
+      7.0,
+      -1.25
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.75,
+      7.0,
+      -1.75
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -2.0
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.25,
+      7.0,
+      -2.25
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.5,
+      7.0,
+      -2.5
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.75,
+      7.0,
+      -2.75
+     ],
+     "name": "contours_A",
+     "line": 67,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.232,
+      -2.97,
+      3.232,
+      -2.308
+     ],
+     "name": "conclusion",
+     "line": 81,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

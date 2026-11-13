@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 83.98,
+  "s_sp": 95.4,
+  "s_ly": 47.2,
+  "s_ed": 89.4,
+  "states": 17,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 83.98,
+   "conflicts": 3
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"narration3\" (created line 49, box [-1.845, -3.02, 1.845, -2.686]) overlaps Text \"narration1\" (line 30, box [-2.025, -3.02, 2.025, -2.686]) by 100%; moving it by [0.0, 0.48] would clear it"
+  }
+ ]
+}

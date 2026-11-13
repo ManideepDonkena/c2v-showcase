@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 17,
+  "scope": "line",
+  "error": "TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'\nHINT: A value is None: a helper returned nothing or a variable was never set. Compute coordinates as numpy arrays."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 16,
+  "scope": "block",
+  "error": "TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'\nHINT: A value is None: a helper returned nothing or a variable was never set. Compute coordinates as numpy arrays."
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

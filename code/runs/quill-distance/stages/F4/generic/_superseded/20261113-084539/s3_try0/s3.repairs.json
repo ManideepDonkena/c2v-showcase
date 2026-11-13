@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 16,
+  "scope": "line",
+  "error": "ValueError: operands could not be broadcast together with shapes (32,3) (2,) (32,3) "
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 17,
+  "scope": "block",
+  "error": "SyntaxError: '(' was never closed (s3.py, line 17)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 21,
+  "scope": "section",
+  "error": "ValueError: operands could not be broadcast together with shapes (32,3) (2,) (32,3) "
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 22,
+  "scope": "section",
+  "error": "ValueError: operands could not be broadcast together with shapes (32,3) (2,) (32,3) "
+ }
+]

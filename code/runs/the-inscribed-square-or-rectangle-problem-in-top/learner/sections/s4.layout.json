@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 86.37,
+  "s_sp": 100.0,
+  "s_ly": 73.6,
+  "s_ed": 72.1,
+  "states": 16,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 65.88,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.86,
+   "conflict": "Text \"theorem_text\" (created line 67, box [0.597, -0.607, 5.403, -0.35]) overlaps ParametricFunction \"curve\" (line 11, box [0.95, -2.05, 5.05, 2.05]) by 85%; moving it by [0.0, -1.85] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.07,
+   "conflict": "Text \"explanation\" (created line 104, box [-2.939, -0.884, 2.939, -0.55]) overlaps ParametricFunction \"curve\" (line 11, box [0.95, -2.05, 5.05, 2.05]) by 33%; moving it by [0.0, -1.65] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.37,
+   "conflict": "Text \"explanation\" (created line 104, box [-2.939, -2.534, 2.939, -2.2]) overlaps Text \"theorem_text\" (line 67, box [0.597, -2.457, 5.403, -2.2]) by 48%; moving it by [0.0, -0.41] would clear it"
+  }
+ ]
+}

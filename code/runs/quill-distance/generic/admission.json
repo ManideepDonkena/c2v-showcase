@@ -1,0 +1,93 @@
+{
+ "topic": "Quill distance",
+ "before": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 68.75,
+   "conflicts": 3,
+   "ok": false
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 85.59,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 83.69,
+   "conflicts": 0,
+   "ok": true
+  }
+ },
+ "regenerated": {
+  "s1": {
+   "tries": [
+    {
+     "id": "s1",
+     "mvqs": 83.04,
+     "conflicts": 0,
+     "rendered": true,
+     "ok": true
+    }
+   ],
+   "kept": "s1_try1"
+  },
+  "s3": {
+   "tries": [
+    {
+     "id": "s3",
+     "mvqs": 87.72,
+     "conflicts": 0,
+     "rendered": true,
+     "ok": true
+    }
+   ],
+   "kept": "s3_try1"
+  }
+ },
+ "min_mvqs": 70.0,
+ "superseded": "/home/mani/c2v-lab/runs/quill-distance/_superseded/20261113-084539",
+ "after": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 83.04,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 85.59,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 87.72,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 83.69,
+   "conflicts": 0,
+   "ok": true
+  }
+ },
+ "complete": true,
+ "clean": true
+}

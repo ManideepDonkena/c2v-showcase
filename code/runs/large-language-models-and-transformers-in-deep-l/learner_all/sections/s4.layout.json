@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 81.49,
+  "s_sp": 93.2,
+  "s_ly": 57.1,
+  "s_ed": 78.3,
+  "states": 28,
+  "states_with_conflict": 10
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 64.84,
+   "conflicts": 15
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.6,
+   "conflict": "Rectangle \"bar_chart\" (created line 49, box [-1.4, -3.5, -1.0, -2.833]) overlaps Text \"token_group\" (line 13, box [-1.312, -3.483, -0.869, -3.26]) by 70%; moving it by [0.0, 0.39] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 78.59,
+   "conflict": "Text \"t1\" (created line 98, box [-6.111, -0.122, -5.086, 0.122]) overlaps Text \"rnn_text\" (line 73, box [-6.111, -0.119, -5.405, 0.119]) by 100%; moving it by [0.0, 0.39] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.49,
+   "conflict": "Text \"t2\" (created line 99, box [5.093, -0.122, 6.111, 0.122]) overlaps Text \"trans_text\" (line 74, box [4.092, -0.13, 6.111, 0.13]) by 100%; moving it by [0.0, 0.4] would clear it"
+  }
+ ]
+}

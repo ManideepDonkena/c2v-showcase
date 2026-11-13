@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 87.88,
+  "s_sp": 92.5,
+  "s_ly": 73.1,
+  "s_ed": 90.0,
+  "states": 22,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 86.41,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.61,
+   "conflict": "MathTex \"h_intervals\" (created line 36, box [-0.293, -1.919, 0.293, -1.75]) overlaps MathTex \"w_label\" (line 13, box [-0.082, -1.863, 0.082, -1.75]) by 100%; moving it by [0.0, -0.26] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 87.63,
+   "conflict": "MathTex \"v_intervals\" (created line 37, box [2.25, -0.088, 2.789, 0.088]) overlaps MathTex \"h_label\" (line 14, box [2.25, -0.088, 2.372, 0.088]) by 100%; moving it by [0.27, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 87.88,
+   "conflict": "MathTex \"bottom_points\" (created line 53, box [-0.293, -1.937, 0.293, -1.75]) overlaps MathTex \"w_label\" (line 13, box [-0.082, -1.863, 0.082, -1.75]) by 100%; moving it by [0.0, -0.26] would clear it"
+  }
+ ]
+}

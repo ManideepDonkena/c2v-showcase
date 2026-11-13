@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 66.51,
+  "s_sp": 82.2,
+  "s_ly": 58.5,
+  "s_ed": 45.7,
+  "states": 21,
+  "states_with_conflict": 19
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 66.51,
+   "conflicts": 6
+  },
+  {
+   "level": "none kept",
+   "conflict": "Arrow \"arrow1\" (created line 16, box [-1.25, -0.175, 1.25, 0.175]) overlaps Tex \"x_large\" (line 11, box [-0.437, -0.425, 0.437, 0.425]) by 41%; moving it by [0.0, 0.75] would clear it"
+  }
+ ]
+}

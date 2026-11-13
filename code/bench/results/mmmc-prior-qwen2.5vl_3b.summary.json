@@ -1,0 +1,13 @@
+{
+ "set": "mmmc-prior",
+ "student": "qwen2.5vl:3b",
+ "topics": 117,
+ "item_rotations": 1170,
+ "accuracy": 0.919,
+ "mean_p_right": 0.866,
+ "share_p_right_over_0.9": 0.734,
+ "share_p_right_under_0.5": 0.101,
+ "topics_all_right": 67,
+ "topics_under_0.75": 8,
+ "missing_letters": 0
+}

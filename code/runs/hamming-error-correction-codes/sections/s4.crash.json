@@ -1,0 +1,267 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.937,
+      3.0,
+      2.937,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.937,
+      3.0,
+      2.937,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.276,
+      1.714,
+      0.276,
+      2.0
+     ],
+     "name": "original",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.937,
+      3.0,
+      2.937,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.276,
+      1.714,
+      0.276,
+      2.0
+     ],
+     "name": "original",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.285,
+      0.929,
+      0.285,
+      1.214
+     ],
+     "name": "error",
+     "line": 18,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.937,
+      3.0,
+      2.937,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.276,
+      1.714,
+      0.276,
+      2.0
+     ],
+     "name": "original",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.285,
+      0.929,
+      0.285,
+      1.214
+     ],
+     "name": "error",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.103,
+      0.772,
+      0.497,
+      1.372
+     ],
+     "name": "highlight",
+     "line": 24,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.937,
+      3.0,
+      2.937,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.276,
+      1.714,
+      0.276,
+      2.0
+     ],
+     "name": "original",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.285,
+      -0.166,
+      0.082,
+      1.214
+     ],
+     "name": "error",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.103,
+      0.772,
+      0.497,
+      1.372
+     ],
+     "name": "highlight",
+     "line": 24,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.937,
+      3.0,
+      2.937,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.276,
+      1.714,
+      0.276,
+      2.0
+     ],
+     "name": "original",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.285,
+      -0.166,
+      0.082,
+      1.214
+     ],
+     "name": "error",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.103,
+      0.772,
+      0.497,
+      1.372
+     ],
+     "name": "highlight",
+     "line": 24,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.377,
+      -0.951,
+      0.175,
+      -0.666
+     ],
+     "name": "corrected",
+     "line": 34,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "latex error converting to dvi. See log output above or the log file: media/Tex/0ac01e63fb6e75e2.log",
+  "line": 40
+ }
+}

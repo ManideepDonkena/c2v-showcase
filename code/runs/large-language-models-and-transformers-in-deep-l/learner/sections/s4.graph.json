@@ -1,0 +1,1103 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.176,
+      3.0,
+      3.176,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.176,
+      3.0,
+      3.176,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.211,
+      2.142,
+      2.211,
+      2.5
+     ],
+     "name": "sentence",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.176,
+      3.0,
+      3.176,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.211,
+      2.142,
+      2.211,
+      2.5
+     ],
+     "name": "sentence",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      -0.129,
+      1.02,
+      0.129
+     ],
+     "name": "there",
+     "line": 19,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.176,
+      3.0,
+      3.176,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      2.142,
+      1.411,
+      2.5
+     ],
+     "name": "sentence",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.6,
+      -0.129,
+      0.22,
+      0.129
+     ],
+     "name": "there",
+     "line": 19,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.176,
+      3.0,
+      3.176,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      2.142,
+      1.411,
+      2.5
+     ],
+     "name": "sentence",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.6,
+      -0.129,
+      0.22,
+      0.129
+     ],
+     "name": "there",
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.2,
+      0.0,
+      -0.2
+     ],
+     "name": "attention_line",
+     "line": 25,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.176,
+      3.0,
+      3.176,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      2.142,
+      1.411,
+      2.5
+     ],
+     "name": "sentence",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.6,
+      -0.129,
+      0.22,
+      0.129
+     ],
+     "name": "there",
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.2,
+      0.0,
+      -0.2
+     ],
+     "name": "attention_line",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      1.1,
+      -1.8,
+      2.0
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.088,
+      0.808,
+      -1.912,
+      1.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      0.1,
+      -1.8,
+      0.85
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.229,
+      -0.139,
+      -1.771,
+      -0.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -0.9,
+      -1.8,
+      -0.3
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.184,
+      -1.139,
+      -1.816,
+      -1.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -1.9,
+      -1.8,
+      -1.45
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.294,
+      -2.139,
+      -1.706,
+      -2.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -2.9,
+      -1.8,
+      -2.6
+     ],
+     "name": "bar",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.179,
+      -3.139,
+      -1.821,
+      -3.0
+     ],
+     "name": "label",
+     "line": 47,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.176,
+      3.0,
+      3.176,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      2.142,
+      1.411,
+      2.5
+     ],
+     "name": "sentence",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.6,
+      -0.129,
+      0.22,
+      0.129
+     ],
+     "name": "there",
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.2,
+      0.0,
+      -0.2
+     ],
+     "name": "attention_line",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      1.1,
+      -1.8,
+      2.0
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.088,
+      0.808,
+      -1.912,
+      1.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      0.1,
+      -1.8,
+      0.85
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.229,
+      -0.139,
+      -1.771,
+      -0.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -0.9,
+      -1.8,
+      -0.3
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.184,
+      -1.139,
+      -1.816,
+      -1.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -1.9,
+      -1.8,
+      -1.45
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.294,
+      -2.139,
+      -1.706,
+      -2.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -2.9,
+      -1.8,
+      -2.6
+     ],
+     "name": "bar",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.179,
+      -3.139,
+      -1.821,
+      -3.0
+     ],
+     "name": "label",
+     "line": 47,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.176,
+      3.0,
+      3.176,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      2.142,
+      1.411,
+      2.5
+     ],
+     "name": "sentence",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.6,
+      -0.129,
+      0.22,
+      0.129
+     ],
+     "name": "there",
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.2,
+      0.0,
+      -0.2
+     ],
+     "name": "attention_line",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      1.1,
+      -1.8,
+      2.0
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.088,
+      0.808,
+      -1.912,
+      1.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      0.1,
+      -1.8,
+      0.85
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.229,
+      -0.139,
+      -1.771,
+      -0.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -0.9,
+      -1.8,
+      -0.3
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.184,
+      -1.139,
+      -1.816,
+      -1.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -1.9,
+      -1.8,
+      -1.45
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.294,
+      -2.139,
+      -1.706,
+      -2.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -2.9,
+      -1.8,
+      -2.6
+     ],
+     "name": "bar",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.179,
+      -3.139,
+      -1.821,
+      -3.0
+     ],
+     "name": "label",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.611,
+      2.253,
+      1.99,
+      2.439
+     ],
+     "name": "next_token",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 66,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.176,
+      3.0,
+      3.176,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.811,
+      2.142,
+      0.611,
+      2.5
+     ],
+     "name": "sentence",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.4,
+      -0.129,
+      -0.58,
+      0.129
+     ],
+     "name": "there",
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.2,
+      0.0,
+      -0.2
+     ],
+     "name": "attention_line",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      1.1,
+      -1.8,
+      2.0
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.088,
+      0.808,
+      -1.912,
+      1.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      0.1,
+      -1.8,
+      0.85
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.229,
+      -0.139,
+      -1.771,
+      -0.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -0.9,
+      -1.8,
+      -0.3
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.184,
+      -1.139,
+      -1.816,
+      -1.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -1.9,
+      -1.8,
+      -1.45
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.294,
+      -2.139,
+      -1.706,
+      -2.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -2.9,
+      -1.8,
+      -2.6
+     ],
+     "name": "bar",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.179,
+      -3.139,
+      -1.821,
+      -3.0
+     ],
+     "name": "label",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.811,
+      2.253,
+      1.19,
+      2.439
+     ],
+     "name": "next_token",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.176,
+      3.0,
+      3.176,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.811,
+      2.142,
+      0.611,
+      2.5
+     ],
+     "name": "sentence",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.4,
+      -0.129,
+      -0.58,
+      0.129
+     ],
+     "name": "there",
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.2,
+      0.0,
+      -0.2
+     ],
+     "name": "attention_line",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      1.1,
+      -1.8,
+      2.0
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.088,
+      0.808,
+      -1.912,
+      1.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      0.1,
+      -1.8,
+      0.85
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.229,
+      -0.139,
+      -1.771,
+      -0.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -0.9,
+      -1.8,
+      -0.3
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.184,
+      -1.139,
+      -1.816,
+      -1.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -1.9,
+      -1.8,
+      -1.45
+     ],
+     "name": "bar_chart",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.294,
+      -2.139,
+      -1.706,
+      -2.0
+     ],
+     "name": "bar_chart",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.2,
+      -2.9,
+      -1.8,
+      -2.6
+     ],
+     "name": "bar",
+     "line": 45,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.179,
+      -3.139,
+      -1.821,
+      -3.0
+     ],
+     "name": "label",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.811,
+      2.253,
+      1.19,
+      2.439
+     ],
+     "name": "next_token",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -14.65,
+      -3.5,
+      14.65,
+      -3.22
+     ],
+     "name": "final_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 80,
+   "objects": []
+  }
+ ],
+ "error": null
+}

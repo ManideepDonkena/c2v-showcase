@@ -1,0 +1,975 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.28,
+      1.28,
+      3.288,
+      1.778
+     ],
+     "name": "label",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.28,
+      1.28,
+      3.288,
+      1.778
+     ],
+     "name": "label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.045,
+      1.089,
+      1.955,
+      2.911
+     ],
+     "name": "arrow",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      2.69,
+      1.08,
+      2.85
+     ],
+     "name": "new_point",
+     "line": 26,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.28,
+      2.35,
+      2.288,
+      2.848
+     ],
+     "name": "new_label",
+     "line": 27,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 18,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.28,
+      1.28,
+      3.288,
+      1.778
+     ],
+     "name": "label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.045,
+      1.089,
+      1.955,
+      2.911
+     ],
+     "name": "arrow",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      2.69,
+      1.08,
+      2.85
+     ],
+     "name": "new_point",
+     "line": 26,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.28,
+      2.35,
+      2.288,
+      2.848
+     ],
+     "name": "new_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.538,
+      2.328,
+      3.034,
+      2.87
+     ],
+     "name": "check",
+     "line": 35,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.538,
+      2.328,
+      3.034,
+      2.87
+     ],
+     "name": "check",
+     "line": 35,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.538,
+      2.328,
+      3.034,
+      2.87
+     ],
+     "name": "check",
+     "line": 35,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "start",
+     "line": 43,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.28,
+      0.28,
+      1.288,
+      0.778
+     ],
+     "name": "start_label",
+     "line": 44,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.538,
+      2.328,
+      3.034,
+      2.87
+     ],
+     "name": "check",
+     "line": 35,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "start",
+     "line": 43,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.28,
+      0.28,
+      1.288,
+      0.778
+     ],
+     "name": "start_label",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.1,
+      0.1,
+      0.1,
+      0.9
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "point1",
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.28,
+      1.28,
+      1.288,
+      1.778
+     ],
+     "name": "label1",
+     "line": 52,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.538,
+      2.328,
+      3.034,
+      2.87
+     ],
+     "name": "check",
+     "line": 35,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "start",
+     "line": 43,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.28,
+      0.28,
+      1.288,
+      0.778
+     ],
+     "name": "start_label",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.1,
+      0.1,
+      0.1,
+      0.9
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": "point1",
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.28,
+      1.28,
+      1.288,
+      1.778
+     ],
+     "name": "label1",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.1,
+      0.9,
+      0.9,
+      1.1
+     ],
+     "name": "arrow2",
+     "line": 58,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": "point2",
+     "line": 59,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.28,
+      1.28,
+      2.288,
+      1.778
+     ],
+     "name": "label2",
+     "line": 60,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.538,
+      2.328,
+      3.034,
+      2.87
+     ],
+     "name": "check",
+     "line": 35,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.538,
+      2.328,
+      3.034,
+      2.87
+     ],
+     "name": "check",
+     "line": 35,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "third_start",
+     "line": 65,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.28,
+      2.28,
+      2.288,
+      2.778
+     ],
+     "name": "third_label",
+     "line": 70,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 78,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.538,
+      2.328,
+      3.034,
+      2.87
+     ],
+     "name": "check",
+     "line": 35,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "third_start",
+     "line": 65,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.28,
+      2.28,
+      2.288,
+      2.778
+     ],
+     "name": "third_label",
+     "line": 70,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.071,
+      2.071,
+      1.929,
+      2.929
+     ],
+     "name": "third_arrow",
+     "line": 74,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      2.92,
+      2.08,
+      3.08
+     ],
+     "name": "third_end",
+     "line": 75,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.28,
+      3.28,
+      3.288,
+      3.778
+     ],
+     "name": "third_end_label",
+     "line": 76,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.185,
+      3.0,
+      2.185,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.538,
+      2.328,
+      3.034,
+      2.87
+     ],
+     "name": "check",
+     "line": 35,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "third_start",
+     "line": 65,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.28,
+      2.28,
+      2.288,
+      2.778
+     ],
+     "name": "third_label",
+     "line": 70,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.071,
+      2.071,
+      1.929,
+      2.929
+     ],
+     "name": "third_arrow",
+     "line": 74,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      2.92,
+      2.08,
+      3.08
+     ],
+     "name": "third_end",
+     "line": 75,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.28,
+      3.28,
+      3.288,
+      3.778
+     ],
+     "name": "third_end_label",
+     "line": 76,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -10.956,
+      -3.5,
+      10.956,
+      -3.163
+     ],
+     "name": "narration",
+     "line": 82,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 87,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      2.538,
+      2.328,
+      3.034,
+      2.87
+     ],
+     "name": "check",
+     "line": 35,
+     "type": "Tex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

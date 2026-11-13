@@ -1,0 +1,10323 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -0.5,
+      -1.0,
+      0.5
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      0.651,
+      -0.868,
+      0.909
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 37,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    }
+   ]
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 98,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 104,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 109,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.25,
+      1.0,
+      -0.25
+     ],
+     "name": "ff",
+     "line": 107,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      -0.857,
+      0.916,
+      -0.643
+     ],
+     "name": "ff_label",
+     "line": 108,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 115,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.25,
+      1.0,
+      -0.25
+     ],
+     "name": "ff",
+     "line": 107,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      -0.857,
+      0.916,
+      -0.643
+     ],
+     "name": "ff_label",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.031,
+      -0.25,
+      0.031,
+      0.0
+     ],
+     "name": "add_arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.281,
+      -0.232,
+      1.921,
+      -0.018
+     ],
+     "name": "norm",
+     "line": 114,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 124,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.25,
+      1.0,
+      -0.25
+     ],
+     "name": "ff",
+     "line": 107,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      -0.857,
+      0.916,
+      -0.643
+     ],
+     "name": "ff_label",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.031,
+      -0.25,
+      0.031,
+      0.0
+     ],
+     "name": "add_arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.281,
+      -0.232,
+      1.921,
+      -0.018
+     ],
+     "name": "norm",
+     "line": 114,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.75,
+      -2.5,
+      0.75
+     ],
+     "name": "dec_only",
+     "line": 119,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.894,
+      -0.139,
+      -3.106,
+      0.139
+     ],
+     "name": "dec_text",
+     "line": 120,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 126,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.25,
+      1.0,
+      -0.25
+     ],
+     "name": "ff",
+     "line": 107,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      -0.857,
+      0.916,
+      -0.643
+     ],
+     "name": "ff_label",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.031,
+      -0.25,
+      0.031,
+      0.0
+     ],
+     "name": "add_arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.281,
+      -0.232,
+      1.921,
+      -0.018
+     ],
+     "name": "norm",
+     "line": 114,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.75,
+      -2.5,
+      0.75
+     ],
+     "name": "dec_only",
+     "line": 119,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.894,
+      -0.139,
+      -3.106,
+      0.139
+     ],
+     "name": "dec_text",
+     "line": 120,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.75,
+      5.5,
+      0.75
+     ],
+     "name": "enc_dec",
+     "line": 121,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.866,
+      -0.107,
+      5.134,
+      0.107
+     ],
+     "name": "enc_text",
+     "line": 122,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 131,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.25,
+      1.0,
+      -0.25
+     ],
+     "name": "ff",
+     "line": 107,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      -0.857,
+      0.916,
+      -0.643
+     ],
+     "name": "ff_label",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.031,
+      -0.25,
+      0.031,
+      0.0
+     ],
+     "name": "add_arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.281,
+      -0.232,
+      1.921,
+      -0.018
+     ],
+     "name": "norm",
+     "line": 114,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.75,
+      -2.5,
+      0.75
+     ],
+     "name": "dec_only",
+     "line": 119,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.894,
+      -0.139,
+      -3.106,
+      0.139
+     ],
+     "name": "dec_text",
+     "line": 120,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.75,
+      5.5,
+      0.75
+     ],
+     "name": "enc_dec",
+     "line": 121,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.866,
+      -0.107,
+      5.134,
+      0.107
+     ],
+     "name": "enc_text",
+     "line": 122,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.5,
+      0.0,
+      5.5,
+      0.0
+     ],
+     "name": "cross_attn",
+     "line": 130,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 137,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.25,
+      1.0,
+      -0.25
+     ],
+     "name": "ff",
+     "line": 107,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      -0.857,
+      0.916,
+      -0.643
+     ],
+     "name": "ff_label",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.031,
+      -0.25,
+      0.031,
+      0.0
+     ],
+     "name": "add_arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.281,
+      -0.232,
+      1.921,
+      -0.018
+     ],
+     "name": "norm",
+     "line": 114,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.75,
+      -2.5,
+      0.75
+     ],
+     "name": "dec_only",
+     "line": 119,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.894,
+      -0.139,
+      -3.106,
+      0.139
+     ],
+     "name": "dec_text",
+     "line": 120,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.75,
+      5.5,
+      0.75
+     ],
+     "name": "enc_dec",
+     "line": 121,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.866,
+      -0.107,
+      5.134,
+      0.107
+     ],
+     "name": "enc_text",
+     "line": 122,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.5,
+      0.0,
+      5.5,
+      0.0
+     ],
+     "name": "cross_attn",
+     "line": 130,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 74,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 142,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.25,
+      1.0,
+      -0.25
+     ],
+     "name": "ff",
+     "line": 107,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      -0.857,
+      0.916,
+      -0.643
+     ],
+     "name": "ff_label",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.031,
+      -0.25,
+      0.031,
+      0.0
+     ],
+     "name": "add_arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.281,
+      -0.232,
+      1.921,
+      -0.018
+     ],
+     "name": "norm",
+     "line": 114,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.75,
+      -2.5,
+      0.75
+     ],
+     "name": "dec_only",
+     "line": 119,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.894,
+      -0.139,
+      -3.106,
+      0.139
+     ],
+     "name": "dec_text",
+     "line": 120,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.75,
+      5.5,
+      0.75
+     ],
+     "name": "enc_dec",
+     "line": 121,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.866,
+      -0.107,
+      5.134,
+      0.107
+     ],
+     "name": "enc_text",
+     "line": 122,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.5,
+      0.0,
+      5.5,
+      0.0
+     ],
+     "name": "cross_attn",
+     "line": 130,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 74,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.2,
+      -1.6,
+      0.0,
+      -0.4
+     ],
+     "name": "mask",
+     "line": 141,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 148,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.25,
+      1.0,
+      -0.25
+     ],
+     "name": "ff",
+     "line": 107,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      -0.857,
+      0.916,
+      -0.643
+     ],
+     "name": "ff_label",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.031,
+      -0.25,
+      0.031,
+      0.0
+     ],
+     "name": "add_arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.281,
+      -0.232,
+      1.921,
+      -0.018
+     ],
+     "name": "norm",
+     "line": 114,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.75,
+      -2.5,
+      0.75
+     ],
+     "name": "dec_only",
+     "line": 119,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.894,
+      -0.139,
+      -3.106,
+      0.139
+     ],
+     "name": "dec_text",
+     "line": 120,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.75,
+      5.5,
+      0.75
+     ],
+     "name": "enc_dec",
+     "line": 121,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.866,
+      -0.107,
+      5.134,
+      0.107
+     ],
+     "name": "enc_text",
+     "line": 122,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.5,
+      0.0,
+      5.5,
+      0.0
+     ],
+     "name": "cross_attn",
+     "line": 130,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 74,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.2,
+      -1.6,
+      0.0,
+      -0.4
+     ],
+     "name": "mask",
+     "line": 141,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.15,
+      3.243,
+      1.15,
+      3.5
+     ],
+     "name": "norm_before",
+     "line": 142,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 150,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.25,
+      1.0,
+      -0.25
+     ],
+     "name": "ff",
+     "line": 107,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      -0.857,
+      0.916,
+      -0.643
+     ],
+     "name": "ff_label",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.031,
+      -0.25,
+      0.031,
+      0.0
+     ],
+     "name": "add_arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.281,
+      -0.232,
+      1.921,
+      -0.018
+     ],
+     "name": "norm",
+     "line": 114,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.75,
+      -2.5,
+      0.75
+     ],
+     "name": "dec_only",
+     "line": 119,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.894,
+      -0.139,
+      -3.106,
+      0.139
+     ],
+     "name": "dec_text",
+     "line": 120,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.75,
+      5.5,
+      0.75
+     ],
+     "name": "enc_dec",
+     "line": 121,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.866,
+      -0.107,
+      5.134,
+      0.107
+     ],
+     "name": "enc_text",
+     "line": 122,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.5,
+      0.0,
+      5.5,
+      0.0
+     ],
+     "name": "cross_attn",
+     "line": 130,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 74,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.2,
+      -1.6,
+      0.0,
+      -0.4
+     ],
+     "name": "mask",
+     "line": 141,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.389,
+      3.166,
+      1.389,
+      3.5
+     ],
+     "name": "norm_before",
+     "line": 142,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 155,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.25,
+      1.0,
+      -0.25
+     ],
+     "name": "ff",
+     "line": 107,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      -0.857,
+      0.916,
+      -0.643
+     ],
+     "name": "ff_label",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.031,
+      -0.25,
+      0.031,
+      0.0
+     ],
+     "name": "add_arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.281,
+      -0.232,
+      1.921,
+      -0.018
+     ],
+     "name": "norm",
+     "line": 114,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.75,
+      -2.5,
+      0.75
+     ],
+     "name": "dec_only",
+     "line": 119,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.894,
+      -0.139,
+      -3.106,
+      0.139
+     ],
+     "name": "dec_text",
+     "line": 120,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.75,
+      5.5,
+      0.75
+     ],
+     "name": "enc_dec",
+     "line": 121,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.866,
+      -0.107,
+      5.134,
+      0.107
+     ],
+     "name": "enc_text",
+     "line": 122,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.5,
+      0.0,
+      5.5,
+      0.0
+     ],
+     "name": "cross_attn",
+     "line": 130,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 74,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.2,
+      -1.6,
+      0.0,
+      -0.4
+     ],
+     "name": "mask",
+     "line": 141,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.389,
+      3.166,
+      1.389,
+      3.5
+     ],
+     "name": "norm_before",
+     "line": 142,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.174,
+      -3.5,
+      5.174,
+      -3.166
+     ],
+     "name": "final_text",
+     "line": 154,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 158,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.7,
+      -1.0,
+      1.7
+     ],
+     "name": "decoder_block",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.132,
+      1.851,
+      -0.868,
+      2.109
+     ],
+     "name": "decoder_text",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -0.5,
+      3.0,
+      0.5
+     ],
+     "name": "dense_layer",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.027,
+      -0.159,
+      2.973,
+      0.159
+     ],
+     "name": "dense_text",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.95,
+      -1.25,
+      -0.65,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.55,
+      -1.25,
+      -0.25,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.15,
+      -1.25,
+      0.15,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -1.25,
+      0.55,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.65,
+      -1.25,
+      0.95,
+      -0.75
+     ],
+     "name": "bars",
+     "line": 31,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.142,
+      -1.565,
+      -0.458,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.584,
+      -1.537,
+      -0.216,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -1.537,
+      0.18,
+      -1.35
+     ],
+     "name": null,
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.198,
+      -1.565,
+      0.602,
+      -1.35
+     ],
+     "name": null,
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.702,
+      -1.565,
+      0.898,
+      -1.35
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.886,
+      -3.5,
+      3.886,
+      -3.163
+     ],
+     "name": "text1",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.5,
+      -2.5,
+      0.5
+     ],
+     "name": "rnn",
+     "line": 50,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.353,
+      -0.119,
+      -3.647,
+      0.119
+     ],
+     "name": "rnn_text",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.5,
+      5.5,
+      0.5
+     ],
+     "name": "trans",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.991,
+      -0.13,
+      5.009,
+      0.13
+     ],
+     "name": "trans_text",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      0.755,
+      -0.2,
+      1.245
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.3,
+      0.777,
+      1.166,
+      1.223
+     ],
+     "name": "words1",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.156,
+      -1.245,
+      -0.23,
+      -0.755
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.27,
+      -1.223,
+      1.156,
+      -0.777
+     ],
+     "name": "words2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 67,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      1.0,
+      0.3,
+      1.0
+     ],
+     "name": "attention_weights",
+     "line": 62,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.683,
+      0.8,
+      -0.683,
+      1.2
+     ],
+     "name": "wave1",
+     "line": 74,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.693,
+      -1.2,
+      -0.693,
+      -0.8
+     ],
+     "name": "wave2",
+     "line": 79,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      0.823,
+      0.823
+     ],
+     "name": "q",
+     "line": 79,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "k",
+     "line": 84,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.719,
+      1.073,
+      0.928,
+      1.392
+     ],
+     "name": "q_label",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.711,
+      -1.312,
+      0.936,
+      -1.073
+     ],
+     "name": "k_label",
+     "line": 91,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.113,
+      -3.5,
+      1.113,
+      -3.267
+     ],
+     "name": "result",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      2.0
+     ],
+     "name": "block",
+     "line": 102,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.757,
+      0.743,
+      1.243
+     ],
+     "name": "attn",
+     "line": 103,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.25,
+      1.0,
+      -0.25
+     ],
+     "name": "ff",
+     "line": 107,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      -0.857,
+      0.916,
+      -0.643
+     ],
+     "name": "ff_label",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.031,
+      -0.25,
+      0.031,
+      0.0
+     ],
+     "name": "add_arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.281,
+      -0.232,
+      1.921,
+      -0.018
+     ],
+     "name": "norm",
+     "line": 114,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.5,
+      -0.75,
+      -2.5,
+      0.75
+     ],
+     "name": "dec_only",
+     "line": 119,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.894,
+      -0.139,
+      -3.106,
+      0.139
+     ],
+     "name": "dec_text",
+     "line": 120,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.5,
+      -0.75,
+      5.5,
+      0.75
+     ],
+     "name": "enc_dec",
+     "line": 121,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.866,
+      -0.107,
+      5.134,
+      0.107
+     ],
+     "name": "enc_text",
+     "line": 122,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.5,
+      0.0,
+      5.5,
+      0.0
+     ],
+     "name": "cross_attn",
+     "line": 130,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -1.15,
+      -0.45,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.35,
+      -1.15,
+      -0.05,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.05,
+      -1.15,
+      0.35,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 74,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.45,
+      -1.15,
+      0.75,
+      -0.85
+     ],
+     "name": "matrix",
+     "line": 135,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.2,
+      -1.6,
+      0.0,
+      -0.4
+     ],
+     "name": "mask",
+     "line": 141,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.389,
+      3.166,
+      1.389,
+      3.5
+     ],
+     "name": "norm_before",
+     "line": 142,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.174,
+      -3.5,
+      5.174,
+      -3.166
+     ],
+     "name": "final_text",
+     "line": 154,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,14 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 12,
+  "scope": "section",
+  "preflight": true,
+  "error": "line 12: TypeError: NumberLine() does not accept the keyword 'numbers_to_show' in this Manim\nline 12: TypeError: NumberLine() does not accept the keyword 'width' in this Manim\nline 58: NameError: name 'Checkmark' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": true
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "id": "s1",
+  "title": "Defining the Vell Formula",
+  "teaches": "The definition of a vell: multiply top-left and bottom-right, then subtract the other two numbers.",
+  "visual": "A 2x2 grid appears with labels [[a, b], [c, d]]. An arrow highlights 'a' and 'd' connecting them, followed by 'b' and 'c' being crossed out or dimmed. The equation a×d - b - c forms beside the grid.",
+  "narration": "We define the vell of a 2x2 grid [[a, b], [c, d]] using a specific rule: only multiply the top-left number by the bottom-right number. Then, subtract the remaining two numbers from that product.",
+  "start": 0.0,
+  "end": 15.8
+ },
+ {
+  "id": "s2",
+  "title": "Worked Example Calculation",
+  "teaches": "Applying the formula to a concrete numerical example.",
+  "visual": "The grid [[2, 1], [3, 4]] appears. The numbers 2 and 4 pulse and multiply to show 8. Then 1 and 3 are subtracted sequentially, resulting in the final answer 4 displayed prominently.",
+  "narration": "Let's calculate the vell for the grid [[2, 1], [3, 4]]. First, we multiply 2 by 4 to get 8. Next, we subtract 1 and then 3 from that result, giving us a final vell of 4.",
+  "start": 15.8,
+  "end": 37.07
+ },
+ {
+  "id": "s3",
+  "title": "Rule: Multiplication Scope",
+  "teaches": "Clarifying that only the diagonal elements (top-left and bottom-right) are multiplied.",
+  "visual": "Two grids appear side-by-side. In the first, [[a, b], [c, d]], lines connect a-d. In the second, [[d, c], [b, a]], lines connect d-a. The other pairs (b-c) remain unconnected or fade out to emphasize exclusivity.",
+  "narration": "Rule one states that only the top-left and bottom-right numbers are multiplied. This means the position matters: we never multiply adjacent elements like b and c directly in the product step.",
+  "start": 37.07,
+  "end": 59.87
+ }
+]

@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 79.9,
+  "s_sp": 92.1,
+  "s_ly": 35.7,
+  "s_ed": 89.0,
+  "states": 30,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.62,
+   "conflicts": 11
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.69,
+   "conflict": "Text \"hamming_fix\" (created line 42, box [3.494, 2.702, 7.155, 2.916]) is outside the frame; shift it by [-0.19, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.3,
+   "conflict": "MathTex \"label\" (created line 84, box [-1.607, 1.398, -1.393, 1.602]) overlaps MathTex \"label\" (line 66, box [-1.549, 1.4, -1.451, 1.6]) by 100%; moving it by [0.31, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.9,
+   "conflict": "Circle \"c1\" (created line 84, box [-1.5, -1.5, 1.5, 1.5]) overlaps MathTex \"label\" (line 66, box [-1.549, 1.4, -1.451, 1.6]) by 25%; moving it by [0.2, 0.0] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 11,
+  "scope": "line",
+  "error": "TypeError: Mobject.__init__() got an unexpected keyword argument 'background_line_config'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 18,
+  "scope": "block",
+  "error": "IndentationError: unexpected indent (s2.py, line 18)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 23,
+  "scope": "section",
+  "error": "SyntaxError: unmatched ')' (s2.py, line 23)"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 11,
+  "scope": "section",
+  "error": "TypeError: Mobject.__init__() got an unexpected keyword argument 'background_line_config'"
+ }
+]

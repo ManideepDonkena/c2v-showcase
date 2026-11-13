@@ -1,0 +1,2062 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.489,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.489,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      1.511,
+      3.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.489,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      1.511,
+      3.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.725,
+      -3.5,
+      2.725,
+      -3.166
+     ],
+     "name": "narration",
+     "line": 33,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.489,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      1.511,
+      3.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.489,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      1.511,
+      3.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.274,
+      -4.422,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.489,
+      1.5,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.274,
+      -4.422,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.489,
+      1.5,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.274,
+      -4.422,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.808,
+      -3.5,
+      1.808,
+      -3.191
+     ],
+     "name": "ratio_text",
+     "line": 57,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 64,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.489,
+      1.5,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.274,
+      -4.422,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.489,
+      1.5,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.274,
+      -4.422,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.387,
+      -3.5,
+      1.387,
+      -3.207
+     ],
+     "name": "limit_text",
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.489,
+      1.5,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.274,
+      -4.422,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.489,
+      1.5,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.489,
+      1.5,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.261,
+      -3.5,
+      1.261,
+      -3.274
+     ],
+     "name": "inverse_text",
+     "line": 78,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 81,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.489,
+      1.5,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 97,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.489,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 99,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.45,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 103,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.45,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.263,
+      -3.5,
+      2.263,
+      -3.166
+     ],
+     "name": "comparison_text",
+     "line": 102,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 105,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.45,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 109,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.45,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.864,
+      -3.5,
+      2.864,
+      -3.166
+     ],
+     "name": "pad_text",
+     "line": 108,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 111,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.45,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 121,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.45,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.25,
+      -0.4,
+      0.25,
+      2.6
+     ],
+     "name": "brick_wall",
+     "line": 114,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.717,
+      6.0,
+      -0.5
+     ],
+     "name": "sinc_func",
+     "line": 115,
+     "type": "FunctionGraph"
+    }
+   ]
+  },
+  {
+   "after_line": 126,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.45,
+      3.0,
+      -0.5
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      1.5,
+      6.0,
+      2.5
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.25,
+      -0.4,
+      0.25,
+      2.6
+     ],
+     "name": "brick_wall",
+     "line": 114,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.717,
+      6.0,
+      -0.5
+     ],
+     "name": "sinc_func",
+     "line": 115,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.152,
+      2.653,
+      6.611,
+      3.5
+     ],
+     "name": "const_pi",
+     "line": 125,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 132,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -2.0,
+      0.0,
+      2.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.25,
+      -0.4,
+      0.25,
+      2.6
+     ],
+     "name": "brick_wall",
+     "line": 114,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.717,
+      6.0,
+      -0.5
+     ],
+     "name": "sinc_func",
+     "line": 115,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.152,
+      2.653,
+      6.611,
+      3.5
+     ],
+     "name": "const_pi",
+     "line": 125,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 137,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -2.0,
+      0.0,
+      2.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.25,
+      -0.4,
+      0.25,
+      2.6
+     ],
+     "name": "brick_wall",
+     "line": 114,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.717,
+      6.0,
+      -0.5
+     ],
+     "name": "sinc_func",
+     "line": 115,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.152,
+      2.653,
+      6.611,
+      3.5
+     ],
+     "name": "const_pi",
+     "line": 125,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.784,
+      -3.5,
+      2.784,
+      -3.166
+     ],
+     "name": "final_text",
+     "line": 136,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 140,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -2.0,
+      0.0,
+      2.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      -0.25,
+      1.067,
+      0.007
+     ],
+     "name": "time_label",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "freq_pulse",
+     "line": 22,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.509,
+      2.75,
+      1.509,
+      3.084
+     ],
+     "name": "freq_label",
+     "line": 28,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.27,
+      -3.349,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.25,
+      -0.4,
+      0.25,
+      2.6
+     ],
+     "name": "brick_wall",
+     "line": 114,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.717,
+      6.0,
+      -0.5
+     ],
+     "name": "sinc_func",
+     "line": 115,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.152,
+      2.653,
+      6.611,
+      3.5
+     ],
+     "name": "const_pi",
+     "line": 125,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.784,
+      -3.5,
+      2.784,
+      -3.166
+     ],
+     "name": "final_text",
+     "line": 136,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

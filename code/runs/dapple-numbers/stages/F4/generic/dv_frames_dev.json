@@ -1,0 +1,312 @@
+{
+ "kind": "frames",
+ "frames": 12,
+ "rotations": [
+  {
+   "rotation": 0,
+   "items": [
+    {
+     "id": "q1",
+     "p": {
+      "A": 0.995755,
+      "B": 9e-06,
+      "C": 1.2e-05,
+      "D": 0.004224
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.995755
+    },
+    {
+     "id": "q2",
+     "p": {
+      "A": 8e-06,
+      "B": 1.1e-05,
+      "C": 0.999975,
+      "D": 6e-06
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999975
+    },
+    {
+     "id": "q3",
+     "p": {
+      "A": 0.999104,
+      "B": 1.7e-05,
+      "C": 2e-06,
+      "D": 0.000877
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.999104
+    },
+    {
+     "id": "q4",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q5",
+     "p": {
+      "A": 0.0,
+      "B": 2e-06,
+      "C": 5e-06,
+      "D": 0.999993
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 0.999993
+    },
+    {
+     "id": "q6",
+     "p": {
+      "A": 0.999999,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.999999
+    },
+    {
+     "id": "q7",
+     "p": {
+      "A": 0.000635,
+      "B": 0.999047,
+      "C": 0.000134,
+      "D": 0.000184
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.999047
+    },
+    {
+     "id": "q8",
+     "p": {
+      "A": 8e-06,
+      "B": 4e-06,
+      "C": 0.999988,
+      "D": 1e-06
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999988
+    },
+    {
+     "id": "q9",
+     "p": {
+      "A": 2.5e-05,
+      "B": 0.000289,
+      "C": 0.999629,
+      "D": 5.7e-05
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999629
+    },
+    {
+     "id": "q10",
+     "p": {
+      "A": 0.999549,
+      "B": 6.4e-05,
+      "C": 0.000146,
+      "D": 0.000241
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.999549
+    },
+    {
+     "id": "q11",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q12",
+     "p": {
+      "A": 0.993196,
+      "B": 0.006773,
+      "C": 2.2e-05,
+      "D": 9e-06
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.993196
+    }
+   ],
+   "reply": "1: A\n2: C\n3: A\n4: C\n5: D\n6: A\n7: B\n8: C\n9: C\n10: A\n11: B\n12: A",
+   "prompt_tokens": 2781,
+   "retries": 0,
+   "missing": 0
+  },
+  {
+   "rotation": 1,
+   "items": [
+    {
+     "id": "q1",
+     "p": {
+      "D": 0.999753,
+      "A": 0.000244,
+      "B": 2e-06,
+      "C": 1e-06
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 0.000244
+    },
+    {
+     "id": "q2",
+     "p": {
+      "D": 2e-06,
+      "A": 6.4e-05,
+      "B": 6e-06,
+      "C": 0.999928
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999928
+    },
+    {
+     "id": "q3",
+     "p": {
+      "D": 0.006894,
+      "A": 0.988589,
+      "B": 0.003821,
+      "C": 0.000696
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.988589
+    },
+    {
+     "id": "q4",
+     "p": {
+      "D": 0.0,
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q5",
+     "p": {
+      "D": 0.999747,
+      "A": 5e-06,
+      "B": 1e-06,
+      "C": 0.000247
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 0.999747
+    },
+    {
+     "id": "q6",
+     "p": {
+      "D": 0.0,
+      "A": 1.0,
+      "B": 0.0,
+      "C": 0.0
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q7",
+     "p": {
+      "D": 0.00013,
+      "A": 0.000262,
+      "B": 0.999353,
+      "C": 0.000255
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.999353
+    },
+    {
+     "id": "q8",
+     "p": {
+      "D": 1e-05,
+      "A": 4.3e-05,
+      "B": 0.000233,
+      "C": 0.999714
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999714
+    },
+    {
+     "id": "q9",
+     "p": {
+      "D": 0.000219,
+      "A": 0.000521,
+      "B": 0.000453,
+      "C": 0.998807
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.998807
+    },
+    {
+     "id": "q10",
+     "p": {
+      "D": 0.998788,
+      "A": 0.000946,
+      "B": 9.9e-05,
+      "C": 0.000167
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 0.000946
+    },
+    {
+     "id": "q11",
+     "p": {
+      "D": 0.0,
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q12",
+     "p": {
+      "D": 9.5e-05,
+      "A": 0.990879,
+      "B": 0.007943,
+      "C": 0.001083
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.990879
+    }
+   ],
+   "reply": "1: A\n2: D\n3: B\n4: D\n5: A\n6: B\n7: C\n8: D\n9: D\n10: A\n11: C\n12: B or C (Note: Frame 4 shows 44 is not dapple, Frame 5 shows 25 is not dapple because 2 < 5. Frame 2 shows 52 is dapple because 5 > 2. Frame 4 shows 44 is an edge",
+   "prompt_tokens": 2781,
+   "retries": 0,
+   "missing": 0
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 25,
+  "scope": "section",
+  "preflight": true,
+  "error": "5: NameError: name 'Inside' is not defined\nline 26: NameError: name 'Edge' is not defined\nline 27: NameError: name 'Sorrel' is not defined\nline 44: NameError: name 'Inside' is not defined\nline 45: NameError: name 'Edge' is not defined\nline 46: NameError: name 'Sorrel' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": true
+ }
+]

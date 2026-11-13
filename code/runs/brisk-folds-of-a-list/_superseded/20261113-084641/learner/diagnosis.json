@@ -1,0 +1,37 @@
+{
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q4",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q9",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "dev": 12,
+ "fixes": {
+  "s2": [
+   "Show the list [10, 20, 30]. Draw an arrow from 10 to 30 with the label '10+30=40'. Show the number 20 sliding alone to the right side. Display the final result as two distinct blocks: [40] and [20], visually confirming the pair sum and the unpaired middle element.",
+   "Show a list with an odd number of elements (e.g., [1, 2, 3]) where the first and last pair up to form a sum, while the central element remains unpaired and is visually separated or highlighted as remaining in its original relative position at the end of the new sequence.",
+   "SHOW the list [1, 2, 3, 4, 5] with arrows connecting 1+5=6 and 2+4=6, leaving the middle '3' alone. SAY that the result is formed by these sums followed by the unpaired middle number, resulting in [6, 6, 3].",
+   "Show the list [0, 0, 0]. Draw an arrow from the first '0' to the last '0' with a '+' sign, resulting in '0'. Highlight the middle '0' as the unpaired element that stays alone. State: 'The sum of the paired ends is 0 + 0 = 0. The middle element remains 0. The result is [0, 0].'"
+  ],
+  "s4": [
+   "Show a list with an odd number of elements (e.g., length 5) folding into a result with length 3. Explicitly state that because the middle element remains unpaired and appended to the end, the new length is exactly (n / 2) rounded up, reinforcing that 'roughly halves' means the count of pairs plus one if odd.",
+   "A visual comparison showing the list length shrinking (e.g., from 6 items to 3 items) with a label 'Length / 2', explicitly contradicting any idea that the number of elements increases or doubles."
+  ],
+  "s3": [
+   "Show the sum of the original list elements (e.g., 1+2+3+4=10) and the sum of the folded list elements (5+5=10) side-by-side, explicitly stating that these two totals are identical.",
+   "Show the individual numbers from the original list flowing into the new blocks without disappearing or changing value, demonstrating that the sum of the parts equals the sum of the whole."
+  ],
+  "s1": [
+   "SHOW the list [5, 5, 5, 5] with arrows connecting the first 5 to the last 5 (summing to 10) and the second 5 to the third 5 (summing to 10). SAY that pairing identical numbers results in doubling their value, producing two blocks of 10.",
+   "Show the list [1, 2] with an arrow connecting index 0 (value 1) to index 1 (value 2). Display the calculation '1 + 2 = 3' and show the result collapsing into a single block containing the number [3]."
+  ]
+ }
+}

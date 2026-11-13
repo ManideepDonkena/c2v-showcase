@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 76.92,
+  "s_sp": 92.8,
+  "s_ly": 63.8,
+  "s_ed": 59.2,
+  "states": 62,
+  "states_with_conflict": 21
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.66,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.41,
+   "conflict": "Text \"check_start\" (created line 47, box [1.552, -0.183, 1.789, 0.183]) overlaps Text \"check\" (line 38, box [1.552, -0.183, 1.789, 0.183]) by 100%; moving it by [0.39, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.92,
+   "conflict": "Circle \"circle_6\" (created line 75, box [-2.0, -2.0, 2.0, 2.0]) overlaps Text \"check_start\" (line 24, box [1.942, -0.183, 2.179, 0.183]) by 24%; moving it by [-0.21, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Dot \"mark\" (created line 73, box [1.92, -0.08, 2.08, 0.08]) overlaps Text \"check_start\" (line 22, box [1.942, -0.183, 2.179, 0.183]) by 86%; moving it by [-0.29, 0.0] would clear it"
+  }
+ ]
+}

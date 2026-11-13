@@ -1,0 +1,194 @@
+{
+ "topic": "Sorrel counts of lattice rectangles",
+ "sections": [
+  {
+   "id": "s1",
+   "before": {
+    "mvqs": 72.1,
+    "conflicts": 2,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4562,
+      "output_tokens": 3826
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDVQfXZXhzd8XDuaT66"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "Formula 'Sorrel Count = Inside - Edge' sits on top of the count label '8' above the first rectangle",
+     "change": "Placed the rectangle and dots on the grid with grid.c2p and scaled the rectangle to grid units. The rectangle is now lower, so the '8' label sits well below the formula."
+    },
+    {
+     "kind": "overlap",
+     "where": "Count label '4' above the 3x3 example overlaps the title",
+     "change": "Placed the 3x3 example on the grid (scaled to 0.8, centered at grid.c2p(1.5,1.5)), so its top label now sits below the title."
+    },
+    {
+     "kind": "other",
+     "where": "Rectangles and dots were placed in screen coordinates and did not line up with the grid",
+     "change": "All rectangles and dots now use grid.c2p coordinates and grid-unit scaling."
+    },
+    {
+     "kind": "leftover",
+     "where": "The first rectangle and its blue and red dots stay on screen under the 3x3 example",
+     "change": "Fade out the first rectangle and its dots together with the counts and formula before the example appears."
+    },
+    {
+     "kind": "leftover",
+     "where": "All dots stayed on screen after the final fade-out",
+     "change": "Added the example's interior and edge dots to the final FadeOut. The first rectangle's dots and rect are now faded out earlier."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 81.5,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s2",
+   "before": {
+    "mvqs": 92.1,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3331,
+      "output_tokens": 1382
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDYTaEgH7yJ7WVQdozf"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "off_screen",
+     "where": "interior_formula '(w-1) × (h-1)' at the top, shifted above the title by to_edge(UP).shift(UP*0.5)",
+     "change": "Placed it just below the title with next_to(title, DOWN, buff=0.3) so it sits fully on screen, clear of the title and the rectangle."
+    },
+    {
+     "kind": "off_screen",
+     "where": "edge_formula '2 × (w + h)' at the bottom, shifted past the bottom edge by to_edge(DOWN).shift(DOWN*0.5)",
+     "change": "Removed the extra downward shift so the formula sits inside the frame margin."
+    },
+    {
+     "kind": "other",
+     "where": "Transform(interior_formula, final_formula)",
+     "change": "Used ReplacementTransform and faded out final_formula at the end so the transformed object is tracked and removed cleanly."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 92.1,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s3",
+   "before": {
+    "mvqs": 87.0,
+    "conflicts": 1,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3931,
+      "output_tokens": 2138
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDa3zhhkwRPve9j9PQg"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "off_screen",
+     "where": "sorrel_label_2x4 below the rotated 2x4 rectangle at the bottom of the frame",
+     "change": "Moved the rectangles to the left (LEFT*2.5) and set the label stacks in a column on the right (RIGHT*2.5), so the 4-unit-tall rectangle no longer pushes the labels off the bottom edge."
+    },
+    {
+     "kind": "overlap",
+     "where": "invariant_text 'Sorrel count is preserved!' drawn over the Edges/Sorrel count labels at the bottom",
+     "change": "With the labels moved to the right column, the bottom strip is free, so invariant_text no longer overlaps any label."
+    },
+    {
+     "kind": "overlap",
+     "where": "Labels crossing the rectangle during the rotation transform",
+     "change": "The labels now sit beside the rectangle instead of under it, so the rectangle never covers them during the transform."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 80.5,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s4",
+   "before": {
+    "mvqs": 75.5,
+    "conflicts": 1,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3835,
+      "output_tokens": 2130
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDbx1r33pJKaMbjawcE"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "interior_points and edge_points vs grid",
+     "change": "Built the yellow and green dots at the positions of the scaled, centred grid dots. They were placed at raw [i, j] coordinates and sat off the lattice."
+    },
+    {
+     "kind": "overlap",
+     "where": "count_edge '12' among the top row of edge dots",
+     "change": "Removed the ad-hoc shift so the label sits above the edge dots, clear of them."
+    },
+    {
+     "kind": "overlap",
+     "where": "calc and red '-8' result over the bottom grid row",
+     "change": "Moved calc and result to DOWN*1.9, below the grid."
+    },
+    {
+     "kind": "overlap",
+     "where": "rule_text spilling outside rule_box",
+     "change": "Sized rule_box to the width of rule_text plus padding, so the text fits inside the box."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 79.5,
+    "conflicts": 0,
+    "timing": 0
+   }
+  }
+ ],
+ "input_tokens": 15659,
+ "output_tokens": 9476
+}

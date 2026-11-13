@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 75.32,
+  "s_sp": 85.4,
+  "s_ly": 59.0,
+  "s_ed": 69.3,
+  "states": 30,
+  "states_with_conflict": 15
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.32,
+   "conflicts": 9
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"jagged_label\" (created line 73, box [0.456, 3.25, 3.544, 3.528]) overlaps Text \"title\" (line 6, box [-4.245, 3.166, 4.245, 3.5]) by 89%; moving it by [0.0, 0.4] would clear it"
+  }
+ ]
+}

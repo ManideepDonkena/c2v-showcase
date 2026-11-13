@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 82.74,
+  "s_sp": 94.6,
+  "s_ly": 31.2,
+  "s_ed": 97.4,
+  "states": 23,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 78.19,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.21,
+   "conflict": "Text \"y_crossed\" (created line 61, box [-0.176, -0.148, 0.176, 0.248]) overlaps Text \"no_y_start\" (line 43, box [-4.421, -0.167, 4.421, 0.167]) by 79%; moving it by [0.0, 0.46] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.36,
+   "conflict": "Text \"word_after\" (created line 86, box [-1.116, -0.179, 1.116, 0.179]) overlaps Text \"word_before\" (line 85, box [-0.476, -0.179, 0.476, 0.179]) by 100%; moving it by [0.0, 0.51] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.74,
+   "conflict": "Text \"xyy_result\" (created line 101, box [-0.476, -0.179, 0.476, 0.179]) overlaps Text \"x_to_xyy\" (line 100, box [-0.161, -0.179, 0.161, 0.179]) by 100%; moving it by [0.0, 0.51] would clear it"
+  }
+ ]
+}

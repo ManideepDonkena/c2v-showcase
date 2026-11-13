@@ -1,0 +1,248 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.189,
+      -0.143,
+      0.189,
+      0.143
+     ],
+     "name": "num_50",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.189,
+      -0.143,
+      0.189,
+      0.143
+     ],
+     "name": "num_50",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      -1.5,
+      1.5,
+      1.5
+     ],
+     "name": "cross",
+     "line": 22,
+     "type": "Cross"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.189,
+      -0.143,
+      0.189,
+      0.143
+     ],
+     "name": "num_50",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      -1.5,
+      1.5,
+      1.5
+     ],
+     "name": "cross",
+     "line": 22,
+     "type": "Cross"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.544,
+      -0.726,
+      2.544,
+      -0.393
+     ],
+     "name": "rule_text",
+     "line": 11,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.191,
+      -0.143,
+      0.191,
+      0.143
+     ],
+     "name": "num_30",
+     "line": 36,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.191,
+      -0.143,
+      0.191,
+      0.143
+     ],
+     "name": "num_30",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.441,
+      -0.143,
+      0.615,
+      0.143
+     ],
+     "name": "zero_30",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.441,
+      -0.143,
+      0.615,
+      0.143
+     ],
+     "name": "cross_30",
+     "line": 43,
+     "type": "Cross"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "IndexError",
+  "message": "list index out of range",
+  "line": 48
+ }
+}

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "Defining the Contour",
+  "teaches": "Establishing a simple closed curve as the boundary for our investigation.",
+  "visual": "A black screen fades in to reveal a smooth, continuous white line forming an irregular convex shape (like a distorted circle). The line draws itself clockwise from left to right. A label 'Simple Closed Curve' appears above the shape with an arrow pointing to the continuous loop.",
+  "narration": "We begin with a simple closed curve—a continuous loop that doesn't cross itself. This boundary represents the perimeter of any convex shape, setting the stage for our topological inquiry.",
+  "start": 0.0,
+  "end": 55.0
+ },
+ {
+  "id": "s2",
+  "title": "The Rectangle Case",
+  "teaches": "Demonstrating that every simple closed curve contains an inscribed rectangle.",
+  "visual": "A red square appears inside the white curve, touching all four sides. The square morphs smoothly into a non-square rectangle while maintaining contact with the curve at four distinct points. Labels '4 Points' and 'Right Angles' appear near the vertices to emphasize the geometric constraints.",
+  "narration": "It is a proven theorem that every simple closed curve contains an inscribed rectangle. By tracking pairs of points on the curve, we can always find four points that form right angles, guaranteeing a rectangular solution.",
+  "start": 55.0,
+  "end": 98.47
+ },
+ {
+  "id": "s3",
+  "title": "The Square Challenge",
+  "teaches": "Introducing the difficulty of finding an inscribed square (Inscribed Square Problem).",
+  "visual": "The rectangle from the previous scene shrinks and rotates, attempting to become a square. It gets stuck in various orientations where it cannot touch all four sides simultaneously with equal spacing. The text 'Inscribed Square Problem?' appears in bold yellow, highlighting the unresolved nature for general curves.",
+  "narration": "While rectangles are guaranteed, squares are not so easily found. For specific shapes like ellipses, squares exist, but proving their existence for *any* arbitrary simple closed curve remains a famous open problem in mathematics.",
+  "start": 98.47,
+  "end": 160.4
+ },
+ {
+  "id": "s4",
+  "title": "Topological Insight",
+  "teaches": "Connecting the problem to fixed-point theorems and continuity.",
+  "visual": "The white curve dissolves into a grid of dots representing a torus (donut shape). Two paths on the torus intersect at a point, visualizing the Brouwer Fixed-Point Theorem. The text 'Brouwer Fixed-Point Theorem' appears as the intersection point glows green.",
+  "narration": "The solution relies on topology and the Brouwer Fixed-Point Theorem. By mapping the curve to a torus, we show that certain continuous mappings must intersect, providing strong evidence for the existence of inscribed squares in most cases.",
+  "start": 160.4,
+  "end": 207.13
+ }
+]

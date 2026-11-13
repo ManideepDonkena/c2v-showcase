@@ -1,0 +1,214 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.773,
+      3.116,
+      2.773,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 12,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.773,
+      3.116,
+      2.773,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.185,
+      -0.145,
+      0.185,
+      0.145
+     ],
+     "name": "num_75",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.773,
+      3.116,
+      2.773,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.185,
+      -0.145,
+      0.185,
+      0.145
+     ],
+     "name": "num_75",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.822,
+      -0.879,
+      0.822,
+      -0.645
+     ],
+     "name": "eq",
+     "line": 27,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.773,
+      3.116,
+      2.773,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.185,
+      -0.145,
+      0.185,
+      0.145
+     ],
+     "name": "num_75",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.822,
+      -0.879,
+      0.822,
+      -0.645
+     ],
+     "name": "eq",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.072,
+      -0.913,
+      1.347,
+      -0.611
+     ],
+     "name": "check",
+     "line": 33,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.773,
+      3.116,
+      2.773,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.185,
+      -0.145,
+      0.185,
+      0.145
+     ],
+     "name": "num_75",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.822,
+      -0.879,
+      0.822,
+      -0.645
+     ],
+     "name": "eq",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.072,
+      -0.913,
+      1.347,
+      -0.611
+     ],
+     "name": "check",
+     "line": 33,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.454,
+      -1.746,
+      3.873,
+      -1.413
+     ],
+     "name": "rule_text",
+     "line": 38,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "Only values of type Mobject can be added as submobjects of Group, but the value None (at index 1) is of type NoneType.",
+  "line": 44
+ }
+}

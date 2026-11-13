@@ -1,0 +1,503 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.442,
+      1.345,
+      -1.558,
+      1.655
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.157,
+      0.345,
+      -0.843,
+      0.655
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.605,
+      -0.655,
+      -0.395,
+      -0.345
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.605,
+      -0.655,
+      -0.395,
+      -0.345
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.558,
+      1.345,
+      2.442,
+      1.655
+     ],
+     "name": "right_expr",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 37,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.605,
+      -0.655,
+      -0.395,
+      -0.345
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.843,
+      0.345,
+      3.157,
+      0.655
+     ],
+     "name": "right_expr",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 43,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.605,
+      -0.655,
+      -0.395,
+      -0.345
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.395,
+      -0.655,
+      3.605,
+      -0.345
+     ],
+     "name": "right_expr",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 51,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.177,
+      3.166,
+      1.177,
+      3.5
+     ],
+     "name": "commutative",
+     "line": 47,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.177,
+      3.166,
+      1.177,
+      3.5
+     ],
+     "name": "commutative",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.261,
+      -0.16,
+      1.261,
+      0.16
+     ],
+     "name": "commutative_text",
+     "line": 54,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.177,
+      3.166,
+      1.177,
+      3.5
+     ],
+     "name": "commutative",
+     "line": 47,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 64,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.177,
+      3.166,
+      1.177,
+      3.5
+     ],
+     "name": "commutative",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.45,
+      1.342,
+      0.45,
+      1.658
+     ],
+     "name": "zero_expr",
+     "line": 62,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.177,
+      3.166,
+      1.177,
+      3.5
+     ],
+     "name": "commutative",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.165,
+      0.342,
+      1.165,
+      0.658
+     ],
+     "name": "zero_expr",
+     "line": 62,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.177,
+      3.166,
+      1.177,
+      3.5
+     ],
+     "name": "commutative",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.404,
+      -0.658,
+      1.404,
+      -0.342
+     ],
+     "name": "zero_expr",
+     "line": 62,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 80,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.177,
+      3.166,
+      1.177,
+      3.5
+     ],
+     "name": "commutative",
+     "line": 47,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 85,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.177,
+      3.166,
+      1.177,
+      3.5
+     ],
+     "name": "commutative",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.316,
+      3.646,
+      1.316,
+      3.98
+     ],
+     "name": "identity",
+     "line": 80,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 89,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.177,
+      3.166,
+      1.177,
+      3.5
+     ],
+     "name": "commutative",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.316,
+      3.646,
+      1.316,
+      3.98
+     ],
+     "name": "identity",
+     "line": 80,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.859,
+      -0.16,
+      0.859,
+      0.16
+     ],
+     "name": "identity_text",
+     "line": 88,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.177,
+      3.166,
+      1.177,
+      3.5
+     ],
+     "name": "commutative",
+     "line": 47,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

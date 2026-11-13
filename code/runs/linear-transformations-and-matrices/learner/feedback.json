@@ -1,0 +1,46 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q4",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q9",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s2": [
+   "Show a transformation where both basis vectors collapse onto the same line (e.g., i-hat stays at (1,0) and j-hat moves to (2,0)), causing the entire 2D grid to flatten into a single 1D line. Explain that because all area is squashed to zero, the transformation loses information and cannot be reversed, illustrating that a determinant of zero means mapping space to a lower dimension.",
+   "Show two distinct vectors, u and v, on the grid. Visually demonstrate that if you add them tip-to-tail to get a resultant vector w, the transformed result of w is exactly the same as adding the transformed u and transformed v together (T(u) + T(v)). Explicitly state that preserving this 'addition' relationship is what makes the transformation linear.",
+   "Show the basis vectors i-hat and j-hat both collapsing to the origin point (0,0). State that since every vector is a combination of these two, if they both become zero, the entire grid shrinks to a single point. Explain that the columns of the matrix are simply the new positions of i-hat and j-hat, so the matrix must be [[0, 0], [0, 0]].",
+   "Show a shear transformation where the grid skews (i-hat moves to (1,1) and j-hat stays at (0,1)), resulting in a determinant of 1 but angles are no longer 90 degrees. Say: 'Determinant measures area scaling, not angle preservation. You can stretch space without rotating it.'",
+   "SHOW the area of the unit square formed by the basis vectors before and after the transformation. SAY that while the shape rotates, its area remains unchanged (area = 1), which corresponds to a determinant of 1. Contrast this with a reflection (which flips orientation and has determinant -1) or a scaling (which changes area)."
+  ],
+  "s3": [
+   "SHOW a diagonal matrix [[2, 0], [0, 3]] where the basis vectors stretch by factors of 2 and 3 respectively. SAY that for this specific case, the sum of the diagonal numbers (2 + 3 = 5) equals the sum of the eigenvalues. Then show a non-diagonal matrix with the same eigenvalues (e.g., [[1, -1], [1, 4]] which has eigenvalues 2 and 3) and demonstrate that its trace (1 + 4 = 5) remains the same, establishing the rule: The trace is always the sum of the eigenvalues."
+  ],
+  "s4": [
+   "Show two sequential transformations applied to a single vector (e.g., first rotate 90 degrees, then scale by 2). Demonstrate that the final position is identical whether you apply the combined matrix once or apply the matrices one after another. State: 'Because the grid stretches and rotates uniformly, applying two such changes in sequence is mathematically equivalent to a single change defined by multiplying their matrices.' This highlights that the linearity (preservation of straight lines and origin) allows the operations to combine via matrix multiplication.",
+   "A visual demonstration of how to decompose an arbitrary vector into a linear combination of the basis vectors, specifically showing that the coefficients of this combination are simply the components of the original vector (e.g., 3 times i-hat plus 4 times j-hat), and then applying the transformation matrix columns to these specific coefficients to find the final result.",
+   "SHOW multiple input vectors (e.g., [1,0], [0,1], [2,3]) being transformed by the matrix and landing on specific points in the output space. SAY that the collection of all possible output points forms a 'shadow' or 'span' of the transformation, which is exactly what the column space represents—the set of all reachable destinations.",
+   "SHOW a specific vector being stretched by the transformation without rotating, and SAY that the scaling factor (the eigenvalue) is the number by which the original vector's length is multiplied to get the new vector's length.",
+   "Show two different input vectors (e.g., [1,0] and [2,0]) being transformed by a singular matrix (like one that squashes the grid to a line) so they land on the exact same output point, demonstrating that distinct inputs can map to the same output.",
+   "Show two sequential transformations applied to a single vector (e.g., first rotate, then scale) and demonstrate that applying the product of their matrices yields the same final position as applying each matrix individually in sequence."
+  ]
+ },
+ "changed": [
+  "s4"
+ ],
+ "dev_before": 0.0,
+ "dev_after": 0.0,
+ "mvqs_before": 78.72,
+ "mvqs_after": 81.15,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/linear-transformations-and-matrices/learner"
+}

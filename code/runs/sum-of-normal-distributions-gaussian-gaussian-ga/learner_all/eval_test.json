@@ -1,0 +1,249 @@
+{
+ "split": "test",
+ "questions": 5,
+ "clean_questions": 5,
+ "none": 0.0,
+ "full": 80.0,
+ "none_clean": 0.0,
+ "full_clean": 80.0,
+ "evidence": 33.3,
+ "runs": {
+  "none": [
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t2",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t3",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t4",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t5",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     }
+    ]
+   },
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t2",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t3",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t4",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t5",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     }
+    ]
+   },
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t2",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t3",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t4",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     },
+     {
+      "id": "t5",
+      "choice": "NULL",
+      "right": false,
+      "time": null
+     }
+    ]
+   }
+  ],
+  "full": [
+   {
+    "score": 80.0,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "B",
+      "right": true,
+      "time": "00:26",
+      "backed": true
+     },
+     {
+      "id": "t2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "backed": false
+     },
+     {
+      "id": "t3",
+      "choice": "B",
+      "right": true,
+      "time": "01:02",
+      "backed": false
+     },
+     {
+      "id": "t4",
+      "choice": "B",
+      "right": true,
+      "time": "00:45",
+      "backed": false
+     },
+     {
+      "id": "t5",
+      "choice": "B",
+      "right": true,
+      "time": "01:02",
+      "backed": false
+     }
+    ],
+    "evidence": 20.0
+   },
+   {
+    "score": 80.0,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "B",
+      "right": true,
+      "time": "00:26",
+      "backed": true
+     },
+     {
+      "id": "t2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "backed": false
+     },
+     {
+      "id": "t3",
+      "choice": "B",
+      "right": true,
+      "time": "01:23",
+      "backed": true
+     },
+     {
+      "id": "t4",
+      "choice": "B",
+      "right": true,
+      "time": "00:45",
+      "backed": false
+     },
+     {
+      "id": "t5",
+      "choice": "B",
+      "right": true,
+      "time": "01:23",
+      "backed": true
+     }
+    ],
+    "evidence": 60.0
+   },
+   {
+    "score": 80.0,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "B",
+      "right": true,
+      "time": "00:26",
+      "backed": true
+     },
+     {
+      "id": "t2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "backed": false
+     },
+     {
+      "id": "t3",
+      "choice": "B",
+      "right": true,
+      "time": "01:02",
+      "backed": false
+     },
+     {
+      "id": "t4",
+      "choice": "B",
+      "right": true,
+      "time": "00:45",
+      "backed": false
+     },
+     {
+      "id": "t5",
+      "choice": "B",
+      "right": true,
+      "time": "01:02",
+      "backed": false
+     }
+    ],
+    "evidence": 20.0
+   }
+  ]
+ },
+ "teachquiz": 80.0,
+ "teachquiz_clean": 80.0,
+ "control_first_section": 0.0,
+ "mvqs": 73.27,
+ "sections_rendered": 4
+}

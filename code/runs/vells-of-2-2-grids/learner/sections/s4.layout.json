@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 89.21,
+  "s_sp": 96.2,
+  "s_ly": 55.6,
+  "s_ed": 100.0,
+  "states": 10,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.55,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.9,
+   "conflict": "Text \"label2\" (created line 16, box [-0.47, 1.016, 0.47, 1.273]) overlaps Text \"label1\" (line 15, box [-0.467, 1.016, 0.467, 1.273]) by 100%; moving it by [0.0, 0.41] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 87.06,
+   "conflict": "Tex \"check\" (created line 55, box [-0.331, -3.5, 0.331, -2.777]) overlaps Text \"note\" (line 35, box [-3.226, -3.5, 3.226, -3.166]) by 46%; moving it by [0.0, 0.48] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 89.21,
+   "conflict": "Tex \"check\" (created line 55, box [-0.331, -3.02, 0.331, -2.297]) overlaps MathTex \"eq\" (line 16, box [-1.936, -2.916, 1.936, -2.697]) by 30%; moving it by [0.0, 0.47] would clear it"
+  }
+ ]
+}

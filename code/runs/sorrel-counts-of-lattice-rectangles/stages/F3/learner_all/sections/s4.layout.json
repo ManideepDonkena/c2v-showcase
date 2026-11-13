@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 76.06,
+  "s_sp": 93.7,
+  "s_ly": 32.7,
+  "s_ed": 75.6,
+  "states": 13,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 74.22,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.06,
+   "conflict": "Text \"rule_text\" (created line 44, box [-3.559, -2.667, 3.559, -2.333]) overlaps Rectangle \"rule_box\" (line 42, box [-2.5, -3.5, 2.5, -1.5]) by 70%; moving it by [0.0, 1.32] would clear it"
+  }
+ ]
+}

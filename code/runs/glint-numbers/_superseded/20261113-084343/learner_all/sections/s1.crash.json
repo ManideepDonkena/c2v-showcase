@@ -1,0 +1,207 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.607,
+      3.116,
+      3.607,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.607,
+      3.116,
+      3.607,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -0.138,
+      0.18,
+      0.138
+     ],
+     "name": "num_21",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 16,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.607,
+      3.116,
+      3.607,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -0.138,
+      0.18,
+      0.138
+     ],
+     "name": "num_21",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.607,
+      3.116,
+      3.607,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -0.138,
+      0.18,
+      0.138
+     ],
+     "name": "num_21",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.607,
+      3.116,
+      3.607,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -0.138,
+      0.18,
+      0.138
+     ],
+     "name": "num_21",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.96,
+      -0.972,
+      4.96,
+      -0.638
+     ],
+     "name": "definition",
+     "line": 20,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.607,
+      3.116,
+      3.607,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.18,
+      -0.138,
+      0.18,
+      0.138
+     ],
+     "name": "num_21",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.96,
+      -0.972,
+      4.96,
+      -0.638
+     ],
+     "name": "definition",
+     "line": 20,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.68,
+      -0.151,
+      0.956,
+      0.151
+     ],
+     "name": "check_21",
+     "line": 26,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "IndexError",
+  "message": "list index out of range",
+  "line": 34
+ }
+}

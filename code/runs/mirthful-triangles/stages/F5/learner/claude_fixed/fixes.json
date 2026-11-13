@@ -1,0 +1,168 @@
+{
+ "topic": "Mirthful triangles",
+ "sections": [
+  {
+   "id": "s1",
+   "before": {
+    "mvqs": 86.7,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4560,
+      "output_tokens": 3515
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDVRA3dBxv8XfjFR7gA"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "Second worked example: calc3/calc4 ('2 × 5 = 10', '3 × 3 = 9') sit only 0.32 units above calc1/calc2 at the same left-edge spot, so the two lines of math overprint each other.",
+     "change": "Removed the separation shifts and placed calc3 directly below calc1 (next_to DOWN, left-aligned, buff 0.4). calc4 stays to the right of calc3."
+    },
+    {
+     "kind": "crowded",
+     "where": "'Mirthful!' label sits just under the triangle's bottom side label 'a', between the triangle and the calculation line.",
+     "change": "Moved 'Mirthful!' under the inequality group on the left, next_to DOWN with buff 0.4, away from the triangle labels."
+    },
+    {
+     "kind": "other",
+     "where": "Rules list: rule2 and rule3 are each centered under the line above, so the numbered lines are ragged.",
+     "change": "Aligned rule2 and rule3 on the left edge of the line above (aligned_edge=LEFT) and centered the whole list."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 86.8,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s2",
+   "before": {
+    "mvqs": 90.0,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3305,
+      "output_tokens": 1504
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDYimYPYDXZBqQwzrDM"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "Narration text 'Every equilateral triangle is mirthful' at the bottom, drawn on top of the condition '2 × 5 ≤ 3 × 5' and the check '10 ≤ 15'",
+     "change": "Moved the triangle up to UP*1.2 and reduced the condition buff (0.6) and check buff (0.4), so the equation stack sits higher. Removed the upward shift on the narration so it stays at the bottom edge, clear of the equations."
+    },
+    {
+     "kind": "other",
+     "where": "Green-and-bounce animation: two separate .animate calls on the triangle in one play",
+     "change": "Merged them into one chained animation, triangle.animate.set_fill(GREEN, opacity=0.8).scale(1.05). With two calls the second overrode the first, so the green fill never appeared."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 89.7,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s3",
+   "before": {
+    "mvqs": 72.9,
+    "conflicts": 3,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4616,
+      "output_tokens": 4024
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDaKmzDPaAFFvaVuDtp"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "Side labels of tri1/tri2/tri3 (label_a*, label_b*, label_c*)",
+     "change": "Labels were attached to vertices, so they sat inside or on the triangle (e.g. '4', '8', '2' inside; '12' and '2.5'/'3' on the strokes). Each label now sits outside the triangle, next to the midpoint of its side and pushed away from the centroid."
+    },
+    {
+     "kind": "off_screen",
+     "where": "tri2/tri3 placed with to_edge(RIGHT) and tri1 with to_edge(LEFT)",
+     "change": "The triangles are now placed at fixed inner positions (x=-4 and x=3.5), so the outer labels stay inside the frame."
+    },
+    {
+     "kind": "overlap",
+     "where": "Small triangle tri3 and its labels '2.5', '2', '3' crowding each other",
+     "change": "The new side-midpoint placement spreads the labels around the triangle so they no longer overlap each other or the triangle."
+    },
+    {
+     "kind": "overlap",
+     "where": "narration (corner DL) and msg (bottom edge) on the same line at the end",
+     "change": "msg stays at the bottom edge and narration is placed directly above it with next_to(msg, UP)."
+    },
+    {
+     "kind": "other",
+     "where": "check / check2 / check3 jumping from the bottom edge to the screen centre",
+     "change": "All three checks are placed at the same spot (UP*2.2), above the triangles and clear of the bottom text."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 77.7,
+    "conflicts": 1,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s4",
+   "before": {
+    "mvqs": 91.4,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4362,
+      "output_tokens": 2055
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDdxsFfsYGEh7VyS13m"
+    }
+   ],
+   "issues": [],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 91.4,
+    "conflicts": 0,
+    "timing": 0
+   }
+  }
+ ],
+ "input_tokens": 16843,
+ "output_tokens": 11098
+}

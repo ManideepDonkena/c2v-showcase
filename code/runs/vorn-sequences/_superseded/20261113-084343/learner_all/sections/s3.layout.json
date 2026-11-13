@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 85.0,
+  "s_sp": 94.0,
+  "s_ly": 63.7,
+  "s_ed": 84.2,
+  "states": 19,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 83.07,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.11,
+   "conflict": "SurroundingRectangle \"highlight_2\" (created line 35, box [-0.879, -3.526, -0.216, -3.185]) overlaps MathTex \"formula\" (line 29, box [-2.069, -3.5, 2.069, -3.189]) by 91%; moving it by [0.0, -0.46] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.96,
+   "conflict": "Text \"proof_label\" (created line 64, box [-6.611, -2.668, -4.08, -2.332]) overlaps MathTex \"result\" (line 59, box [-6.031, -2.594, -5.151, -2.368]) by 100%; moving it by [0.0, -0.41] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.0,
+   "conflict": "MathTex \"odd_plus_even\" (created line 69, box [-6.611, -3.123, -4.571, -2.877]) overlaps Text \"proof_label\" (line 64, box [-6.611, -3.078, -4.08, -2.742]) by 81%; moving it by [0.0, -0.35] would clear it"
+  }
+ ]
+}

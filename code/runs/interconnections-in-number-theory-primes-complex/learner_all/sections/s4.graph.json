@@ -1,0 +1,5607 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -0.5,
+      0.5,
+      0.5
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "prime_5",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.043,
+      2.33,
+      2.043,
+      2.579
+     ],
+     "name": "prime_5_label",
+     "line": 62,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "prime_5",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.043,
+      2.33,
+      2.043,
+      2.579
+     ],
+     "name": "prime_5_label",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "prime_7",
+     "line": 63,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.025,
+      0.33,
+      7.975,
+      0.504
+     ],
+     "name": "prime_7_label",
+     "line": 67,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 73,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "prime_5",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.043,
+      2.33,
+      2.043,
+      2.579
+     ],
+     "name": "prime_5_label",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "prime_7",
+     "line": 63,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.025,
+      0.33,
+      7.975,
+      0.504
+     ],
+     "name": "prime_7_label",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -3.9,
+      0.5,
+      3.9
+     ],
+     "name": "critical_line",
+     "line": 72,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "prime_5",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.043,
+      2.33,
+      2.043,
+      2.579
+     ],
+     "name": "prime_5_label",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "prime_7",
+     "line": 63,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.025,
+      0.33,
+      7.975,
+      0.504
+     ],
+     "name": "prime_7_label",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -3.9,
+      0.5,
+      3.9
+     ],
+     "name": "critical_line",
+     "line": 72,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      1.42,
+      0.58,
+      1.58
+     ],
+     "name": "z",
+     "line": 77,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "prime_5",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.043,
+      2.33,
+      2.043,
+      2.579
+     ],
+     "name": "prime_5_label",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "prime_7",
+     "line": 63,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.025,
+      0.33,
+      7.975,
+      0.504
+     ],
+     "name": "prime_7_label",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -3.9,
+      0.5,
+      3.9
+     ],
+     "name": "critical_line",
+     "line": 72,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      1.42,
+      0.58,
+      1.58
+     ],
+     "name": "z",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      -2.38,
+      0.58,
+      -2.22
+     ],
+     "name": "z",
+     "line": 73,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "prime_5",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.043,
+      2.33,
+      2.043,
+      2.579
+     ],
+     "name": "prime_5_label",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "prime_7",
+     "line": 63,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.025,
+      0.33,
+      7.975,
+      0.504
+     ],
+     "name": "prime_7_label",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -3.9,
+      0.5,
+      3.9
+     ],
+     "name": "critical_line",
+     "line": 72,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      1.42,
+      0.58,
+      1.58
+     ],
+     "name": "z",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      -2.38,
+      0.58,
+      -2.22
+     ],
+     "name": "z",
+     "line": 73,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.63,
+      1.666,
+      1.63,
+      2.0
+     ],
+     "name": "rh",
+     "line": 83,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 90,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "prime_5",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.043,
+      2.33,
+      2.043,
+      2.579
+     ],
+     "name": "prime_5_label",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "prime_7",
+     "line": 63,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.025,
+      0.33,
+      7.975,
+      0.504
+     ],
+     "name": "prime_7_label",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -3.9,
+      0.5,
+      3.9
+     ],
+     "name": "critical_line",
+     "line": 72,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      1.42,
+      0.58,
+      1.58
+     ],
+     "name": "z",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      -2.38,
+      0.58,
+      -2.22
+     ],
+     "name": "z",
+     "line": 73,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.63,
+      1.666,
+      1.63,
+      2.0
+     ],
+     "name": "rh",
+     "line": 83,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.66,
+      2.806,
+      6.611,
+      3.5
+     ],
+     "name": "golden",
+     "line": 88,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 99,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "prime_5",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.043,
+      2.33,
+      2.043,
+      2.579
+     ],
+     "name": "prime_5_label",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "prime_7",
+     "line": 63,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.025,
+      0.33,
+      7.975,
+      0.504
+     ],
+     "name": "prime_7_label",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -3.9,
+      0.5,
+      3.9
+     ],
+     "name": "critical_line",
+     "line": 72,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      1.42,
+      0.58,
+      1.58
+     ],
+     "name": "z",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      -2.38,
+      0.58,
+      -2.22
+     ],
+     "name": "z",
+     "line": 73,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.63,
+      1.666,
+      1.63,
+      2.0
+     ],
+     "name": "rh",
+     "line": 83,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.66,
+      2.806,
+      6.611,
+      3.5
+     ],
+     "name": "golden",
+     "line": 88,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.92,
+      -0.08,
+      11.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      14.92,
+      -0.08,
+      15.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      18.92,
+      -0.08,
+      19.08,
+      0.08
+     ],
+     "name": "d",
+     "line": 97,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 104,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "prime_5",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.043,
+      2.33,
+      2.043,
+      2.579
+     ],
+     "name": "prime_5_label",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "prime_7",
+     "line": 63,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.025,
+      0.33,
+      7.975,
+      0.504
+     ],
+     "name": "prime_7_label",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -3.9,
+      0.5,
+      3.9
+     ],
+     "name": "critical_line",
+     "line": 72,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      1.42,
+      0.58,
+      1.58
+     ],
+     "name": "z",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      -2.38,
+      0.58,
+      -2.22
+     ],
+     "name": "z",
+     "line": 73,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.63,
+      1.666,
+      1.63,
+      2.0
+     ],
+     "name": "rh",
+     "line": 83,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.66,
+      2.806,
+      6.611,
+      3.5
+     ],
+     "name": "golden",
+     "line": 88,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.92,
+      -0.08,
+      11.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      14.92,
+      -0.08,
+      15.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      18.92,
+      -0.08,
+      19.08,
+      0.08
+     ],
+     "name": "d",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.028,
+      -3.5,
+      0.028,
+      -3.286
+     ],
+     "name": "inert_prime",
+     "line": 84,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 109,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "prime_5",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.043,
+      2.33,
+      2.043,
+      2.579
+     ],
+     "name": "prime_5_label",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "prime_7",
+     "line": 63,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.025,
+      0.33,
+      7.975,
+      0.504
+     ],
+     "name": "prime_7_label",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -3.9,
+      0.5,
+      3.9
+     ],
+     "name": "critical_line",
+     "line": 72,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      1.42,
+      0.58,
+      1.58
+     ],
+     "name": "z",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      -2.38,
+      0.58,
+      -2.22
+     ],
+     "name": "z",
+     "line": 73,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.63,
+      1.666,
+      1.63,
+      2.0
+     ],
+     "name": "rh",
+     "line": 83,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.66,
+      2.806,
+      6.611,
+      3.5
+     ],
+     "name": "golden",
+     "line": 88,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.92,
+      -0.08,
+      11.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      14.92,
+      -0.08,
+      15.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      18.92,
+      -0.08,
+      19.08,
+      0.08
+     ],
+     "name": "d",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.028,
+      -3.5,
+      0.028,
+      -3.286
+     ],
+     "name": "inert_prime",
+     "line": 84,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.934,
+      -3.5,
+      2.934,
+      -3.166
+     ],
+     "name": "inert_text",
+     "line": 108,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 114,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.3,
+      3.116,
+      2.3,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.016,
+      1.979,
+      1.016,
+      3.0
+     ],
+     "name": "zeta_sum",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.2,
+      Infinity,
+      -5.04,
+      Infinity
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.2,
+      -3.345,
+      -4.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      -3.5,
+      -3.04,
+      -3.34
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -3.345,
+      -2.04,
+      -3.185
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -3.124,
+      -1.04,
+      -2.964
+     ],
+     "name": "prime_count",
+     "line": 23,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -2.882,
+      -0.04,
+      -2.722
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      -2.633,
+      0.96,
+      -2.473
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.8,
+      -2.384,
+      1.96,
+      -2.224
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.8,
+      -2.135,
+      2.96,
+      -1.975
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.8,
+      -1.888,
+      3.96,
+      -1.728
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.8,
+      -1.643,
+      4.96,
+      -1.483
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.8,
+      -1.402,
+      5.96,
+      -1.242
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.8,
+      -1.162,
+      6.96,
+      -1.002
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      7.8,
+      -0.926,
+      7.96,
+      -0.766
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      8.8,
+      -0.692,
+      8.96,
+      -0.532
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      9.8,
+      -0.46,
+      9.96,
+      -0.3
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.8,
+      -0.23,
+      10.96,
+      -0.07
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      11.8,
+      -0.003,
+      11.96,
+      0.157
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      12.8,
+      0.222,
+      12.96,
+      0.382
+     ],
+     "name": "prime_count",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      13.8,
+      0.445,
+      13.96,
+      0.605
+     ],
+     "name": "point",
+     "line": 33,
+     "type": "Dot"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.0,
+      2.718,
+      20.0,
+      6.676
+     ],
+     "name": "smooth_curve",
+     "line": 37,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -5.0,
+      -5.0,
+      5.0,
+      5.0
+     ],
+     "name": "grid",
+     "line": 47,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "prime_5",
+     "line": 61,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.043,
+      2.33,
+      2.043,
+      2.579
+     ],
+     "name": "prime_5_label",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "prime_7",
+     "line": 63,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.025,
+      0.33,
+      7.975,
+      0.504
+     ],
+     "name": "prime_7_label",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -3.9,
+      0.5,
+      3.9
+     ],
+     "name": "critical_line",
+     "line": 72,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      1.42,
+      0.58,
+      1.58
+     ],
+     "name": "z",
+     "line": 77,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.42,
+      -2.38,
+      0.58,
+      -2.22
+     ],
+     "name": "z",
+     "line": 73,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.63,
+      1.666,
+      1.63,
+      2.0
+     ],
+     "name": "rh",
+     "line": 83,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.66,
+      2.806,
+      6.611,
+      3.5
+     ],
+     "name": "golden",
+     "line": 88,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      6.92,
+      -0.08,
+      7.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      10.92,
+      -0.08,
+      11.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      14.92,
+      -0.08,
+      15.08,
+      0.08
+     ],
+     "name": "dots",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      18.92,
+      -0.08,
+      19.08,
+      0.08
+     ],
+     "name": "d",
+     "line": 97,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.028,
+      -3.5,
+      0.028,
+      -3.286
+     ],
+     "name": "inert_prime",
+     "line": 84,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.934,
+      -3.5,
+      2.934,
+      -3.166
+     ],
+     "name": "inert_text",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.477,
+      -3.5,
+      4.523,
+      -3.166
+     ],
+     "name": "split_text",
+     "line": 113,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 118,
+   "objects": []
+  }
+ ],
+ "error": null
+}

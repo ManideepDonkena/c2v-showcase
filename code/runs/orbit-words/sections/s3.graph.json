@@ -1,0 +1,149 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.812,
+      3.084,
+      4.812,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.812,
+      3.084,
+      4.812,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.529,
+      2.187,
+      0.529,
+      2.584
+     ],
+     "name": "word1",
+     "line": 12,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.812,
+      3.084,
+      4.812,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.529,
+      2.187,
+      0.529,
+      2.584
+     ],
+     "name": "word1",
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.917,
+      1.127,
+      0.917,
+      1.387
+     ],
+     "name": "rule1",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.568,
+      0.743,
+      0.827
+     ],
+     "name": "rule2",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.812,
+      3.084,
+      4.812,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.917,
+      1.127,
+      0.917,
+      1.387
+     ],
+     "name": "rule1",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.743,
+      0.568,
+      0.743,
+      0.827
+     ],
+     "name": "rule2",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "Could not find Text('X') in scene",
+  "line": 43
+ }
+}

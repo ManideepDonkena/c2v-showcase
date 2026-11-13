@@ -1,0 +1,40 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q1",
+  "q2",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s1": [
+   "A visual comparison showing a traditional Recurrent Neural Network processing words sequentially in a rigid chain versus the Transformer's Self-Attention mechanism connecting all words simultaneously across the entire sequence, highlighting that Self-Attention is the core structural innovation replacing recurrence.",
+   "Show two identical sentences with swapped word orders (e.g., 'Cat sat' vs 'Sat cat') producing the same attention weights because the model sees the same set of words. Then, overlay a distinct color-coded wave pattern on each position to demonstrate that without this visual marker, the model cannot distinguish between the first and second positions.",
+   "A visual comparison showing that while RNNs process words one by one (low memory per step), the Transformer's self-attention mechanism must calculate relationships between every word in the sequence simultaneously, causing the computational graph and memory usage to grow quadratically as the sentence length increases.",
+   "A visual demonstration of the dot product calculation itself: show two vectors Q and K as arrows in a 2D plane, then explicitly display the arithmetic operation (1*1 + 1*-1 = 0) overlaying the vectors to prove the result is zero, contrasting it with a case where the result would be positive or negative."
+  ],
+  "s3": [
+   "A diagram of a single Transformer block showing that after the Multi-Head Attention layer processes the data, the output passes through a dense neural network (the Feed-Forward Network) before being added to the original input and normalized.",
+   "A visual comparison showing that while s3 describes the internal mechanics of a single decoder block (processing context to probability), it fails to explicitly distinguish the 'Decoder-only' architecture from an 'Encoder-Decoder' architecture. The missing idea is to SHOW two side-by-side diagrams: one with only Decoder blocks (where input and output sequences are processed by the same stack) versus one with separate Encoder and Decoder stacks connected by cross-attention, thereby clarifying that a 'Decoder-only' model relies solely on the self-attention within the decoder stack for both understanding and generation, without an external encoder component.",
+   "A visual comparison showing that while Encoder-only models map an entire input sequence to a single label (like classifying sentiment), the Decoder stack is specifically designed for sequence-to-sequence tasks where the output length differs from the input, such as translating 'The cat sat' into 'Le chat s'est assis', highlighting the cross-attention mechanism that bridges two different languages."
+  ],
+  "s2": [
+   "A visual overlay of a triangular mask grid covering the upper-right half of the attention weight matrix, accompanied by an animation showing that when calculating the attention for a specific word, the glowing connection lines to all subsequent words in the sequence are forcibly cut off or turned gray, ensuring the model only 'sees' past and current tokens.",
+   "A visual comparison showing that without normalization, the values in the attention vectors explode or vanish (represented by erratic, chaotic numbers), whereas with Layer Normalization, the values are constrained to a stable range (represented by calm, consistent numbers), ensuring the gradients flow smoothly during backpropagation."
+  ]
+ },
+ "changed": [
+  "s1"
+ ],
+ "dev_before": 10.0,
+ "dev_after": 5.0,
+ "mvqs_before": 70.16,
+ "mvqs_after": 66.17,
+ "kept": false,
+ "dir": "/home/mani/c2v-lab/runs/large-language-models-and-transformers-in-deep-l/learner"
+}

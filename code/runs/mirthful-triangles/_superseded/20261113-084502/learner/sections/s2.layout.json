@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 88.36,
+  "s_sp": 97.4,
+  "s_ly": 48.2,
+  "s_ed": 100.0,
+  "states": 14,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 84.02,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 88.36,
+   "conflict": "MathTex \"result\" (created line 27, box [-0.795, -2.35, 0.795, -1.95]) overlaps MathTex \"side_labels\" (line 15, box [-0.399, -2.05, -0.2, -1.707]) by 29%; moving it by [0.0, -0.25] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"final_narration\" (created line 73, box [-7.26, -3.5, 7.26, -3.162]) is outside the frame; shift it by [0.3, 0.0]"
+  }
+ ]
+}

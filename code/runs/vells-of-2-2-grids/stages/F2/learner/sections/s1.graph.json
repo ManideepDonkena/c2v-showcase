@@ -1,0 +1,1010 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.923,
+      -0.129,
+      -1.167,
+      0.129
+     ],
+     "name": "grid_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.667,
+      -0.976,
+      1.923,
+      0.976
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.923,
+      -0.129,
+      -1.167,
+      0.129
+     ],
+     "name": "grid_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.667,
+      -0.976,
+      1.923,
+      0.976
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.236,
+      0.124,
+      0.192,
+      0.55
+     ],
+     "name": "highlight_a",
+     "line": 21,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.055,
+      -0.676,
+      1.492,
+      -0.124
+     ],
+     "name": "highlight_d",
+     "line": 22,
+     "type": "SurroundingRectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.923,
+      -0.129,
+      -1.167,
+      0.129
+     ],
+     "name": "grid_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.667,
+      -0.976,
+      1.923,
+      0.976
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.236,
+      0.124,
+      0.192,
+      0.55
+     ],
+     "name": "highlight_a",
+     "line": 21,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.055,
+      -0.676,
+      1.492,
+      -0.124
+     ],
+     "name": "highlight_d",
+     "line": 22,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.209,
+      0.224,
+      1.392,
+      0.576
+     ],
+     "name": "cross_b",
+     "line": 13,
+     "type": "Cross"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.102,
+      -0.576,
+      0.092,
+      -0.35
+     ],
+     "name": "cross_c",
+     "line": 30,
+     "type": "Cross"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.923,
+      -0.129,
+      -1.167,
+      0.129
+     ],
+     "name": "grid_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.667,
+      -0.976,
+      1.923,
+      0.976
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.236,
+      0.124,
+      0.192,
+      0.55
+     ],
+     "name": "highlight_a",
+     "line": 21,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.055,
+      -0.676,
+      1.492,
+      -0.124
+     ],
+     "name": "highlight_d",
+     "line": 22,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.209,
+      0.224,
+      1.392,
+      0.576
+     ],
+     "name": "cross_b",
+     "line": 13,
+     "type": "Cross"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.102,
+      -0.576,
+      0.092,
+      -0.35
+     ],
+     "name": "cross_c",
+     "line": 30,
+     "type": "Cross"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.923,
+      -0.146,
+      5.221,
+      0.146
+     ],
+     "name": "formula",
+     "line": 35,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.923,
+      -0.129,
+      -1.167,
+      0.129
+     ],
+     "name": "grid_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.667,
+      -0.976,
+      1.923,
+      0.976
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.236,
+      0.124,
+      0.192,
+      0.55
+     ],
+     "name": "highlight_a",
+     "line": 21,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.055,
+      -0.676,
+      1.492,
+      -0.124
+     ],
+     "name": "highlight_d",
+     "line": 22,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.209,
+      0.224,
+      1.392,
+      0.576
+     ],
+     "name": "cross_b",
+     "line": 13,
+     "type": "Cross"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.102,
+      -0.576,
+      0.092,
+      -0.35
+     ],
+     "name": "cross_c",
+     "line": 30,
+     "type": "Cross"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.923,
+      -0.146,
+      5.221,
+      0.146
+     ],
+     "name": "formula",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.487,
+      -3.5,
+      3.487,
+      -3.166
+     ],
+     "name": "demo_text",
+     "line": 40,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.923,
+      -0.129,
+      -1.167,
+      0.129
+     ],
+     "name": "grid_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.667,
+      -0.976,
+      1.923,
+      0.976
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.236,
+      0.124,
+      0.192,
+      0.55
+     ],
+     "name": "highlight_a",
+     "line": 21,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.055,
+      -0.676,
+      1.492,
+      -0.124
+     ],
+     "name": "highlight_d",
+     "line": 22,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.209,
+      0.224,
+      1.392,
+      0.576
+     ],
+     "name": "cross_b",
+     "line": 13,
+     "type": "Cross"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.102,
+      -0.576,
+      0.092,
+      -0.35
+     ],
+     "name": "cross_c",
+     "line": 30,
+     "type": "Cross"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.923,
+      -0.146,
+      5.221,
+      0.146
+     ],
+     "name": "formula",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.487,
+      -3.5,
+      3.487,
+      -3.166
+     ],
+     "name": "demo_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.616,
+      -3.964,
+      0.616,
+      -3.75
+     ],
+     "name": "demo_eq",
+     "line": 43,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.923,
+      -0.129,
+      -1.167,
+      0.129
+     ],
+     "name": "grid_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.667,
+      -0.976,
+      1.923,
+      0.976
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.236,
+      0.124,
+      0.192,
+      0.55
+     ],
+     "name": "highlight_a",
+     "line": 21,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.055,
+      -0.676,
+      1.492,
+      -0.124
+     ],
+     "name": "highlight_d",
+     "line": 22,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.209,
+      0.224,
+      1.392,
+      0.576
+     ],
+     "name": "cross_b",
+     "line": 13,
+     "type": "Cross"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.102,
+      -0.576,
+      0.092,
+      -0.35
+     ],
+     "name": "cross_c",
+     "line": 30,
+     "type": "Cross"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.923,
+      -0.146,
+      5.221,
+      0.146
+     ],
+     "name": "formula",
+     "line": 35,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.923,
+      -0.129,
+      -1.167,
+      0.129
+     ],
+     "name": "grid_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.667,
+      -0.976,
+      1.923,
+      0.976
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.236,
+      0.124,
+      0.192,
+      0.55
+     ],
+     "name": "highlight_a",
+     "line": 21,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.055,
+      -0.676,
+      1.492,
+      -0.124
+     ],
+     "name": "highlight_d",
+     "line": 22,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.209,
+      0.224,
+      1.392,
+      0.576
+     ],
+     "name": "cross_b",
+     "line": 13,
+     "type": "Cross"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.102,
+      -0.576,
+      0.092,
+      -0.35
+     ],
+     "name": "cross_c",
+     "line": 30,
+     "type": "Cross"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.923,
+      -0.146,
+      5.221,
+      0.146
+     ],
+     "name": "formula",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.093,
+      -0.167,
+      0.003,
+      0.167
+     ],
+     "name": "wrong_label",
+     "line": 50,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.503,
+      -0.976,
+      3.093,
+      0.976
+     ],
+     "name": "wrong_grid",
+     "line": 49,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.923,
+      -0.129,
+      -1.167,
+      0.129
+     ],
+     "name": "grid_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.667,
+      -0.976,
+      1.923,
+      0.976
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.236,
+      0.124,
+      0.192,
+      0.55
+     ],
+     "name": "highlight_a",
+     "line": 21,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.055,
+      -0.676,
+      1.492,
+      -0.124
+     ],
+     "name": "highlight_d",
+     "line": 22,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.209,
+      0.224,
+      1.392,
+      0.576
+     ],
+     "name": "cross_b",
+     "line": 13,
+     "type": "Cross"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.102,
+      -0.576,
+      0.092,
+      -0.35
+     ],
+     "name": "cross_c",
+     "line": 30,
+     "type": "Cross"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.923,
+      -0.146,
+      5.221,
+      0.146
+     ],
+     "name": "formula",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.093,
+      -0.167,
+      0.003,
+      0.167
+     ],
+     "name": "wrong_label",
+     "line": 50,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.503,
+      -0.976,
+      3.093,
+      0.976
+     ],
+     "name": "wrong_grid",
+     "line": 49,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.503,
+      -0.976,
+      3.093,
+      0.976
+     ],
+     "name": "x_wrong",
+     "line": 53,
+     "type": "Cross"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.522,
+      3.203,
+      1.522,
+      3.5
+     ],
+     "name": "final_eq",
+     "line": 62,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.029,
+      2.992,
+      3.029,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.522,
+      3.203,
+      1.522,
+      3.5
+     ],
+     "name": "final_eq",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.172,
+      2.38,
+      1.172,
+      2.703
+     ],
+     "name": "rearranged",
+     "line": 67,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": []
+  }
+ ],
+ "error": null
+}

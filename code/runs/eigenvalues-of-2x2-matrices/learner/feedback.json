@@ -1,0 +1,47 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q4",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q9",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s3": [
+   "Show the matrix A minus lambda times the identity matrix (A - λI) explicitly, then demonstrate that setting its determinant to zero creates a quadratic equation whose solutions are the specific values of lambda that make the transformation singular.",
+   "SHOW the expanded quadratic polynomial from the determinant calculation (e.g., λ² - (a+d)λ + (ad-bc) = 0). SAY that the coefficient of the middle term, -(a+d), is the negative sum of the diagonal elements. COMPARE this to Vieta's formulas, explicitly stating that the sum of the roots (the eigenvalues) equals the coefficient of the linear term with its sign flipped, which is exactly the sum of the diagonal entries (the trace).",
+   "SHOW the expanded quadratic polynomial from the determinant calculation (e.g., λ² - tr(A)λ + det(A) = 0). SAY that the constant term of this polynomial is equal to the determinant of A. SHOW that multiplying the two roots (eigenvalues) together yields this same constant term, demonstrating that det(A) = λ₁ × λ₂.",
+   "Show that for a diagonal matrix, the eigenvalues are simply the numbers on the main diagonal.",
+   "SHOW the specific substitution of the matrix entries into the formula (1-λ)(1-λ) - 0*1 = 0, SAY that this results in a repeated root where both eigenvalues are identical.",
+   "Show the expansion of det(A - λI) for a generic matrix [[a, b], [c, d]] resulting in λ² - (a+d)λ + (ad-bc) = 0. Visually highlight that the coefficient of the linear term is the negative sum of the diagonal elements (the trace). Then, display Vieta's formulas to explicitly show that for a quadratic equation x² - Sx + P = 0, the sum of the roots equals S. Conclude by stating that since the eigenvalues are the roots, their sum must equal the trace.",
+   "Show that the constant term of the characteristic polynomial is equal to det(A). Demonstrate that if det(A) is zero, the polynomial becomes λ² - (trace)λ = 0, which factors to λ(λ - trace) = 0, proving that λ=0 is always a solution.",
+   "SHOW the specific calculation for the given matrix: display A - λI as [[-λ, -1], [1, -λ]], then compute the determinant as (-λ)(-λ) - (-1)(1), resulting in λ² + 1 = 0. SAY that solving λ² = -1 requires imaginary numbers, specifically λ = i and λ = -i, because no real number squared equals a negative number.",
+   "SHOW two distinct eigenvectors corresponding to the two different eigenvalues, and SAY that because these vectors point in different directions (are linearly independent), they form a basis for the plane, allowing any vector to be expressed as a combination of them, which is the definition of diagonalizability."
+  ],
+  "s4": [
+   "Show two eigenvectors for distinct eigenvalues that are NOT at right angles (e.g., one along the x-axis and another at a 30-degree angle). State: 'Eigenvectors from different eigenvalues are always linearly independent, but they are only guaranteed to be orthogonal if the matrix is symmetric.' This clarifies that orthogonality is a special case, not a general rule."
+  ],
+  "s2": [
+   "Show that if Av = λv, then multiplying both sides by A⁻¹ yields v = λA⁻¹v, which rearranges to A⁻¹v = (1/λ)v, demonstrating that the eigenvalue for the inverse matrix is the reciprocal of the original eigenvalue.",
+   "Show the specific calculation where the matrix multiplies the vector [1, 0] to produce [3, 0], then visually compare the length of the result to the original vector to demonstrate that the scaling factor (eigenvalue) is 3."
+  ]
+ },
+ "changed": [
+  "s2",
+  "s4"
+ ],
+ "dev_before": 0.0,
+ "dev_after": 0.0,
+ "mvqs_before": 87.9,
+ "mvqs_after": 80.34,
+ "kept": false,
+ "dir": "/home/mani/c2v-lab/runs/eigenvalues-of-2x2-matrices/learner"
+}

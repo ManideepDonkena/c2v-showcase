@@ -1,0 +1,14 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 7,
+  "scope": "section",
+  "preflight": true,
+  "error": "as a method 'WriteText'\nline 13: NameError: name 'WriteText' is not defined\nline 27: NameError: name 'WriteText' is not defined\nline 33: NameError: name 'WriteText' is not defined\nline 41: NameError: name 'WriteText' is not defined\nline 48: NameError: name 'WriteText' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": true
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 54,
+  "scope": "line",
+  "error": "NameError: name 'BOTTOM' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 54,
+  "scope": "block",
+  "error": "NameError: name 'BOTTOM' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 53,
+  "scope": "section",
+  "error": "SyntaxError: '(' was never closed (s4.py, line 53)"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 53,
+  "scope": "section",
+  "error": "NameError: name 'BOTTOM' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ }
+]

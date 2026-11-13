@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 76.9,
+  "s_sp": 94.4,
+  "s_ly": 39.5,
+  "s_ed": 72.6,
+  "states": 19,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 76.9,
+   "conflicts": 2
+  },
+  {
+   "level": "none kept",
+   "conflict": "Circle \"circle\" (created line 69, box [-0.3, 0.4, 0.3, 1.6]) overlaps MathTex \"derivative_value\" (line 64, box [-0.605, 0.342, 0.605, 0.67]) by 40%; moving it by [0.0, 0.42] would clear it"
+  }
+ ]
+}

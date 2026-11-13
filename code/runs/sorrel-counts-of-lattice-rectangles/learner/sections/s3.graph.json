@@ -1,0 +1,815 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect1",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect2",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.266,
+      -1.491,
+      -1.734,
+      -1.25
+     ],
+     "name": "label1",
+     "line": 14,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.733,
+      -2.491,
+      2.267,
+      -2.25
+     ],
+     "name": "label2",
+     "line": 15,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect1",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect2",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.266,
+      -1.491,
+      -1.734,
+      -1.25
+     ],
+     "name": "label1",
+     "line": 14,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.733,
+      -2.491,
+      2.267,
+      -2.25
+     ],
+     "name": "label2",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.243,
+      1.25,
+      0.243,
+      1.477
+     ],
+     "name": "count1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.243,
+      2.25,
+      4.243,
+      2.477
+     ],
+     "name": "count2",
+     "line": 27,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect1",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect2",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.266,
+      -1.491,
+      -1.734,
+      -1.25
+     ],
+     "name": "label1",
+     "line": 14,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.733,
+      -2.491,
+      2.267,
+      -2.25
+     ],
+     "name": "label2",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.243,
+      1.25,
+      0.243,
+      1.477
+     ],
+     "name": "count1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.243,
+      2.25,
+      4.243,
+      2.477
+     ],
+     "name": "count2",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.343,
+      1.15,
+      4.343,
+      2.577
+     ],
+     "name": "highlight",
+     "line": 35,
+     "type": "SurroundingRectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect1",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect2",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.266,
+      -1.491,
+      -1.734,
+      -1.25
+     ],
+     "name": "label1",
+     "line": 14,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.733,
+      -2.491,
+      2.267,
+      -2.25
+     ],
+     "name": "label2",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.243,
+      1.25,
+      0.243,
+      1.477
+     ],
+     "name": "count1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.243,
+      2.25,
+      4.243,
+      2.477
+     ],
+     "name": "count2",
+     "line": 27,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect1",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect2",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.266,
+      -1.491,
+      -1.734,
+      -1.25
+     ],
+     "name": "label1",
+     "line": 14,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.733,
+      -2.491,
+      2.267,
+      -2.25
+     ],
+     "name": "label2",
+     "line": 15,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect1",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect2",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.266,
+      -1.491,
+      -1.734,
+      -1.25
+     ],
+     "name": "label1",
+     "line": 14,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.733,
+      -2.491,
+      2.267,
+      -2.25
+     ],
+     "name": "label2",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.728,
+      3.653,
+      2.728,
+      3.88
+     ],
+     "name": "points1",
+     "line": 49,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect1",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect2",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.266,
+      -1.491,
+      -1.734,
+      -1.25
+     ],
+     "name": "label1",
+     "line": 14,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.733,
+      -2.491,
+      2.267,
+      -2.25
+     ],
+     "name": "label2",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.728,
+      3.653,
+      2.728,
+      3.88
+     ],
+     "name": "points1",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.728,
+      4.033,
+      2.728,
+      4.26
+     ],
+     "name": "points2",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect1",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect2",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.266,
+      -1.491,
+      -1.734,
+      -1.25
+     ],
+     "name": "label1",
+     "line": 14,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.733,
+      -2.491,
+      2.267,
+      -2.25
+     ],
+     "name": "label2",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.728,
+      3.653,
+      2.728,
+      3.88
+     ],
+     "name": "points1",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.728,
+      4.033,
+      2.728,
+      4.26
+     ],
+     "name": "points2",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.325,
+      -3.5,
+      4.325,
+      -3.166
+     ],
+     "name": "note",
+     "line": 29,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 66,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect1",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect2",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.266,
+      -1.491,
+      -1.734,
+      -1.25
+     ],
+     "name": "label1",
+     "line": 14,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.733,
+      -2.491,
+      2.267,
+      -2.25
+     ],
+     "name": "label2",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.728,
+      3.653,
+      2.728,
+      3.88
+     ],
+     "name": "points1",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.728,
+      4.033,
+      2.728,
+      4.26
+     ],
+     "name": "points2",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.325,
+      -3.5,
+      4.325,
+      -3.166
+     ],
+     "name": "note",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.257,
+      -2.916,
+      2.257,
+      -2.667
+     ],
+     "name": "formula",
+     "line": 65,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": []
+  }
+ ],
+ "error": null
+}

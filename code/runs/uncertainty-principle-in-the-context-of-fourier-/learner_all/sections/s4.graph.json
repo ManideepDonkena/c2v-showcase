@@ -1,0 +1,4828 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 37,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.498,
+      6.0,
+      1.5
+     ],
+     "name": "gaussian1",
+     "line": 35,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 42,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.498,
+      6.0,
+      1.5
+     ],
+     "name": "gaussian1",
+     "line": 35,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.42,
+      4.8,
+      3.58
+     ],
+     "name": "gaussian2",
+     "line": 40,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.498,
+      6.0,
+      1.5
+     ],
+     "name": "gaussian1",
+     "line": 35,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.42,
+      4.8,
+      3.58
+     ],
+     "name": "gaussian2",
+     "line": 40,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 51,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "narrow_pulse",
+     "line": 54,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "narrow_pulse",
+     "line": 54,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.419,
+      4.8,
+      3.58
+     ],
+     "name": "wide_spectrum",
+     "line": 60,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 67,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "narrow_pulse",
+     "line": 54,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.419,
+      4.8,
+      3.58
+     ],
+     "name": "wide_spectrum",
+     "line": 60,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      -3.5,
+      2.912,
+      -3.191
+     ],
+     "name": "text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "narrow_pulse",
+     "line": 54,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.419,
+      4.8,
+      3.58
+     ],
+     "name": "wide_spectrum",
+     "line": 60,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 75,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "narrowest",
+     "line": 73,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      0.121,
+      4.8,
+      3.58
+     ],
+     "name": "widest",
+     "line": 74,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 80,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "narrowest",
+     "line": 73,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      0.121,
+      4.8,
+      3.58
+     ],
+     "name": "widest",
+     "line": 74,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.986,
+      -3.5,
+      2.986,
+      -3.195
+     ],
+     "name": "example_text",
+     "line": 79,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "narrowest",
+     "line": 73,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      0.121,
+      4.8,
+      3.58
+     ],
+     "name": "widest",
+     "line": 74,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 86,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "narrowest",
+     "line": 73,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      0.121,
+      4.8,
+      3.58
+     ],
+     "name": "widest",
+     "line": 74,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.582,
+      -3.5,
+      1.582,
+      -3.191
+     ],
+     "name": "example2",
+     "line": 85,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 88,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "narrowest",
+     "line": 73,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      0.121,
+      4.8,
+      3.58
+     ],
+     "name": "widest",
+     "line": 74,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 91,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 95,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "exp_pulse",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.297,
+      1.7,
+      1.297,
+      2.142
+     ],
+     "name": "exp_label",
+     "line": 94,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 100,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "exp_pulse",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.297,
+      1.7,
+      1.297,
+      2.142
+     ],
+     "name": "exp_label",
+     "line": 94,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.263,
+      -3.5,
+      2.263,
+      -3.166
+     ],
+     "name": "min_text",
+     "line": 99,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 102,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "exp_pulse",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.297,
+      1.7,
+      1.297,
+      2.142
+     ],
+     "name": "exp_label",
+     "line": 94,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 105,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 110,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "rect",
+     "line": 108,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.303,
+      1.7,
+      1.303,
+      2.148
+     ],
+     "name": "rect_label",
+     "line": 109,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 115,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.349,
+      1.476,
+      1.349,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "rect",
+     "line": 108,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.303,
+      1.7,
+      1.303,
+      2.148
+     ],
+     "name": "rect_label",
+     "line": 109,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -1.289,
+      4.8,
+      3.58
+     ],
+     "name": "sinc",
+     "line": 113,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.715,
+      3.78,
+      0.715,
+      4.278
+     ],
+     "name": "sinc_label",
+     "line": 114,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 120,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.488,
+      1.484,
+      1.488,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      1.5
+     ],
+     "name": "rect",
+     "line": 108,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.303,
+      1.7,
+      1.303,
+      2.148
+     ],
+     "name": "rect_label",
+     "line": 109,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -1.289,
+      4.8,
+      3.58
+     ],
+     "name": "sinc",
+     "line": 113,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.715,
+      3.78,
+      0.715,
+      4.278
+     ],
+     "name": "sinc_label",
+     "line": 114,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 124,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.488,
+      1.484,
+      1.488,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 128,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.488,
+      1.484,
+      1.488,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      -3.5
+     ],
+     "name": "delta",
+     "line": 126,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      -3.3,
+      0.368,
+      -2.802
+     ],
+     "name": "delta_label",
+     "line": 127,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 134,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.488,
+      1.484,
+      1.488,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      -3.5
+     ],
+     "name": "delta",
+     "line": 126,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      -3.3,
+      0.368,
+      -2.802
+     ],
+     "name": "delta_label",
+     "line": 127,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      3.58,
+      4.8,
+      3.58
+     ],
+     "name": "flat_line",
+     "line": 132,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      3.78,
+      0.082,
+      4.112
+     ],
+     "name": "flat_label",
+     "line": 133,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 139,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.488,
+      1.484,
+      1.488,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      -3.5
+     ],
+     "name": "delta",
+     "line": 126,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      -3.3,
+      0.368,
+      -2.802
+     ],
+     "name": "delta_label",
+     "line": 127,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      3.58,
+      4.8,
+      3.58
+     ],
+     "name": "flat_line",
+     "line": 132,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      3.78,
+      0.082,
+      4.112
+     ],
+     "name": "flat_label",
+     "line": 133,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.562,
+      -3.5,
+      3.562,
+      -3.166
+     ],
+     "name": "final_text",
+     "line": 138,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 141,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.524,
+      3.005,
+      2.524,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.6,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -0.5,
+      4.8,
+      4.38
+     ],
+     "name": "axes2",
+     "line": 19,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.488,
+      1.484,
+      1.488,
+      2.5
+     ],
+     "name": "uncertainty",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      -3.5
+     ],
+     "name": "delta",
+     "line": 126,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      -3.3,
+      0.368,
+      -2.802
+     ],
+     "name": "delta_label",
+     "line": 127,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      3.58,
+      4.8,
+      3.58
+     ],
+     "name": "flat_line",
+     "line": 132,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      3.78,
+      0.082,
+      4.112
+     ],
+     "name": "flat_label",
+     "line": 133,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 143,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.3,
+      6.348,
+      -3.074
+     ],
+     "name": "x_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.55,
+      1.15,
+      3.048
+     ],
+     "name": "y_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.9,
+      -0.24,
+      5.126,
+      0.111
+     ],
+     "name": "k_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.18,
+      3.161,
+      1.121,
+      3.75
+     ],
+     "name": "y_label_k",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "gaussian1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "gaussian2_label",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.475,
+      1.7,
+      0.475,
+      2.198
+     ],
+     "name": "narrow_label",
+     "line": 51,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      3.78,
+      0.47,
+      4.369
+     ],
+     "name": "wide_label",
+     "line": 61,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

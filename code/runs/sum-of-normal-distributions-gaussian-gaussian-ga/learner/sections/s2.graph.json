@@ -1,0 +1,703 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      -3.5,
+      4.286,
+      -3.166
+     ],
+     "name": "text1",
+     "line": 36,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.476
+     ],
+     "name": "graph_sum",
+     "line": 30,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.476
+     ],
+     "name": "graph_sum",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.985,
+      -3.5,
+      4.985,
+      -3.163
+     ],
+     "name": "text2",
+     "line": 53,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.476
+     ],
+     "name": "graph_sum",
+     "line": 30,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 67,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.204
+     ],
+     "name": "graph_sum",
+     "line": 30,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.204
+     ],
+     "name": "graph_sum",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.351,
+      -3.5,
+      3.351,
+      -3.191
+     ],
+     "name": "text3",
+     "line": 70,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.204
+     ],
+     "name": "graph_sum",
+     "line": 30,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.204
+     ],
+     "name": "graph_sum",
+     "line": 30,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.204
+     ],
+     "name": "graph_sum",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.126,
+      -3.5,
+      4.126,
+      -3.163
+     ],
+     "name": "text4",
+     "line": 80,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.871,
+      3.116,
+      1.871,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.602
+     ],
+     "name": "graph1",
+     "line": 14,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.801
+     ],
+     "name": "graph2",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -1.204
+     ],
+     "name": "graph_sum",
+     "line": 30,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 87,
+   "objects": []
+  }
+ ],
+ "error": null
+}

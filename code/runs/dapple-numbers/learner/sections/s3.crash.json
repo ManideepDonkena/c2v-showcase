@@ -1,0 +1,55 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.589,
+      3.0,
+      3.589,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.589,
+      3.0,
+      3.589,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      0.163,
+      0.47,
+      0.837
+     ],
+     "name": "num_44",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "IndexError",
+  "message": "list index out of range",
+  "line": 20
+ }
+}

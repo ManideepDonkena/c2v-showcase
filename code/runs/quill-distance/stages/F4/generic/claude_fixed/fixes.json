@@ -1,0 +1,173 @@
+{
+ "topic": "Quill distance",
+ "sections": [
+  {
+   "id": "s1",
+   "before": {
+    "mvqs": 83.0,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4075,
+      "output_tokens": 2729
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDWeHcHBntnbaR9ixQv"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "Bottom narration texts (narration, narration2, narration3, explanation) at to_edge(DOWN, buff=0.3) sit on top of the lower lines of the grid, which reaches down to y=-3.5.",
+     "change": "Moved the grid up with to_edge(DOWN, buff=1.0) so its bottom edge is at y=-3.0, leaving the narration strip clear of the grid."
+    },
+    {
+     "kind": "overlap",
+     "where": "'Cost: 1' label under the horizontal arrow touches/crowds the 'A' label directly below point A.",
+     "change": "Shifted label_h right by 0.5 (keeping the downward offset) so it sits clear of the 'A' label."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 83.2,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s2",
+   "before": {
+    "mvqs": 85.6,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3763,
+      "output_tokens": 2418
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDZGjeCxFJ8TjLbEkV2"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "unreadable_text",
+     "where": "Bottom narration and final sentences drawn over the grid lines",
+     "change": "Gave both texts a semi-opaque background rectangle and a higher z_index so the grid lines do not run through the letters."
+    },
+    {
+     "kind": "unreadable_text",
+     "where": "Title and the d(A,B)=d(B,A) header are drawn under the grid, which is created later",
+     "change": "Raised the title's z_index and gave the symmetry header a background rectangle so the header stays above the grid lines."
+    },
+    {
+     "kind": "unreadable_text",
+     "where": "The two 2+2=4 cost labels sit on top of grid lines",
+     "change": "Added background rectangles to both cost labels."
+    },
+    {
+     "kind": "other",
+     "where": "Final FadeOut of dots A, B and their labels",
+     "change": "Removed these from the final FadeOut. They were never added to the scene, so fading them out would make them flash on screen at the very end."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 85.9,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s3",
+   "before": {
+    "mvqs": 87.6,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4257,
+      "output_tokens": 3471
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDbt2ykCy4hdWUnHBLi"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "calc3 '0 + 2 = 2' below (0, 1) touching calc1/calc2 '2 + 0 = 2' and crowding the C label",
+     "change": "Placed calc3 above p3, moved p3_label to the left of p3, and moved calc1 to the right of p1 and calc2 to the left of p2 so the row above the axis is clear."
+    },
+    {
+     "kind": "overlap",
+     "where": "calc4 '0 + 2 = 2' shifted down onto the C label and the (0, -1) dot",
+     "change": "Removed the shift, placed calc4 below p4, and moved p4_label to the left of p4."
+    },
+    {
+     "kind": "overlap",
+     "where": "p5_label '(1, 1)' running into '(0, 1)'",
+     "change": "Placed p5_label to the right of p5."
+    },
+    {
+     "kind": "overlap",
+     "where": "cost_label 'Cost: 3' overlapping the (2, 0) dot and the axis area",
+     "change": "Removed the shift and placed cost_label just below p5 in the space freed above the axis."
+    },
+    {
+     "kind": "leftover",
+     "where": "NumberPlane grid stays on screen after the final cleanup",
+     "change": "Added grid to the final FadeOut."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 88.9,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s4",
+   "before": {
+    "mvqs": 83.7,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3503,
+      "output_tokens": 1025
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDf5foS37gkuJfQDUci"
+    }
+   ],
+   "issues": [],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 83.7,
+    "conflicts": 0,
+    "timing": 0
+   }
+  }
+ ],
+ "input_tokens": 15598,
+ "output_tokens": 9643
+}

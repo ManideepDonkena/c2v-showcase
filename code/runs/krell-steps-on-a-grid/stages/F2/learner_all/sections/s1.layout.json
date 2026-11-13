@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 64.16,
+  "s_sp": 74.1,
+  "s_ly": 40.5,
+  "s_ed": 63.4,
+  "states": 41,
+  "states_with_conflict": 25
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 61.19,
+   "conflicts": 33
+  },
+  {
+   "level": "shift",
+   "mvqs": 64.16,
+   "conflict": "Dot \"P\" (created line 22, box [2.92, 4.92, 3.08, 5.08]) is outside the frame; shift it by [0.0, -1.23]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"label_P\" (created line 23, box [3.28, 5.28, 3.784, 5.529]) is outside the frame; shift it by [0.0, -1.68]"
+  }
+ ]
+}

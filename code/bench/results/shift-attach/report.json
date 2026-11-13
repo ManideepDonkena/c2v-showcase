@@ -1,0 +1,640 @@
+{
+ "sections": 40,
+ "shifts": 41,
+ "broken_with_shifts": 13,
+ "broken_without_shifts": 13,
+ "sections_that_differ": [
+  {
+   "topic": "Glint numbers",
+   "section": "s2",
+   "shifts": 1,
+   "with": {
+    "broken": 1,
+    "mvqs": 92.8,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 91.2,
+    "error": false
+   }
+  },
+  {
+   "topic": "Quill distance",
+   "section": "s3",
+   "shifts": 2,
+   "with": {
+    "broken": 3,
+    "mvqs": 87.6,
+    "error": false
+   },
+   "without": {
+    "broken": 4,
+    "mvqs": 74.0,
+    "error": false
+   }
+  }
+ ],
+ "rows": [
+  {
+   "topic": "Tovan sums",
+   "section": "s1",
+   "shifts": 1,
+   "with": {
+    "broken": 0,
+    "mvqs": 86.2,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 83.5,
+    "error": false
+   }
+  },
+  {
+   "topic": "Tovan sums",
+   "section": "s2",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 82.4,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 82.4,
+    "error": false
+   }
+  },
+  {
+   "topic": "Tovan sums",
+   "section": "s3",
+   "shifts": 1,
+   "with": {
+    "broken": 1,
+    "mvqs": 85.0,
+    "error": false
+   },
+   "without": {
+    "broken": 1,
+    "mvqs": 77.0,
+    "error": false
+   }
+  },
+  {
+   "topic": "Tovan sums",
+   "section": "s4",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 86.4,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 86.4,
+    "error": false
+   }
+  },
+  {
+   "topic": "Krell steps on a grid",
+   "section": "s1",
+   "shifts": 2,
+   "with": {
+    "broken": 1,
+    "mvqs": 72.2,
+    "error": false
+   },
+   "without": {
+    "broken": 1,
+    "mvqs": 62.5,
+    "error": false
+   }
+  },
+  {
+   "topic": "Krell steps on a grid",
+   "section": "s2",
+   "shifts": 1,
+   "with": {
+    "broken": 0,
+    "mvqs": 80.9,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 76.2,
+    "error": false
+   }
+  },
+  {
+   "topic": "Krell steps on a grid",
+   "section": "s3",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 84.8,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 84.8,
+    "error": false
+   }
+  },
+  {
+   "topic": "Krell steps on a grid",
+   "section": "s4",
+   "shifts": 1,
+   "with": {
+    "broken": 0,
+    "mvqs": 77.5,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 77.3,
+    "error": false
+   }
+  },
+  {
+   "topic": "Vorn sequences",
+   "section": "s1",
+   "shifts": 5,
+   "with": {
+    "broken": 0,
+    "mvqs": 90.5,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 65.0,
+    "error": false
+   }
+  },
+  {
+   "topic": "Vorn sequences",
+   "section": "s2",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 88.4,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 88.4,
+    "error": false
+   }
+  },
+  {
+   "topic": "Vorn sequences",
+   "section": "s3",
+   "shifts": 2,
+   "with": {
+    "broken": 0,
+    "mvqs": 86.5,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 68.3,
+    "error": false
+   }
+  },
+  {
+   "topic": "Vorn sequences",
+   "section": "s4",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 90.2,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 90.2,
+    "error": false
+   }
+  },
+  {
+   "topic": "Glint numbers",
+   "section": "s1",
+   "shifts": 3,
+   "with": {
+    "broken": 0,
+    "mvqs": 88.8,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 83.8,
+    "error": false
+   }
+  },
+  {
+   "topic": "Glint numbers",
+   "section": "s2",
+   "shifts": 1,
+   "with": {
+    "broken": 1,
+    "mvqs": 92.8,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 91.2,
+    "error": false
+   }
+  },
+  {
+   "topic": "Glint numbers",
+   "section": "s3",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 84.5,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 84.5,
+    "error": false
+   }
+  },
+  {
+   "topic": "Glint numbers",
+   "section": "s4",
+   "shifts": 2,
+   "with": {
+    "broken": 0,
+    "mvqs": 88.4,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 67.3,
+    "error": false
+   }
+  },
+  {
+   "topic": "Mirthful triangles",
+   "section": "s1",
+   "shifts": 3,
+   "with": {
+    "broken": 0,
+    "mvqs": 86.7,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 83.9,
+    "error": false
+   }
+  },
+  {
+   "topic": "Mirthful triangles",
+   "section": "s2",
+   "shifts": 1,
+   "with": {
+    "broken": 1,
+    "mvqs": 90.0,
+    "error": false
+   },
+   "without": {
+    "broken": 1,
+    "mvqs": 86.6,
+    "error": false
+   }
+  },
+  {
+   "topic": "Mirthful triangles",
+   "section": "s3",
+   "shifts": 3,
+   "with": {
+    "broken": 3,
+    "mvqs": 72.9,
+    "error": false
+   },
+   "without": {
+    "broken": 3,
+    "mvqs": 67.1,
+    "error": false
+   }
+  },
+  {
+   "topic": "Mirthful triangles",
+   "section": "s4",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 91.4,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 91.4,
+    "error": false
+   }
+  },
+  {
+   "topic": "Sorrel counts of lattice rectangles",
+   "section": "s1",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 72.1,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 72.1,
+    "error": false
+   }
+  },
+  {
+   "topic": "Sorrel counts of lattice rectangles",
+   "section": "s2",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 92.1,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 92.1,
+    "error": false
+   }
+  },
+  {
+   "topic": "Sorrel counts of lattice rectangles",
+   "section": "s3",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 87.0,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 87.0,
+    "error": false
+   }
+  },
+  {
+   "topic": "Sorrel counts of lattice rectangles",
+   "section": "s4",
+   "shifts": 2,
+   "with": {
+    "broken": 1,
+    "mvqs": 75.5,
+    "error": false
+   },
+   "without": {
+    "broken": 1,
+    "mvqs": 63.2,
+    "error": false
+   }
+  },
+  {
+   "topic": "Quill distance",
+   "section": "s1",
+   "shifts": 1,
+   "with": {
+    "broken": 0,
+    "mvqs": 83.0,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 79.9,
+    "error": false
+   }
+  },
+  {
+   "topic": "Quill distance",
+   "section": "s2",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 85.6,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 85.6,
+    "error": false
+   }
+  },
+  {
+   "topic": "Quill distance",
+   "section": "s3",
+   "shifts": 2,
+   "with": {
+    "broken": 3,
+    "mvqs": 87.6,
+    "error": false
+   },
+   "without": {
+    "broken": 4,
+    "mvqs": 74.0,
+    "error": false
+   }
+  },
+  {
+   "topic": "Quill distance",
+   "section": "s4",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 83.7,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 83.7,
+    "error": false
+   }
+  },
+  {
+   "topic": "Dapple numbers",
+   "section": "s1",
+   "shifts": 1,
+   "with": {
+    "broken": 0,
+    "mvqs": 85.1,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 83.0,
+    "error": false
+   }
+  },
+  {
+   "topic": "Dapple numbers",
+   "section": "s2",
+   "shifts": 1,
+   "with": {
+    "broken": 0,
+    "mvqs": 78.4,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 76.8,
+    "error": false
+   }
+  },
+  {
+   "topic": "Dapple numbers",
+   "section": "s3",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 84.1,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 84.1,
+    "error": false
+   }
+  },
+  {
+   "topic": "Dapple numbers",
+   "section": "s4",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 73.6,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 73.6,
+    "error": false
+   }
+  },
+  {
+   "topic": "Orbit words",
+   "section": "s1",
+   "shifts": 3,
+   "with": {
+    "broken": 0,
+    "mvqs": 87.6,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 81.5,
+    "error": false
+   }
+  },
+  {
+   "topic": "Orbit words",
+   "section": "s2",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 89.7,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 89.7,
+    "error": false
+   }
+  },
+  {
+   "topic": "Orbit words",
+   "section": "s3",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 68.4,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 68.4,
+    "error": false
+   }
+  },
+  {
+   "topic": "Orbit words",
+   "section": "s4",
+   "shifts": 0,
+   "with": {
+    "broken": 0,
+    "mvqs": 87.4,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 87.4,
+    "error": false
+   }
+  },
+  {
+   "topic": "Vells of 2×2 grids",
+   "section": "s1",
+   "shifts": 0,
+   "with": {
+    "broken": 1,
+    "mvqs": 80.3,
+    "error": false
+   },
+   "without": {
+    "broken": 1,
+    "mvqs": 80.3,
+    "error": false
+   }
+  },
+  {
+   "topic": "Vells of 2×2 grids",
+   "section": "s2",
+   "shifts": 1,
+   "with": {
+    "broken": 0,
+    "mvqs": 83.5,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 79.0,
+    "error": false
+   }
+  },
+  {
+   "topic": "Vells of 2×2 grids",
+   "section": "s3",
+   "shifts": 1,
+   "with": {
+    "broken": 1,
+    "mvqs": 85.9,
+    "error": false
+   },
+   "without": {
+    "broken": 1,
+    "mvqs": 85.0,
+    "error": false
+   }
+  },
+  {
+   "topic": "Vells of 2×2 grids",
+   "section": "s4",
+   "shifts": 3,
+   "with": {
+    "broken": 0,
+    "mvqs": 90.5,
+    "error": false
+   },
+   "without": {
+    "broken": 0,
+    "mvqs": 76.4,
+    "error": false
+   }
+  }
+ ]
+}

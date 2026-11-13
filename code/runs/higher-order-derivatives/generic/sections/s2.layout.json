@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 60.22,
+  "s_sp": 68.3,
+  "s_ly": 58.6,
+  "s_ed": 47.8,
+  "states": 17,
+  "states_with_conflict": 12
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 53.93,
+   "conflicts": 19
+  },
+  {
+   "level": "shift",
+   "mvqs": 60.22,
+   "conflict": "MathTex \"f_label\" (created line 18, box [4.106, 3.002, 4.894, 3.5]) overlaps Text \"title\" (line 6, box [-4.286, 3.116, 4.286, 3.5]) by 17%; moving it by [0.33, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "ParametricFunction \"f_graph\" (created line 17, box [-6.0, -42.5, 6.0, 41.5]) is outside the frame; shift it by [0.0, 38.65]"
+  }
+ ]
+}

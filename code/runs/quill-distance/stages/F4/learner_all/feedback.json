@@ -1,0 +1,42 @@
+{
+ "stage": "F4",
+ "mode": "learner_all",
+ "features": [
+  "gate",
+  "leak_gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s1": [
+   "SHOW a central point and four specific points lighting up in sequence: two points located 6 units horizontally away (cost 6+0=6), one point located 3 units vertically up (cost 0+6=6), and one point located 3 units vertically down (cost 0+6=6). SAY that just as distance 2 required 2 sideways or 1 vertical step, distance 6 requires 6 sideways steps or 3 vertical steps."
+  ],
+  "s2": [
+   "SHOW a central point and four specific points lighting up in sequence: two points located 6 units horizontally away (cost 6+0=6), one point located 3 units vertically up (cost 0+6=6), and one point located 3 units vertically down (cost 0+6=6). SAY that just as distance 2 required 2 sideways or 1 vertical step, distance 6 requires 6 sideways steps or 3 vertical steps."
+  ],
+  "s3": [
+   "SHOW a central point and four specific points lighting up in sequence: two points located 6 units horizontally away (cost 6+0=6), one point located 3 units vertically up (cost 0+6=6), and one point located 3 units vertically down (cost 0+6=6). SAY that just as distance 2 required 2 sideways or 1 vertical step, distance 6 requires 6 sideways steps or 3 vertical steps."
+  ],
+  "s4": [
+   "SHOW a central point and four specific points lighting up in sequence: two points located 6 units horizontally away (cost 6+0=6), one point located 3 units vertically up (cost 0+6=6), and one point located 3 units vertically down (cost 0+6=6). SAY that just as distance 2 required 2 sideways or 1 vertical step, distance 6 requires 6 sideways steps or 3 vertical steps."
+  ]
+ },
+ "changed": [
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "edit_size": {
+  "s2": 0.595,
+  "s3": 0.732,
+  "s4": 0.667
+ },
+ "diagnosis": "f4",
+ "dev_before": 0.8951164090909092,
+ "dev_after": 0.9588524545454546,
+ "mvqs_before": 85.01,
+ "mvqs_after": 81.02,
+ "kept": true,
+ "served": "revision"
+}

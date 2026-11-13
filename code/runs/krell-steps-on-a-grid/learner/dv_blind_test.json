@@ -1,0 +1,216 @@
+{
+ "kind": "blind",
+ "frames": 0,
+ "rotations": [
+  {
+   "rotation": 0,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "A": 0.977391,
+      "B": 0.000333,
+      "C": 1.7e-05,
+      "D": 0.022259
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.022259
+    },
+    {
+     "id": "t2",
+     "p": {
+      "A": 0.98742,
+      "B": 0.009966,
+      "C": 0.000171,
+      "D": 0.002443
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.002443
+    },
+    {
+     "id": "t3",
+     "p": {
+      "A": 0.000474,
+      "B": 0.000172,
+      "C": 5.3e-05,
+      "D": 0.999301
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 5.3e-05
+    },
+    {
+     "id": "t4",
+     "p": {
+      "A": 0.857584,
+      "B": 0.141397,
+      "C": 7.5e-05,
+      "D": 0.000945
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.141397
+    },
+    {
+     "id": "t5",
+     "p": {
+      "A": 0.006298,
+      "B": 6e-06,
+      "C": 1.9e-05,
+      "D": 0.993678
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 0.006298
+    },
+    {
+     "id": "t6",
+     "p": {
+      "A": 5e-06,
+      "B": 0.003022,
+      "C": 1e-06,
+      "D": 0.996972
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 0.003022
+    },
+    {
+     "id": "t7",
+     "p": {
+      "A": 1.7e-05,
+      "B": 0.997598,
+      "C": 0.002183,
+      "D": 0.000202
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 1.7e-05
+    },
+    {
+     "id": "t8",
+     "p": {
+      "A": 3.9e-05,
+      "B": 1e-06,
+      "C": 0.999956,
+      "D": 4e-06
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999956
+    }
+   ],
+   "reply": "Since no video material was provided, I must rely solely on the text of the questions and options to find the most plausible internal logic.\n\n1: A\n2: A\n3: D\n4: A\n5: D\n6: D\n7: B\n8: C",
+   "prompt_tokens": 758,
+   "retries": 0,
+   "missing": 0
+  },
+  {
+   "rotation": 1,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "D": 0.003647,
+      "A": 0.996157,
+      "B": 5.3e-05,
+      "C": 0.000143
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.003647
+    },
+    {
+     "id": "t2",
+     "p": {
+      "D": 0.012427,
+      "A": 0.229464,
+      "B": 0.026988,
+      "C": 0.731121
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.012427
+    },
+    {
+     "id": "t3",
+     "p": {
+      "D": 0.96921,
+      "A": 0.007436,
+      "B": 6.7e-05,
+      "C": 0.023288
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 0.023288
+    },
+    {
+     "id": "t4",
+     "p": {
+      "D": 0.000762,
+      "A": 0.994615,
+      "B": 0.004464,
+      "C": 0.000159
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.004464
+    },
+    {
+     "id": "t5",
+     "p": {
+      "D": 0.002516,
+      "A": 0.997383,
+      "B": 4.4e-05,
+      "C": 5.6e-05
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.997383
+    },
+    {
+     "id": "t6",
+     "p": {
+      "D": 0.998533,
+      "A": 0.00045,
+      "B": 0.001015,
+      "C": 2e-06
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 0.001015
+    },
+    {
+     "id": "t7",
+     "p": {
+      "D": 3.5e-05,
+      "A": 8e-05,
+      "B": 0.996417,
+      "C": 0.003468
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 8e-05
+    },
+    {
+     "id": "t8",
+     "p": {
+      "D": 0.0,
+      "A": 0.014675,
+      "B": 0.0,
+      "C": 0.985324
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.985324
+    }
+   ],
+   "reply": "Since no video material was provided, I must rely solely on the text of the questions and options to find the most plausible internal logic.\n\n1: B\n2: D\n3: A\n4: B\n5: B\n6: A\n7: C\n8: D",
+   "prompt_tokens": 758,
+   "retries": 0,
+   "missing": 0
+  }
+ ]
+}

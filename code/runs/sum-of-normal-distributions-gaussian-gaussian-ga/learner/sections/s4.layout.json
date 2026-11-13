@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 72.77,
+  "s_sp": 88.0,
+  "s_ly": 33.7,
+  "s_ed": 73.3,
+  "states": 18,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 68.37,
+   "conflicts": 9
+  },
+  {
+   "level": "shift",
+   "mvqs": 70.76,
+   "conflict": "MathTex \"sigma_label\" (created line 32, box [-0.908, -4.032, 0.908, -3.75]) is outside the frame; shift it by [0.0, 0.18]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 72.54,
+   "conflict": "Text \"var_y_label\" (created line 41, box [-0.875, -0.109, 0.875, 0.109]) overlaps Text \"var_x_label\" (line 34, box [-0.878, -0.109, 0.878, 0.109]) by 100%; moving it by [0.0, 0.37] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 72.77,
+   "conflict": "Arrow \"arrow\" (created line 45, box [-0.8, -0.175, 0.8, 0.175]) overlaps Text \"var_x_label\" (line 40, box [-0.878, -0.109, 0.878, 0.109]) by 91%; moving it by [0.0, 0.43] would clear it"
+  }
+ ]
+}

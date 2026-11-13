@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 16,
+  "scope": "line",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 16,
+  "scope": "block",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 32,
+  "scope": "section",
+  "error": "ValueError: latex error converting to dvi. See log output above or the log file: media/Tex/0ac01e63fb6e75e2.log\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 32,
+  "scope": "section",
+  "error": "ValueError: latex error converting to dvi. See log output above or the log file: media/Tex/0ac01e63fb6e75e2.log\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ }
+]

@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 69.24,
+  "s_sp": 93.0,
+  "s_ly": 34.5,
+  "s_ed": 52.7,
+  "states": 11,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 68.3,
+   "conflicts": 6
+  },
+  {
+   "level": "block",
+   "mvqs": 68.77,
+   "conflict": "DecimalNumber \"k_text\" (created line 19, box [-0.195, -0.086, 0.195, 0.086]) overlaps Vector \"V\" (line 11, box [0.0, 0.0, 2.0, 1.0]) by 25%; moving it by [0.0, -0.24] would clear it"
+  },
+  {
+   "level": "section",
+   "mvqs": 69.24,
+   "conflict": "DecimalNumber \"k_text\" (created line 19, box [-0.195, -0.086, 0.195, 0.086]) overlaps Vector \"V\" (line 11, box [0.0, 0.0, 2.0, 1.0]) by 25%; moving it by [0.0, -0.24] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "DecimalNumber \"k_text\" (created line 20, box [-0.195, -0.086, 0.195, 0.086]) overlaps Vector \"V\" (line 12, box [0.0, 0.0, 2.0, 1.0]) by 25%; moving it by [0.0, -0.24] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "stage": "F5",
+ "mode": "learner_all",
+ "features": [
+  "gate",
+  "leak_gate",
+  "minimal_edit",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s1": [
+   "SHOW a chain of three colored circles labeled '3', '(-1)', and '7' arranged horizontally. SAY 'When chaining, we go left to right.' Animate the first two circles ('3' and '(-1)') merging into a single dark circle labeled '-1'. Then, animate this new '-1' circle moving to merge with the third circle ('7'). SHOW the final result as just the dark circle labeled '-1'. SAY 'Because -1 swallows everything it touches, the entire chain collapses to -1.'",
+   "SHOW a nested structure like '5 ⊕ (0 ⊕ 8)' where the inner parentheses '(0 ⊕ 8)' are highlighted as a single unit that must be calculated first to produce an intermediate result, which is then used in the outer operation. SAY: 'When parentheses exist, you must solve the inside group before applying the outside operation, just like standard order of operations.' WORKED EXAMPLE: First, evaluate the inner term 0 ⊕ 8. Since 0 is neutral, 0 ⊕ 8 = 8. Next, substitute this result back into the outer expression to get 5 ⊕ 8. Calculate 5 ⊕ 8 using the definition a + b + a×b: 5 + 8 + (5 × 8) = 13 + 40 = 53."
+  ],
+  "s2": [
+   "SHOW a chain of three colored circles labeled '3', '(-1)', and '7' arranged horizontally. SAY 'When chaining, we go left to right.' Animate the first two circles ('3' and '(-1)') merging into a single dark circle labeled '-1'. Then, animate this new '-1' circle moving to merge with the third circle ('7'). SHOW the final result as just the dark circle labeled '-1'. SAY 'Because -1 swallows everything it touches, the entire chain collapses to -1.'",
+   "SHOW a nested structure like '5 ⊕ (0 ⊕ 8)' where the inner parentheses '(0 ⊕ 8)' are highlighted as a single unit that must be calculated first to produce an intermediate result, which is then used in the outer operation. SAY: 'When parentheses exist, you must solve the inside group before applying the outside operation, just like standard order of operations.' WORKED EXAMPLE: First, evaluate the inner term 0 ⊕ 8. Since 0 is neutral, 0 ⊕ 8 = 8. Next, substitute this result back into the outer expression to get 5 ⊕ 8. Calculate 5 ⊕ 8 using the definition a + b + a×b: 5 + 8 + (5 × 8) = 13 + 40 = 53."
+  ],
+  "s3": [
+   "SHOW a chain of three colored circles labeled '3', '(-1)', and '7' arranged horizontally. SAY 'When chaining, we go left to right.' Animate the first two circles ('3' and '(-1)') merging into a single dark circle labeled '-1'. Then, animate this new '-1' circle moving to merge with the third circle ('7'). SHOW the final result as just the dark circle labeled '-1'. SAY 'Because -1 swallows everything it touches, the entire chain collapses to -1.'",
+   "SHOW a nested structure like '5 ⊕ (0 ⊕ 8)' where the inner parentheses '(0 ⊕ 8)' are highlighted as a single unit that must be calculated first to produce an intermediate result, which is then used in the outer operation. SAY: 'When parentheses exist, you must solve the inside group before applying the outside operation, just like standard order of operations.' WORKED EXAMPLE: First, evaluate the inner term 0 ⊕ 8. Since 0 is neutral, 0 ⊕ 8 = 8. Next, substitute this result back into the outer expression to get 5 ⊕ 8. Calculate 5 ⊕ 8 using the definition a + b + a×b: 5 + 8 + (5 × 8) = 13 + 40 = 53."
+  ],
+  "s4": [
+   "SHOW a chain of three colored circles labeled '3', '(-1)', and '7' arranged horizontally. SAY 'When chaining, we go left to right.' Animate the first two circles ('3' and '(-1)') merging into a single dark circle labeled '-1'. Then, animate this new '-1' circle moving to merge with the third circle ('7'). SHOW the final result as just the dark circle labeled '-1'. SAY 'Because -1 swallows everything it touches, the entire chain collapses to -1.'",
+   "SHOW a nested structure like '5 ⊕ (0 ⊕ 8)' where the inner parentheses '(0 ⊕ 8)' are highlighted as a single unit that must be calculated first to produce an intermediate result, which is then used in the outer operation. SAY: 'When parentheses exist, you must solve the inside group before applying the outside operation, just like standard order of operations.' WORKED EXAMPLE: First, evaluate the inner term 0 ⊕ 8. Since 0 is neutral, 0 ⊕ 8 = 8. Next, substitute this result back into the outer expression to get 5 ⊕ 8. Calculate 5 ⊕ 8 using the definition a + b + a×b: 5 + 8 + (5 × 8) = 13 + 40 = 53."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "edit_size": {
+  "s1": 0.387,
+  "s2": 0.477,
+  "s3": 0.512,
+  "s4": 0.556
+ },
+ "diagnosis": "f4",
+ "dev_before": 0.7852851999999999,
+ "dev_after": 0.66237245,
+ "mvqs_before": 84.3,
+ "mvqs_after": 72.01,
+ "kept": false,
+ "served": "base"
+}

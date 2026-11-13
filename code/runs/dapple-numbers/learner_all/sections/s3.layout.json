@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 84.07,
+  "s_sp": 96.9,
+  "s_ly": 32.4,
+  "s_ed": 97.2,
+  "states": 65,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 82.48,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.28,
+   "conflict": "MathTex \"gt_sign_7\" (created line 117, box [-0.214, -0.144, 0.091, 0.144]) overlaps MathTex \"num_7\" (line 110, box [-0.214, -0.348, 0.214, 0.348]) by 100%; moving it by [-0.45, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.07,
+   "conflict": "MathTex \"num_63\" (created line 240, box [-0.456, -0.343, 0.456, 0.343]) overlaps MathTex \"num_31_split\" (line 216, box [-0.432, -0.343, 0.432, 0.343]) by 100%; moving it by [0.0, 0.84] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"valid_text_63\" (created line 252, box [-0.041, 0.189, 1.857, 0.446]) overlaps MathTex \"num_31_split\" (line 221, box [-0.432, -0.343, 0.432, 0.343]) by 14%; moving it by [0.0, 0.3] would clear it"
+  }
+ ]
+}

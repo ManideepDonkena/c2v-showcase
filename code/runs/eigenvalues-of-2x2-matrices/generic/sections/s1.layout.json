@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 79.99,
+  "s_sp": 90.8,
+  "s_ly": 57.6,
+  "s_ed": 76.9,
+  "states": 13,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 65.02,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.18,
+   "conflict": "Matrix \"M\" (created line 20, box [-1.145, 0.849, 1.145, 2.5]) overlaps MathTex \"v_label\" (line 6, box [1.1, 1.1, 1.209, 1.213]) by 41%; moving it by [-0.19, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.7,
+   "conflict": "Text \"text\" (created line 37, box [-6.611, 1.833, -3.296, 2.167]) overlaps Axes \"axes\" (line 12, box [-6.0, -3.5, 6.0, 2.5]) by 81%; moving it by [0.0, 0.82] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.99,
+   "conflict": "Text \"title2\" (created line 53, box [-1.509, 3.0, 1.509, 3.5]) overlaps Text \"title\" (line 6, box [-3.112, 2.995, 3.112, 3.5]) by 100%; moving it by [0.0, -0.65] would clear it"
+  }
+ ]
+}

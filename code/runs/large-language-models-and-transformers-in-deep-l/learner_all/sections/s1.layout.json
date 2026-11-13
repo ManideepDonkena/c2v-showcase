@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 76.47,
+  "s_sp": 85.2,
+  "s_ly": 59.4,
+  "s_ed": 73.3,
+  "states": 18,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 58.3,
+   "conflicts": 17
+  },
+  {
+   "level": "shift",
+   "mvqs": 61.81,
+   "conflict": "Line \"line1\" (created line 24, box [-1.434, -0.036, -0.803, 0.002]) overlaps Text \"sentence\" (line 11, box [-1.736, -0.129, 1.736, 0.129]) by 100%; moving it by [0.0, -0.28] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 68.09,
+   "conflict": "Line \"line2\" (created line 25, box [-0.803, -0.036, -0.11, -0.017]) overlaps Text \"sentence\" (line 11, box [-1.736, -0.129, 1.736, 0.129]) by 100%; moving it by [0.0, -0.26] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.47,
+   "conflict": "Matrix \"weight_matrix\" (created line 37, box [-0.229, -4.321, 6.229, 1.321]) overlaps Text \"sentence\" (line 11, box [-1.736, -0.129, 1.736, 0.129]) by 56%; moving it by [0.0, -1.6] would clear it"
+  }
+ ]
+}

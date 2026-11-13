@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 78.91,
+  "s_sp": 88.2,
+  "s_ly": 65.0,
+  "s_ed": 72.7,
+  "states": 11,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 78.91,
+   "conflicts": 9
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"inside_label\" (created line 19, box [-0.932, -2.299, 0.932, -1.942]) overlaps Rectangle \"rect1\" (line 12, box [-1.0, -2.0, 1.0, 2.0]) by 16%; moving it by [0.0, -0.21] would clear it"
+  }
+ ]
+}

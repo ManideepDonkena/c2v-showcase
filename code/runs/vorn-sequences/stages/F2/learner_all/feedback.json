@@ -1,0 +1,50 @@
+{
+ "stage": "F2",
+ "mode": "learner_all",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch"
+ ],
+ "fixes": {
+  "s1": [
+   "Show the calculation 'Odd + 2 × Odd' breaking down into 'Odd + Even', then visually demonstrating that adding an odd number to an even number always results in an odd number.",
+   "Show the algebraic breakdown of the formula for an odd term: display 'Odd + 2×Odd' and explicitly label '2×Odd' as Even, then show 'Odd + Even = Odd' to prove the result must be Odd.",
+   "Show the ratio of consecutive terms (v(n)/v(n-1)) for the calculated values (e.g., 11/5 = 2.2) and explicitly state that this value is close to 2, demonstrating that each term grows to approximately double the size of the previous one.",
+   "Show the formula v(n) = v(n-1) + 2*v(n-2). Visually separate the term 'v(n-1)' and emphasize that since all terms are positive (starting with 1, 3), adding a positive number to '2*v(n-2)' makes the total strictly greater than just '2*v(n-2)'. Say: 'Because we add v(n-1) to 2 times the term before, the result is larger than 2 times the term before.'"
+  ],
+  "s2": [
+   "Show the calculation 'Odd + 2 × Odd' breaking down into 'Odd + Even', then visually demonstrating that adding an odd number to an even number always results in an odd number.",
+   "Show the algebraic breakdown of the formula for an odd term: display 'Odd + 2×Odd' and explicitly label '2×Odd' as Even, then show 'Odd + Even = Odd' to prove the result must be Odd.",
+   "Show the ratio of consecutive terms (v(n)/v(n-1)) for the calculated values (e.g., 11/5 = 2.2) and explicitly state that this value is close to 2, demonstrating that each term grows to approximately double the size of the previous one.",
+   "Show the formula v(n) = v(n-1) + 2*v(n-2). Visually separate the term 'v(n-1)' and emphasize that since all terms are positive (starting with 1, 3), adding a positive number to '2*v(n-2)' makes the total strictly greater than just '2*v(n-2)'. Say: 'Because we add v(n-1) to 2 times the term before, the result is larger than 2 times the term before.'"
+  ],
+  "s3": [
+   "Show the calculation 'Odd + 2 × Odd' breaking down into 'Odd + Even', then visually demonstrating that adding an odd number to an even number always results in an odd number.",
+   "Show the algebraic breakdown of the formula for an odd term: display 'Odd + 2×Odd' and explicitly label '2×Odd' as Even, then show 'Odd + Even = Odd' to prove the result must be Odd.",
+   "Show the ratio of consecutive terms (v(n)/v(n-1)) for the calculated values (e.g., 11/5 = 2.2) and explicitly state that this value is close to 2, demonstrating that each term grows to approximately double the size of the previous one.",
+   "Show the formula v(n) = v(n-1) + 2*v(n-2). Visually separate the term 'v(n-1)' and emphasize that since all terms are positive (starting with 1, 3), adding a positive number to '2*v(n-2)' makes the total strictly greater than just '2*v(n-2)'. Say: 'Because we add v(n-1) to 2 times the term before, the result is larger than 2 times the term before.'"
+  ],
+  "s4": [
+   "Show the calculation 'Odd + 2 × Odd' breaking down into 'Odd + Even', then visually demonstrating that adding an odd number to an even number always results in an odd number.",
+   "Show the algebraic breakdown of the formula for an odd term: display 'Odd + 2×Odd' and explicitly label '2×Odd' as Even, then show 'Odd + Even = Odd' to prove the result must be Odd.",
+   "Show the ratio of consecutive terms (v(n)/v(n-1)) for the calculated values (e.g., 11/5 = 2.2) and explicitly state that this value is close to 2, demonstrating that each term grows to approximately double the size of the previous one.",
+   "Show the formula v(n) = v(n-1) + 2*v(n-2). Visually separate the term 'v(n-1)' and emphasize that since all terms are positive (starting with 1, 3), adding a positive number to '2*v(n-2)' makes the total strictly greater than just '2*v(n-2)'. Say: 'Because we add v(n-1) to 2 times the term before, the result is larger than 2 times the term before.'"
+  ]
+ },
+ "changed": [
+  "s2",
+  "s4"
+ ],
+ "edit_size": {
+  "s2": 0.603,
+  "s4": 0.525
+ },
+ "diagnosis": "f0",
+ "dev_before": 62.5,
+ "dev_after": 75.0,
+ "mvqs_before": 88.89,
+ "mvqs_after": 88.25,
+ "kept": true,
+ "served": "revision"
+}

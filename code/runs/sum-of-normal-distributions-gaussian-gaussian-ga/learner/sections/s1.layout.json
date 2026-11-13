@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 84.64,
+  "s_sp": 94.8,
+  "s_ly": 52.5,
+  "s_ed": 89.1,
+  "states": 11,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 67.32,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.07,
+   "conflict": "MathTex \"axes_labels\" (created line 16, box [0.275, 3.05, 0.505, 3.372]) overlaps Text \"title\" (line 6, box [-1.566, 3.116, 1.566, 3.5]) by 79%; moving it by [0.0, -0.41] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 80.16,
+   "conflict": "MathTex \"mu_label\" (created line 31, box [-0.368, 2.725, 0.368, 3.0]) overlaps MathTex \"axes_labels\" (line 16, box [0.275, 2.64, 0.505, 2.962]) by 29%; moving it by [-0.24, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.64,
+   "conflict": "ParametricFunction \"normal_curve\" (created line 22, box [-6.3, 0.0, 6.3, 0.322]) overlaps MathTex \"axes_labels\" (line 16, box [6.1, -0.135, 6.348, 0.091]) by 32%; moving it by [0.0, 0.24] would clear it"
+  }
+ ]
+}

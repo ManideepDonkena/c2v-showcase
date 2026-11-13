@@ -1,0 +1,27 @@
+{
+ "score": {
+  "mvqs": 91.27,
+  "s_sp": 98.2,
+  "s_ly": 70.8,
+  "s_ed": 93.3,
+  "states": 6,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 80.76,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 90.93,
+   "conflict": "Matrix \"M\" (created line 25, box [-1.145, 0.849, 1.145, 2.5]) overlaps MathTex \"v_label\" (line 21, box [1.1, 1.1, 1.239, 1.281]) by 32%; moving it by [-0.19, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 91.27,
+   "conflict": "Line \"line\" (created line 35, box [-3.0, -4.5, 3.0, 1.5]) is outside the frame; shift it by [0.0, 0.65]"
+  }
+ ]
+}

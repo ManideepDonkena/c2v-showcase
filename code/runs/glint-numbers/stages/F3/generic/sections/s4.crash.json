@@ -1,0 +1,274 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.412,
+      3.0,
+      4.412,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.412,
+      3.0,
+      4.412,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.299,
+      -6.032,
+      1.701
+     ],
+     "name": "num_24",
+     "line": 11,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.711,
+      1.199,
+      -5.932,
+      1.801
+     ],
+     "name": "highlight_24",
+     "line": 12,
+     "type": "SurroundingRectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.412,
+      3.0,
+      4.412,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.299,
+      -6.032,
+      1.701
+     ],
+     "name": "num_24",
+     "line": 11,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.711,
+      1.199,
+      -5.932,
+      1.801
+     ],
+     "name": "highlight_24",
+     "line": 12,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.062,
+      0.564,
+      -5.58,
+      0.799
+     ],
+     "name": "div_24",
+     "line": 16,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.412,
+      3.0,
+      4.412,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.299,
+      -6.032,
+      1.701
+     ],
+     "name": "num_24",
+     "line": 11,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.711,
+      1.199,
+      -5.932,
+      1.801
+     ],
+     "name": "highlight_24",
+     "line": 12,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.062,
+      0.564,
+      -5.58,
+      0.799
+     ],
+     "name": "div_24",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.08,
+      0.41,
+      -4.584,
+      0.953
+     ],
+     "name": "check",
+     "line": 17,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.412,
+      3.0,
+      4.412,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.299,
+      -6.032,
+      1.701
+     ],
+     "name": "num_24",
+     "line": 11,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.711,
+      1.199,
+      -5.932,
+      1.801
+     ],
+     "name": "highlight_24",
+     "line": 12,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.062,
+      0.564,
+      -5.58,
+      0.799
+     ],
+     "name": "div_24",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.08,
+      0.41,
+      -4.584,
+      0.953
+     ],
+     "name": "check",
+     "line": 17,
+     "type": "Tex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.052,
+      1.296,
+      6.611,
+      1.704
+     ],
+     "name": "num_26",
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.952,
+      1.196,
+      6.711,
+      1.804
+     ],
+     "name": "highlight_26",
+     "line": 25,
+     "type": "SurroundingRectangle"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "latex error converting to dvi. See log output above or the log file: media/Tex/ea85079f29a3df61.log",
+  "line": 30
+ }
+}

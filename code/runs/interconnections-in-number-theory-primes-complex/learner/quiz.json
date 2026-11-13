@@ -1,0 +1,187 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "Which theorem establishes the asymptotic distribution of prime numbers using the Riemann zeta function?",
+   "options": {
+    "A": "Euler's Identity",
+    "B": "Prime Number Theorem",
+    "C": "Fundamental Theorem of Algebra",
+    "D": "Fermat's Last Theorem"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "What is the primary reason Euler connected π and primes via the product formula?",
+   "options": {
+    "A": "It proves π is transcendental.",
+    "B": "It links infinite series to prime factors.",
+    "C": "It calculates exact prime gaps.",
+    "D": "It defines complex conjugates."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "In the context of Gaussian integers, which rational prime remains prime (inert)?",
+   "options": {
+    "A": "2",
+    "B": "5",
+    "C": "7",
+    "D": "13"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q4",
+   "question": "What does the Riemann Hypothesis claim about the non-trivial zeros of ζ(s)?",
+   "options": {
+    "A": "They are all real numbers.",
+    "B": "Their real part is 1/2.",
+    "C": "They lie on the unit circle.",
+    "D": "They are all rational."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q5",
+   "question": "Which pattern describes primes of the form 4k+1?",
+   "options": {
+    "A": "They never split in Z[i].",
+    "B": "They are always composite.",
+    "C": "They split into two Gaussian primes.",
+    "D": "They divide π exactly."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q7",
+   "question": "What is the common misconception regarding the Riemann Hypothesis?",
+   "options": {
+    "A": "It is proven by induction.",
+    "B": "All primes are even.",
+    "C": "Zeros lie on Re(s)=1.",
+    "D": "π is algebraic."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q8",
+   "question": "How does the prime counting function π(x) relate to Li(x)?",
+   "options": {
+    "A": "They are identical for all x.",
+    "B": "π(x) ≈ Li(x) asymptotically.",
+    "C": "Li(x) is always smaller.",
+    "D": "No relation exists."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q9",
+   "question": "Which complex number has a modulus equal to the golden ratio?",
+   "options": {
+    "A": "1+i",
+    "B": "e^{iπ/5}",
+    "C": "φ+0i",
+    "D": "2+2i"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q10",
+   "question": "What role do Dirichlet characters play in prime distribution?",
+   "options": {
+    "A": "They eliminate all primes.",
+    "B": "They detect primes in arithmetic progressions.",
+    "C": "They calculate π numerically.",
+    "D": "They define complex conjugates."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q11",
+   "question": "If a prime p ≡ 3 (mod 4), how does it behave in Z[i]?",
+   "options": {
+    "A": "It splits completely.",
+    "B": "It ramifies.",
+    "C": "It remains inert.",
+    "D": "It becomes zero."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q12",
+   "question": "What is the significance of ζ(2) = π²/6?",
+   "options": {
+    "A": "It sums all primes.",
+    "B": "It links series to π via primes.",
+    "C": "It proves Fermat's theorem.",
+    "D": "It defines Gaussian integers."
+   },
+   "answer": "B"
+  }
+ ],
+ "test": [
+  {
+   "question": "Which statement best captures the main idea introduced in number theory's 'web' connecting π, primes, and complex numbers?",
+   "options": {
+    "A": "These three concepts are completely separate and studied independently.",
+    "B": "π, prime numbers, and complex numbers are interconnected and reveal deeper number theory insights when studied together.",
+    "C": "Only π and complex numbers are related; primes are not involved.",
+    "D": "Prime numbers are more important than π or complex numbers in number theory."
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "Which of the following correctly matches each mathematical object to its representation?",
+   "options": {
+    "A": "π: triangle area, Primes: multiples of two, Complex numbers: only real values",
+    "B": "π: circle ratio, Primes: numbers with exactly two positive divisors, Complex numbers: sums of real and imaginary parts",
+    "C": "π: a random value, Primes: any number larger than 1, Complex numbers: numbers greater than zero",
+    "D": "π: perimeter of a rectangle, Primes: odd numbers, Complex numbers: sums of integers"
+   },
+   "answer": "B",
+   "id": "t2"
+  },
+  {
+   "question": "Euler’s formula shows a connection between prime numbers and π using the equation: Product over all primes of (1 - 1/p²)^(-1) = ?",
+   "options": {
+    "A": "π/4",
+    "B": "2π",
+    "C": "π²/6",
+    "D": "e^π"
+   },
+   "answer": "C",
+   "id": "t3"
+  },
+  {
+   "question": "How do complex numbers help mathematicians visualize patterns in the distribution of primes?",
+   "options": {
+    "A": "By plotting the locations of primes as points only on the real axis.",
+    "B": "Through functions like the Riemann zeta function, whose zeros in the complex plane are connected to prime distribution.",
+    "C": "Only by counting how many primes are less than a given number.",
+    "D": "By arranging primes in a circle and measuring angles in radians."
+   },
+   "answer": "B",
+   "id": "t4"
+  },
+  {
+   "question": "What distinctive feature is often observed when primes are visualized on a number spiral like the Ulam spiral?",
+   "options": {
+    "A": "Primes appear only at the center of the spiral.",
+    "B": "Primes are scattered with no apparent pattern.",
+    "C": "Primes form streaks and diagonal lines, revealing emergent patterns.",
+    "D": "All primes are clustered in one quadrant of the spiral."
+   },
+   "answer": "C",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 11,
+ "dev_leaked": []
+}

@@ -1,0 +1,176 @@
+{
+ "kind": "visual",
+ "frames": 303,
+ "rotations": [
+  {
+   "rotation": 0,
+   "items": [
+    {
+     "id": "t1",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t2",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t3",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t4",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t5",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t6",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t7",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t8",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    }
+   ],
+   "reply": "I cannot answer these questions because the provided video frames do not contain any information regarding \"mirthful triangles.\"",
+   "prompt_tokens": 21317,
+   "retries": 0,
+   "missing": 8
+  },
+  {
+   "rotation": 1,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "D": 0.031544,
+      "A": 0.007667,
+      "B": 0.900878,
+      "C": 0.059911
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.031544
+    },
+    {
+     "id": "t2",
+     "p": {
+      "D": 0.000555,
+      "A": 0.998014,
+      "B": 0.001405,
+      "C": 2.6e-05
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 2.6e-05
+    },
+    {
+     "id": "t3",
+     "p": {
+      "D": 0.010005,
+      "A": 0.054475,
+      "B": 0.922237,
+      "C": 0.013283
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.922237
+    },
+    {
+     "id": "t4",
+     "p": {
+      "D": 2.1e-05,
+      "A": 1.3e-05,
+      "B": 2.5e-05,
+      "C": 0.99994
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.99994
+    },
+    {
+     "id": "t5",
+     "p": {
+      "D": 0.000379,
+      "A": 0.001708,
+      "B": 0.001782,
+      "C": 0.99613
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.000379
+    },
+    {
+     "id": "t6",
+     "p": {
+      "D": 0.002199,
+      "A": 0.23213,
+      "B": 0.765646,
+      "C": 2.4e-05
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.765646
+    },
+    {
+     "id": "t7",
+     "p": {
+      "D": 0.928667,
+      "A": 0.065034,
+      "B": 0.006196,
+      "C": 0.000103
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 0.065034
+    },
+    {
+     "id": "t8",
+     "p": {
+      "D": 0.005214,
+      "A": 0.074698,
+      "B": 0.683699,
+      "C": 0.236389
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.074698
+    }
+   ],
+   "reply": "1: C\n2: B\n3: C\n4: D\n5: D\n6: C\n7: A\n8: C",
+   "prompt_tokens": 21339,
+   "retries": 1,
+   "missing": 0
+  }
+ ]
+}

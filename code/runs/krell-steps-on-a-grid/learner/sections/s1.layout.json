@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 70.95,
+  "s_sp": 82.6,
+  "s_ly": 27.1,
+  "s_ed": 80.7,
+  "states": 28,
+  "states_with_conflict": 9
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 70.95,
+   "conflicts": 10
+  },
+  {
+   "level": "none kept",
+   "conflict": "Dot \"P\" (created line 6, box [2.92, 4.92, 3.08, 5.08]) is outside the frame; shift it by [0.0, -1.23]"
+  }
+ ]
+}

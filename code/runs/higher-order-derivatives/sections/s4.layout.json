@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 59.92,
+  "s_sp": 64.2,
+  "s_ly": 58.5,
+  "s_ed": 53.8,
+  "states": 13,
+  "states_with_conflict": 10
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 50.36,
+   "conflicts": 22
+  },
+  {
+   "level": "shift",
+   "mvqs": 59.92,
+   "conflict": "FunctionGraph \"f_t\" (created line 12, box [-4.0, -34.0, 4.0, 6.0]) overlaps Text \"title\" (line 6, box [-5.648, 3.0, 5.648, 3.5]) by 70%; moving it by [0.0, -3.15] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "FunctionGraph \"f_t\" (created line 12, box [-4.0, -37.15, 4.0, 2.85]) is outside the frame; shift it by [0.0, 33.3]"
+  }
+ ]
+}

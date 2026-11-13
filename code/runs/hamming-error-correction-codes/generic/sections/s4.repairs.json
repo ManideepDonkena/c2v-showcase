@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 41,
+  "scope": "line",
+  "error": "ValueError: latex error converting to dvi. See log output above or the log file: media/Tex/0ac01e63fb6e75e2.log\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 40,
+  "scope": "block",
+  "error": "SyntaxError: '(' was never closed (s4.py, line 40)"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

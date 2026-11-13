@@ -1,0 +1,454 @@
+{
+ "split": "test",
+ "questions": 9,
+ "none": 0.0,
+ "full": 29.6,
+ "evidence": 18.5,
+ "runs": {
+  "none": [
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I don't know which side is called c."
+     },
+     {
+      "id": "q5",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not mention this theorem or its requirements."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I have no way to calculate this value."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what a hypotenuse is."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I don't know what a Pythagorean triple is."
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I don't know the relationship between these sides."
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I cannot solve for b without knowing the rule."
+     },
+     {
+      "id": "q18",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I don't know how to find c with these numbers."
+     },
+     {
+      "id": "q22",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I don't know how to calculate this."
+     }
+    ]
+   },
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what 'c' refers to in this context."
+     },
+     {
+      "id": "q5",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not explain which shape is required for this theorem."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I have no way to calculate the value of c."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the definition of a hypotenuse."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what a Pythagorean triple is."
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the properties of the hypotenuse and legs."
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I cannot perform calculations involving these undefined variables."
+     },
+     {
+      "id": "q18",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I cannot perform calculations involving these undefined variables."
+     },
+     {
+      "id": "q22",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I cannot perform calculations involving these undefined variables."
+     }
+    ]
+   },
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I don't know what 'c' refers to in this context."
+     },
+     {
+      "id": "q5",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not explain what this theorem is."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I cannot calculate this without knowing the rule."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the definition of 'hypotenuse'."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I have no idea what a Pythagorean triple is."
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I don't know the properties of these sides."
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I cannot solve for 'b' without the formula."
+     },
+     {
+      "id": "q18",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I don't know how to find 'c' using these numbers."
+     },
+     {
+      "id": "q22",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I lack the necessary mathematical rule to answer."
+     }
+    ]
+   }
+  ],
+  "full": [
+   {
+    "score": 33.3,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "B",
+      "right": true,
+      "time": "00:31",
+      "why": "The image shows c is the longest side.",
+      "backed": true
+     },
+     {
+      "id": "q5",
+      "choice": "B",
+      "right": true,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q7",
+      "choice": "A",
+      "right": true,
+      "time": "00:31",
+      "why": "The image shows 9 + 16 = 25, so c is 5.",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q18",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q22",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     }
+    ],
+    "evidence": 11.1
+   },
+   {
+    "score": 33.3,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "B",
+      "right": true,
+      "time": "00:31",
+      "why": "The image shows c is the longest side of the triangle.",
+      "backed": true
+     },
+     {
+      "id": "q5",
+      "choice": "B",
+      "right": true,
+      "time": "00:09",
+      "why": "The text mentions the right angle and legs.",
+      "backed": true
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The provided material does not contain this specific calculation.",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The term 'hypotenuse' is not defined in the provided images.",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "D",
+      "right": true,
+      "time": "null",
+      "why": "The material does not list or define Pythagorean triples.",
+      "backed": false
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not discuss the relative lengths of sides.",
+      "backed": false
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide this specific calculation.",
+      "backed": false
+     },
+     {
+      "id": "q18",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide this specific calculation.",
+      "backed": false
+     },
+     {
+      "id": "q22",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide this specific calculation.",
+      "backed": false
+     }
+    ],
+    "evidence": 22.2
+   },
+   {
+    "score": 22.2,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "B",
+      "right": true,
+      "time": "00:09",
+      "why": "The image shows c is the longest side.",
+      "backed": true
+     },
+     {
+      "id": "q5",
+      "choice": "B",
+      "right": true,
+      "time": "00:09",
+      "why": "The text mentions a right angle in the triangle.",
+      "backed": true
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide this calculation.",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The term hypotenuse is not defined in the material.",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not list or define Pythagorean triples.",
+      "backed": false
+     },
+     {
+      "id": "q13",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not discuss side length comparisons.",
+      "backed": false
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide this specific calculation.",
+      "backed": false
+     },
+     {
+      "id": "q18",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide this specific calculation.",
+      "backed": false
+     },
+     {
+      "id": "q22",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide this specific calculation.",
+      "backed": false
+     }
+    ],
+    "evidence": 22.2
+   }
+  ]
+ },
+ "teachquiz": 29.6,
+ "control_first_section": 11.1,
+ "mvqs": 84.01
+}

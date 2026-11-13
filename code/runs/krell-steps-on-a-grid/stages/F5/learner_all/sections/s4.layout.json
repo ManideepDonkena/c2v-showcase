@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 69.95,
+  "s_sp": 81.3,
+  "s_ly": 41.6,
+  "s_ed": 70.0,
+  "states": 12,
+  "states_with_conflict": 6
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 69.95,
+   "conflicts": 8
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"label2\" (created line 39, box [1.117, 3.017, 2.311, 3.465]) overlaps Text \"title\" (line 6, box [-2.934, 3.3, 2.934, 3.8]) by 36%; moving it by [0.0, -0.32] would clear it"
+  }
+ ]
+}

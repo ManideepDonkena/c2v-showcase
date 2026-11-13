@@ -1,0 +1,198 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "According to the definition, how many distinct marks are on a lumen clock?",
+   "options": {
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "12"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "What is the size of one lumen tick in terms of marks moved?",
+   "options": {
+    "A": "1 mark",
+    "B": "2 marks",
+    "C": "3 marks",
+    "D": "6 marks"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "If the hand is at mark 5, where does it land after one lumen tick?",
+   "options": {
+    "A": "Mark 7",
+    "B": "Mark 0",
+    "C": "Mark 1",
+    "D": "Mark 6"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q4",
+   "question": "How many ticks are required for the hand to return to its starting position?",
+   "options": {
+    "A": "3 ticks",
+    "B": "6 ticks",
+    "C": "7 ticks",
+    "D": "12 ticks"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q6",
+   "question": "In the worked example, what is the first mark visited starting from 3?",
+   "options": {
+    "A": "Mark 4",
+    "B": "Mark 5",
+    "C": "Mark 1",
+    "D": "Mark 2"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q8",
+   "question": "Why does the hand wrap past mark 6 back to 0?",
+   "options": {
+    "A": "It is a bug",
+    "B": "Modular arithmetic",
+    "C": "Random error",
+    "D": "Time limit"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q9",
+   "question": "Read the sequence: Start at 1. Tick 1 goes to 3. Where does tick 2 go?",
+   "options": {
+    "A": "Mark 4",
+    "B": "Mark 5",
+    "C": "Mark 6",
+    "D": "Mark 0"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q10",
+   "question": "Common misconception: If the clock had 6 marks, would a 2-mark tick visit all?",
+   "options": {
+    "A": "Yes, always",
+    "B": "No, it would not",
+    "C": "Only if odd",
+    "D": "Depends on start"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q11",
+   "question": "Explain why the hand returns to start after exactly 7 ticks.",
+   "options": {
+    "A": "GCD(2,7)=1",
+    "B": "2+7=9",
+    "C": "7 is prime",
+    "D": "2*7=14"
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "From mark 0, where is the hand after 1 tick?",
+   "options": {
+    "A": "0",
+    "B": "7",
+    "C": "1",
+    "D": "2"
+   },
+   "answer": "D",
+   "id": "t1"
+  },
+  {
+   "question": "From mark 5, where is the hand after 1 tick?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "7",
+    "D": "6"
+   },
+   "answer": "A",
+   "id": "t2"
+  },
+  {
+   "question": "From mark 3, where is the hand after 3 ticks?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "6"
+   },
+   "answer": "C",
+   "id": "t3"
+  },
+  {
+   "question": "From mark 4, how many ticks bring the hand back to 4?",
+   "options": {
+    "A": "4",
+    "B": "2",
+    "C": "7",
+    "D": "14"
+   },
+   "answer": "C",
+   "id": "t4"
+  },
+  {
+   "question": "From mark 0, where is the hand after 4 ticks?",
+   "options": {
+    "A": "2",
+    "B": "1",
+    "C": "4",
+    "D": "8"
+   },
+   "answer": "B",
+   "id": "t5"
+  },
+  {
+   "question": "Does the hand ever visit every mark?",
+   "options": {
+    "A": "No, only odd marks",
+    "B": "No, only even marks",
+    "C": "Only from mark 0",
+    "D": "Yes, before it returns"
+   },
+   "answer": "D",
+   "id": "t6"
+  },
+  {
+   "question": "How many marks does a lumen clock have?",
+   "options": {
+    "A": "7",
+    "B": "12",
+    "C": "6",
+    "D": "8"
+   },
+   "answer": "A",
+   "id": "t7"
+  },
+  {
+   "question": "One tick moves the hand by...",
+   "options": {
+    "A": "7 marks",
+    "B": "2 marks forward",
+    "C": "1 mark forward",
+    "D": "2 marks back"
+   },
+   "answer": "B",
+   "id": "t8"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 9,
+ "dev_leaked": []
+}

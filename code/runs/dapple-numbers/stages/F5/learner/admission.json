@@ -1,0 +1,81 @@
+{
+ "topic": "Dapple numbers",
+ "before": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 85.11,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 48.09,
+   "conflicts": 11,
+   "ok": false
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 84.06,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 82.9,
+   "conflicts": 0,
+   "ok": true
+  }
+ },
+ "regenerated": {
+  "s2": {
+   "tries": [
+    {
+     "id": "s2",
+     "mvqs": 78.43,
+     "conflicts": 7,
+     "rendered": true,
+     "ok": false
+    }
+   ],
+   "kept": "s2_try1"
+  }
+ },
+ "min_mvqs": 70.0,
+ "superseded": "/home/mani/c2v-lab/runs/dapple-numbers/_superseded/20261113-084618",
+ "after": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 85.11,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 78.43,
+   "conflicts": 7,
+   "ok": false
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 84.06,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 82.9,
+   "conflicts": 0,
+   "ok": true
+  }
+ },
+ "complete": true,
+ "clean": false
+}

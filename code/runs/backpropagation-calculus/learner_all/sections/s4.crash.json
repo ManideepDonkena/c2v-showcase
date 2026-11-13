@@ -1,0 +1,269 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.002,
+      -6.313,
+      3.5
+     ],
+     "name": "grad1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.813,
+      2.994,
+      -4.925,
+      3.508
+     ],
+     "name": "grad2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.213,
+      3.214,
+      -5.913,
+      3.289
+     ],
+     "name": "mult_arrow",
+     "line": 13,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.002,
+      -6.313,
+      3.5
+     ],
+     "name": "grad1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.813,
+      2.994,
+      -4.925,
+      3.508
+     ],
+     "name": "grad2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.213,
+      3.214,
+      -5.913,
+      3.289
+     ],
+     "name": "mult_arrow",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.425,
+      3.164,
+      -3.929,
+      3.339
+     ],
+     "name": "equals",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.429,
+      3.002,
+      -3.182,
+      3.5
+     ],
+     "name": "result",
+     "line": 15,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.395,
+      3.0,
+      3.395,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.002,
+      -6.313,
+      3.5
+     ],
+     "name": "grad1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.813,
+      2.994,
+      -4.925,
+      3.508
+     ],
+     "name": "grad2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.213,
+      3.214,
+      -5.913,
+      3.289
+     ],
+     "name": "mult_arrow",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.425,
+      3.164,
+      -3.929,
+      3.339
+     ],
+     "name": "equals",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.429,
+      3.002,
+      -3.182,
+      3.5
+     ],
+     "name": "result",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      -1.9,
+      0.4,
+      -1.1
+     ],
+     "name": "w_node",
+     "line": 17,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.165,
+      -1.613,
+      0.165,
+      -1.387
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.298,
+      -2.443,
+      0.298,
+      -2.1
+     ],
+     "name": "w_value",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "NameError",
+  "message": "name 'ShowCreation' is not defined",
+  "line": 34
+ }
+}

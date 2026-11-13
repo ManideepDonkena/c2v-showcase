@@ -1,0 +1,27 @@
+{
+ "score": {
+  "mvqs": 91.45,
+  "s_sp": 97.5,
+  "s_ly": 63.4,
+  "s_ed": 100.0,
+  "states": 8,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 74.3,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 88.68,
+   "conflict": "Vector \"Av\" (created line 17, box [0.0, 0.0, 5.0, 4.0]) overlaps Text \"title\" (line 6, box [-2.827, 2.992, 2.827, 3.5]) by 50%; moving it by [0.0, -1.16] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 91.45,
+   "conflict": "Text \"length_text\" (created line 49, box [3.702, -1.168, 6.611, -0.832]) overlaps Vector \"Av\" (line 17, box [0.0, -1.16, 5.0, 2.84]) by 43%; moving it by [0.0, -0.48] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+[
+ {
+  "id": "s1",
+  "title": "Definition and First Rule",
+  "teaches": "A 'Glint number' is a whole number whose last digit is not zero and which is divisible by that last digit. Specifically, any number ending in 1 is always a Glint number.",
+  "visual": "The number 21 appears center-screen. The digit '1' pulses green while the rest of the number fades slightly. Text below reads: 'Glint Number: Last digit ≠ 0 AND Number ÷ Last Digit = Whole'. A checkmark animates next to 21.",
+  "narration": "We define a Glint number as a whole number ending in a non-zero digit that divides itself evenly. For instance, every number ending in 1 is automatically a Glint number because any integer divided by 1 results in a whole number.",
+  "start": 0.0,
+  "end": 32.73
+ },
+ {
+  "id": "s3",
+  "title": "The Five Inclusion Rule",
+  "teaches": "Rule 3: A number ending in 5 is always a Glint number.",
+  "visual": "The number 75 appears. The digit '5' pulses gold. An equation animates below: '75 ÷ 5 = 15'. A green checkmark appears next to the result. Text reads: 'Rule: Ending in 5 is ALWAYS Glint'.",
+  "narration": "Similarly, any number ending in five is always a Glint number. Since all integers ending in 5 are divisible by 5 with no remainder, they satisfy our definition perfectly.",
+  "start": 32.73,
+  "end": 48.07
+ }
+]

@@ -1,0 +1,8540 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -2.998,
+      6.0,
+      1.787
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -2.998,
+      6.0,
+      1.787
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 66,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.017,
+      -3.5,
+      7.017,
+      -3.166
+     ],
+     "name": "narration",
+     "line": 35,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -2.998,
+      6.0,
+      1.787
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 89,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 94,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.61,
+      2.267,
+      0.61,
+      2.5
+     ],
+     "name": "variance_eq",
+     "line": 93,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 96,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 100,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      2.251,
+      1.114,
+      2.5
+     ],
+     "name": "mean_sum_eq",
+     "line": 99,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 102,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 107,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -0.096
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -0.096
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 111,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 116,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.228,
+      2.225,
+      1.228,
+      2.5
+     ],
+     "name": "specific_mean",
+     "line": 111,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 118,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 122,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 127,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 133,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.565,
+      -3.5,
+      3.565,
+      -3.166
+     ],
+     "name": "narration2",
+     "line": 131,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 135,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 139,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 144,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 150,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.384,
+      -3.5,
+      3.384,
+      -3.166
+     ],
+     "name": "narration3",
+     "line": 148,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 152,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 160,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -0.5,
+      -1.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.5,
+      -0.5,
+      2.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 156,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 168,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -0.5,
+      -1.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.5,
+      -0.5,
+      2.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.4,
+      -0.175,
+      2.6,
+      0.175
+     ],
+     "name": "arrow2",
+     "line": 166,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.7,
+      -0.5,
+      4.7,
+      0.5
+     ],
+     "name": "total_dice",
+     "line": 164,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 178,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -0.5,
+      -1.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.5,
+      -0.5,
+      2.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.4,
+      -0.175,
+      2.6,
+      0.175
+     ],
+     "name": "arrow2",
+     "line": 166,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.7,
+      -0.5,
+      4.7,
+      0.5
+     ],
+     "name": "total_dice",
+     "line": 164,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.756,
+      -3.5,
+      2.756,
+      -3.166
+     ],
+     "name": "narration4",
+     "line": 160,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 180,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -0.5,
+      -1.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.5,
+      -0.5,
+      2.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.4,
+      -0.175,
+      2.6,
+      0.175
+     ],
+     "name": "arrow2",
+     "line": 166,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.7,
+      -0.5,
+      4.7,
+      0.5
+     ],
+     "name": "total_dice",
+     "line": 164,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 185,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -0.5,
+      -1.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.5,
+      -0.5,
+      2.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.4,
+      -0.175,
+      2.6,
+      0.175
+     ],
+     "name": "arrow2",
+     "line": 166,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.7,
+      -0.5,
+      4.7,
+      0.5
+     ],
+     "name": "total_dice",
+     "line": 164,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -2.998,
+      6.0,
+      1.787
+     ],
+     "name": "sub_curve1",
+     "line": 183,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "sub_curve2",
+     "line": 184,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 189,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -0.5,
+      -1.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.5,
+      -0.5,
+      2.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.4,
+      -0.175,
+      2.6,
+      0.175
+     ],
+     "name": "arrow2",
+     "line": 166,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.7,
+      -0.5,
+      4.7,
+      0.5
+     ],
+     "name": "total_dice",
+     "line": 164,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve1",
+     "line": 183,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve2",
+     "line": 184,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 195,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -0.5,
+      -1.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.5,
+      -0.5,
+      2.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.4,
+      -0.175,
+      2.6,
+      0.175
+     ],
+     "name": "arrow2",
+     "line": 166,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.7,
+      -0.5,
+      4.7,
+      0.5
+     ],
+     "name": "total_dice",
+     "line": 164,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve1",
+     "line": 183,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve2",
+     "line": 184,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.992,
+      -3.5,
+      4.992,
+      -3.166
+     ],
+     "name": "narration5",
+     "line": 185,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 197,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -0.5,
+      -1.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.5,
+      -0.5,
+      2.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.4,
+      -0.175,
+      2.6,
+      0.175
+     ],
+     "name": "arrow2",
+     "line": 166,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.7,
+      -0.5,
+      4.7,
+      0.5
+     ],
+     "name": "total_dice",
+     "line": 164,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve1",
+     "line": 183,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve2",
+     "line": 184,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 201,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -0.5,
+      -1.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.5,
+      -0.5,
+      2.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.4,
+      -0.175,
+      2.6,
+      0.175
+     ],
+     "name": "arrow2",
+     "line": 166,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.7,
+      -0.5,
+      4.7,
+      0.5
+     ],
+     "name": "total_dice",
+     "line": 164,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve1",
+     "line": 183,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve2",
+     "line": 184,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "shifted_curve",
+     "line": 200,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 207,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -0.5,
+      -1.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.5,
+      -0.5,
+      2.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.4,
+      -0.175,
+      2.6,
+      0.175
+     ],
+     "name": "arrow2",
+     "line": 166,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.7,
+      -0.5,
+      4.7,
+      0.5
+     ],
+     "name": "total_dice",
+     "line": 164,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve1",
+     "line": 183,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve2",
+     "line": 184,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "shifted_curve",
+     "line": 200,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.986,
+      -3.5,
+      3.986,
+      -3.163
+     ],
+     "name": "narration6",
+     "line": 205,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 209,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.175,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.18,
+      -3.07,
+      6.18,
+      1.859
+     ],
+     "name": "normal_curve",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.295,
+      1.987,
+      0.295,
+      2.207
+     ],
+     "name": "mu_label",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.44,
+      1.937,
+      1.13,
+      2.158
+     ],
+     "name": "sigma2_label",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -4.675,
+      -0.0,
+      -3.675
+     ],
+     "name": "var_x",
+     "line": 43,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.2,
+      -4.675,
+      2.2,
+      -3.675
+     ],
+     "name": "var_y",
+     "line": 44,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.3,
+      -4.35,
+      4.1,
+      -4.0
+     ],
+     "name": "arrow",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.4,
+      -4.675,
+      4.4,
+      -3.675
+     ],
+     "name": "total_var",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 49,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve1",
+     "line": 82,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "curve2",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.77
+     ],
+     "name": "red_curve",
+     "line": 121,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "corr_curve",
+     "line": 138,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -0.5,
+      -1.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 155,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.5,
+      -0.5,
+      2.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 156,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.4,
+      -0.175,
+      2.6,
+      0.175
+     ],
+     "name": "arrow2",
+     "line": 166,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.7,
+      -0.5,
+      4.7,
+      0.5
+     ],
+     "name": "total_dice",
+     "line": 164,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve1",
+     "line": 183,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve2",
+     "line": 184,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      1.787
+     ],
+     "name": "shifted_curve",
+     "line": 200,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 212,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.305,
+      6.348,
+      -3.079
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      2.47,
+      1.168,
+      2.968
+     ],
+     "name": "axes_labels",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_a",
+     "line": 105,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      -3.0
+     ],
+     "name": "curve_b",
+     "line": 106,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve1",
+     "line": 183,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      0.385
+     ],
+     "name": "sub_curve2",
+     "line": 184,
+     "type": "ParametricFunction"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

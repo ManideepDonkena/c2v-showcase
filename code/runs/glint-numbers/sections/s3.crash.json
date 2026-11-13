@@ -1,0 +1,55 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.773,
+      3.116,
+      2.773,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.773,
+      3.116,
+      2.773,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.185,
+      -0.145,
+      0.185,
+      0.145
+     ],
+     "name": "num",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "UnboundLocalError",
+  "message": "cannot access local variable 'pulse' where it is not associated with a value",
+  "line": 20
+ }
+}

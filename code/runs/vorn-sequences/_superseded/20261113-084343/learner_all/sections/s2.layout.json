@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 79.62,
+  "s_sp": 93.7,
+  "s_ly": 63.0,
+  "s_ed": 67.3,
+  "states": 22,
+  "states_with_conflict": 12
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 76.4,
+   "conflicts": 9
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.6,
+   "conflict": "SurroundingRectangle \"highlight\" (created line 23, box [-0.998, -3.505, -0.205, -3.124]) overlaps MathTex \"formula\" (line 17, box [-2.548, -3.5, 2.548, -3.101]) by 98%; moving it by [0.0, 0.55] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 78.63,
+   "conflict": "Text \"init_label\" (created line 30, box [-7.602, 2.229, -4.836, 2.487]) is outside the frame; shift it by [0.64, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.62,
+   "conflict": "SurroundingRectangle \"highlight_result\" (created line 46, box [0.218, -2.589, 0.597, -2.091]) overlaps MathTex \"calc3\" (line 41, box [-1.867, -2.601, 1.867, -2.153]) by 87%; moving it by [0.0, 0.59] would clear it"
+  }
+ ]
+}

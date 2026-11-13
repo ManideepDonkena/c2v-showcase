@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 73.09,
+  "s_sp": 84.0,
+  "s_ly": 75.0,
+  "s_ed": 53.6,
+  "states": 12,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 73.09,
+   "conflicts": 3
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"freq_label\" (created line 19, box [-0.964, -4.068, 0.718, -3.75]) overlaps Text \"time_label\" (line 14, box [-0.514, -4.007, 0.267, -3.75]) by 100%; moving it by [0.0, 0.47] would clear it"
+  }
+ ]
+}

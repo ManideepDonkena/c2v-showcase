@@ -1,0 +1,4856 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.011,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.011,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.011,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 66,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.011,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.021,
+      -3.5,
+      4.021,
+      -3.163
+     ],
+     "name": "narration1",
+     "line": 65,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.011,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.011,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      0.011,
+      1.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 91,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      0.011,
+      1.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -100.0,
+      0.0,
+      100.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 95,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      0.011,
+      1.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -100.0,
+      0.0,
+      100.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      -3.5,
+      2.912,
+      -3.191
+     ],
+     "name": "ratio_text",
+     "line": 94,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 97,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      0.011,
+      1.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -100.0,
+      0.0,
+      100.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 106,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      0.0,
+      0.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -100.0,
+      0.0,
+      100.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 115,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      0.0,
+      0.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -200.0,
+      0.0,
+      200.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 119,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      0.0,
+      0.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -200.0,
+      0.0,
+      200.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.146,
+      -3.5,
+      1.146,
+      -3.207
+     ],
+     "name": "limit_text",
+     "line": 118,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 121,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      0.0,
+      0.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -200.0,
+      0.0,
+      200.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 126,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      0.0,
+      0.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -200.0,
+      0.0,
+      200.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.06,
+      -3.5,
+      2.06,
+      -3.27
+     ],
+     "name": "const_example",
+     "line": 115,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 128,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      0.0,
+      0.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -200.0,
+      0.0,
+      200.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 133,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      0.0,
+      0.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -200.0,
+      0.0,
+      200.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.637,
+      -3.5,
+      0.637,
+      -2.865
+     ],
+     "name": "inv_prop",
+     "line": 131,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 135,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      0.0,
+      0.5,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -200.0,
+      0.0,
+      200.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 144,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -200.0,
+      0.0,
+      200.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 153,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 157,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.274,
+      -3.5,
+      2.274,
+      -3.243
+     ],
+     "name": "compare_text",
+     "line": 144,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 159,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 163,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.864,
+      -3.5,
+      2.864,
+      -3.166
+     ],
+     "name": "pad_text",
+     "line": 162,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 165,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 169,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 178,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 182,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.344,
+      -3.5,
+      1.344,
+      -3.243
+     ],
+     "name": "filter_text",
+     "line": 168,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 184,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 188,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.267,
+      2.865,
+      6.611,
+      3.5
+     ],
+     "name": "const_pi",
+     "line": 187,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 192,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.267,
+      2.865,
+      6.611,
+      3.5
+     ],
+     "name": "const_pi",
+     "line": 187,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.115,
+      -3.5,
+      2.115,
+      -3.166
+     ],
+     "name": "const_text",
+     "line": 184,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 194,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 198,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "dirac",
+     "line": 197,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 202,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "dirac",
+     "line": 197,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 206,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "dirac",
+     "line": 197,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.321,
+      -3.5,
+      1.321,
+      -3.243
+     ],
+     "name": "dirac_text",
+     "line": 205,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 208,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "dirac",
+     "line": 197,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 211,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.118,
+      3.116,
+      2.118,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.007,
+      1.801,
+      -0.4
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.965,
+      -1.011,
+      193.791,
+      -0.4
+     ],
+     "name": "freq_axis",
+     "line": 16,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.796,
+      -1.514,
+      -2.015,
+      -1.257
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -94.608,
+      -1.579,
+      -92.926,
+      -1.261
+     ],
+     "name": "freq_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.05,
+      3.0,
+      1.0
+     ],
+     "name": "pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      1.0
+     ],
+     "name": "freq_pulse_copy",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      0.331,
+      2.75,
+      0.681
+     ],
+     "name": "arrow1",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "arrow2",
+     "line": 60,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.171,
+      3.5
+     ],
+     "name": "area_text",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -50.0,
+      0.0,
+      50.0,
+      0.0
+     ],
+     "name": "brick_wall",
+     "line": 168,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "dirac",
+     "line": 197,
+     "type": "Dot"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

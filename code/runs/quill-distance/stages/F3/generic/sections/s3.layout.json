@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 82.99,
+  "s_sp": 94.3,
+  "s_ly": 29.3,
+  "s_ed": 100.0,
+  "states": 20,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 69.87,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.85,
+   "conflict": "MathTex \"calc3\" (created line 39, box [-0.494, 0.893, 0.494, 1.08]) overlaps Dot \"p3\" (line 37, box [-0.08, 0.92, 0.08, 1.08]) by 100%; moving it by [0.0, -0.31] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.98,
+   "conflict": "MathTex \"cost_label\" (created line 57, box [0.584, 0.899, 1.416, 1.08]) overlaps Dot \"p5\" (line 48, box [0.92, 0.92, 1.08, 1.08]) by 100%; moving it by [0.0, -0.31] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.99,
+   "conflict": "MathTex \"summary\" (created line 81, box [-2.058, 3.251, 2.058, 3.5]) overlaps Text \"title\" (line 6, box [-2.805, 2.995, 2.805, 3.5]) by 100%; moving it by [0.0, 0.4] would clear it"
+  }
+ ]
+}

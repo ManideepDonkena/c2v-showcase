@@ -1,0 +1,5490 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.789,
+      -0.796,
+      -0.211,
+      0.25
+     ],
+     "name": "dLda",
+     "line": 23,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 48,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.789,
+      -0.796,
+      -0.211,
+      0.25
+     ],
+     "name": "dLda",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.001,
+      -0.796,
+      1.999,
+      0.25
+     ],
+     "name": "daW",
+     "line": 24,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.789,
+      -0.796,
+      -0.211,
+      0.25
+     ],
+     "name": "dLda",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.001,
+      -0.796,
+      1.999,
+      0.25
+     ],
+     "name": "daW",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.789,
+      -0.796,
+      -0.211,
+      0.25
+     ],
+     "name": "dLda",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.001,
+      -0.796,
+      1.999,
+      0.25
+     ],
+     "name": "daW",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.789,
+      -0.796,
+      -0.211,
+      0.25
+     ],
+     "name": "dLda",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.001,
+      -0.796,
+      1.999,
+      0.25
+     ],
+     "name": "daW",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.789,
+      -0.796,
+      -0.211,
+      0.25
+     ],
+     "name": "dLda",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.001,
+      -0.796,
+      1.999,
+      0.25
+     ],
+     "name": "daW",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    }
+   ]
+  },
+  {
+   "after_line": 60,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.789,
+      -0.796,
+      -0.211,
+      0.25
+     ],
+     "name": "dLda",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.001,
+      -0.796,
+      1.999,
+      0.25
+     ],
+     "name": "daW",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.789,
+      -0.796,
+      -0.211,
+      0.25
+     ],
+     "name": "dLda",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.001,
+      -0.796,
+      1.999,
+      0.25
+     ],
+     "name": "daW",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    }
+   ]
+  },
+  {
+   "after_line": 66,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    }
+   ]
+  },
+  {
+   "after_line": 67,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.4,
+      0.825,
+      -0.6,
+      1.175
+     ],
+     "name": "arrow_trace",
+     "line": 72,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 78,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.4,
+      0.825,
+      -0.6,
+      1.175
+     ],
+     "name": "arrow_trace",
+     "line": 72,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 83,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 87,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.2,
+      0.8,
+      -2.8,
+      1.2
+     ],
+     "name": "baton",
+     "line": 86,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 89,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      0.8,
+      -0.8,
+      1.2
+     ],
+     "name": "baton",
+     "line": 86,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 91,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.8,
+      0.8,
+      1.2,
+      1.2
+     ],
+     "name": "baton",
+     "line": 86,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 98,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.732,
+      -3.86,
+      0.732,
+      -3.646
+     ],
+     "name": "mult_text",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 100,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 113,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -1.4,
+      -1.6,
+      -0.6
+     ],
+     "name": "node_a",
+     "line": 103,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.6,
+      -1.4,
+      2.4,
+      -0.6
+     ],
+     "name": "node_b",
+     "line": 104,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      -1.4,
+      0.4,
+      -0.6
+     ],
+     "name": "node_c",
+     "line": 105,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.933,
+      -1.186,
+      -2.067,
+      -0.234
+     ],
+     "name": "arrow_a",
+     "line": 106,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.902,
+      -1.384,
+      1.902,
+      -0.231
+     ],
+     "name": "arrow_b",
+     "line": 107,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.907,
+      -1.363,
+      -0.093,
+      -0.605
+     ],
+     "name": "arrow_c1",
+     "line": 108,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.093,
+      -1.363,
+      1.907,
+      -0.605
+     ],
+     "name": "arrow_c2",
+     "line": 109,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 119,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -1.4,
+      -1.6,
+      -0.6
+     ],
+     "name": "node_a",
+     "line": 103,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.6,
+      -1.4,
+      2.4,
+      -0.6
+     ],
+     "name": "node_b",
+     "line": 104,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      -1.4,
+      0.4,
+      -0.6
+     ],
+     "name": "node_c",
+     "line": 105,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.933,
+      -1.186,
+      -2.067,
+      -0.234
+     ],
+     "name": "arrow_a",
+     "line": 106,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.902,
+      -1.384,
+      1.902,
+      -0.231
+     ],
+     "name": "arrow_b",
+     "line": 107,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.907,
+      -1.363,
+      -0.093,
+      -0.605
+     ],
+     "name": "arrow_c1",
+     "line": 108,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.093,
+      -1.363,
+      1.907,
+      -0.605
+     ],
+     "name": "arrow_c2",
+     "line": 109,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.019,
+      -1.987,
+      1.019,
+      -1.65
+     ],
+     "name": null,
+     "line": 119,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 121,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.019,
+      -1.987,
+      1.019,
+      -1.65
+     ],
+     "name": null,
+     "line": 119,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 128,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.019,
+      -1.987,
+      1.019,
+      -1.65
+     ],
+     "name": null,
+     "line": 119,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.5,
+      0.5,
+      3.5,
+      1.5
+     ],
+     "name": "delta_node",
+     "line": 126,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.898,
+      0.82,
+      3.102,
+      1.18
+     ],
+     "name": "delta_text",
+     "line": 56,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 130,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.019,
+      -1.987,
+      1.019,
+      -1.65
+     ],
+     "name": null,
+     "line": 119,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.5,
+      0.5,
+      3.5,
+      1.5
+     ],
+     "name": "delta_node",
+     "line": 126,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.898,
+      0.82,
+      3.102,
+      1.18
+     ],
+     "name": "delta_text",
+     "line": 56,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.602,
+      -0.084,
+      4.398,
+      0.25
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 132,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.923,
+      3.116,
+      2.923,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      0.5,
+      -2.5,
+      1.5
+     ],
+     "name": "loss_node",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.15,
+      0.83,
+      -2.85,
+      1.17
+     ],
+     "name": "loss_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      0.5,
+      -0.5,
+      1.5
+     ],
+     "name": "act_node",
+     "line": 13,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      0.887,
+      -0.886,
+      1.113
+     ],
+     "name": "act_text",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      0.5,
+      1.5,
+      1.5
+     ],
+     "name": "weight_node",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.835,
+      0.887,
+      1.165,
+      1.113
+     ],
+     "name": "weight_text",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      0.9,
+      -1.6,
+      1.1
+     ],
+     "name": "arrow_la",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.4,
+      0.9,
+      0.4,
+      1.1
+     ],
+     "name": "arrow_aw",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.019,
+      -1.987,
+      1.019,
+      -1.65
+     ],
+     "name": null,
+     "line": 119,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.602,
+      -0.084,
+      4.398,
+      0.25
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 135,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -1.66,
+      -3.5,
+      -0.685,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.504,
+      -3.5,
+      0.001,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.172,
+      -3.139,
+      0.214,
+      -3.097
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.385,
+      -3.5,
+      0.914,
+      -2.663
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.095,
+      -3.165,
+      1.36,
+      -3.072
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.529,
+      -3.218,
+      1.66,
+      -2.952
+     ],
+     "name": "equation",
+     "line": 27,
+     "type": "MathTexPart"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.838,
+      -0.084,
+      -2.162,
+      0.25
+     ],
+     "name": null,
+     "line": 67,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.019,
+      -1.987,
+      1.019,
+      -1.65
+     ],
+     "name": null,
+     "line": 119,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.602,
+      -0.084,
+      4.398,
+      0.25
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

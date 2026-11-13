@@ -1,0 +1,209 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "Which of the following numbers is a glint number?",
+   "options": {
+    "A": "45",
+    "B": "40",
+    "C": "42",
+    "D": "48"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q2",
+   "question": "Why is the number 30 not a glint number?",
+   "options": {
+    "A": "It is odd.",
+    "B": "Its last digit is 0.",
+    "C": "It is prime.",
+    "D": "It ends in 5."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "What is the result of dividing 24 by its last digit?",
+   "options": {
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "12"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q4",
+   "question": "Which statement is always true for glint numbers?",
+   "options": {
+    "A": "They end in 0.",
+    "B": "They are even.",
+    "C": "They end in 1.",
+    "D": "They are negative."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q6",
+   "question": "Which number is NOT a glint number?",
+   "options": {
+    "A": "21",
+    "B": "22",
+    "C": "23",
+    "D": "25"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q7",
+   "question": "If a number ends in 1, is it always glint?",
+   "options": {
+    "A": "No, never.",
+    "B": "Yes, always.",
+    "C": "Only if even.",
+    "D": "Only if prime."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q9",
+   "question": "Why is 26 not a glint number?",
+   "options": {
+    "A": "It ends in 0.",
+    "B": "26 ÷ 6 is not whole.",
+    "C": "It is prime.",
+    "D": "It is negative."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q10",
+   "question": "Which rule applies to all glint numbers ending in 5?",
+   "options": {
+    "A": "They are never glint.",
+    "B": "They are always glint.",
+    "C": "They are even.",
+    "D": "They end in 0."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q11",
+   "question": "What is the last digit of a number that can never be glint?",
+   "options": {
+    "A": "1",
+    "B": "5",
+    "C": "0",
+    "D": "9"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q12",
+   "question": "Which is a common misconception about glint numbers?",
+   "options": {
+    "A": "They must be even.",
+    "B": "They end in 0.",
+    "C": "They are always prime.",
+    "D": "They end in 5."
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "Which number is glint?",
+   "options": {
+    "A": "38",
+    "B": "36",
+    "C": "34",
+    "D": "27"
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "Which number is NOT glint?",
+   "options": {
+    "A": "24",
+    "B": "26",
+    "C": "15",
+    "D": "31"
+   },
+   "answer": "B",
+   "id": "t2"
+  },
+  {
+   "question": "Is 40 glint?",
+   "options": {
+    "A": "Yes, 40 ÷ 4 = 10",
+    "B": "Yes, it is even",
+    "C": "No, it ends in 0",
+    "D": "Only in some cases"
+   },
+   "answer": "C",
+   "id": "t3"
+  },
+  {
+   "question": "How many of 12, 13, 14, 15 are glint?",
+   "options": {
+    "A": "1",
+    "B": "4",
+    "C": "3",
+    "D": "2"
+   },
+   "answer": "D",
+   "id": "t4"
+  },
+  {
+   "question": "Which kind of number is always glint?",
+   "options": {
+    "A": "Every number ending in 1",
+    "B": "Every number ending in 7",
+    "C": "Every number ending in 0",
+    "D": "Every even number"
+   },
+   "answer": "A",
+   "id": "t5"
+  },
+  {
+   "question": "Is 48 glint?",
+   "options": {
+    "A": "No, 8 is too large",
+    "B": "No, 48 ÷ 8 is not whole",
+    "C": "Yes, 48 ÷ 8 = 6",
+    "D": "No, it is even"
+   },
+   "answer": "C",
+   "id": "t6"
+  },
+  {
+   "question": "Which number is glint?",
+   "options": {
+    "A": "58",
+    "B": "46",
+    "C": "67",
+    "D": "65"
+   },
+   "answer": "D",
+   "id": "t7"
+  },
+  {
+   "question": "What decides whether a number is glint?",
+   "options": {
+    "A": "Whether it divides evenly by its last digit",
+    "B": "Whether its digits add to an even number",
+    "C": "Whether it is prime",
+    "D": "Whether its first digit divides it"
+   },
+   "answer": "A",
+   "id": "t8"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 10,
+ "dev_leaked": []
+}

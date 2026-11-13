@@ -1,0 +1,312 @@
+{
+ "kind": "frames",
+ "frames": 12,
+ "rotations": [
+  {
+   "rotation": 0,
+   "items": [
+    {
+     "id": "q1",
+     "p": {
+      "A": 0.999159,
+      "B": 6e-06,
+      "C": 0.0,
+      "D": 0.000835
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.999159
+    },
+    {
+     "id": "q2",
+     "p": {
+      "A": 2e-06,
+      "B": 3e-06,
+      "C": 0.999995,
+      "D": 1e-06
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999995
+    },
+    {
+     "id": "q3",
+     "p": {
+      "A": 0.999025,
+      "B": 0.00043,
+      "C": 9e-06,
+      "D": 0.000535
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.999025
+    },
+    {
+     "id": "q4",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q5",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 1.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q6",
+     "p": {
+      "A": 1.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q7",
+     "p": {
+      "A": 1.5e-05,
+      "B": 0.999954,
+      "C": 1.7e-05,
+      "D": 1.4e-05
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.999954
+    },
+    {
+     "id": "q8",
+     "p": {
+      "A": 4e-06,
+      "B": 2e-06,
+      "C": 0.999994,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999994
+    },
+    {
+     "id": "q9",
+     "p": {
+      "A": 1.1e-05,
+      "B": 0.000964,
+      "C": 0.998968,
+      "D": 5.8e-05
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.998968
+    },
+    {
+     "id": "q10",
+     "p": {
+      "A": 0.999919,
+      "B": 2.3e-05,
+      "C": 4.9e-05,
+      "D": 9e-06
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.999919
+    },
+    {
+     "id": "q11",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q12",
+     "p": {
+      "A": 0.994696,
+      "B": 0.005275,
+      "C": 1.8e-05,
+      "D": 1.1e-05
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.994696
+    }
+   ],
+   "reply": "1: A\n2: C\n3: A\n4: C\n5: D\n6: A\n7: B\n8: C\n9: C\n10: A\n11: B\n12: A",
+   "prompt_tokens": 2781,
+   "retries": 0,
+   "missing": 0
+  },
+  {
+   "rotation": 1,
+   "items": [
+    {
+     "id": "q1",
+     "p": {
+      "D": 5e-06,
+      "A": 0.999994,
+      "B": 1e-06,
+      "C": 1e-06
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.999994
+    },
+    {
+     "id": "q2",
+     "p": {
+      "D": 0.0,
+      "A": 2e-06,
+      "B": 1e-06,
+      "C": 0.999996
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999996
+    },
+    {
+     "id": "q3",
+     "p": {
+      "D": 0.00278,
+      "A": 0.997015,
+      "B": 8.4e-05,
+      "C": 0.00012
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.997015
+    },
+    {
+     "id": "q4",
+     "p": {
+      "D": 0.0,
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q5",
+     "p": {
+      "D": 0.999997,
+      "A": 0.0,
+      "B": 0.0,
+      "C": 2e-06
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 0.999997
+    },
+    {
+     "id": "q6",
+     "p": {
+      "D": 0.0,
+      "A": 1.0,
+      "B": 0.0,
+      "C": 0.0
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q7",
+     "p": {
+      "D": 0.0,
+      "A": 1e-06,
+      "B": 0.99998,
+      "C": 1.8e-05
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.99998
+    },
+    {
+     "id": "q8",
+     "p": {
+      "D": 1e-06,
+      "A": 2e-06,
+      "B": 5e-06,
+      "C": 0.999992
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999992
+    },
+    {
+     "id": "q9",
+     "p": {
+      "D": 0.000228,
+      "A": 0.000126,
+      "B": 0.011966,
+      "C": 0.987679
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.987679
+    },
+    {
+     "id": "q10",
+     "p": {
+      "D": 0.433111,
+      "A": 0.566725,
+      "B": 8e-05,
+      "C": 8.3e-05
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.566725
+    },
+    {
+     "id": "q11",
+     "p": {
+      "D": 0.0,
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "q12",
+     "p": {
+      "D": 1.2e-05,
+      "A": 0.99859,
+      "B": 0.001251,
+      "C": 0.000147
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.99859
+    }
+   ],
+   "reply": "1: B\n2: D\n3: B\n4: D\n5: A\n6: B\n7: C\n8: D\n9: D\n10: B\n11: C\n12: B or C (Note: Frame 5 shows 25 is not dapple because 2 < 5, and Frame 2 shows 52 is dapple because 5 > 2. Frame 1 shows 52 as a condition. Frame 5 shows 16 is not d",
+   "prompt_tokens": 2781,
+   "retries": 0,
+   "missing": 0
+  }
+ ]
+}

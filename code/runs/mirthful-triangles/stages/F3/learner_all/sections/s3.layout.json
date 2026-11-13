@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 52.24,
+  "s_sp": 59.4,
+  "s_ly": 40.7,
+  "s_ed": 48.1,
+  "states": 13,
+  "states_with_conflict": 11
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 47.89,
+   "conflicts": 17
+  },
+  {
+   "level": "shift",
+   "mvqs": 48.46,
+   "conflict": "Line \"side_b\" (created line 17, box [0.0, 1.0, 3.0, 6.196]) overlaps Text \"title\" (line 6, box [-2.188, 3.0, 2.188, 3.5]) by 50%; moving it by [0.0, -3.35] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 50.53,
+   "conflict": "Line \"side_c\" (created line 18, box [-3.0, 1.0, 0.0, 6.196]) overlaps Text \"title\" (line 6, box [-2.188, 3.0, 2.188, 3.5]) by 50%; moving it by [0.0, -3.35] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 52.24,
+   "conflict": "Polygon \"triangle\" (created line 12, box [-3.0, 1.0, 3.0, 6.196]) is outside the frame; shift it by [0.0, -2.35]"
+  }
+ ]
+}

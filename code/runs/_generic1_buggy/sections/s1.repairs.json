@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 13,
+  "scope": "line",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() takes 1 positional argument but 2 were given"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 13,
+  "scope": "block",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() takes 1 positional argument but 2 were given"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 13,
+  "scope": "section",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() takes 1 positional argument but 2 were given"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 13,
+  "scope": "section",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() takes 1 positional argument but 2 were given"
+ }
+]

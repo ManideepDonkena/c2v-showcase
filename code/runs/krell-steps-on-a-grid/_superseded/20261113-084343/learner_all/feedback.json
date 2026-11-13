@@ -1,0 +1,80 @@
+{
+ "mode": "learner_all",
+ "gaps": [
+  "q1",
+  "q2",
+  "q4",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q9",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s1": [
+   "A clear visual label explicitly stating the formula '(y, x + 1)' next to the transformation arrow, accompanied by a voiceover saying 'The new position is y for the first number and x plus one for the second,' ensuring the student sees the exact algebraic structure of the swap and increment.",
+   "Show the specific numbers 2 and 2 as the starting coordinates. Visually swap them to place 2 in the first position and 2 in the second position. Then, explicitly add 1 to that second number (the new y-coordinate) to change it from 2 to 3. State clearly that the final result is the pair (2, 3).",
+   "Show the specific numbers -1 and 4. Visually swap them to place 4 in the first position and -1 in the second position. Then, explicitly add 1 to that second number (-1) to show it becomes 0. State clearly: 'The result is (4, 0)'.",
+   "A visual breakdown showing that the new x-coordinate is explicitly the value that was originally in the y-position, while the original x-value moves to the second position and gets incremented.",
+   "Show the specific coordinate label '(0, 1)' appearing at the first stop of the staircase path starting from the origin, and state that this is the result after exactly one step.",
+   "Show the coordinate pairs for the first few steps of the staircase path. Explicitly point out that while the 'up' value (y) increases by 1 each time, the 'right' value (x) stays the same for one step and then jumps by 1 for the next, creating an alternating pattern of horizontal and vertical movement rather than a smooth diagonal.",
+   "Show the point at (2, 2) and draw an arrow labeled 'Step 3' to a new point. Say: 'Apply the rule again: swap the coordinates of (2, 2) to get (2, 2), then add 1 to the second number to get (2, 3).'",
+   "Show a point like (2, 2) and its next step to (2, 3); explicitly compare the change in x (which is 0) versus the change in y (which is +1) to demonstrate that x does not always increase.",
+   "Show the path continuing from the final point (2, 2) in s3. Apply the rule to get the next point: swap (2, 2) to (2, 2), then add 1 to the second coordinate to get (2, 3). Label this new point as the result of the third step. Then apply the rule again to (2, 3): swap to (3, 2), add 1 to the second coordinate to get (3, 3). Label this as the result of the fourth step.",
+   "Show the intermediate point coordinates explicitly as (y, x+1) after the first arrow, then apply the rule again to that intermediate point: swap its coordinates to get (x+1, y), and add 1 to the new second coordinate to get (x+1, y+1). Visually overlay this calculated final position with the dashed arrow's endpoint to prove they match.",
+   "Show that applying the 'Double Step Identity' twice results in a net movement of (+2, +2). Then show that one additional single Krell step is needed to reach the final coordinate, making the total count 5 steps (2 + 2 + 1)."
+  ],
+  "s2": [
+   "A clear visual label explicitly stating the formula '(y, x + 1)' next to the transformation arrow, accompanied by a voiceover saying 'The new position is y for the first number and x plus one for the second,' ensuring the student sees the exact algebraic structure of the swap and increment.",
+   "Show the specific numbers 2 and 2 as the starting coordinates. Visually swap them to place 2 in the first position and 2 in the second position. Then, explicitly add 1 to that second number (the new y-coordinate) to change it from 2 to 3. State clearly that the final result is the pair (2, 3).",
+   "Show the specific numbers -1 and 4. Visually swap them to place 4 in the first position and -1 in the second position. Then, explicitly add 1 to that second number (-1) to show it becomes 0. State clearly: 'The result is (4, 0)'.",
+   "A visual breakdown showing that the new x-coordinate is explicitly the value that was originally in the y-position, while the original x-value moves to the second position and gets incremented.",
+   "Show the specific coordinate label '(0, 1)' appearing at the first stop of the staircase path starting from the origin, and state that this is the result after exactly one step.",
+   "Show the coordinate pairs for the first few steps of the staircase path. Explicitly point out that while the 'up' value (y) increases by 1 each time, the 'right' value (x) stays the same for one step and then jumps by 1 for the next, creating an alternating pattern of horizontal and vertical movement rather than a smooth diagonal.",
+   "Show the point at (2, 2) and draw an arrow labeled 'Step 3' to a new point. Say: 'Apply the rule again: swap the coordinates of (2, 2) to get (2, 2), then add 1 to the second number to get (2, 3).'",
+   "Show a point like (2, 2) and its next step to (2, 3); explicitly compare the change in x (which is 0) versus the change in y (which is +1) to demonstrate that x does not always increase.",
+   "Show the path continuing from the final point (2, 2) in s3. Apply the rule to get the next point: swap (2, 2) to (2, 2), then add 1 to the second coordinate to get (2, 3). Label this new point as the result of the third step. Then apply the rule again to (2, 3): swap to (3, 2), add 1 to the second coordinate to get (3, 3). Label this as the result of the fourth step.",
+   "Show the intermediate point coordinates explicitly as (y, x+1) after the first arrow, then apply the rule again to that intermediate point: swap its coordinates to get (x+1, y), and add 1 to the new second coordinate to get (x+1, y+1). Visually overlay this calculated final position with the dashed arrow's endpoint to prove they match.",
+   "Show that applying the 'Double Step Identity' twice results in a net movement of (+2, +2). Then show that one additional single Krell step is needed to reach the final coordinate, making the total count 5 steps (2 + 2 + 1)."
+  ],
+  "s3": [
+   "A clear visual label explicitly stating the formula '(y, x + 1)' next to the transformation arrow, accompanied by a voiceover saying 'The new position is y for the first number and x plus one for the second,' ensuring the student sees the exact algebraic structure of the swap and increment.",
+   "Show the specific numbers 2 and 2 as the starting coordinates. Visually swap them to place 2 in the first position and 2 in the second position. Then, explicitly add 1 to that second number (the new y-coordinate) to change it from 2 to 3. State clearly that the final result is the pair (2, 3).",
+   "Show the specific numbers -1 and 4. Visually swap them to place 4 in the first position and -1 in the second position. Then, explicitly add 1 to that second number (-1) to show it becomes 0. State clearly: 'The result is (4, 0)'.",
+   "A visual breakdown showing that the new x-coordinate is explicitly the value that was originally in the y-position, while the original x-value moves to the second position and gets incremented.",
+   "Show the specific coordinate label '(0, 1)' appearing at the first stop of the staircase path starting from the origin, and state that this is the result after exactly one step.",
+   "Show the coordinate pairs for the first few steps of the staircase path. Explicitly point out that while the 'up' value (y) increases by 1 each time, the 'right' value (x) stays the same for one step and then jumps by 1 for the next, creating an alternating pattern of horizontal and vertical movement rather than a smooth diagonal.",
+   "Show the point at (2, 2) and draw an arrow labeled 'Step 3' to a new point. Say: 'Apply the rule again: swap the coordinates of (2, 2) to get (2, 2), then add 1 to the second number to get (2, 3).'",
+   "Show a point like (2, 2) and its next step to (2, 3); explicitly compare the change in x (which is 0) versus the change in y (which is +1) to demonstrate that x does not always increase.",
+   "Show the path continuing from the final point (2, 2) in s3. Apply the rule to get the next point: swap (2, 2) to (2, 2), then add 1 to the second coordinate to get (2, 3). Label this new point as the result of the third step. Then apply the rule again to (2, 3): swap to (3, 2), add 1 to the second coordinate to get (3, 3). Label this as the result of the fourth step.",
+   "Show the intermediate point coordinates explicitly as (y, x+1) after the first arrow, then apply the rule again to that intermediate point: swap its coordinates to get (x+1, y), and add 1 to the new second coordinate to get (x+1, y+1). Visually overlay this calculated final position with the dashed arrow's endpoint to prove they match.",
+   "Show that applying the 'Double Step Identity' twice results in a net movement of (+2, +2). Then show that one additional single Krell step is needed to reach the final coordinate, making the total count 5 steps (2 + 2 + 1)."
+  ],
+  "s4": [
+   "A clear visual label explicitly stating the formula '(y, x + 1)' next to the transformation arrow, accompanied by a voiceover saying 'The new position is y for the first number and x plus one for the second,' ensuring the student sees the exact algebraic structure of the swap and increment.",
+   "Show the specific numbers 2 and 2 as the starting coordinates. Visually swap them to place 2 in the first position and 2 in the second position. Then, explicitly add 1 to that second number (the new y-coordinate) to change it from 2 to 3. State clearly that the final result is the pair (2, 3).",
+   "Show the specific numbers -1 and 4. Visually swap them to place 4 in the first position and -1 in the second position. Then, explicitly add 1 to that second number (-1) to show it becomes 0. State clearly: 'The result is (4, 0)'.",
+   "A visual breakdown showing that the new x-coordinate is explicitly the value that was originally in the y-position, while the original x-value moves to the second position and gets incremented.",
+   "Show the specific coordinate label '(0, 1)' appearing at the first stop of the staircase path starting from the origin, and state that this is the result after exactly one step.",
+   "Show the coordinate pairs for the first few steps of the staircase path. Explicitly point out that while the 'up' value (y) increases by 1 each time, the 'right' value (x) stays the same for one step and then jumps by 1 for the next, creating an alternating pattern of horizontal and vertical movement rather than a smooth diagonal.",
+   "Show the point at (2, 2) and draw an arrow labeled 'Step 3' to a new point. Say: 'Apply the rule again: swap the coordinates of (2, 2) to get (2, 2), then add 1 to the second number to get (2, 3).'",
+   "Show a point like (2, 2) and its next step to (2, 3); explicitly compare the change in x (which is 0) versus the change in y (which is +1) to demonstrate that x does not always increase.",
+   "Show the path continuing from the final point (2, 2) in s3. Apply the rule to get the next point: swap (2, 2) to (2, 2), then add 1 to the second coordinate to get (2, 3). Label this new point as the result of the third step. Then apply the rule again to (2, 3): swap to (3, 2), add 1 to the second coordinate to get (3, 3). Label this as the result of the fourth step.",
+   "Show the intermediate point coordinates explicitly as (y, x+1) after the first arrow, then apply the rule again to that intermediate point: swap its coordinates to get (x+1, y), and add 1 to the new second coordinate to get (x+1, y+1). Visually overlay this calculated final position with the dashed arrow's endpoint to prove they match.",
+   "Show that applying the 'Double Step Identity' twice results in a net movement of (+2, +2). Then show that one additional single Krell step is needed to reach the final coordinate, making the total count 5 steps (2 + 2 + 1)."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s3"
+ ],
+ "dev_before": 8.3,
+ "dev_after": 29.2,
+ "mvqs_before": 78.63,
+ "mvqs_after": 67.35,
+ "kept": false,
+ "dir": "/home/mani/c2v-lab/runs/krell-steps-on-a-grid/learner_all"
+}

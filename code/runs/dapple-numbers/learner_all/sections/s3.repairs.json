@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 15,
+  "scope": "line",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 31,
+  "scope": "block",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 46,
+  "scope": "section",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

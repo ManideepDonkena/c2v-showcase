@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 70.16,
+  "s_sp": 92.1,
+  "s_ly": 56.4,
+  "s_ed": 42.7,
+  "states": 21,
+  "states_with_conflict": 9
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 68.8,
+   "conflicts": 11
+  },
+  {
+   "level": "shift",
+   "mvqs": 70.14,
+   "conflict": "Text \"rule_text\" (created line 36, box [0.264, -3.461, 7.381, -3.128]) overlaps Rectangle \"rule_box\" (line 35, box [1.322, -4.044, 6.322, -2.544]) by 70%; moving it by [-6.21, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 70.16,
+   "conflict": "Rectangle \"rule_box\" (created line 35, box [1.322, -4.044, 6.322, -2.544]) is outside the frame; shift it by [0.0, 0.19]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"edge_2x3\" (created line 60, box [-1.525, -2.0, 1.945, -1.502]) overlaps MathTex \"edge_count\" (line 25, box [0.61, -2.074, 1.039, -1.743]) by 77%; moving it by [0.0, 0.41] would clear it"
+  }
+ ]
+}

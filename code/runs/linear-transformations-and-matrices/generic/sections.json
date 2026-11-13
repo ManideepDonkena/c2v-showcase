@@ -1,0 +1,29 @@
+[
+ {
+  "id": "s1",
+  "title": "The Basis Vectors",
+  "teaches": "Understanding the standard basis vectors i-hat and j-hat as the foundation of the coordinate system.",
+  "visual": "A 2D Cartesian grid appears. The unit vector i-hat (red) points to (1,0) and j-hat (blue) points to (0,1). Labels 'i' and 'j' appear next to them. The vectors remain stationary while the grid lines subtly pulse.",
+  "narration": "Before we transform anything, let's define our reference frame. In standard 2D space, every point is built from two fundamental directions: i-hat along the x-axis and j-hat along the y-axis.",
+  "start": 0.0,
+  "end": 21.27
+ },
+ {
+  "id": "s2",
+  "title": "Transforming the Basis",
+  "teaches": "A linear transformation is fully defined by where it moves the basis vectors.",
+  "visual": "The grid warps smoothly. The red i-hat rotates 90 degrees counter-clockwise to point up, and the blue j-hat rotates 90 degrees counter-clockwise to point left. The entire grid stretches and rotates with them, maintaining parallel lines.",
+  "narration": "A linear transformation reshapes the space itself. Notice how the grid moves rigidly: if we know where i-hat and j-hat land, we know exactly where every other point in the universe goes.",
+  "start": 21.27,
+  "end": 38.2
+ },
+ {
+  "id": "s3",
+  "title": "From Vectors to Columns",
+  "teaches": "The new positions of the basis vectors form the columns of the transformation matrix.",
+  "visual": "The transformed i-hat (now at 0,1) and j-hat (now at -1,0) are highlighted. Two brackets appear around them, forming a 2x2 matrix: [[0, -1], [1, 0]]. The numbers inside the matrix pulse in sync with the vector tips.",
+  "narration": "This is the magic trick: the destination of i-hat becomes the first column of our matrix, and the destination of j-hat becomes the second column. The matrix is simply a record of where the basis vectors ended up.",
+  "start": 38.2,
+  "end": 62.07
+ }
+]

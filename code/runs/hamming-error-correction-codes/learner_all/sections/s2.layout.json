@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 80.68,
+  "s_sp": 91.7,
+  "s_ly": 31.5,
+  "s_ed": 95.2,
+  "states": 25,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 65.56,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 80.68,
+   "conflict": "Text \"parity_positions\" (created line 57, box [-1.037, 3.259, -0.689, 3.499]) overlaps Text \"title\" (line 6, box [-2.849, 3.0, 2.849, 3.5]) by 100%; moving it by [0.0, 0.39] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"formula\" (created line 79, box [-1.004, 3.131, 1.004, 3.399]) overlaps Text \"title\" (line 6, box [-2.849, 3.0, 2.849, 3.5]) by 100%; moving it by [0.0, 0.52] would clear it"
+  }
+ ]
+}

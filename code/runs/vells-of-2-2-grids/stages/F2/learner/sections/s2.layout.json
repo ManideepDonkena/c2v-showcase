@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 42.18,
+  "s_sp": 48.6,
+  "s_ly": 26.9,
+  "s_ed": 41.7,
+  "states": 36,
+  "states_with_conflict": 35
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 40.42,
+   "conflicts": 26
+  },
+  {
+   "level": "shift",
+   "mvqs": 42.18,
+   "conflict": "Integer \"grid1_obj\" (created line 12, box [-0.39, -0.111, -0.257, 0.111]) overlaps Integer \"grid1_obj\" (line 12, box [-0.378, -0.111, -0.269, 0.111]) by 100%; moving it by [0.27, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Integer \"grid1_obj\" (created line 12, box [-0.12, -0.111, 0.013, 0.111]) overlaps Integer \"grid1_obj\" (line 12, box [-0.108, -0.111, 0.001, 0.111]) by 100%; moving it by [0.27, 0.0] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 77.03,
+  "s_sp": 93.6,
+  "s_ly": 66.4,
+  "s_ed": 56.6,
+  "states": 31,
+  "states_with_conflict": 10
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 76.71,
+   "conflicts": 4
+  },
+  {
+   "level": "section",
+   "mvqs": 76.72,
+   "conflict": "MathTex \"general_formula\" (created line 68, box [-2.822, 1.591, 2.822, 1.902]) overlaps Rectangle \"rect\" (line 21, box [0.0, 0.0, 4.0, 2.0]) by 50%; moving it by [0.0, 0.56] would clear it"
+  },
+  {
+   "level": "section",
+   "mvqs": 77.03,
+   "conflict": "MathTex \"general_formula\" (created line 68, box [-2.822, 1.591, 2.822, 1.902]) overlaps Rectangle \"rect\" (line 21, box [0.0, 0.0, 4.0, 2.0]) by 50%; moving it by [0.0, 0.56] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"general_formula\" (created line 68, box [-2.822, 1.591, 2.822, 1.902]) overlaps Rectangle \"rect\" (line 21, box [0.0, 0.0, 4.0, 2.0]) by 50%; moving it by [0.0, 0.56] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,4154 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -1.0,
+      2.0,
+      1.0
+     ],
+     "name": "rect1",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -1.05,
+      -1.95,
+      -0.95
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      -1.05,
+      -0.95,
+      -0.95
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      -1.05,
+      0.05,
+      -0.95
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      -1.05,
+      1.05,
+      -0.95
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      -1.05,
+      2.05,
+      -0.95
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -0.05,
+      -1.95,
+      0.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      -0.05,
+      -0.95,
+      0.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      -0.05,
+      0.05,
+      0.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      -0.05,
+      1.05,
+      0.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      -0.05,
+      2.05,
+      0.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      0.95,
+      -1.95,
+      1.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      0.95,
+      -0.95,
+      1.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      0.95,
+      0.05,
+      1.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      0.95,
+      1.05,
+      1.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      0.95,
+      2.05,
+      1.05
+     ],
+     "name": "dot",
+     "line": 21,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -1.0,
+      2.0,
+      1.0
+     ],
+     "name": "rect1",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -1.05,
+      -1.95,
+      -0.95
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      -1.05,
+      -0.95,
+      -0.95
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      -1.05,
+      0.05,
+      -0.95
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      -1.05,
+      1.05,
+      -0.95
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      -1.05,
+      2.05,
+      -0.95
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -0.05,
+      -1.95,
+      0.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      -0.05,
+      -0.95,
+      0.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      -0.05,
+      0.05,
+      0.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      -0.05,
+      1.05,
+      0.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      -0.05,
+      2.05,
+      0.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      0.95,
+      -1.95,
+      1.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      0.95,
+      -0.95,
+      1.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      0.95,
+      0.05,
+      1.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      0.95,
+      1.05,
+      1.05
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      0.95,
+      2.05,
+      1.05
+     ],
+     "name": "dot",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.466,
+      -1.428,
+      0.466,
+      -1.25
+     ],
+     "name": "inside_text1",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.476,
+      -1.902,
+      0.476,
+      -1.678
+     ],
+     "name": "edge_text1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      -2.334,
+      0.611,
+      -2.152
+     ],
+     "name": "sorrel_text1",
+     "line": 27,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -2.0,
+      1.0,
+      2.0
+     ],
+     "name": "rect1",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "dot",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.466,
+      -1.428,
+      0.466,
+      -1.25
+     ],
+     "name": "inside_text1",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.476,
+      -1.902,
+      0.476,
+      -1.678
+     ],
+     "name": "edge_text1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      -2.334,
+      0.611,
+      -2.152
+     ],
+     "name": "sorrel_text1",
+     "line": 27,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 48,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -2.0,
+      1.0,
+      2.0
+     ],
+     "name": "rect1",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "grid1",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "name": "dot",
+     "line": 21,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.466,
+      -2.428,
+      0.466,
+      -2.25
+     ],
+     "name": "inside_text1",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.476,
+      -2.902,
+      0.476,
+      -2.678
+     ],
+     "name": "edge_text1",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      -3.334,
+      0.611,
+      -3.152
+     ],
+     "name": "sorrel_text1",
+     "line": 27,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.5,
+      -2.0,
+      1.5
+     ],
+     "name": "rect3",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -1.55,
+      -3.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -1.55,
+      -2.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -1.55,
+      -1.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -0.55,
+      -3.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -0.55,
+      -2.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -0.55,
+      -1.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      0.45,
+      -3.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      0.45,
+      -2.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      0.45,
+      -1.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      1.45,
+      -3.95,
+      1.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      1.45,
+      -2.95,
+      1.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      1.45,
+      -1.95,
+      1.55
+     ],
+     "name": "dot",
+     "line": 60,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.5,
+      -2.0,
+      1.5
+     ],
+     "name": "rect3",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -1.55,
+      -3.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -1.55,
+      -2.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -1.55,
+      -1.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -0.55,
+      -3.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -0.55,
+      -2.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -0.55,
+      -1.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      0.45,
+      -3.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      0.45,
+      -2.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      0.45,
+      -1.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      1.45,
+      -3.95,
+      1.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      1.45,
+      -2.95,
+      1.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      1.45,
+      -1.95,
+      1.55
+     ],
+     "name": "dot",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.465,
+      -1.926,
+      -2.535,
+      -1.75
+     ],
+     "name": "inside_text3",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.477,
+      -2.4,
+      -2.523,
+      -2.176
+     ],
+     "name": "edge_text3",
+     "line": 69,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.611,
+      -2.831,
+      -2.389,
+      -2.65
+     ],
+     "name": "sorrel_text3",
+     "line": 70,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 95,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.5,
+      -2.0,
+      1.5
+     ],
+     "name": "rect3",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -1.55,
+      -3.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -1.55,
+      -2.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -1.55,
+      -1.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -0.55,
+      -3.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -0.55,
+      -2.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -0.55,
+      -1.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      0.45,
+      -3.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      0.45,
+      -2.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      0.45,
+      -1.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      1.45,
+      -3.95,
+      1.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      1.45,
+      -2.95,
+      1.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      1.45,
+      -1.95,
+      1.55
+     ],
+     "name": "dot",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.465,
+      -1.926,
+      -2.535,
+      -1.75
+     ],
+     "name": "inside_text3",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.477,
+      -2.4,
+      -2.523,
+      -2.176
+     ],
+     "name": "edge_text3",
+     "line": 69,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.611,
+      -2.831,
+      -2.389,
+      -2.65
+     ],
+     "name": "sorrel_text3",
+     "line": 70,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      -1.0,
+      5.5,
+      1.0
+     ],
+     "name": "rect4",
+     "line": 74,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      -1.05,
+      0.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      -1.05,
+      1.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.45,
+      -1.05,
+      2.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 72,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.45,
+      -1.05,
+      3.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.45,
+      -1.05,
+      4.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.45,
+      -1.05,
+      5.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      -0.05,
+      0.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 74,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      -0.05,
+      1.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.45,
+      -0.05,
+      2.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.45,
+      -0.05,
+      3.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.45,
+      -0.05,
+      4.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.45,
+      -0.05,
+      5.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      0.95,
+      0.55,
+      1.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      0.95,
+      1.55,
+      1.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.45,
+      0.95,
+      2.55,
+      1.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.45,
+      0.95,
+      3.55,
+      1.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.45,
+      0.95,
+      4.55,
+      1.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.45,
+      0.95,
+      5.55,
+      1.05
+     ],
+     "name": "dot",
+     "line": 83,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 97,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.5,
+      -2.0,
+      1.5
+     ],
+     "name": "rect3",
+     "line": 48,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -1.55,
+      -3.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -1.55,
+      -2.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -1.55,
+      -1.95,
+      -1.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -0.55,
+      -3.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -0.55,
+      -2.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -0.55,
+      -1.95,
+      -0.45
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      0.45,
+      -3.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      0.45,
+      -2.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      0.45,
+      -1.95,
+      0.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      1.45,
+      -3.95,
+      1.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      1.45,
+      -2.95,
+      1.55
+     ],
+     "name": "grid3",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      1.45,
+      -1.95,
+      1.55
+     ],
+     "name": "dot",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.465,
+      -1.926,
+      -2.535,
+      -1.75
+     ],
+     "name": "inside_text3",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.477,
+      -2.4,
+      -2.523,
+      -2.176
+     ],
+     "name": "edge_text3",
+     "line": 69,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.611,
+      -2.831,
+      -2.389,
+      -2.65
+     ],
+     "name": "sorrel_text3",
+     "line": 70,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      -1.0,
+      5.5,
+      1.0
+     ],
+     "name": "rect4",
+     "line": 74,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      -1.05,
+      0.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      -1.05,
+      1.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.45,
+      -1.05,
+      2.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 72,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.45,
+      -1.05,
+      3.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.45,
+      -1.05,
+      4.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.45,
+      -1.05,
+      5.55,
+      -0.95
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      -0.05,
+      0.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 74,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      -0.05,
+      1.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.45,
+      -0.05,
+      2.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.45,
+      -0.05,
+      3.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.45,
+      -0.05,
+      4.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.45,
+      -0.05,
+      5.55,
+      0.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      0.95,
+      0.55,
+      1.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      0.95,
+      1.55,
+      1.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.45,
+      0.95,
+      2.55,
+      1.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.45,
+      0.95,
+      3.55,
+      1.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.45,
+      0.95,
+      4.55,
+      1.05
+     ],
+     "name": "grid4",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.45,
+      0.95,
+      5.55,
+      1.05
+     ],
+     "name": "dot",
+     "line": 83,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.532,
+      -1.426,
+      3.468,
+      -1.25
+     ],
+     "name": "inside_text4",
+     "line": 91,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.522,
+      -1.9,
+      3.478,
+      -1.676
+     ],
+     "name": "edge_text4",
+     "line": 92,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.326,
+      -2.331,
+      3.674,
+      -2.15
+     ],
+     "name": "sorrel_text4",
+     "line": 72,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 118,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 120,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.5,
+      1.5,
+      1.5
+     ],
+     "name": "rect5",
+     "line": 95,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.55,
+      -1.55,
+      -1.45,
+      -1.45
+     ],
+     "name": "grid5",
+     "line": 95,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.55,
+      -1.55,
+      -0.45,
+      -1.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      -1.55,
+      0.55,
+      -1.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      -1.55,
+      1.55,
+      -1.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.55,
+      -0.55,
+      -1.45,
+      -0.45
+     ],
+     "name": "grid5",
+     "line": 95,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.55,
+      -0.55,
+      -0.45,
+      -0.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      -0.55,
+      0.55,
+      -0.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      -0.55,
+      1.55,
+      -0.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.55,
+      0.45,
+      -1.45,
+      0.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.55,
+      0.45,
+      -0.45,
+      0.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      0.45,
+      0.55,
+      0.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      0.45,
+      1.55,
+      0.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.55,
+      1.45,
+      -1.45,
+      1.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.55,
+      1.45,
+      -0.45,
+      1.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      1.45,
+      0.55,
+      1.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      1.45,
+      1.55,
+      1.55
+     ],
+     "name": "dot",
+     "line": 106,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 122,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.5,
+      1.5,
+      1.5
+     ],
+     "name": "rect5",
+     "line": 95,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.55,
+      -1.55,
+      -1.45,
+      -1.45
+     ],
+     "name": "grid5",
+     "line": 95,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.55,
+      -1.55,
+      -0.45,
+      -1.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      -1.55,
+      0.55,
+      -1.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      -1.55,
+      1.55,
+      -1.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.55,
+      -0.55,
+      -1.45,
+      -0.45
+     ],
+     "name": "grid5",
+     "line": 95,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.55,
+      -0.55,
+      -0.45,
+      -0.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      -0.55,
+      0.55,
+      -0.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      -0.55,
+      1.55,
+      -0.45
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.55,
+      0.45,
+      -1.45,
+      0.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.55,
+      0.45,
+      -0.45,
+      0.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      0.45,
+      0.55,
+      0.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      0.45,
+      1.55,
+      0.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.55,
+      1.45,
+      -1.45,
+      1.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.55,
+      1.45,
+      -0.45,
+      1.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.45,
+      1.45,
+      0.55,
+      1.55
+     ],
+     "name": "grid5",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.45,
+      1.45,
+      1.55,
+      1.55
+     ],
+     "name": "dot",
+     "line": 106,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.468,
+      -1.926,
+      0.468,
+      -1.75
+     ],
+     "name": "inside_text5",
+     "line": 114,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.476,
+      -2.4,
+      0.476,
+      -2.176
+     ],
+     "name": "edge_text5",
+     "line": 115,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      -2.831,
+      0.611,
+      -2.65
+     ],
+     "name": "sorrel_text5",
+     "line": 97,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 146,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 147,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect6",
+     "line": 126,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect7",
+     "line": 127,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -1.05,
+      -3.95,
+      -0.95
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -1.05,
+      -2.95,
+      -0.95
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -1.05,
+      -1.95,
+      -0.95
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      -1.05,
+      -0.95,
+      -0.95
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      -1.05,
+      0.05,
+      -0.95
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -0.05,
+      -3.95,
+      0.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -0.05,
+      -2.95,
+      0.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -0.05,
+      -1.95,
+      0.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      -0.05,
+      -0.95,
+      0.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      -0.05,
+      0.05,
+      0.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      0.95,
+      -3.95,
+      1.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      0.95,
+      -2.95,
+      1.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      0.95,
+      -1.95,
+      1.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      0.95,
+      -0.95,
+      1.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      0.95,
+      0.05,
+      1.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      -2.05,
+      1.05,
+      -1.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      -2.05,
+      2.05,
+      -1.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.95,
+      -2.05,
+      3.05,
+      -1.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      -1.05,
+      1.05,
+      -0.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      -1.05,
+      2.05,
+      -0.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.95,
+      -1.05,
+      3.05,
+      -0.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      -0.05,
+      1.05,
+      0.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      -0.05,
+      2.05,
+      0.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.95,
+      -0.05,
+      3.05,
+      0.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      0.95,
+      1.05,
+      1.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      0.95,
+      2.05,
+      1.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.95,
+      0.95,
+      3.05,
+      1.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      1.95,
+      1.05,
+      2.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      1.95,
+      2.05,
+      2.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.95,
+      1.95,
+      3.05,
+      2.05
+     ],
+     "name": "dot",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.27,
+      1.25,
+      -1.73,
+      1.491
+     ],
+     "name": "label6",
+     "line": 143,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.73,
+      2.25,
+      2.27,
+      2.491
+     ],
+     "name": "label7",
+     "line": 144,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 154,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect6",
+     "line": 126,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect7",
+     "line": 127,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -1.05,
+      -3.95,
+      -0.95
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -1.05,
+      -2.95,
+      -0.95
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -1.05,
+      -1.95,
+      -0.95
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      -1.05,
+      -0.95,
+      -0.95
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      -1.05,
+      0.05,
+      -0.95
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      -0.05,
+      -3.95,
+      0.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      -0.05,
+      -2.95,
+      0.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      -0.05,
+      -1.95,
+      0.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      -0.05,
+      -0.95,
+      0.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      -0.05,
+      0.05,
+      0.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.05,
+      0.95,
+      -3.95,
+      1.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.05,
+      0.95,
+      -2.95,
+      1.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.05,
+      0.95,
+      -1.95,
+      1.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.05,
+      0.95,
+      -0.95,
+      1.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.05,
+      0.95,
+      0.05,
+      1.05
+     ],
+     "name": "grid6",
+     "line": 132,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      -2.05,
+      1.05,
+      -1.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      -2.05,
+      2.05,
+      -1.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.95,
+      -2.05,
+      3.05,
+      -1.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      -1.05,
+      1.05,
+      -0.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      -1.05,
+      2.05,
+      -0.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.95,
+      -1.05,
+      3.05,
+      -0.95
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      -0.05,
+      1.05,
+      0.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      -0.05,
+      2.05,
+      0.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.95,
+      -0.05,
+      3.05,
+      0.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      0.95,
+      1.05,
+      1.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      0.95,
+      2.05,
+      1.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.95,
+      0.95,
+      3.05,
+      1.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.95,
+      1.95,
+      1.05,
+      2.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.95,
+      1.95,
+      2.05,
+      2.05
+     ],
+     "name": "grid7",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.95,
+      1.95,
+      3.05,
+      2.05
+     ],
+     "name": "dot",
+     "line": 139,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.27,
+      1.25,
+      -1.73,
+      1.491
+     ],
+     "name": "label6",
+     "line": 143,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.73,
+      2.25,
+      2.27,
+      2.491
+     ],
+     "name": "label7",
+     "line": 144,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.611,
+      -1.431,
+      -1.389,
+      -1.25
+     ],
+     "name": "count1",
+     "line": 151,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.389,
+      -2.431,
+      2.611,
+      -2.25
+     ],
+     "name": "count2",
+     "line": 152,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 158,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 175,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect8",
+     "line": 154,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect9",
+     "line": 162,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.27,
+      1.25,
+      -1.73,
+      1.491
+     ],
+     "name": "label8",
+     "line": 164,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.73,
+      2.25,
+      2.27,
+      2.491
+     ],
+     "name": "label9",
+     "line": 165,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 187,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect8",
+     "line": 154,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect9",
+     "line": 162,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.27,
+      1.25,
+      -1.73,
+      1.491
+     ],
+     "name": "label8",
+     "line": 164,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.73,
+      2.25,
+      2.27,
+      2.491
+     ],
+     "name": "label9",
+     "line": 165,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.466,
+      -1.428,
+      -1.534,
+      -1.25
+     ],
+     "name": "inside_text8",
+     "line": 179,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.476,
+      -1.902,
+      -1.524,
+      -1.678
+     ],
+     "name": "edge_text8",
+     "line": 180,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.611,
+      -2.334,
+      -1.389,
+      -2.152
+     ],
+     "name": "sorrel_text8",
+     "line": 181,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.534,
+      -2.428,
+      2.466,
+      -2.25
+     ],
+     "name": "inside_text9",
+     "line": 183,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.524,
+      -2.902,
+      2.476,
+      -2.678
+     ],
+     "name": "edge_text9",
+     "line": 184,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.389,
+      -3.334,
+      2.611,
+      -3.152
+     ],
+     "name": "sorrel_text9",
+     "line": 185,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 194,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.8,
+      3.0,
+      1.8,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect8",
+     "line": 154,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect9",
+     "line": 162,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.27,
+      1.25,
+      -1.73,
+      1.491
+     ],
+     "name": "label8",
+     "line": 164,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.73,
+      2.25,
+      2.27,
+      2.491
+     ],
+     "name": "label9",
+     "line": 165,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.466,
+      -1.428,
+      -1.534,
+      -1.25
+     ],
+     "name": "inside_text8",
+     "line": 179,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.476,
+      -1.902,
+      -1.524,
+      -1.678
+     ],
+     "name": "edge_text8",
+     "line": 180,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.611,
+      -2.334,
+      -1.389,
+      -2.152
+     ],
+     "name": "sorrel_text8",
+     "line": 181,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.534,
+      -2.428,
+      2.466,
+      -2.25
+     ],
+     "name": "inside_text9",
+     "line": 183,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.524,
+      -2.902,
+      2.476,
+      -2.678
+     ],
+     "name": "edge_text9",
+     "line": 184,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.389,
+      -3.334,
+      2.611,
+      -3.152
+     ],
+     "name": "sorrel_text9",
+     "line": 185,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.325,
+      -3.82,
+      4.325,
+      -3.486
+     ],
+     "name": "final",
+     "line": 192,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 197,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect8",
+     "line": 154,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect9",
+     "line": 162,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.27,
+      1.25,
+      -1.73,
+      1.491
+     ],
+     "name": "label8",
+     "line": 164,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.73,
+      2.25,
+      2.27,
+      2.491
+     ],
+     "name": "label9",
+     "line": 165,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.466,
+      -1.428,
+      -1.534,
+      -1.25
+     ],
+     "name": "inside_text8",
+     "line": 179,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.476,
+      -1.902,
+      -1.524,
+      -1.678
+     ],
+     "name": "edge_text8",
+     "line": 180,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.611,
+      -2.334,
+      -1.389,
+      -2.152
+     ],
+     "name": "sorrel_text8",
+     "line": 181,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.534,
+      -2.428,
+      2.466,
+      -2.25
+     ],
+     "name": "inside_text9",
+     "line": 183,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.524,
+      -2.902,
+      2.476,
+      -2.678
+     ],
+     "name": "edge_text9",
+     "line": 184,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.389,
+      -3.334,
+      2.611,
+      -3.152
+     ],
+     "name": "sorrel_text9",
+     "line": 185,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

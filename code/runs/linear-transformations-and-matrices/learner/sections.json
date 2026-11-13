@@ -1,0 +1,20 @@
+[
+ {
+  "id": "s2",
+  "title": "Transforming the Basis",
+  "teaches": "A linear transformation is fully defined by where it moves the basis vectors.",
+  "visual": "The grid warps smoothly. The red i-hat rotates 90 degrees counter-clockwise to point up, and the blue j-hat rotates 90 degrees counter-clockwise to point left. The entire grid stretches and rotates with them, maintaining parallel lines.",
+  "narration": "A linear transformation reshapes the space itself. Notice how the grid moves rigidly: if we know where i-hat and j-hat land, we know exactly where every other point in the universe goes.",
+  "start": 0.0,
+  "end": 22.4
+ },
+ {
+  "id": "s4",
+  "title": "Matrix-Vector Multiplication",
+  "teaches": "Multiplying a matrix by a vector computes the new position using linear combination.",
+  "visual": "A green point at (2,1) appears. It moves to (-1, 2). An equation appears: [[0, -1], [1, 0]] * [2, 1] = [-1, 2]. The calculation breaks down visually: 2 times the first column plus 1 times the second column equals the final position.",
+  "narration": "To find where any point goes, we multiply the matrix by its coordinates. This operation is a linear combination: we scale the new basis vectors by the original coordinates and add them together to find the final destination.",
+  "start": 22.4,
+  "end": 73.27
+ }
+]

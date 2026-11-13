@@ -1,0 +1,27 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q6",
+  "q8",
+  "q9",
+  "q11"
+ ],
+ "fixes": {
+  "s3": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s2": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s2",
+  "s3"
+ ],
+ "dev_before": 59.1,
+ "dev_after": 63.6,
+ "mvqs_before": 85.01,
+ "mvqs_after": 83.24,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/quill-distance/generic"
+}

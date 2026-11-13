@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 70.81,
+  "s_sp": 90.5,
+  "s_ly": 19.8,
+  "s_ed": 72.0,
+  "states": 30,
+  "states_with_conflict": 14
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 68.57,
+   "conflicts": 10
+  },
+  {
+   "level": "shift",
+   "mvqs": 68.58,
+   "conflict": "MathTex \"cost3\" (created line 38, box [1.95, 1.25, 2.05, 1.416]) overlaps MathTex \"B_label\" (line 14, box [1.911, 1.33, 2.089, 1.5]) by 51%; moving it by [0.0, -0.24] would clear it"
+  },
+  {
+   "level": "section",
+   "mvqs": 70.81,
+   "conflict": "MathTex \"cost3\" (created line 38, box [1.95, 1.01, 2.05, 1.176]) overlaps Dot \"B\" (line 12, box [1.92, 0.92, 2.08, 1.08]) by 42%; moving it by [0.0, 0.22] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"cost3\" (created line 38, box [1.95, 1.01, 2.05, 1.176]) overlaps Dot \"B\" (line 12, box [1.92, 0.92, 2.08, 1.08]) by 42%; moving it by [0.0, 0.22] would clear it"
+  }
+ ]
+}

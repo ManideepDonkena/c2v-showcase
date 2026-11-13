@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 29,
+  "scope": "line",
+  "error": "ValueError: could not broadcast input array from shape (99,) into shape (99,3)"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 29,
+  "scope": "block",
+  "error": "ValueError: could not broadcast input array from shape (99,) into shape (99,3)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 30,
+  "scope": "section",
+  "error": "ValueError: could not broadcast input array from shape (99,) into shape (99,3)"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

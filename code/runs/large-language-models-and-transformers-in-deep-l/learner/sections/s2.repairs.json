@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 16,
+  "scope": "line",
+  "error": "TypeError: Mobject.__init__() got an unexpected keyword argument 'element_config'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 20,
+  "scope": "block",
+  "error": "IndentationError: unexpected indent (s2.py, line 20)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 15,
+  "scope": "section",
+  "error": "TypeError: Mobject.__init__() got an unexpected keyword argument 'element_config'"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 16,
+  "scope": "section",
+  "error": "TypeError: Mobject.__init__() got an unexpected keyword argument 'element_config'"
+ }
+]

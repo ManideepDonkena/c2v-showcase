@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 75.87,
+  "s_sp": 87.4,
+  "s_ly": 74.5,
+  "s_ed": 57.5,
+  "states": 8,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 64.97,
+   "conflicts": 12
+  },
+  {
+   "level": "section",
+   "mvqs": 74.17,
+   "conflict": "Tex \"d1\" (created line 18, box [-1.7, -0.119, -1.3, 0.119]) overlaps Circle \"p4\" (line 14, box [-1.5, -3.0, 1.5, 0.0]) by 25%; moving it by [0.0, 0.27] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.5,
+   "conflict": "Tex \"d1\" (created line 18, box [-1.7, -0.119, -1.3, 0.119]) overlaps Circle \"p4\" (line 14, box [-1.5, -3.0, 1.5, 0.0]) by 25%; moving it by [0.0, 0.27] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 75.87,
+   "conflict": "Tex \"d3\" (created line 18, box [-1.207, -0.123, -0.793, 0.123]) overlaps Circle \"p4\" (line 14, box [-1.5, -3.0, 1.5, 0.0]) by 50%; moving it by [0.0, 0.27] would clear it"
+  }
+ ]
+}

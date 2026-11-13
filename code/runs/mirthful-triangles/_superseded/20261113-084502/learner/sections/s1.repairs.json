@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 15,
+  "scope": "line",
+  "error": "AttributeError: Polygon object has no attribute 'vertices'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 11,
+  "scope": "block",
+  "error": "SyntaxError: '(' was never closed (s1.py, line 11)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 39,
+  "scope": "section",
+  "error": "AttributeError: Polygon object has no attribute 'vertices'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

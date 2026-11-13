@@ -1,0 +1,93 @@
+{
+ "topic": "Glint numbers",
+ "before": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 93.67,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 84.5,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  }
+ },
+ "regenerated": {
+  "s2": {
+   "tries": [
+    {
+     "id": "s2",
+     "mvqs": 92.82,
+     "conflicts": 0,
+     "rendered": true,
+     "ok": true
+    }
+   ],
+   "kept": "s2_try1"
+  },
+  "s4": {
+   "tries": [
+    {
+     "id": "s4",
+     "mvqs": 88.38,
+     "conflicts": 0,
+     "rendered": true,
+     "ok": true
+    }
+   ],
+   "kept": "s4_try1"
+  }
+ },
+ "min_mvqs": 70.0,
+ "superseded": "/home/mani/c2v-lab/runs/glint-numbers/_superseded/20261113-084343",
+ "after": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 93.67,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 92.82,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 84.5,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 88.38,
+   "conflicts": 0,
+   "ok": true
+  }
+ },
+ "complete": true,
+ "clean": true
+}

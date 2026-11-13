@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 81.56,
+  "s_sp": 95.9,
+  "s_ly": 38.6,
+  "s_ed": 86.3,
+  "states": 16,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 78.56,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.94,
+   "conflict": "MathTex \"calc1\" (created line 47, box [-1.088, 3.238, 1.088, 3.5]) overlaps Text \"title\" (line 6, box [-3.166, 3.0, 3.166, 3.5]) by 100%; moving it by [0.0, 0.41] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.27,
+   "conflict": "MathTex \"calc2\" (created line 55, box [-0.89, 2.887, 0.89, 3.148]) overlaps Text \"title\" (line 6, box [-3.166, 3.0, 3.166, 3.5]) by 56%; moving it by [0.0, -0.3] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.56,
+   "conflict": "MathTex \"even_text\" (created line 67, box [-0.288, -0.086, 0.288, 0.086]) overlaps MathTex \"odd_text\" (line 66, box [-0.221, -0.091, 0.221, 0.091]) by 94%; moving it by [0.0, 0.33] would clear it"
+  }
+ ]
+}

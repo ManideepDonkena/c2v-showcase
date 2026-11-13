@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 18,
+  "scope": "line",
+  "error": "ValueError: operands could not be broadcast together with shapes (2,) (3,) "
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 24,
+  "scope": "block",
+  "error": "ValueError: operands could not be broadcast together with shapes (2,) (3,) "
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 31,
+  "scope": "section",
+  "error": "ValueError: operands could not be broadcast together with shapes (2,) (3,) "
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 37,
+  "scope": "section",
+  "error": "ValueError: latex error converting to dvi. See log output above or the log file: media/Tex/1af5d6f1255760eb.log\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ }
+]

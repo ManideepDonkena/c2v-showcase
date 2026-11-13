@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 55.97,
+  "s_sp": 62.6,
+  "s_ly": 51.7,
+  "s_ed": 47.8,
+  "states": 46,
+  "states_with_conflict": 32
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 55.33,
+   "conflicts": 68
+  },
+  {
+   "level": "shift",
+   "mvqs": 55.51,
+   "conflict": "MathTex \"label_4\" (created line 74, box [1.945, -0.719, 2.055, -0.55]) overlaps Triangle \"tri4\" (line 58, box [0.961, -0.65, 3.039, 1.15]) by 59%; moving it by [0.0, -0.25] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 55.58,
+   "conflict": "MathTex \"label_10\" (created line 82, box [0.89, 0.164, 1.107, 0.336]) overlaps Triangle \"tri4\" (line 58, box [0.961, -0.65, 3.039, 1.15]) by 67%; moving it by [-0.3, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 55.97,
+   "conflict": "MathTex \"label_12\" (created line 83, box [1.893, 1.05, 2.107, 1.216]) overlaps Triangle \"tri4\" (line 58, box [0.961, -0.65, 3.039, 1.15]) by 60%; moving it by [0.0, 0.25] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 64.85,
+  "s_sp": 76.2,
+  "s_ly": 39.5,
+  "s_ed": 62.9,
+  "states": 21,
+  "states_with_conflict": 13
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 64.58,
+   "conflicts": 31
+  },
+  {
+   "level": "shift",
+   "mvqs": 64.76,
+   "conflict": "Text \"p4\" (created line 50, box [-0.192, -0.119, 0.178, 0.119]) overlaps Text \"bits_group\" (line 12, box [-0.288, -0.12, -0.15, 0.12]) by 30%; moving it by [0.19, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 64.8,
+   "conflict": "Text \"p4\" (created line 50, box [-0.002, -0.119, 0.368, 0.119]) overlaps Text \"bits_group\" (line 12, box [0.15, -0.122, 0.306, 0.122]) by 97%; moving it by [-0.37, 0.0] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 64.85,
+   "conflict": "Text \"p4\" (created line 50, box [-0.372, -0.119, -0.002, 0.119]) overlaps Text \"bits_group\" (line 12, box [-0.288, -0.12, -0.15, 0.12]) by 99%; moving it by [0.37, 0.0] would clear it"
+  }
+ ]
+}

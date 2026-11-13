@@ -1,0 +1,20 @@
+{
+ "stage": "F3",
+ "mode": "generic",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [],
+ "edit_size": {},
+ "diagnosis": "f3",
+ "kept": false,
+ "served": "base"
+}

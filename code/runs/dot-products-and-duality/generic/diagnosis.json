@@ -1,0 +1,33 @@
+{
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q9",
+  "q11",
+  "q12"
+ ],
+ "dev": 11,
+ "fixes": {
+  "s1": [
+   "SHOW the specific scalar value resulting from the projection calculation (magnitude of A times magnitude of B times cosine of theta) and SAY that this value represents the 'signed length' of vector B's shadow cast onto the direction of vector A, distinguishing it from a simple distance by noting that the sign indicates whether the angle is acute or obtuse.",
+   "Show two vectors forming a 90-degree angle (a right angle) and display that their projection length is zero, meaning the tip of one vector drops exactly onto the origin of the other when projected."
+  ],
+  "s2": [
+   "A concrete calculation showing that multiplying corresponding components (1 times -3, and 2 times 4) and adding the results (-3 + 8) yields the final scalar value.",
+   "Show two specific vectors, A=(3,1) and B=(2,4). Calculate the sum of products for A then B (3*2 + 1*4 = 10). Then swap them: calculate the sum of products for B then A (2*3 + 4*1 = 10). Visually highlight that multiplication is commutative (xy=yx) and addition is commutative, so the order of terms in the sum does not change the total. State: 'Because scalar multiplication and addition are commutative, swapping the vectors A and B yields the exact same numerical result.'",
+   "Show two unit vectors (length 1) rotating while displaying their component values and the resulting dot product value. Explicitly state that because the magnitudes are 1, the formula simplifies to just cos(θ), and visually highlight that the calculated dot product number is identical to the cosine of the angle between them.",
+   "SHOW the final result of the calculation 'A_x B_x + A_y B_y' as a single, static number (e.g., 10) on the screen, distinct from the vector arrows. SAY: 'Notice that the output is just one number, not an arrow with direction. This confirms the dot product produces a scalar quantity.'",
+   "Show two vectors at right angles (one along the x-axis, one along the y-axis). Display their components as A=(a_x, 0) and B=(0, b_y). Demonstrate that the algebraic sum a_x*0 + 0*b_y equals zero. Visually highlight that because the projection of one vector onto the other is zero (they do not overlap in direction), the dot product must be zero.",
+   "A direct calculation demonstration showing that multiplying corresponding components (1*2 and -1*2) and summing them yields the same result as the geometric formula, explicitly highlighting that the negative sign in the y-component of u flips the contribution of the second term to a subtraction."
+  ],
+  "s4": [
+   "SHOW two different vectors, A and C, that are not equal (e.g., A=(1,0) and C=(2,0)). SAY 'If we map these to functionals, do they produce different measurements?' Then show the level sets for both. SAY 'Notice that the functional for C is just twice as steep as A.' CONCLUDE by stating that because every distinct vector creates a unique, distinguishable set of measurement contours (functional), and every possible set of parallel contour lines can be matched to exactly one vector, the mapping preserves all structural information without loss or overlap. This perfect, reversible matching defines an ISOMORPHISM.",
+   "Show a specific linear functional L defined by contour lines (e.g., level sets where L(x,y)=c) and explicitly demonstrate that there exists exactly one unique vector A' such that the dot product A'·B yields the same scalar values for all B on those contours. Emphasize that this is not just a mapping, but an isomorphism: every functional corresponds to one vector, and every vector defines one functional."
+  ]
+ }
+}

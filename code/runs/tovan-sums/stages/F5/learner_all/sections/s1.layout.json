@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 72.04,
+  "s_sp": 82.2,
+  "s_ly": 50.3,
+  "s_ed": 69.6,
+  "states": 23,
+  "states_with_conflict": 11
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.1,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 72.04,
+   "conflict": "Text \"merged_label\" (created line 67, box [-1.127, -0.12, -0.873, 0.12]) overlaps Text \"label_neg1\" (line 57, box [-1.241, -0.148, -0.759, 0.148]) by 100%; moving it by [0.0, 0.42] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"merged_label\" (created line 67, box [-1.127, -0.12, -0.873, 0.12]) overlaps Text \"label_neg1\" (line 57, box [-1.241, -0.148, -0.759, 0.148]) by 100%; moving it by [0.0, 0.42] would clear it"
+  }
+ ]
+}

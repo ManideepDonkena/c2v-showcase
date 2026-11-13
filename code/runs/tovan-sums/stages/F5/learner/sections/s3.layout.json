@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 75.04,
+  "s_sp": 90.7,
+  "s_ly": 42.5,
+  "s_ed": 70.6,
+  "states": 17,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 61.26,
+   "conflicts": 8
+  },
+  {
+   "level": "shift",
+   "mvqs": 62.72,
+   "conflict": "MathTex \"label_neg1\" (created line 47, box [-0.231, -0.125, 0.231, 0.125]) overlaps MathTex \"label3\" (line 39, box [-0.052, -0.086, 0.052, 0.086]) by 100%; moving it by [0.0, 0.36] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 67.65,
+   "conflict": "Circle \"circle7\" (created line 48, box [-1.211, -0.6, -0.011, 0.6]) overlaps MathTex \"label3\" (line 39, box [-0.052, -0.086, 0.052, 0.086]) by 39%; moving it by [-0.19, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 75.04,
+   "conflict": "MathTex \"label7\" (created line 49, box [-0.053, -0.087, 0.053, 0.087]) overlaps MathTex \"label3\" (line 20, box [-0.052, -0.086, 0.052, 0.086]) by 100%; moving it by [0.26, 0.0] would clear it"
+  }
+ ]
+}

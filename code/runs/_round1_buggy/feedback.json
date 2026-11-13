@@ -1,0 +1,31 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q3",
+  "q6",
+  "q8",
+  "q10",
+  "q13",
+  "q15"
+ ],
+ "fixes": {
+  "s2": [
+   "A visual comparison showing that if the angle is not 90 degrees, the squares on the legs do not perfectly fill the square on the third side, demonstrating that the area relationship is unique to right angles."
+  ],
+  "s3": [
+   "A specific check where the sum of the areas of the two smaller squares (36 + 64 = 100) is explicitly shown to equal the area of the largest square (100), confirming the right-angle condition.",
+   "A visual correction showing that adding the lengths (3 + 4 = 7) ignores the area scaling, whereas squaring them first (9 + 16 = 25) accounts for the two-dimensional space before finding the side length."
+  ],
+  "s4": [
+   "A step-by-step calculation showing the square root operation: taking the sum of the squared legs (81 + 144 = 225) and extracting the root to find the side length (√225 = 15).",
+   "An algebraic rearrangement showing how to isolate a leg: subtracting the square of the known leg from the square of the hypotenuse (100 - 36 = 64) and then taking the square root to find the missing side (√64 = 8).",
+   "A complete numerical example: squaring 8 to get 64, squaring 15 to get 225, adding them to get 289, and then identifying that the square root of 289 is 17."
+  ]
+ },
+ "dev_before": 14.3,
+ "dev_after": 0.0,
+ "mvqs_before": 82.7,
+ "mvqs_after": 77.79,
+ "kept": false,
+ "dir": "/home/mani/c2v-lab/runs/pythagoras-theorem/round1"
+}

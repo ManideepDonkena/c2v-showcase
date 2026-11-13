@@ -1,0 +1,29 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 13,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 13: NameError: name 'sqrt' is not defined\nline 62: NameError: name 'sqrt' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 62,
+  "scope": "block",
+  "preflight": true,
+  "error": "line 62: NameError: name 'sqrt' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": null,
+  "scope": "section",
+  "error": "render timed out after 600 s (an endless loop or a very long animation)"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

@@ -1,0 +1,30 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q5",
+  "q7",
+  "q10",
+  "q12"
+ ],
+ "fixes": {
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s3": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s1": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s3",
+  "s4"
+ ],
+ "dev_before": 62.5,
+ "dev_after": 62.5,
+ "mvqs_before": 88.89,
+ "mvqs_after": 87.01,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/vorn-sequences/generic"
+}

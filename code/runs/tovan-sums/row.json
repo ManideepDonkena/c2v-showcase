@@ -1,0 +1,91 @@
+{
+ "topic": "Tovan sums",
+ "base": {
+  "teachquiz": 33.3,
+  "teachquiz_clean": 33.3,
+  "none": 0.0,
+  "full": 33.3,
+  "evidence": 29.2,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 84.3,
+  "sections_rendered": 4
+ },
+ "learner": {
+  "teachquiz": 37.5,
+  "teachquiz_clean": 37.5,
+  "none": 0.0,
+  "full": 37.5,
+  "evidence": 37.5,
+  "control_first_section": 12.5,
+  "control_other_topic": null,
+  "mvqs": 85.65,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "generic": {
+  "teachquiz": 62.5,
+  "teachquiz_clean": 62.5,
+  "none": 0.0,
+  "full": 62.5,
+  "evidence": 12.5,
+  "control_first_section": 25.0,
+  "control_other_topic": null,
+  "mvqs": 86.48,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "learner_all": {
+  "teachquiz": 45.8,
+  "teachquiz_clean": 45.8,
+  "none": 0.0,
+  "full": 45.8,
+  "evidence": 33.3,
+  "control_first_section": 50.0,
+  "control_other_topic": null,
+  "mvqs": 80.12,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "diagnosis": {
+  "gaps": [
+   "q2",
+   "q8",
+   "q9",
+   "q10"
+  ],
+  "dev": 10,
+  "fixes": {
+   "s2": [
+    "Show the equation '0 ⊕ b' expanding into '0 + b + (0 × b)'. Visually demonstrate that '0 + b' is just 'b', and '(0 × b)' vanishes to zero, leaving only 'b' as the final result. State: 'Adding zero contributes nothing to the sum or product, so the original number b remains exactly as it was.'"
+   ],
+   "s4": [
+    "SHOW a nested structure like 'a ⊕ (b ⊕ c)' where the inner parentheses are highlighted first. SAY: 'When you see parentheses, solve the inside part first to get a single new number, then use that result in the outer operation.' Demonstrate this by calculating '3 ⊕ 4' first to get 19, then showing '2 ⊕ 19' as the next step."
+   ],
+   "s1": [
+    "SHOW a comparison between the Tovan sum result and standard multiplication for the same numbers (e.g., 2 ⊕ 3 equals 11, while 2 × 3 equals 6) to demonstrate that they are not equal."
+   ],
+   "s3": [
+    "SHOW a chain of three circles, e.g., '4', '-1', and '2'. SAY that because the operation is associative in result due to the absorbing property, or more simply, demonstrate that once the '-1' circle enters the chain, it consumes the entire remaining sequence. Specifically, show that (4 ⊕ -1) results in -1, and then (-1 ⊕ 2) also results in -1. The key idea is that the 'swallowing' power of -1 is contagious through the chain; if any element in a left-to-right evaluation becomes -1, all subsequent operations with that result will remain -1."
+   ]
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 67.74,
+  "s_sp": 81.3,
+  "s_ly": 43.4,
+  "s_ed": 61.4,
+  "states": 14,
+  "states_with_conflict": 9
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 58.79,
+   "conflicts": 8
+  },
+  {
+   "level": "shift",
+   "mvqs": 59.36,
+   "conflict": "MathTex \"w\" (created line 13, box [-5.425, 3.331, -5.178, 3.5]) overlaps Text \"title\" (line 6, box [-5.218, 3.0, 5.218, 3.5]) by 16%; moving it by [-0.19, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 64.09,
+   "conflict": "MathTex \"a\" (created line 14, box [-4.178, 3.331, -4.007, 3.5]) overlaps Text \"title\" (line 6, box [-5.218, 3.0, 5.218, 3.5]) by 100%; moving it by [0.0, 0.32] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 67.74,
+   "conflict": "MathTex \"y_hat\" (created line 15, box [-3.007, 3.247, -2.834, 3.583]) overlaps Text \"title\" (line 6, box [-5.218, 3.0, 5.218, 3.5]) by 75%; moving it by [0.0, 0.4] would clear it"
+  }
+ ]
+}

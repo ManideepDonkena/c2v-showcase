@@ -1,0 +1,220 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the formula for calculating the quill distance between two points (x1, y1) and (x2, y2)?",
+   "options": {
+    "A": "|x1 - x2| + |y1 - y2|",
+    "B": "|x1 - x2| + 2×|y1 - y2|",
+    "C": 2.0,
+    "D": "|x1 - x2| + 3×|y1 - y2|"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "Why is moving vertically more expensive than moving horizontally in quill distance?",
+   "options": {
+    "A": "Vertical moves are counted as 2 units.",
+    "B": "Horizontal moves are free of cost.",
+    "C": "Vertical moves count as 1 unit.",
+    "D": "Horizontal moves count as 2 units."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q3",
+   "question": "Calculate the quill distance from (0, 0) to (3, 2).",
+   "options": {
+    "A": "5",
+    "B": "7",
+    "C": "6",
+    "D": "8"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q4",
+   "question": "Does the quill distance from A to B equal the distance from B to A?",
+   "options": {
+    "A": "No, it depends on direction.",
+    "B": "Yes, it is symmetric.",
+    "C": "Only if points are aligned.",
+    "D": "No, vertical costs differ."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q5",
+   "question": "Which point is at quill distance 2 from (0, 0)?",
+   "options": {
+    "A": "(1, 1)",
+    "B": "(2, 0)",
+    "C": "(0, 1)",
+    "D": "(1, 0)"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q6",
+   "question": "What is the quill distance between (1, 1) and (1, 4)?",
+   "options": {
+    "A": "3",
+    "B": "6",
+    "C": "4",
+    "D": "5"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q7",
+   "question": "If you move 1 unit up from (0,0), what is the total quill distance?",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q8",
+   "question": "Which common metric does quill distance resemble most?",
+   "options": {
+    "A": "Euclidean distance",
+    "B": "Manhattan distance",
+    "C": "Chebyshev distance",
+    "D": "Minkowski distance"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q9",
+   "question": "Calculate the quill distance from (2, 3) to (5, 3).",
+   "options": {
+    "A": "3",
+    "B": "6",
+    "C": "4",
+    "D": "5"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q11",
+   "question": "From (0,0), which point has quill distance 4?",
+   "options": {
+    "A": "(2, 1)",
+    "B": "(4, 0)",
+    "C": "(1, 2)",
+    "D": "(3, 1)"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q12",
+   "question": "Why is (0,0) to (0,2) distance 4?",
+   "options": {
+    "A": "Vertical cost is 2 per unit.",
+    "B": "Horizontal cost is 2.",
+    "C": "Distance is squared.",
+    "D": "Points are diagonal."
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "What is the quill distance from (0, 0) to (2, 3)?",
+   "options": {
+    "A": "7",
+    "B": "8",
+    "C": "5",
+    "D": "10"
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "What is the quill distance from (1, 1) to (4, 1)?",
+   "options": {
+    "A": "2",
+    "B": "6",
+    "C": "4",
+    "D": "3"
+   },
+   "answer": "D",
+   "id": "t2"
+  },
+  {
+   "question": "What is the quill distance from (2, 0) to (2, 4)?",
+   "options": {
+    "A": "8",
+    "B": "4",
+    "C": "6",
+    "D": "2"
+   },
+   "answer": "A",
+   "id": "t3"
+  },
+  {
+   "question": "Which point is at quill distance 2 from (0, 0)?",
+   "options": {
+    "A": "(1, 2)",
+    "B": "(0, 2)",
+    "C": "(0, 1)",
+    "D": "(1, 1)"
+   },
+   "answer": "C",
+   "id": "t4"
+  },
+  {
+   "question": "Is the quill distance from A to B the same as from B to A?",
+   "options": {
+    "A": "Only on the x-axis",
+    "B": "No, never",
+    "C": "Only when A is (0, 0)",
+    "D": "Yes, always"
+   },
+   "answer": "D",
+   "id": "t5"
+  },
+  {
+   "question": "Which move costs more in quill distance?",
+   "options": {
+    "A": "It depends on the start",
+    "B": "They cost the same",
+    "C": "One unit up",
+    "D": "One unit right"
+   },
+   "answer": "C",
+   "id": "t6"
+  },
+  {
+   "question": "What is the quill distance from (-1, 2) to (1, -1)?",
+   "options": {
+    "A": "8",
+    "B": "5",
+    "C": "7",
+    "D": "9"
+   },
+   "answer": "A",
+   "id": "t7"
+  },
+  {
+   "question": "How many grid points are at quill distance exactly 2 from (0, 0)?",
+   "options": {
+    "A": "6",
+    "B": "4",
+    "C": "8",
+    "D": "2"
+   },
+   "answer": "B",
+   "id": "t8"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 11,
+ "dev_leaked": []
+}

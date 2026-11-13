@@ -1,0 +1,851 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.08,
+      -0.766,
+      -0.92,
+      0.766
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.467,
+      1.016,
+      0.467,
+      1.273
+     ],
+     "name": "label1",
+     "line": 15,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.08,
+      -0.766,
+      -0.92,
+      0.766
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.467,
+      1.016,
+      0.467,
+      1.273
+     ],
+     "name": "label1",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.92,
+      -0.766,
+      3.08,
+      0.766
+     ],
+     "name": "grid2",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      1.426,
+      0.47,
+      1.683
+     ],
+     "name": "label2",
+     "line": 16,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.08,
+      -0.766,
+      -0.92,
+      0.766
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.467,
+      1.016,
+      0.467,
+      1.273
+     ],
+     "name": "label1",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.92,
+      -0.766,
+      3.08,
+      0.766
+     ],
+     "name": "grid2",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      1.426,
+      0.47,
+      1.683
+     ],
+     "name": "label2",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.862,
+      -1.235,
+      -1.138,
+      -1.016
+     ],
+     "name": "formula1",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.138,
+      -1.235,
+      2.862,
+      -1.016
+     ],
+     "name": "formula2",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.08,
+      -0.766,
+      -0.92,
+      0.766
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.467,
+      1.016,
+      0.467,
+      1.273
+     ],
+     "name": "label1",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.92,
+      -0.766,
+      3.08,
+      0.766
+     ],
+     "name": "grid2",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      1.426,
+      0.47,
+      1.683
+     ],
+     "name": "label2",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.862,
+      -1.235,
+      -1.138,
+      -1.016
+     ],
+     "name": "formula1",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.138,
+      -1.235,
+      2.862,
+      -1.016
+     ],
+     "name": "formula2",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.962,
+      -1.335,
+      -1.038,
+      -0.916
+     ],
+     "name": "highlight1",
+     "line": 31,
+     "type": "SurroundingRectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.08,
+      -0.766,
+      -0.92,
+      0.766
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.467,
+      1.016,
+      0.467,
+      1.273
+     ],
+     "name": "label1",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.92,
+      -0.766,
+      3.08,
+      0.766
+     ],
+     "name": "grid2",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      1.426,
+      0.47,
+      1.683
+     ],
+     "name": "label2",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.862,
+      -1.235,
+      -1.138,
+      -1.016
+     ],
+     "name": "formula1",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.138,
+      -1.235,
+      2.862,
+      -1.016
+     ],
+     "name": "formula2",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.038,
+      -1.335,
+      2.962,
+      -0.916
+     ],
+     "name": "highlight2",
+     "line": 36,
+     "type": "SurroundingRectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 42,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.08,
+      -0.766,
+      -0.92,
+      0.766
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.467,
+      1.016,
+      0.467,
+      1.273
+     ],
+     "name": "label1",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.92,
+      -0.766,
+      3.08,
+      0.766
+     ],
+     "name": "grid2",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      1.426,
+      0.47,
+      1.683
+     ],
+     "name": "label2",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.862,
+      -1.235,
+      -1.138,
+      -1.016
+     ],
+     "name": "formula1",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.138,
+      -1.235,
+      2.862,
+      -1.016
+     ],
+     "name": "formula2",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.08,
+      -0.766,
+      -0.92,
+      0.766
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.467,
+      1.016,
+      0.467,
+      1.273
+     ],
+     "name": "label1",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.92,
+      -0.766,
+      3.08,
+      0.766
+     ],
+     "name": "grid2",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      1.426,
+      0.47,
+      1.683
+     ],
+     "name": "label2",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.862,
+      -1.235,
+      -1.138,
+      -1.016
+     ],
+     "name": "formula1",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.138,
+      -1.235,
+      2.862,
+      -1.016
+     ],
+     "name": "formula2",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.226,
+      -3.5,
+      3.226,
+      -3.166
+     ],
+     "name": "note",
+     "line": 45,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 51,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.08,
+      -0.766,
+      -0.92,
+      0.766
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.467,
+      1.016,
+      0.467,
+      1.273
+     ],
+     "name": "label1",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.92,
+      -0.766,
+      3.08,
+      0.766
+     ],
+     "name": "grid2",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      1.426,
+      0.47,
+      1.683
+     ],
+     "name": "label2",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.862,
+      -1.235,
+      -1.138,
+      -1.016
+     ],
+     "name": "formula1",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.138,
+      -1.235,
+      2.862,
+      -1.016
+     ],
+     "name": "formula2",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.226,
+      -3.5,
+      3.226,
+      -3.166
+     ],
+     "name": "note",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.936,
+      -2.916,
+      1.936,
+      -2.697
+     ],
+     "name": "eq",
+     "line": 42,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.08,
+      -0.766,
+      -0.92,
+      0.766
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.467,
+      1.016,
+      0.467,
+      1.273
+     ],
+     "name": "label1",
+     "line": 15,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.92,
+      -0.766,
+      3.08,
+      0.766
+     ],
+     "name": "grid2",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.47,
+      1.426,
+      0.47,
+      1.683
+     ],
+     "name": "label2",
+     "line": 16,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.862,
+      -1.235,
+      -1.138,
+      -1.016
+     ],
+     "name": "formula1",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.138,
+      -1.235,
+      2.862,
+      -1.016
+     ],
+     "name": "formula2",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.226,
+      -3.5,
+      3.226,
+      -3.166
+     ],
+     "name": "note",
+     "line": 45,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.936,
+      -2.916,
+      1.936,
+      -2.697
+     ],
+     "name": "eq",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.331,
+      -2.55,
+      0.331,
+      -1.827
+     ],
+     "name": "check",
+     "line": 55,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": []
+  }
+ ],
+ "error": null
+}

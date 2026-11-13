@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 77.39,
+  "s_sp": 99.2,
+  "s_ly": 45.8,
+  "s_ed": 62.0,
+  "states": 31,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 76.06,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.39,
+   "conflict": "MathTex \"inside_label\" (created line 21, box [-0.273, -0.828, 1.273, -0.33]) overlaps Circle \"unit_circle\" (line 10, box [-1.0, -1.0, 1.0, 1.0]) by 82%; moving it by [0.0, -0.82] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.11,
+   "conflict": "MathTex \"outside_label\" (created line 17, box [0.727, 0.33, 2.273, 0.828]) overlaps Circle \"unit_circle\" (line 10, box [-1.0, -1.0, 1.0, 1.0]) by 17%; moving it by [0.42, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.39,
+   "conflict": "MathTex \"func_f\" (created line 56, box [-1.003, 0.688, 1.003, 1.25]) overlaps Circle \"unit_circle\" (line 10, box [-1.0, -1.0, 1.0, 1.0]) by 55%; moving it by [0.0, 0.46] would clear it"
+  }
+ ]
+}

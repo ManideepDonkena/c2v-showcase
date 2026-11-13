@@ -1,0 +1,33 @@
+{
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q4",
+  "q6",
+  "q7",
+  "q8",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "dev": 10,
+ "fixes": {
+  "s4": [
+   "A visual demonstration showing that while one bit flip is fixed (restoring '101'), two simultaneous bit flips result in an incorrect final string, illustrating the limitation to single error correction."
+  ],
+  "s2": [
+   "A visual breakdown of the Hamming(7,4) structure showing 4 data bits and 3 parity bits (P1, P2, P4) occupying positions 1, 2, and 4 respectively, explicitly stating that $2^r \\ge m + r + 1$ requires 3 parity bits for 4 data bits.",
+   "SHOW: A visual overlay of binary numbers (1, 2, 4, 8) aligning with the positions of the parity bits P1, P2, P4, etc., demonstrating that each parity bit covers a specific pattern of bit positions based on its binary index. SAY: 'Parity bits are placed at powers of two because their position numbers correspond to the binary weights needed to uniquely identify every bit's location during error detection.'",
+   "Show two valid codewords that differ by only 1 bit (distance 1) and explain that a single flip makes them indistinguishable. Then show two valid codewords that differ by 3 bits (distance 3). Demonstrate that if one bit flips in the second pair, the result is still closer to the original codeword than any other valid codeword, proving distance 3 is needed to uniquely identify and correct a single error.",
+   "A visual breakdown of the Hamming(7,4) structure showing 4 data bits and 3 parity bits totaling 7 bits. Display the calculation '3 parity bits / 7 total bits' to explicitly define the overhead ratio as 3/7.",
+   "SHOW a table or visual rule stating that for k data bits, you need r parity bits such that 2^r >= k + r + 1. For k=4, show that r=3 is required (since 2^3 = 8 >= 4+3+1=8), and then SHOW the total length n = k + r = 4 + 3 = 7.",
+   "Show two valid codewords side-by-side and count the minimum number of bit positions that differ between them (the Hamming distance). Then, demonstrate that if a single bit flips in one codeword, it moves halfway to the other codeword but does not reach it, proving that any received word with 1 error is closer to the original valid codeword than to any other valid one, thus allowing unique correction."
+  ],
+  "s3": [
+   "A visual mapping showing that the syndrome bits correspond directly to the binary weights of the bit positions (e.g., the rightmost syndrome bit represents position 1, the middle represents position 2, and the leftmost represents position 4), so that a syndrome of '101' visually sums to 4 + 1 = 5.",
+   "Show two bits flipping simultaneously (e.g., at positions 1 and 2). Demonstrate that the resulting syndrome points to a single, non-existent bit position (like position 3) or zero, illustrating that the system incorrectly 'corrects' a valid codeword into another invalid one, thereby failing to detect that an error occurred rather than just locating it.",
+   "Show two bits flipping simultaneously in the codeword (e.g., at positions 1 and 2). Demonstrate that the calculated syndrome points to a single, non-existent error location (like position 3) or zero. Explain that the system 'sees' a valid but different pattern, leading it to flip the wrong bit, thereby corrupting the data further instead of fixing it."
+  ]
+ }
+}

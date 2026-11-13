@@ -1,0 +1,922 @@
+[
+ {
+  "topic": "Krell steps on a grid",
+  "base": {
+   "teachquiz": 50.0,
+   "teachquiz_clean": 50.0,
+   "none": 0.0,
+   "full": 50.0,
+   "evidence": 50.0,
+   "control_first_section": 12.5,
+   "control_other_topic": 0.0,
+   "mvqs": 79.29,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 66.7,
+   "teachquiz_clean": 66.7,
+   "none": 0.0,
+   "full": 66.7,
+   "evidence": 62.5,
+   "control_first_section": 12.5,
+   "control_other_topic": null,
+   "mvqs": 73.98,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "generic": {
+   "teachquiz": 37.5,
+   "teachquiz_clean": 37.5,
+   "none": 0.0,
+   "full": 37.5,
+   "evidence": 37.5,
+   "control_first_section": 12.5,
+   "control_other_topic": null,
+   "mvqs": 81.99,
+   "sections_rendered": 4,
+   "changed": [
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 16.7,
+   "teachquiz_clean": 16.7,
+   "none": 0.0,
+   "full": 16.7,
+   "evidence": 16.7,
+   "control_first_section": 25.0,
+   "control_other_topic": null,
+   "mvqs": 72.13,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q6",
+    "q7",
+    "q8",
+    "q9",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 12,
+   "fixes": {
+    "s1": [
+     "A clear visual label explicitly stating the formula '(y, x + 1)' next to the transformation arrow, accompanied by a voiceover saying 'The new position is y for the first number and x plus one for the second,' ensuring the student sees the exact algebraic structure of the swap and increment.",
+     "Show the specific numbers 2 and 2 as the starting coordinates. Visually swap them to place 2 in the first position and 2 in the second position. Then, explicitly add 1 to that second number (the new y-coordinate) to change it from 2 to 3. State clearly that the final result is the pair (2, 3).",
+     "Show the specific numbers -1 and 4. Visually swap them to place 4 in the first position and -1 in the second position. Then, explicitly add 1 to that second number (-1) to show it becomes 0. State clearly: 'The result is (4, 0)'.",
+     "A visual breakdown showing that the new x-coordinate is explicitly the value that was originally in the y-position, while the original x-value moves to the second position and gets incremented."
+    ],
+    "s3": [
+     "Show the point at (2, 2) and draw an arrow labeled 'Step 3' to a new point. Say: 'Apply the rule again: swap the coordinates of (2, 2) to get (2, 2), then add 1 to the second number to get (2, 3).'",
+     "Show a point like (2, 2) and its next step to (2, 3); explicitly compare the change in x (which is 0) versus the change in y (which is +1) to demonstrate that x does not always increase.",
+     "Show the path continuing from the final point (2, 2) in s3. Apply the rule to get the next point: swap (2, 2) to (2, 2), then add 1 to the second coordinate to get (2, 3). Label this new point as the result of the third step. Then apply the rule again to (2, 3): swap to (3, 2), add 1 to the second coordinate to get (3, 3). Label this as the result of the fourth step."
+    ],
+    "s4": [
+     "Show that applying the 'Double Step Identity' twice results in a net movement of (+2, +2). Then show that one additional single Krell step is needed to reach the final coordinate, making the total count 5 steps (2 + 2 + 1)."
+    ]
+   }
+  },
+  "seconds": 0
+ },
+ {
+  "topic": "Tovan sums",
+  "base": {
+   "teachquiz": 33.3,
+   "teachquiz_clean": 33.3,
+   "none": 0.0,
+   "full": 33.3,
+   "evidence": 29.2,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 84.3,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 37.5,
+   "teachquiz_clean": 37.5,
+   "none": 0.0,
+   "full": 37.5,
+   "evidence": 37.5,
+   "control_first_section": 12.5,
+   "control_other_topic": null,
+   "mvqs": 85.65,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 62.5,
+   "teachquiz_clean": 62.5,
+   "none": 0.0,
+   "full": 62.5,
+   "evidence": 12.5,
+   "control_first_section": 25.0,
+   "control_other_topic": null,
+   "mvqs": 86.48,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 45.8,
+   "teachquiz_clean": 45.8,
+   "none": 0.0,
+   "full": 45.8,
+   "evidence": 33.3,
+   "control_first_section": 50.0,
+   "control_other_topic": null,
+   "mvqs": 80.12,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "diagnosis": {
+   "gaps": [
+    "q2",
+    "q8",
+    "q9",
+    "q10"
+   ],
+   "dev": 10,
+   "fixes": {
+    "s2": [
+     "Show the equation '0 ⊕ b' expanding into '0 + b + (0 × b)'. Visually demonstrate that '0 + b' is just 'b', and '(0 × b)' vanishes to zero, leaving only 'b' as the final result. State: 'Adding zero contributes nothing to the sum or product, so the original number b remains exactly as it was.'"
+    ],
+    "s4": [
+     "SHOW a nested structure like 'a ⊕ (b ⊕ c)' where the inner parentheses are highlighted first. SAY: 'When you see parentheses, solve the inside part first to get a single new number, then use that result in the outer operation.' Demonstrate this by calculating '3 ⊕ 4' first to get 19, then showing '2 ⊕ 19' as the next step."
+    ],
+    "s1": [
+     "SHOW a comparison between the Tovan sum result and standard multiplication for the same numbers (e.g., 2 ⊕ 3 equals 11, while 2 × 3 equals 6) to demonstrate that they are not equal."
+    ],
+    "s3": [
+     "SHOW a chain of three circles, e.g., '4', '-1', and '2'. SAY that because the operation is associative in result due to the absorbing property, or more simply, demonstrate that once the '-1' circle enters the chain, it consumes the entire remaining sequence. Specifically, show that (4 ⊕ -1) results in -1, and then (-1 ⊕ 2) also results in -1. The key idea is that the 'swallowing' power of -1 is contagious through the chain; if any element in a left-to-right evaluation becomes -1, all subsequent operations with that result will remain -1."
+    ]
+   }
+  },
+  "seconds": 0
+ },
+ {
+  "topic": "Vorn sequences",
+  "base": {
+   "teachquiz": 87.5,
+   "teachquiz_clean": 87.5,
+   "none": 0.0,
+   "full": 87.5,
+   "evidence": 50.0,
+   "control_first_section": 37.5,
+   "control_other_topic": 0.0,
+   "mvqs": 88.89,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 70.8,
+   "teachquiz_clean": 70.8,
+   "none": 0.0,
+   "full": 70.8,
+   "evidence": 37.5,
+   "control_first_section": 37.5,
+   "control_other_topic": null,
+   "mvqs": 87.59,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 62.5,
+   "teachquiz_clean": 62.5,
+   "none": 0.0,
+   "full": 62.5,
+   "evidence": 45.8,
+   "control_first_section": 37.5,
+   "control_other_topic": null,
+   "mvqs": 87.01,
+   "sections_rendered": 4,
+   "changed": [
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 62.5,
+   "teachquiz_clean": 62.5,
+   "none": 0.0,
+   "full": 62.5,
+   "evidence": 45.8,
+   "control_first_section": 25.0,
+   "control_other_topic": null,
+   "mvqs": 87.01,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "diagnosis": {
+   "gaps": [
+    "q5",
+    "q7",
+    "q10",
+    "q12"
+   ],
+   "dev": 8,
+   "fixes": {
+    "s3": [
+     "Show the calculation 'Odd + 2 × Odd' breaking down into 'Odd + Even', then visually demonstrating that adding an odd number to an even number always results in an odd number.",
+     "Show the algebraic breakdown of the formula for an odd term: display 'Odd + 2×Odd' and explicitly label '2×Odd' as Even, then show 'Odd + Even = Odd' to prove the result must be Odd."
+    ],
+    "s4": [
+     "Show the ratio of consecutive terms (v(n)/v(n-1)) for the calculated values (e.g., 11/5 = 2.2) and explicitly state that this value is close to 2, demonstrating that each term grows to approximately double the size of the previous one."
+    ],
+    "s2": [
+     "Show the formula v(n) = v(n-1) + 2*v(n-2). Visually separate the term 'v(n-1)' and emphasize that since all terms are positive (starting with 1, 3), adding a positive number to '2*v(n-2)' makes the total strictly greater than just '2*v(n-2)'. Say: 'Because we add v(n-1) to 2 times the term before, the result is larger than 2 times the term before.'"
+    ]
+   }
+  },
+  "seconds": 0
+ },
+ {
+  "topic": "Glint numbers",
+  "base": {
+   "teachquiz": 62.5,
+   "teachquiz_clean": 62.5,
+   "none": 0.0,
+   "full": 62.5,
+   "evidence": 37.5,
+   "control_first_section": 25.0,
+   "control_other_topic": 0.0,
+   "mvqs": 89.84,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 75.0,
+   "teachquiz_clean": 75.0,
+   "none": 0.0,
+   "full": 75.0,
+   "evidence": 58.3,
+   "control_first_section": 25.0,
+   "control_other_topic": null,
+   "mvqs": 85.31,
+   "sections_rendered": 4,
+   "changed": [
+    "s1"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 58.3,
+   "teachquiz_clean": 58.3,
+   "none": 0.0,
+   "full": 58.3,
+   "evidence": 50.0,
+   "control_first_section": 37.5,
+   "control_other_topic": null,
+   "mvqs": 86.39,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 50.0,
+   "teachquiz_clean": 50.0,
+   "none": 0.0,
+   "full": 50.0,
+   "evidence": 50.0,
+   "control_first_section": 25.0,
+   "control_other_topic": null,
+   "mvqs": 79.26,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s3"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q4",
+    "q6",
+    "q9",
+    "q11",
+    "q12"
+   ],
+   "dev": 10,
+   "fixes": {
+    "s3": [
+     "Show the number 45 with the digit '5' pulsing gold. Display the equation '45 ÷ 5 = 9' appearing below it, followed by a green checkmark to visually confirm that dividing by 5 results in a whole number."
+    ],
+    "s2": [
+     "Show the number 30 with its last digit '0' turning red and shaking, accompanied by a large red 'X' stamp and text stating that ending in 0 means it is NEVER a Glint number.",
+     "Show the number 10 with its last digit '0' turning red and shaking, accompanied by the text 'Division by Zero is Impossible' to explicitly link the visual rejection of zero-ending numbers to the mathematical impossibility of dividing by zero."
+    ],
+    "s1": [
+     "Show the number 31 with the '1' pulsing green and text stating 'Ends in 1 = Always Glint'. Then show the number 27 with the '7' pulsing green, the equation '27 ÷ 7 = 3.85...' appearing with a red X, and text stating 'Ends in 7 is NOT always Glint'. This demonstrates that while ending in 1 guarantees a glint number, other endings do not.",
+     "Show the number 22 with the last digit '2' pulsing. Display the division equation '22 ÷ 2 = 11' with a green checkmark to demonstrate that it IS a Glint number, contrasting it with the failure case of 26 shown in s4.",
+     "Show the number 21 with its last digit '1' pulsing green and a checkmark, while simultaneously showing the number 24 with its last digit '4' pulsing green and a checkmark. State that both are Glint numbers to demonstrate that they can be odd or even, proving that being even is not a requirement."
+    ],
+    "s4": [
+     "Show the division '26 ÷ 6' resulting in a decimal (e.g., 4.33...), explicitly contrasting it with the whole number result of '24 ÷ 4 = 6' to demonstrate that the quotient must be a whole number."
+    ]
+   }
+  },
+  "seconds": 38
+ },
+ {
+  "topic": "Sorrel counts of lattice rectangles",
+  "base": {
+   "teachquiz": 12.5,
+   "teachquiz_clean": 12.5,
+   "none": 0.0,
+   "full": 12.5,
+   "evidence": 12.5,
+   "control_first_section": 12.5,
+   "control_other_topic": 0.0,
+   "mvqs": 80.02,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 25.0,
+   "teachquiz_clean": 25.0,
+   "none": 0.0,
+   "full": 25.0,
+   "evidence": 12.5,
+   "control_first_section": 12.5,
+   "control_other_topic": null,
+   "mvqs": 81.72,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 29.2,
+   "teachquiz_clean": 29.2,
+   "none": 0.0,
+   "full": 29.2,
+   "evidence": 8.3,
+   "control_first_section": 12.5,
+   "control_other_topic": null,
+   "mvqs": 73.84,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "learner_all": {
+   "teachquiz": 12.5,
+   "teachquiz_clean": 12.5,
+   "none": 0.0,
+   "full": 12.5,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 76.69,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "diagnosis": {
+   "gaps": [
+    "q2",
+    "q3",
+    "q5",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 8,
+   "fixes": {
+    "s2": [
+     "A visual breakdown showing that the top and bottom edges each contain (w+1) points and the left and right edges each contain (h+1) points, but because the four corner points are counted twice in this sum, you must subtract 4 to get the correct total of 2w + 2h + 4 - 4 = 2(w+h).",
+     "Show a 2x3 rectangle grid. Explicitly calculate interior points as (2-1)×(3-1) = 2 and edge points as 2×(2+3) = 10. Demonstrate the subtraction 2 - 10 to visually yield -8, correcting the claim that the count is 1.",
+     "Show a 5x2 rectangle grid. Visually count and display '6' for the interior points using the (w-1)×(h-1) rule, and '14' for the edge points using the 2×(w+h) rule. Then explicitly calculate 6 minus 14 to show the result is -8."
+    ],
+    "s4": [
+     "Show a 3x3 grid where the 4 interior points are counted as +4 and the 12 edge points are counted as -12, then visually combine them to result in a net value of -8."
+    ],
+    "s3": [
+     "Show two rectangles side-by-side: one labeled '4x2' with a calculated Sorrel Count of -6, and another labeled '2x4' with a calculated Sorrel Count of -6. Visually highlight that the final number is identical in both cases to demonstrate that swapping dimensions does not change the result.",
+     "Show two rectangles side-by-side: one labeled '4x2' and another '2x4'. Demonstrate that while the interior points (8 vs 1) and edge points (10 vs 14) change values, the final calculation (Inside minus Edge) results in the same number (-2) for both, proving that swapping dimensions does not change the count."
+    ]
+   }
+  },
+  "seconds": 637
+ },
+ {
+  "topic": "Quill distance",
+  "base": {
+   "teachquiz": 16.7,
+   "teachquiz_clean": 16.7,
+   "none": 0.0,
+   "full": 16.7,
+   "evidence": 16.7,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 85.01,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 16.7,
+   "teachquiz_clean": 16.7,
+   "none": 0.0,
+   "full": 16.7,
+   "evidence": 8.3,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 79.57,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s3"
+   ],
+   "kept_by_dev": false
+  },
+  "generic": {
+   "teachquiz": 16.7,
+   "teachquiz_clean": 16.7,
+   "none": 0.0,
+   "full": 16.7,
+   "evidence": 16.7,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 83.24,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s3"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 25.0,
+   "teachquiz_clean": 25.0,
+   "none": 0.0,
+   "full": 25.0,
+   "evidence": 25.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 76.74,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q6",
+    "q8",
+    "q9",
+    "q11"
+   ],
+   "dev": 11,
+   "fixes": {
+    "s1": [
+     "A visual path connecting (1, 1) and (1, 4) consisting of three vertical segments, with each segment labeled 'Cost: 2', summing to a total cost of 6.",
+     "Show a standard Manhattan distance grid where every step costs 1, then overlay the Quill distance path on top to visually demonstrate that while both use only horizontal and vertical steps (unlike Euclidean), the Quill distance 'stretches' or 'compresses' the vertical axis, making it an asymmetric variant of the Manhattan metric rather than a symmetric one like Euclidean.",
+     "Show two points with the same y-coordinate (e.g., (0,0) and (3,0)). Highlight that the vertical change is zero, so the vertical cost is 0. Show that only the horizontal distance remains. State: 'When you move only sideways, the cost is just the number of steps.' Then show the calculation: |3 - 0| + 2×|0 - 0| = 3 + 0 = 3."
+    ],
+    "s3": [
+     "Show a central point and explicitly calculate the cost for option B (4,0) as '4 + 0 = 4' to demonstrate it matches the target distance, while showing that other options like (2,1) result in '2 + 2 = 4' but are not the unique answer if the question implies a specific single correct choice among distractors, or more simply: Show the calculation for (4,0) resulting in 4, and for (2,1) resulting in 4, highlighting that both are valid candidates for distance 4, but since multiple choice questions usually have one best answer, check if there is a constraint. Wait, looking at the options: A(2,1) -> |2|+2|1|=4. B(4,0) -> |4|+2|0|=4. C(1,2) -> |1|+2|2|=5. D(3,1) -> |3|+2|1|=5. Both A and B have distance 4. This suggests the question might be flawed or I need to find a distinguishing feature. However, the prompt asks what is *missing* from the section that *should* have taught it. Section s3 teaches identifying points at distance 2. It shows (2,0), (-2,0), (0,1), (0,-1). It does NOT teach how to identify points at distance 4. The missing idea is the generalization of the 'shape' or set of points for a different distance value, specifically showing that horizontal movement scales linearly with the target distance while vertical movement is constrained by the factor of 2. Specifically, it should SHOW that to get a total cost of 4, one can move 4 units horizontally (cost 4) OR 2 units vertically (cost 4). It should SAY that 'Any point where the horizontal distance equals the target cost (if vertical is 0) or half the target cost (if horizontal is 0) is a candidate.' More precisely, it needs to show the calculation for a point with only horizontal displacement equal to the target distance."
+    ]
+   }
+  },
+  "seconds": 704
+ },
+ {
+  "topic": "Orbit words",
+  "base": {
+   "teachquiz": 79.2,
+   "teachquiz_clean": 79.2,
+   "none": 0.0,
+   "full": 79.2,
+   "evidence": 66.7,
+   "control_first_section": 37.5,
+   "control_other_topic": 0.0,
+   "mvqs": 87.88,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 87.5,
+   "teachquiz_clean": 87.5,
+   "none": 0.0,
+   "full": 87.5,
+   "evidence": 62.5,
+   "control_first_section": 25.0,
+   "control_other_topic": null,
+   "mvqs": 75.56,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3"
+   ],
+   "kept_by_dev": false
+  },
+  "generic": {
+   "teachquiz": 70.8,
+   "teachquiz_clean": 70.8,
+   "none": 0.0,
+   "full": 70.8,
+   "evidence": 70.8,
+   "control_first_section": 37.5,
+   "control_other_topic": null,
+   "mvqs": 87.69,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 62.5,
+   "teachquiz_clean": 62.5,
+   "none": 0.0,
+   "full": 62.5,
+   "evidence": 62.5,
+   "control_first_section": 25.0,
+   "control_other_topic": null,
+   "mvqs": 77.35,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q4",
+    "q6",
+    "q7",
+    "q8",
+    "q9",
+    "q11"
+   ],
+   "dev": 10,
+   "fixes": {
+    "s1": [
+     "A visual comparison showing that one input letter expands into two output letters for both rules, proving that every single character in the current word is replaced by a pair of characters in the next step.",
+     "SHOW a large 'Y' with a red 'X' through it, and SAY 'The process never begins with Y; it always starts with X.'",
+     "A visual comparison showing a word starting with 'Y' being crossed out next to the rule text 'Start from X', emphasizing that the process has no valid beginning if it does not start with X."
+    ],
+    "s3": [
+     "Show a visual comparison of the first letter of the current word and the first letter of the resulting word. Specifically, display an arrow from the 'X' at the start of 'XYY' to the 'X' at the start of the new block 'XYY', demonstrating that the starting character remains unchanged during this specific transformation.",
+     "Show the specific transformation of the first letter 'X' in 'XYYYXYX' becoming 'XYY', and explicitly highlight that this new 'X' is now the very first character of the resulting word."
+    ],
+    "s2": [
+     "A visual comparison showing that Step 0 contains only 'X' (zero Ys), while Step 1 immediately introduces two 'Y's, proving Y appears starting from the first rewrite."
+    ]
+   }
+  },
+  "seconds": 0
+ },
+ {
+  "topic": "Vells of 2×2 grids",
+  "base": {
+   "teachquiz": 25.0,
+   "teachquiz_clean": 25.0,
+   "none": 0.0,
+   "full": 25.0,
+   "evidence": 25.0,
+   "control_first_section": 50.0,
+   "control_other_topic": 0.0,
+   "mvqs": 85.01,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 25.0,
+   "teachquiz_clean": 25.0,
+   "none": 0.0,
+   "full": 25.0,
+   "evidence": 12.5,
+   "control_first_section": 25.0,
+   "control_other_topic": null,
+   "mvqs": 78.04,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "generic": {
+   "teachquiz": 25.0,
+   "teachquiz_clean": 25.0,
+   "none": 0.0,
+   "full": 25.0,
+   "evidence": 12.5,
+   "control_first_section": 50.0,
+   "control_other_topic": null,
+   "mvqs": 85.86,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "learner_all": {
+   "teachquiz": 29.2,
+   "teachquiz_clean": 29.2,
+   "none": 0.0,
+   "full": 29.2,
+   "evidence": 25.0,
+   "control_first_section": 50.0,
+   "control_other_topic": null,
+   "mvqs": 80.17,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q4",
+    "q6",
+    "q7",
+    "q8",
+    "q9",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 12,
+   "fixes": {
+    "s2": [
+     "Show the grid [[5, 2], [3, 1]]. Highlight '5' and '1' to multiply them into 5. Then subtract '2' to get 3, and finally subtract '3' to reveal the final answer 0.",
+     "A grid displaying [[10, 5], [2, 3]]. The numbers 10 and 3 pulse to show they are multiplied (resulting in 30). Then the number 5 is subtracted from 30 (showing 25), followed by the number 2 being subtracted from 25, resulting in the final answer 23.",
+     "A grid showing [[0, 5], [5, 0]]. The numbers 0 and 0 pulse and multiply to show 0. Then the number 5 is subtracted from 0, resulting in -5. Finally, the other number 5 is subtracted from -5, resulting in the final answer -10 displayed prominently."
+    ],
+    "s1": [
+     "A visual demonstration showing that subtracting zero leaves the previous number unchanged (e.g., '5 minus 0 is still 5'), applied to the specific calculation steps of a×d, then -b, then -c.",
+     "A visual comparison showing a grid where all four numbers are multiplied together (a×b×c×d) with a red 'X' over it, contrasted with the correct method highlighting only the diagonal pair (a and d) being multiplied while b and c remain as separate subtrahends.",
+     "SHOW a grid with labels [[a, b], [c, d]]. SAY 'The formula is a times d, then subtract b, and then subtract c.' SHOW the equation 'a × d - b - c' appearing next to the grid, explicitly displaying the two minus signs to indicate that both middle numbers are subtracted individually.",
+     "Show a grid where the final result is explicitly labeled as '0'. Then, visually rearrange the equation 'a×d - b - c = 0' by moving 'b' and 'c' to the right side of the equals sign, demonstrating that 'a×d' must equal 'b + c'."
+    ],
+    "s4": [
+     "Show two grids side-by-side: Grid 1 with b=1 and c=2, and Grid 2 with b=2 and c=1 (swapped positions). Display the formula for both as a×d - b - c. Visically highlight that in Grid 1 you subtract 1 then 2, and in Grid 2 you subtract 2 then 1. State that since subtraction order of these two terms does not change the result, swapping the middle numbers yields the same vell."
+    ]
+   }
+  },
+  "seconds": 795
+ },
+ {
+  "topic": "Dapple numbers",
+  "base": {
+   "teachquiz": 50.0,
+   "teachquiz_clean": 50.0,
+   "none": 0.0,
+   "full": 50.0,
+   "evidence": 50.0,
+   "control_first_section": 75.0,
+   "control_other_topic": 0.0,
+   "mvqs": 82.62,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 80.61,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2"
+   ],
+   "kept_by_dev": false
+  },
+  "generic": {
+   "teachquiz": 45.8,
+   "teachquiz_clean": 45.8,
+   "none": 0.0,
+   "full": 45.8,
+   "evidence": 33.3,
+   "control_first_section": 75.0,
+   "control_other_topic": null,
+   "mvqs": 82.71,
+   "sections_rendered": 4,
+   "changed": [
+    "s3"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 70.9,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q5",
+    "q6",
+    "q7",
+    "q8",
+    "q9",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 12,
+   "fixes": {
+    "s1": [
+     "Show the number '32'. Highlight the tens digit '3' and the units digit '2'. Animate a '>' symbol between them turning green. Display the text 'Tens > Units' to confirm 3 is strictly greater than 2.",
+     "Show the number '10'. Highlight the tens digit '1' and the units digit '0'. Display a green '>' symbol between them with the text '1 > 0', confirming it is Dapple. Then show '11' turning red with an '=' sign, proving that 10 is the smallest because any smaller two-digit number (like those starting with 0) is not a two-digit number.",
+     "Show the number '83' with its digits separated. Highlight the tens digit '8' and the units digit '3'. Animate a '>' symbol between them turning green, and display the text 'Tens > Units' to confirm it is Dapple.",
+     "Show a one-digit number like '7'. Explain that for any one-digit number, the tens digit is 0 and the units digit is the number itself. Show the comparison '0 > 7' which is false, proving it is not dapple.",
+     "Show the number '98' with its digits highlighted. Animate a comparison operator '>' between the tens digit '9' and the units digit '8', turning green to indicate true. Display the text 'Tens > Units' to confirm it meets the definition of a dapple number.",
+     "Show the number '50'. Highlight the tens digit '5' and the units digit '0'. Animate a '>' symbol between them turning green, with the text '5 > 0' appearing to confirm the condition."
+    ],
+    "s3": [
+     "Show the number '77' with its tens digit '7' and units digit '7' highlighted. Display an '=' sign between them to indicate they are equal, then turn the number red with the label 'Not Dapple (Tens = Units)'.",
+     "Show the number '44' with its tens digit and units digit highlighted. Display an equals sign between them to indicate they are equal, then mark it red with the label 'Not Dapple (Tens = Units)'.",
+     "Show the number '44' with an '=' sign between the digits, and show the number '10' with a '<' sign between its digits, labeling both as 'Not Dapple' to demonstrate that non-dapple numbers include cases where digits are equal or tens is less than units."
+    ],
+    "s4": [
+     "Show the number '31' turning green with the label 'Dapple'. Then show it splitting into '3' and '1', swapping to form '13', which turns red with the label 'Not Dapple (1 < 3)'.",
+     "Show a specific dapple number like 63. Visually demonstrate that because the tens digit (6) is greater than the units digit (3), swapping them creates 36, where the new tens digit (3) is less than the new units digit (6). Conclude that X must be greater than Y."
+    ],
+    "s2": [
+     "Show the number 0 separately from the multiples of 10. Display a single digit '0' with no tens place. State that because it lacks a tens digit, it cannot satisfy the condition 'Tens > Units', and mark it as 'Not Dapple'."
+    ]
+   }
+  },
+  "seconds": 3419
+ },
+ {
+  "topic": "Mirthful triangles",
+  "base": {
+   "teachquiz": 37.5,
+   "teachquiz_clean": 37.5,
+   "none": 0.0,
+   "full": 37.5,
+   "evidence": 37.5,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 85.12,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 50.0,
+   "teachquiz_clean": 50.0,
+   "none": 0.0,
+   "full": 50.0,
+   "evidence": 50.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 84.68,
+   "sections_rendered": 4,
+   "changed": [
+    "s2"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 25.0,
+   "teachquiz_clean": 25.0,
+   "none": 0.0,
+   "full": 25.0,
+   "evidence": 25.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 85.2,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "learner_all": {
+   "teachquiz": 20.8,
+   "teachquiz_clean": 20.8,
+   "none": 0.0,
+   "full": 20.8,
+   "evidence": 20.8,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 72.97,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q3",
+    "q5",
+    "q6",
+    "q7",
+    "q8",
+    "q9"
+   ],
+   "dev": 11,
+   "fixes": {
+    "s1": [
+     "Show a triangle with sides labeled 'a' (shortest) and 'c' (longest). Display the inequality '2 × c ≤ 3 × a'. Then, algebraically divide both sides by 2 to show 'c ≤ 1.5 × a', explicitly stating that this means the longest side must be no more than one and a half times the shortest side.",
+     "Show a triangle with sides labeled '10', '20', and '30'. Animate the text '2 × 30' on one side and '3 × 10' on the other, connected by the symbol '>'. Highlight that 60 is greater than 30 to indicate the condition fails.",
+     "Show a triangle with sides labeled '4', '10', and '12'. Identify '12' as the longest side and '4' as the shortest side. Animate the calculation '2 × 12' (which is 24) on one side of an inequality sign and '3 × 4' (which is 12) on the other side. Display the result '24 ≤ 12' in red with a cross, indicating the condition fails.",
+     "Show a triangle with sides labeled '5', '100', and '101'. Animate the text '2 × 101' appearing next to the longest side and '3 × 5' appearing next to the shortest side. Display the inequality '202 ≤ 15' in red, indicating the condition fails.",
+     "SHOW a triangle with sides labeled '10', '14', and '15' (identifying 15 as longest and 10 as shortest). SAY: 'Check the rule: Is 2 times the longest side at most 3 times the shortest side?' ANIMATE the calculation '2 × 15 ≤ 3 × 10' appearing, then resolve it to '30 ≤ 30'. PULSE the triangle green to indicate the condition holds.",
+     "Show a triangle with sides labeled '2', '3', and '4'. Animate the text '2 × 4' on one side of an inequality sign and '3 × 2' on the other. Display the comparison '8 ≤ 6' in red to show it is false, indicating the triangle is not mirthful."
+    ],
+    "s2": [
+     "Show an equilateral triangle with side length 'x'. Display the inequality '2 × x ≤ 3 × x' and simplify it to '2 ≤ 3', demonstrating that since 2 is less than 3, the condition holds true regardless of the side length."
+    ],
+    "s4": [
+     "Show two triangles with the same shortest and longest sides but different middle sides (e.g., 4, 5, 6 and 4, 2, 6), calculate '2 × longest' and '3 × shortest' for both to prove the inequality result is identical regardless of the middle value."
+    ]
+   }
+  },
+  "seconds": 5522
+ }
+]

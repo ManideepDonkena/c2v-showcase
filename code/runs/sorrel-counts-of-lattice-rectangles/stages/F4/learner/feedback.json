@@ -1,0 +1,29 @@
+{
+ "stage": "F4",
+ "mode": "learner",
+ "features": [
+  "gate",
+  "leak_gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s2": [
+   "The Sorrel Count is defined as the number of interior grid points minus the number of edge grid points for a w by h rectangle, calculated via the formula (w-1)(h-1) - 2(w+h). A key principle is that small rectangles yield negative counts because the edge term dominates the interior term. For instance, consider a 4 by 5 rectangle: it has (4-1)×(5-1) = 12 interior points and 2×(4+5) = 18 edge points. The Sorrel Count is 12 - 18 = -6, demonstrating that the count is negative for this dimension."
+  ]
+ },
+ "changed": [
+  "s2"
+ ],
+ "edit_size": {
+  "s2": 0.739
+ },
+ "diagnosis": "f4",
+ "dev_before": 0.9233176875,
+ "dev_after": 0.8735133125,
+ "mvqs_before": 80.02,
+ "mvqs_after": 79.83,
+ "kept": false,
+ "served": "base"
+}

@@ -1,0 +1,144 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -0.725,
+      6.253,
+      -0.408
+     ],
+     "name": "axes_labels",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      3.05,
+      1.064,
+      3.548
+     ],
+     "name": "axes_labels",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.0,
+      6.0,
+      3.0
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -0.725,
+      6.253,
+      -0.408
+     ],
+     "name": "axes_labels",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.275,
+      3.05,
+      1.064,
+      3.548
+     ],
+     "name": "axes_labels",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.0,
+      6.0,
+      8.0
+     ],
+     "name": "blue_curve",
+     "line": 17,
+     "type": "ParametricFunction"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "Mobject.__getattr__.<locals>.getter() got an unexpected keyword argument 'x_values'",
+  "line": 22
+ }
+}

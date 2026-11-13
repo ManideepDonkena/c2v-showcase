@@ -1,0 +1,29 @@
+[
+ {
+  "id": "s2",
+  "title": "The Solution: Parity Bits",
+  "teaches": "How Hamming codes insert parity bits at power-of-two positions to detect errors.",
+  "visual": "Four slots appear labeled P1, D1, P2, D2. Data bits '1' and '0' fill D1 and D2. Parity bits P1 and P2 are calculated and filled with '0' and '1' respectively, forming the codeword '0101'.",
+  "narration": "Hamming codes insert parity bits at positions that are powers of two. These bits check specific subsets of data to ensure integrity.",
+  "start": 0.0,
+  "end": 46.53
+ },
+ {
+  "id": "s3",
+  "title": "Detecting the Error",
+  "teaches": "Using syndrome calculation to locate the exact bit position of an error.",
+  "visual": "The codeword '0101' is transmitted, but the middle data bit flips again during transit. The receiver recalculates parity checks, showing three binary results (e.g., 1, 0, 1) that combine to form the decimal index '2', pointing to the error.",
+  "narration": "When the receiver checks the parity groups, any mismatch creates a syndrome. This binary pattern directly points to the exact position of the corrupted bit.",
+  "start": 46.53,
+  "end": 79.47
+ },
+ {
+  "id": "s4",
+  "title": "Correction and Recovery",
+  "teaches": "Flipping the identified bit restores the original message.",
+  "visual": "The cursor highlights the bit at index 2. It flips from '0' back to '1'. The final string is displayed as '101' with a green checkmark, confirming successful recovery.",
+  "narration": "By flipping the identified bit, we restore the original data. Hamming codes allow us not just to detect, but to correct single-bit errors automatically.",
+  "start": 79.47,
+  "end": 132.93
+ }
+]

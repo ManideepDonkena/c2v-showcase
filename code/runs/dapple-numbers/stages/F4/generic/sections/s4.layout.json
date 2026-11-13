@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 65.67,
+  "s_sp": 83.9,
+  "s_ly": 36.0,
+  "s_ed": 55.0,
+  "states": 12,
+  "states_with_conflict": 9
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 65.67,
+   "conflicts": 3
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"digit_5\" (created line 13, box [-0.548, -0.249, -0.25, 0.249]) overlaps MathTex \"num_52\" (line 11, box [-0.548, -0.257, 0.548, 0.257]) by 100%; moving it by [-0.45, 0.0] would clear it"
+  }
+ ]
+}

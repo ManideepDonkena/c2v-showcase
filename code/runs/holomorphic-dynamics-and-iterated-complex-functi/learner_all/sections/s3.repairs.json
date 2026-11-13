@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 10,
+  "scope": "line",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find julia_set.png at either of these locations: ['julia_set.png', 'julia_set.png', 'julia_set.png.jpg', 'julia_set.png.jpeg', 'julia_set.png.png', 'julia_set.png.gif', 'julia_set.png.ico']"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 9,
+  "scope": "block",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find julia_set.png at either of these locations: ['julia_set.png', 'julia_set.png', 'julia_set.png.jpg', 'julia_set.png.jpeg', 'julia_set.png.png', 'julia_set.png.gif', 'julia_set.png.ico']"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 9,
+  "scope": "section",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find julia_set.png at either of these locations: ['julia_set.png', 'julia_set.png', 'julia_set.png.jpg', 'julia_set.png.jpeg', 'julia_set.png.png', 'julia_set.png.gif', 'julia_set.png.ico']"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 10,
+  "scope": "section",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find julia_set.png at either of these locations: ['julia_set.png', 'julia_set.png', 'julia_set.png.jpg', 'julia_set.png.jpeg', 'julia_set.png.png', 'julia_set.png.gif', 'julia_set.png.ico']"
+ }
+]

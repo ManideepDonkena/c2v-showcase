@@ -1,0 +1,26 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.607,
+      3.116,
+      3.607,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "UnboundLocalError",
+  "message": "cannot access local variable 'digit_1' where it is not associated with a value",
+  "line": 30
+ }
+}

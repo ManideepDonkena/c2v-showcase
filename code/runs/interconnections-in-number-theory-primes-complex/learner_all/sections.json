@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "The Prime Landscape",
+  "teaches": "Visualizing the distribution of prime numbers and their apparent randomness.",
+  "visual": "A vertical bar chart where bars represent integers, colored red if prime and gray otherwise. The bars animate upward sequentially from 1 to 50, revealing a jagged, irregular skyline that defies simple geometric patterns.",
+  "narration": "At first glance, prime numbers appear chaotic, scattered without an obvious rhythm along the number line. Yet, beneath this apparent disorder lies a deep structure waiting to be uncovered by complex analysis.",
+  "start": 0.0,
+  "end": 39.0
+ },
+ {
+  "id": "s2",
+  "title": "The Complex Bridge",
+  "teaches": "Introducing the Riemann Zeta function as the tool linking primes to complex geometry.",
+  "visual": "The number line dissolves into a 3D complex plane. A grid of points forms, and a smooth surface representing the Zeta function $ζ(s)$ rises above it. Key 'zeros' glow brightly on the critical line Re(s)=1/2, acting as anchors for the prime distribution.",
+  "narration": "By extending our view into the complex plane, we discover the Riemann Zeta function. Its hidden zeros act as harmonics, encoding the precise statistical behavior of primes in ways real numbers alone cannot.",
+  "start": 39.0,
+  "end": 61.27
+ },
+ {
+  "id": "s3",
+  "title": "Euler's Identity",
+  "teaches": "Demonstrating Euler's product formula connecting infinite products of primes to the Zeta function.",
+  "visual": "The equation $ζ(s) = ∏ (1 - p^{-s})^{-1}$ appears. Each prime $p$ on the right side pulses and connects via animated lines to the left side, showing how every prime contributes multiplicatively to the global function.",
+  "narration": "Euler revealed that the sum of reciprocals is actually a product over all primes. This identity proves that primes are not just isolated points, but fundamental building blocks woven into the fabric of analytic functions.",
+  "start": 61.27,
+  "end": 88.47
+ },
+ {
+  "id": "s4",
+  "title": "The Circle Constant",
+  "teaches": "Showing how $π$ emerges from prime sums via the Basel problem.",
+  "visual": "The Zeta function value at $s=2$ zooms in. The sum $1 + 1/4 + 1/9 + ...$ converges visually to a circle's area formula involving $π^2$. A circle expands and contracts, syncing with the convergence of the prime-related series.",
+  "narration": "In a stunning twist, summing the reciprocals of squares yields $π^2/6$, linking discrete primes to the continuous geometry of circles. This reveals that $π$, primes, and complex analysis are deeply intertwined in a single mathematical truth.",
+  "start": 88.47,
+  "end": 124.0
+ }
+]

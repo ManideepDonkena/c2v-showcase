@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 79.29,
+  "s_sp": 87.5,
+  "s_ly": 53.3,
+  "s_ed": 82.9,
+  "states": 14,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 66.99,
+   "conflicts": 8
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.59,
+   "conflict": "Arrow \"B\" (created line 14, box [0.0, 2.0, 3.0, 5.0]) overlaps Text \"title\" (line 6, box [-1.85, 3.116, 1.85, 3.5]) by 50%; moving it by [0.0, -2.03] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.48,
+   "conflict": "MathTex \"B_label\" (created line 19, box [3.1, 5.1, 3.456, 5.44]) is outside the frame; shift it by [0.0, -1.59]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.29,
+   "conflict": "Arrow \"C\" (created line 26, box [-3.0, -1.0, 3.0, 5.0]) is outside the frame; shift it by [0.0, -1.15]"
+  }
+ ]
+}

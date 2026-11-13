@@ -1,0 +1,1079 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 48,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.011,
+      3.0,
+      1.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      10.0,
+      1.0
+     ],
+     "name": "freq_spectrum",
+     "line": 17,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.011,
+      3.0,
+      1.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      10.0,
+      1.0
+     ],
+     "name": "freq_spectrum",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      -2.0,
+      0.779
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      10.0,
+      0.0
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      1.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      10.0,
+      1.0
+     ],
+     "name": "freq_spectrum",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      -2.5,
+      0.939
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      30.0,
+      0.016
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      1.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      10.0,
+      1.0
+     ],
+     "name": "freq_spectrum",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      -2.5,
+      0.939
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      30.0,
+      0.016
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      -3.5,
+      2.912,
+      -3.191
+     ],
+     "name": "text1",
+     "line": 71,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      1.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      10.0,
+      1.0
+     ],
+     "name": "freq_spectrum",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      -2.5,
+      0.939
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      30.0,
+      0.016
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      1.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.405,
+      10.0,
+      1.0
+     ],
+     "name": "freq_spectrum",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      -2.9,
+      0.998
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      190.0,
+      0.405
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 83,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      1.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.405,
+      10.0,
+      1.0
+     ],
+     "name": "freq_spectrum",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      -2.9,
+      0.998
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      190.0,
+      0.405
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.06,
+      3.27,
+      2.06,
+      3.5
+     ],
+     "name": "num_example",
+     "line": 81,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 85,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      1.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.405,
+      10.0,
+      1.0
+     ],
+     "name": "freq_spectrum",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      -2.9,
+      0.998
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      190.0,
+      0.405
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 88,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.755,
+      3.0,
+      1.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      10.0,
+      1.0
+     ],
+     "name": "freq_spectrum",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      1.0,
+      0.018
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      -5.0,
+      0.0
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 91,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.755,
+      3.0,
+      1.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      10.0,
+      1.0
+     ],
+     "name": "freq_spectrum",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      1.0,
+      0.018
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      -5.0,
+      0.0
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.164,
+      -3.5,
+      1.164,
+      -3.259
+     ],
+     "name": "text2",
+     "line": 90,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.755,
+      3.0,
+      1.0
+     ],
+     "name": "time_pulse",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      10.0,
+      1.0
+     ],
+     "name": "freq_spectrum",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      1.0,
+      0.018
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      -5.0,
+      0.0
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 122,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      1.0,
+      0.018
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      -5.0,
+      0.0
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 127,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      1.0,
+      0.018
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      -5.0,
+      0.0
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.274,
+      3.243,
+      2.274,
+      3.5
+     ],
+     "name": "comp_text",
+     "line": 126,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 131,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      1.0,
+      0.018
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      -5.0,
+      0.0
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 143,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      1.0,
+      0.018
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      -5.0,
+      0.0
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "brick_filter",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      -0.217,
+      10.0,
+      1.0
+     ],
+     "name": "sinc_pulse",
+     "line": 137,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 149,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      1.0,
+      0.018
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      -5.0,
+      0.0
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "brick_filter",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      -0.217,
+      10.0,
+      1.0
+     ],
+     "name": "sinc_pulse",
+     "line": 137,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.106,
+      2.738,
+      1.106,
+      3.5
+     ],
+     "name": "final_eq",
+     "line": 147,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 153,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      1.0,
+      0.018
+     ],
+     "name": "area_time",
+     "line": 11,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      0.0,
+      -5.0,
+      0.0
+     ],
+     "name": "area_freq",
+     "line": 58,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "brick_filter",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -10.0,
+      -0.217,
+      10.0,
+      1.0
+     ],
+     "name": "sinc_pulse",
+     "line": 137,
+     "type": "ParametricFunction"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

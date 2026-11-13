@@ -1,0 +1,519 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 16,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "i_vec",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      0.25,
+      0.175,
+      1.75
+     ],
+     "name": "j_vec",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.72,
+      -0.423,
+      1.78,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.33,
+      1.639,
+      -0.25,
+      1.861
+     ],
+     "name": "j_label",
+     "line": 14,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "i_vec",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      0.25,
+      0.175,
+      1.75
+     ],
+     "name": "j_vec",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.72,
+      -0.423,
+      1.78,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.33,
+      1.639,
+      -0.25,
+      1.861
+     ],
+     "name": "j_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.139,
+      0.208,
+      1.861,
+      2.792
+     ],
+     "name": "v_vec",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.111,
+      3.042,
+      3.292,
+      3.265
+     ],
+     "name": "v_label",
+     "line": 16,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "i_vec",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      0.25,
+      0.175,
+      1.75
+     ],
+     "name": "j_vec",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.72,
+      -0.423,
+      1.78,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.33,
+      1.639,
+      -0.25,
+      1.861
+     ],
+     "name": "j_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.139,
+      0.208,
+      1.861,
+      2.792
+     ],
+     "name": "v_vec",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.111,
+      3.042,
+      3.292,
+      3.265
+     ],
+     "name": "v_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "v_comp_i",
+     "line": 22,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.825,
+      0.25,
+      2.175,
+      2.75
+     ],
+     "name": "v_comp_j",
+     "line": 27,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "i_vec",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      0.25,
+      0.175,
+      1.75
+     ],
+     "name": "j_vec",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.72,
+      -0.423,
+      1.78,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.33,
+      1.639,
+      -0.25,
+      1.861
+     ],
+     "name": "j_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.139,
+      0.208,
+      1.861,
+      2.792
+     ],
+     "name": "v_vec",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.111,
+      3.042,
+      3.292,
+      3.265
+     ],
+     "name": "v_label",
+     "line": 16,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "i_vec",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      0.25,
+      0.175,
+      1.75
+     ],
+     "name": "j_vec",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.72,
+      -0.423,
+      1.78,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.33,
+      1.639,
+      -0.25,
+      1.861
+     ],
+     "name": "j_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.139,
+      0.208,
+      1.861,
+      2.792
+     ],
+     "name": "v_vec",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.111,
+      3.042,
+      3.292,
+      3.265
+     ],
+     "name": "v_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.975,
+      -0.666,
+      -2.206,
+      0.666
+     ],
+     "name": "A",
+     "line": 32,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.206,
+      -0.119,
+      -0.971,
+      0.119
+     ],
+     "name": "A_label",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.029,
+      -0.666,
+      2.79,
+      0.666
+     ],
+     "name": "B",
+     "line": 36,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.79,
+      -0.119,
+      3.975,
+      0.119
+     ],
+     "name": "B_label",
+     "line": 38,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "NameError",
+  "message": "name 'ShowCreation' is not defined",
+  "line": 54
+ }
+}

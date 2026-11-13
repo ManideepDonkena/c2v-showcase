@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 54.9,
+  "s_sp": 57.7,
+  "s_ly": 61.4,
+  "s_ed": 45.8,
+  "states": 24,
+  "states_with_conflict": 21
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 53.9,
+   "conflicts": 9
+  },
+  {
+   "level": "shift",
+   "mvqs": 54.9,
+   "conflict": "NumberLine \"number_line\" (created line 12, box [-35.167, -0.78, 35.167, -0.22]) is outside the frame; shift it by [28.21, 0.0]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "NumberLine \"number_line\" (created line 12, box [-6.957, -0.78, 63.377, -0.22]) is outside the frame; shift it by [-56.42, 0.0]"
+  }
+ ]
+}

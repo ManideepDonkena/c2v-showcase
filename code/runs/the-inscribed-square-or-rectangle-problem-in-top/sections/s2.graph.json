@@ -1,0 +1,875 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.782,
+      2.5,
+      1.782
+     ],
+     "name": "curve",
+     "line": 12,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.782,
+      2.5,
+      1.782
+     ],
+     "name": "curve",
+     "line": 12,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "square",
+     "line": 26,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.782,
+      2.5,
+      1.782
+     ],
+     "name": "curve",
+     "line": 12,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "square",
+     "line": 26,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      1.1,
+      1.332,
+      1.307
+     ],
+     "name": "labels",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.9,
+      1.1,
+      -0.662,
+      1.307
+     ],
+     "name": "labels",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.9,
+      -0.9,
+      -0.66,
+      -0.689
+     ],
+     "name": "labels",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      -0.9,
+      1.342,
+      -0.693
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.782,
+      2.5,
+      1.782
+     ],
+     "name": "curve",
+     "line": 12,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.0,
+      1.5,
+      1.0
+     ],
+     "name": "square",
+     "line": 26,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      1.1,
+      1.332,
+      1.307
+     ],
+     "name": "labels",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.9,
+      1.1,
+      -0.662,
+      1.307
+     ],
+     "name": "labels",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.9,
+      -0.9,
+      -0.66,
+      -0.689
+     ],
+     "name": "labels",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      -0.9,
+      1.342,
+      -0.693
+     ],
+     "name": "label",
+     "line": 34,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.782,
+      2.5,
+      1.782
+     ],
+     "name": "curve",
+     "line": 12,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.0,
+      1.5,
+      1.0
+     ],
+     "name": "square",
+     "line": 26,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.782,
+      2.5,
+      1.782
+     ],
+     "name": "curve",
+     "line": 12,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.0,
+      1.5,
+      1.0
+     ],
+     "name": "square",
+     "line": 26,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.6,
+      1.1,
+      1.832,
+      1.307
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.4,
+      1.1,
+      -1.162,
+      1.307
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.4,
+      -0.9,
+      -1.16,
+      -0.689
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.6,
+      -0.9,
+      1.842,
+      -0.693
+     ],
+     "name": "label",
+     "line": 52,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.782,
+      2.5,
+      1.782
+     ],
+     "name": "curve",
+     "line": 12,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.0,
+      1.5,
+      1.0
+     ],
+     "name": "square",
+     "line": 26,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.6,
+      1.1,
+      1.832,
+      1.307
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.4,
+      1.1,
+      -1.162,
+      1.307
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.4,
+      -0.9,
+      -1.16,
+      -0.689
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.6,
+      -0.9,
+      1.842,
+      -0.693
+     ],
+     "name": "label",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.15,
+      0.7,
+      -1.85,
+      1.0
+     ],
+     "name": "labels",
+     "line": 32,
+     "type": "Angle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.85,
+      -1.3,
+      -1.55,
+      -1.0
+     ],
+     "name": "right_angles",
+     "line": 34,
+     "type": "Angle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.15,
+      -1.0,
+      1.45,
+      -0.7
+     ],
+     "name": "right_angles",
+     "line": 62,
+     "type": "Angle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.85,
+      1.0,
+      1.15,
+      1.3
+     ],
+     "name": "angle",
+     "line": 62,
+     "type": "Angle"
+    }
+   ]
+  },
+  {
+   "after_line": 78,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.782,
+      2.5,
+      1.782
+     ],
+     "name": "curve",
+     "line": 12,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.0,
+      1.5,
+      1.0
+     ],
+     "name": "square",
+     "line": 26,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.6,
+      1.1,
+      1.832,
+      1.307
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.4,
+      1.1,
+      -1.162,
+      1.307
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.4,
+      -0.9,
+      -1.16,
+      -0.689
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.6,
+      -0.9,
+      1.842,
+      -0.693
+     ],
+     "name": "label",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.15,
+      0.7,
+      -1.85,
+      1.0
+     ],
+     "name": "labels",
+     "line": 32,
+     "type": "Angle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.85,
+      -1.3,
+      -1.55,
+      -1.0
+     ],
+     "name": "right_angles",
+     "line": 34,
+     "type": "Angle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.15,
+      -1.0,
+      1.45,
+      -0.7
+     ],
+     "name": "right_angles",
+     "line": 62,
+     "type": "Angle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.85,
+      1.0,
+      1.15,
+      1.3
+     ],
+     "name": "angle",
+     "line": 62,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.243,
+      -5.375,
+      3.5
+     ],
+     "name": "four_points",
+     "line": 75,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.656,
+      3.166,
+      6.611,
+      3.5
+     ],
+     "name": "right_angles_text",
+     "line": 34,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 85,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.782,
+      2.5,
+      1.782
+     ],
+     "name": "curve",
+     "line": 12,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -1.0,
+      1.5,
+      1.0
+     ],
+     "name": "square",
+     "line": 26,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.6,
+      1.1,
+      1.832,
+      1.307
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.4,
+      1.1,
+      -1.162,
+      1.307
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.4,
+      -0.9,
+      -1.16,
+      -0.689
+     ],
+     "name": "labels",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.6,
+      -0.9,
+      1.842,
+      -0.693
+     ],
+     "name": "label",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.15,
+      0.7,
+      -1.85,
+      1.0
+     ],
+     "name": "labels",
+     "line": 32,
+     "type": "Angle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.85,
+      -1.3,
+      -1.55,
+      -1.0
+     ],
+     "name": "right_angles",
+     "line": 34,
+     "type": "Angle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.15,
+      -1.0,
+      1.45,
+      -0.7
+     ],
+     "name": "right_angles",
+     "line": 62,
+     "type": "Angle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.85,
+      1.0,
+      1.15,
+      1.3
+     ],
+     "name": "angle",
+     "line": 62,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.243,
+      -5.375,
+      3.5
+     ],
+     "name": "four_points",
+     "line": 75,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.656,
+      3.166,
+      6.611,
+      3.5
+     ],
+     "name": "right_angles_text",
+     "line": 34,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.628,
+      -3.5,
+      4.628,
+      -3.166
+     ],
+     "name": "theorem",
+     "line": 78,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 89,
+   "objects": []
+  }
+ ],
+ "error": null
+}

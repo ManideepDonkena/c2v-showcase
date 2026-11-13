@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 18,
+  "scope": "line",
+  "error": "ntent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg at either of these locations: ['https:/raw.githubusercontent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg', 'https:/raw.githubusercontent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg', 'https:/raw.githubusercontent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg.svg']"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 18,
+  "scope": "block",
+  "error": "ntent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg at either of these locations: ['https:/raw.githubusercontent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg', 'https:/raw.githubusercontent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg', 'https:/raw.githubusercontent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg.svg']"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 18,
+  "scope": "section",
+  "error": "ntent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg at either of these locations: ['https:/raw.githubusercontent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg', 'https:/raw.githubusercontent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg', 'https:/raw.githubusercontent.com/ManimCommunity/manim/master/docs/source/_static/lightning.svg.svg']"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 18,
+  "scope": "section",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find assets/lightning.svg at either of these locations: ['assets/lightning.svg', 'assets/lightning.svg', 'assets/lightning.svg.svg']"
+ }
+]

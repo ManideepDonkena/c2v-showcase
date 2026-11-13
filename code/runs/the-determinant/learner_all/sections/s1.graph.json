@@ -1,0 +1,4297 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.5,
+      0.5,
+      0.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.5,
+      0.5,
+      0.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec1",
+     "line": 67,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec2",
+     "line": 68,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.0
+     ],
+     "name": "zero_area",
+     "line": 69,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec1",
+     "line": 67,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec2",
+     "line": 68,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.0
+     ],
+     "name": "zero_area",
+     "line": 69,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      0.0,
+      5.0,
+      0.0
+     ],
+     "name": "line1",
+     "line": 74,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      1.0,
+      5.0,
+      1.0
+     ],
+     "name": "line2",
+     "line": 75,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec1",
+     "line": 67,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec2",
+     "line": 68,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.0
+     ],
+     "name": "zero_area",
+     "line": 69,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      0.0,
+      5.0,
+      0.0
+     ],
+     "name": "line1",
+     "line": 74,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      1.0,
+      5.0,
+      1.0
+     ],
+     "name": "line2",
+     "line": 75,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.5,
+      -5.25,
+      -2.521
+     ],
+     "name": "mat1",
+     "line": 80,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.609,
+      -4.736,
+      -5.252,
+      -3.75
+     ],
+     "name": "mat2",
+     "line": 81,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 85,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec1",
+     "line": 67,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec2",
+     "line": 68,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.0
+     ],
+     "name": "zero_area",
+     "line": 69,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      0.0,
+      5.0,
+      0.0
+     ],
+     "name": "line1",
+     "line": 74,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      1.0,
+      5.0,
+      1.0
+     ],
+     "name": "line2",
+     "line": 75,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.5,
+      -5.25,
+      -2.521
+     ],
+     "name": "mat1",
+     "line": 80,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.609,
+      -4.736,
+      -5.252,
+      -3.75
+     ],
+     "name": "mat2",
+     "line": 81,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.0,
+      -3.098,
+      -4.025,
+      -2.923
+     ],
+     "name": "det1",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.002,
+      -4.331,
+      -4.027,
+      -4.155
+     ],
+     "name": "det2",
+     "line": 84,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 90,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec1",
+     "line": 67,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec2",
+     "line": 68,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.0
+     ],
+     "name": "zero_area",
+     "line": 69,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      0.0,
+      5.0,
+      0.0
+     ],
+     "name": "line1",
+     "line": 74,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      1.0,
+      5.0,
+      1.0
+     ],
+     "name": "line2",
+     "line": 75,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.5,
+      -5.25,
+      -2.521
+     ],
+     "name": "mat1",
+     "line": 80,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.609,
+      -4.736,
+      -5.252,
+      -3.75
+     ],
+     "name": "mat2",
+     "line": 81,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.0,
+      -3.098,
+      -4.025,
+      -2.923
+     ],
+     "name": "det1",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.002,
+      -4.331,
+      -4.027,
+      -4.155
+     ],
+     "name": "det2",
+     "line": 84,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      -3.5,
+      6.611,
+      -2.514
+     ],
+     "name": "neg_matrix",
+     "line": 85,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 92,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec1",
+     "line": 67,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec2",
+     "line": 68,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.0
+     ],
+     "name": "zero_area",
+     "line": 69,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      0.0,
+      5.0,
+      0.0
+     ],
+     "name": "line1",
+     "line": 74,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      1.0,
+      5.0,
+      1.0
+     ],
+     "name": "line2",
+     "line": 75,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.5,
+      -5.25,
+      -2.521
+     ],
+     "name": "mat1",
+     "line": 80,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.609,
+      -4.736,
+      -5.252,
+      -3.75
+     ],
+     "name": "mat2",
+     "line": 81,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.0,
+      -3.098,
+      -4.025,
+      -2.923
+     ],
+     "name": "det1",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.002,
+      -4.331,
+      -4.027,
+      -4.155
+     ],
+     "name": "det2",
+     "line": 84,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      -3.5,
+      6.611,
+      -2.514
+     ],
+     "name": "neg_matrix",
+     "line": 85,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.446,
+      -3.926,
+      6.413,
+      -3.75
+     ],
+     "name": "neg_det",
+     "line": 91,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 100,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec1",
+     "line": 67,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec2",
+     "line": 68,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.0
+     ],
+     "name": "zero_area",
+     "line": 69,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      0.0,
+      5.0,
+      0.0
+     ],
+     "name": "line1",
+     "line": 74,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      1.0,
+      5.0,
+      1.0
+     ],
+     "name": "line2",
+     "line": 75,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.5,
+      -5.25,
+      -2.521
+     ],
+     "name": "mat1",
+     "line": 80,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.609,
+      -4.736,
+      -5.252,
+      -3.75
+     ],
+     "name": "mat2",
+     "line": 81,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.0,
+      -3.098,
+      -4.025,
+      -2.923
+     ],
+     "name": "det1",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.002,
+      -4.331,
+      -4.027,
+      -4.155
+     ],
+     "name": "det2",
+     "line": 84,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      -3.5,
+      6.611,
+      -2.514
+     ],
+     "name": "neg_matrix",
+     "line": 85,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.446,
+      -3.926,
+      6.413,
+      -3.75
+     ],
+     "name": "neg_det",
+     "line": 91,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -0.49,
+      -5.275,
+      0.49
+     ],
+     "name": "sum_matrix",
+     "line": 99,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 105,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec1",
+     "line": 67,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec2",
+     "line": 68,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.0
+     ],
+     "name": "zero_area",
+     "line": 69,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      0.0,
+      5.0,
+      0.0
+     ],
+     "name": "line1",
+     "line": 74,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      1.0,
+      5.0,
+      1.0
+     ],
+     "name": "line2",
+     "line": 75,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.5,
+      -5.25,
+      -2.521
+     ],
+     "name": "mat1",
+     "line": 80,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.609,
+      -4.736,
+      -5.252,
+      -3.75
+     ],
+     "name": "mat2",
+     "line": 81,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.0,
+      -3.098,
+      -4.025,
+      -2.923
+     ],
+     "name": "det1",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.002,
+      -4.331,
+      -4.027,
+      -4.155
+     ],
+     "name": "det2",
+     "line": 84,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      -3.5,
+      6.611,
+      -2.514
+     ],
+     "name": "neg_matrix",
+     "line": 85,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.446,
+      -3.926,
+      6.413,
+      -3.75
+     ],
+     "name": "neg_det",
+     "line": 91,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -0.49,
+      -5.275,
+      0.49
+     ],
+     "name": "sum_matrix",
+     "line": 99,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      -0.49,
+      6.611,
+      0.49
+     ],
+     "name": "tri_matrix",
+     "line": 104,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 107,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec1",
+     "line": 67,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec2",
+     "line": 68,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.0
+     ],
+     "name": "zero_area",
+     "line": 69,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      0.0,
+      5.0,
+      0.0
+     ],
+     "name": "line1",
+     "line": 74,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      1.0,
+      5.0,
+      1.0
+     ],
+     "name": "line2",
+     "line": 75,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.5,
+      -5.25,
+      -2.521
+     ],
+     "name": "mat1",
+     "line": 80,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.609,
+      -4.736,
+      -5.252,
+      -3.75
+     ],
+     "name": "mat2",
+     "line": 81,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.0,
+      -3.098,
+      -4.025,
+      -2.923
+     ],
+     "name": "det1",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.002,
+      -4.331,
+      -4.027,
+      -4.155
+     ],
+     "name": "det2",
+     "line": 84,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      -3.5,
+      6.611,
+      -2.514
+     ],
+     "name": "neg_matrix",
+     "line": 85,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.446,
+      -3.926,
+      6.413,
+      -3.75
+     ],
+     "name": "neg_det",
+     "line": 91,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -0.49,
+      -5.275,
+      0.49
+     ],
+     "name": "sum_matrix",
+     "line": 99,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      -0.49,
+      6.611,
+      0.49
+     ],
+     "name": "tri_matrix",
+     "line": 104,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.538,
+      -0.918,
+      6.321,
+      -0.74
+     ],
+     "name": "det_tri",
+     "line": 106,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 114,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec1",
+     "line": 67,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec2",
+     "line": 68,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.0
+     ],
+     "name": "zero_area",
+     "line": 69,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      0.0,
+      5.0,
+      0.0
+     ],
+     "name": "line1",
+     "line": 74,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      1.0,
+      5.0,
+      1.0
+     ],
+     "name": "line2",
+     "line": 75,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.5,
+      -5.25,
+      -2.521
+     ],
+     "name": "mat1",
+     "line": 80,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.609,
+      -4.736,
+      -5.252,
+      -3.75
+     ],
+     "name": "mat2",
+     "line": 81,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.0,
+      -3.098,
+      -4.025,
+      -2.923
+     ],
+     "name": "det1",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.002,
+      -4.331,
+      -4.027,
+      -4.155
+     ],
+     "name": "det2",
+     "line": 84,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      -3.5,
+      6.611,
+      -2.514
+     ],
+     "name": "neg_matrix",
+     "line": 85,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.446,
+      -3.926,
+      6.413,
+      -3.75
+     ],
+     "name": "neg_det",
+     "line": 91,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -0.49,
+      -5.275,
+      0.49
+     ],
+     "name": "sum_matrix",
+     "line": 99,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      -0.49,
+      6.611,
+      0.49
+     ],
+     "name": "tri_matrix",
+     "line": 104,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.538,
+      -0.918,
+      6.321,
+      -0.74
+     ],
+     "name": "det_tri",
+     "line": 106,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "swap_vec1",
+     "line": 111,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "swap_vec2",
+     "line": 112,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.75
+     ],
+     "name": "swapped_square",
+     "line": 113,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 119,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      1.5,
+      1.5,
+      2.5
+     ],
+     "name": "square",
+     "line": 11,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "j_hat",
+     "line": 14,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.945,
+      -0.488,
+      1.055,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.386,
+      0.857,
+      -0.25,
+      1.143
+     ],
+     "name": "j_label",
+     "line": 16,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.358,
+      -5.023,
+      3.5
+     ],
+     "name": "transform",
+     "line": 23,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.718,
+      -3.5,
+      0.718,
+      -3.274
+     ],
+     "name": "area_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.189,
+      -3.024,
+      2.189,
+      -2.775
+     ],
+     "name": "det_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      2.514,
+      6.611,
+      3.5
+     ],
+     "name": "B_matrix",
+     "line": 46,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      1.285,
+      6.611,
+      2.264
+     ],
+     "name": "A_matrix",
+     "line": 47,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.341,
+      2.015,
+      6.518,
+      2.264
+     ],
+     "name": "det_B",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      0.786,
+      6.507,
+      1.035
+     ],
+     "name": "det_A",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.169,
+      -2.63,
+      1.169,
+      -2.381
+     ],
+     "name": "rot_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec1",
+     "line": 67,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "vec2",
+     "line": 68,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.0
+     ],
+     "name": "zero_area",
+     "line": 69,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      0.0,
+      5.0,
+      0.0
+     ],
+     "name": "line1",
+     "line": 74,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.0,
+      1.0,
+      5.0,
+      1.0
+     ],
+     "name": "line2",
+     "line": 75,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.5,
+      -5.25,
+      -2.521
+     ],
+     "name": "mat1",
+     "line": 80,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.609,
+      -4.736,
+      -5.252,
+      -3.75
+     ],
+     "name": "mat2",
+     "line": 81,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.0,
+      -3.098,
+      -4.025,
+      -2.923
+     ],
+     "name": "det1",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.002,
+      -4.331,
+      -4.027,
+      -4.155
+     ],
+     "name": "det2",
+     "line": 84,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      -3.5,
+      6.611,
+      -2.514
+     ],
+     "name": "neg_matrix",
+     "line": 85,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.446,
+      -3.926,
+      6.413,
+      -3.75
+     ],
+     "name": "neg_det",
+     "line": 91,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -0.49,
+      -5.275,
+      0.49
+     ],
+     "name": "sum_matrix",
+     "line": 99,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.248,
+      -0.49,
+      6.611,
+      0.49
+     ],
+     "name": "tri_matrix",
+     "line": 104,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.538,
+      -0.918,
+      6.321,
+      -0.74
+     ],
+     "name": "det_tri",
+     "line": 106,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "swap_vec1",
+     "line": 111,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "swap_vec2",
+     "line": 112,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      0.75,
+      0.75
+     ],
+     "name": "swapped_square",
+     "line": 113,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.09,
+      -3.5,
+      4.09,
+      -3.166
+     ],
+     "name": "final_text",
+     "line": 118,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 122,
+   "objects": []
+  }
+ ],
+ "error": null
+}

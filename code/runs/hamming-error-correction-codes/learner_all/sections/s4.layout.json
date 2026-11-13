@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 81.76,
+  "s_sp": 95.9,
+  "s_ly": 31.4,
+  "s_ed": 91.7,
+  "states": 29,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 74.08,
+   "conflicts": 11
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.17,
+   "conflict": "Rectangle \"highlight\" (created line 18, box [-6.451, 3.037, -6.151, 3.637]) overlaps Text \"codeword\" (line 13, box [-6.611, 3.166, -4.613, 3.5]) by 55%; moving it by [-0.61, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.03,
+   "conflict": "Text \"hamming\" (created line 54, box [-6.611, 3.166, -0.29, 3.5]) overlaps Text \"title\" (line 6, box [-2.937, 3.0, 2.937, 3.5]) by 41%; moving it by [0.0, 0.48] would clear it"
+  },
+  {
+   "level": "section",
+   "mvqs": 81.76,
+   "conflict": "Text \"None\" (created line 69, box [-3.145, 2.9, -2.855, 3.1]) overlaps Text \"title\" (line 6, box [-2.937, 3.0, 2.937, 3.5]) by 14%; moving it by [-0.23, 0.0] would clear it"
+  }
+ ]
+}

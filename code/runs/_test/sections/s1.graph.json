@@ -1,0 +1,116 @@
+{
+ "states": [
+  {
+   "after_line": 10,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.421,
+      3.0,
+      1.421,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 12,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.421,
+      3.0,
+      1.421,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "box",
+     "line": 7,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.15,
+      -0.171,
+      2.33,
+      0.171
+     ],
+     "name": "label",
+     "line": 8,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.421,
+      3.0,
+      1.421,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "box",
+     "line": 7,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.15,
+      -0.171,
+      2.33,
+      0.171
+     ],
+     "name": "label",
+     "line": 8,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.292,
+      -1.45,
+      3.292,
+      -1.15
+     ],
+     "name": "note",
+     "line": 9,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

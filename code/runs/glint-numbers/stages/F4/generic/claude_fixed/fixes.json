@@ -1,0 +1,154 @@
+{
+ "topic": "Glint numbers",
+ "sections": [
+  {
+   "id": "s1",
+   "before": {
+    "mvqs": 88.8,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3857,
+      "output_tokens": 1890
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDL15hL6ycHUv9rF6Yk"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "rule / example / not_glint texts shifted 0.82–0.91 UP from the origin",
+     "change": "These texts touched or overlapped the top of the large '21'. They are now placed below the number with next_to(num, DOWN, buff=0.6), in the free space left after the definition fades out."
+    },
+    {
+     "kind": "crowded",
+     "where": "first narration line at the bottom edge",
+     "change": "The line nearly spans the full frame width, so it is now capped with scale_to_fit_width at config.frame_width - 1 when it is wider than that."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 89.4,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s2",
+   "before": {
+    "mvqs": 92.8,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3853,
+      "output_tokens": 2610
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDNGoJvgwcYCdDpcpJB"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "leftover",
+     "where": "zero_copy created for the shake of the '0' in 50",
+     "change": "The white copy was never removed: it sat on top of the red zero, hiding the highlight, and stayed on screen after FadeOut(num). Its shifts also cancel out, so no shake was visible. The zero is now shaken with Wiggle, and the copy is removed right after the shake."
+    },
+    {
+     "kind": "unreadable_text",
+     "where": "number 50 under the large red Cross",
+     "change": "The 50 was tiny and almost hidden by the thick cross. Enlarged it (font_size 96) and gave it z_index 1 so it stays readable above the X."
+    },
+    {
+     "kind": "overlap",
+     "where": "rule_text below the cross",
+     "change": "The rule text touched the bottom ends of the cross. It now uses to_edge(DOWN, buff=0.3), matching the narration lines and clearing the cross."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 92.3,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s3",
+   "before": {
+    "mvqs": 84.5,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3322,
+      "output_tokens": 1115
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDQpgm2FBZbGLJ7EnBv"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "other",
+     "where": "Rule text 'Rule: Ending in 5 is ALWAYS Glint' at the end of the scene",
+     "change": "The rule is placed below the small checkmark, so it sits off-center and runs toward the right edge. It is now placed below the equation and centered with the rest of the content."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 84.6,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s4",
+   "before": {
+    "mvqs": 88.4,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3892,
+      "output_tokens": 2060
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDS7Ewhtf6Hd1Zw5JvY"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "other",
+     "where": "highlight_4 and highlight_6 (yellow boxes next to '24' and '26')",
+     "change": "The boxes were pushed to the right of the numbers and highlighted empty space. They now sit on the last digit ('4' and '6'), are narrowed to 0.4 so they do not cover the first digit, and are drawn behind the numbers (z_index) so the digits stay readable."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 67.0,
+    "conflicts": 2,
+    "timing": 0
+   }
+  }
+ ],
+ "input_tokens": 14924,
+ "output_tokens": 7675
+}

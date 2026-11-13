@@ -1,0 +1,68 @@
+\section{Limitations}
+
+\begin{itemize}
+  \item \textbf{Local students see frames, not video.} The student receives up to 4 frames per second at 512 pixels
+  (about 70 tokens a frame), without audio. Code2Video's own protocol (Gemini on the mp4) is implemented and exported
+  for grading by hand, but not run.
+  \item \textbf{Few students.} The main student is \texttt{gemma4:26b}; the prior was also measured with
+  \texttt{qwen2.5vl:7b}. On NOVEL-12 we also asked Claude Haiku 5.5 and Sonnet 5.5, and they agree with
+  \texttt{gemma4:26b} on the three findings we tested: the videos teach, the student learns the video's own topic,
+  and the Claude fixes give no gain beyond noise. But Claude also wrote the questions and made the layout fixes, and it returns
+  no log-probabilities, so its answers are scored right or wrong. Open students of other families are untested.
+  \item \textbf{Invented concepts are small.} NOVEL-12's concepts are definable on one card; they test whether a video
+  transmits a definition and its consequences, not deep understanding of a large theory. TEST was written by one model
+  (Claude) and not reviewed by teachers.
+  \item \textbf{The evidence judge is not calibrated.} Its decisions have not been compared with human annotations
+  (e.g. Cohen's $\kappa$~\cite{cohen1960}); the forced-choice versions do not use it.
+  \item \textbf{Twelve topics per set.} Means over 12 topics move a lot with one topic. We do not pool questions
+  across topics, because the topic, not the question, is what receives a repair; a larger set would make the means
+  steadier.
+  \item \textbf{The local coder.} After one retry, two of twelve NOVEL-12 videos were still incomplete and only
+  \AdmClean{} of \AdmTotal{} were clean. Stronger code models are future work; the Claude-fixed versions show the
+  room.
+  \item \textbf{The repair study is small.} All six stages are scored, on 10 concepts with one student. From F1 on,
+  the gate kept the learner revision on at most half of them. A gain beyond noise across concepts was therefore out of
+  reach, and small benefits of the repair remain possible. The two measures also disagree: kept revisions raise the
+  gain on 3 frames (M9) but not on the dense video (M7).
+  \item \textbf{The model-free checks are narrow.} The timing check covers two kinds of fault; the attachment check
+  skips labels anchored to a text glyph.
+  % Hand-typed from bench/layout_study.log, layout_study_rerun.log, layout_study_attach.log (sum of 'conflicts'), and
+  % from bench/results/layout-study/rows.json of 22:33 (fixed tracker, commit 7fe58c4), summed over the 10 admitted concepts.
+  \item \textbf{The conflict counts were measured with a tracker bug.} The tracker sometimes gave a deleted object's
+  code line to a new one, so the same code gave 29, 29 and 31 lasting conflicts on three runs. With the bug fixed,
+  the counts repeat exactly. Our videos then have 27 lasting conflicts, as do our videos with timing fixes, against 4
+  for the Claude-fixed versions. The tables keep the earlier counts. MVQS, the attachment counts and every
+  conclusion are unchanged.
+  \item \textbf{Counterfactual relabelling was not applied to MMMC.} It would rewrite TEST per video and break the
+  paired design; NOVEL-12 controls the prior instead.
+\end{itemize}
+
+\section{Future work}
+
+\begin{itemize}
+  \item \textbf{A gate that sees what a viewer sees.} The repair gate checks only the layout score, and it let through
+  revisions that added conflicts and broken attachments. A gate that also counts these faults is built (crowding,
+  conflicts, attachments) but not yet evaluated.
+  \item \textbf{A larger study.} With 10 concepts of 8 questions, only effects of about 24 points or more are
+  detectable. More concepts, and a gate that keeps more revisions, would let smaller effects of layout and repair show.
+  \item \textbf{Stronger coders and a fixed layout.} A study with Claude models as planner and coder, and with
+  Code2Video's anchor-grid layout, was running at submission. It asks whether better code, rather than repair,
+  is what makes videos teach more.
+  \item \textbf{Students that watch video.} Code2Video's protocol (a model reading the mp4 with audio) is implemented
+  but not run; open students of other families are untested.
+  \item \textbf{A layout score that measures reading.} MVQS measures box separation. A score built on attachments, on
+  what is on screen when, and on crowded text would track what a viewer can read.
+  \item \textbf{Cheaper scoring.} The dense video is about two thirds of the student's work. Scoring on 3 frames per
+  section only (M9) is implemented as an option, for studies that do not need M7.
+\end{itemize}
+
+\section{Conclusion}
+
+TeachQuiz, as published and as we first ran it, could not have detected teaching: a grading bug dropped answers,
+the student's refusals set $S_1$, and the questions were answered from prior knowledge. Forced choice, a measured
+prior, normalisation, dense silent frames, a motion control, continuous scoring and option rotation each address a
+named failure, and the ladder shows which of them a teaching metric actually needs. A benchmark whose prior is
+controlled by construction is the precondition for asking whether a repair teaches. The layout score has the same
+weakness from the other side: it measures box separation, not whether a viewer can read what belongs to what. On
+NOVEL-12, the repair loop gives no gain beyond noise at any stage. None of the added features makes the student's
+answers beat a repair of the same size made without them.

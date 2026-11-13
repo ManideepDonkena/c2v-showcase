@@ -1,0 +1,33 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q2",
+  "q3",
+  "q5",
+  "q7",
+  "q9",
+  "q10",
+  "q12"
+ ],
+ "fixes": {
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s1": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s3": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s3",
+  "s4"
+ ],
+ "dev_before": 20.8,
+ "dev_after": 37.5,
+ "mvqs_before": 75.04,
+ "mvqs_after": 72.46,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/dapple-numbers/generic"
+}

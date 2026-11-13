@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 74.86,
+  "s_sp": 84.9,
+  "s_ly": 69.6,
+  "s_ed": 61.7,
+  "states": 52,
+  "states_with_conflict": 24
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 63.5,
+   "conflicts": 9
+  },
+  {
+   "level": "shift",
+   "mvqs": 66.07,
+   "conflict": "Vector \"v1\" (created line 50, box [0.0, -0.175, 2.0, 0.175]) overlaps Text \"k_label\" (line 19, box [-0.095, -0.25, 0.095, 0.004]) by 35%; moving it by [0.24, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.75,
+   "conflict": "Square \"right_angle\" (created line 59, box [0.028, -0.212, 0.452, 0.212]) overlaps Text \"k_label\" (line 19, box [-0.095, -0.25, 0.095, 0.004]) by 30%; moving it by [0.22, 0.0] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 74.86,
+   "conflict": "Vector \"None\" (created line 99, box [0.0, -0.125, 1.0, 0.125]) overlaps Text \"k_label\" (line 19, box [-0.095, -0.25, 0.095, 0.004]) by 25%; moving it by [0.24, 0.0] would clear it"
+  }
+ ]
+}

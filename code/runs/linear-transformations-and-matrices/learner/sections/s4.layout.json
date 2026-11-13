@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 83.58,
+  "s_sp": 96.8,
+  "s_ly": 41.6,
+  "s_ed": 89.5,
+  "states": 33,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 80.82,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.57,
+   "conflict": "Text \"text2\" (created line 63, box [-3.31, -3.5, 3.31, -3.166]) overlaps MathTex \"eq\" (line 20, box [-1.155, -3.5, 1.155, -2.902]) by 55%; moving it by [0.0, -0.48] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.67,
+   "conflict": "MathTex \"coeff2\" (created line 80, box [0.375, 0.416, 0.54, 0.584]) overlaps MathTex \"coeff1\" (line 79, box [0.419, 0.375, 0.581, 0.546]) by 56%; moving it by [-0.27, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.58,
+   "conflict": "MathTex \"coeff2\" (created line 80, box [0.105, 0.416, 0.27, 0.584]) overlaps Vector \"jhat\" (line 77, box [-0.125, 0.0, 0.125, 1.0]) by 12%; moving it by [0.17, 0.0] would clear it"
+  }
+ ]
+}

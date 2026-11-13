@@ -1,0 +1,22 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 23,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 23: NameError: name 'tReplacementriangle2' is not defined\nline 35: NameError: name 'tReplacementriangle3' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 34,
+  "scope": "block",
+  "preflight": true,
+  "error": "line 34: NameError: name 'tReplacementriangle3' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

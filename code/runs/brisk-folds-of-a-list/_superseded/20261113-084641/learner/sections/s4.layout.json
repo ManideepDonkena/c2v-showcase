@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 85.39,
+  "s_sp": 94.7,
+  "s_ly": 46.2,
+  "s_ed": 96.0,
+  "states": 15,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 69.07,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 73.84,
+   "conflict": "Text \"label\" (created line 29, box [-0.766, 2.31, 0.766, 2.644]) overlaps Integer \"list1_mob\" (line 13, box [-0.414, 2.26, -0.27, 2.5]) by 79%; moving it by [0.0, 0.34] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 75.25,
+   "conflict": "Text \"label2\" (created line 67, box [-0.766, 2.31, 0.766, 2.644]) overlaps Integer \"list_odd_mob\" (line 33, box [-0.731, 2.264, -0.592, 2.496]) by 80%; moving it by [0.32, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.39,
+   "conflict": "Text \"label2\" (created line 67, box [-0.446, 2.31, 1.086, 2.644]) overlaps Integer \"list_odd_mob\" (line 54, box [-0.092, 2.26, 0.053, 2.5]) by 79%; moving it by [0.0, 0.34] would clear it"
+  }
+ ]
+}

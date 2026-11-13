@@ -1,0 +1,91 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.536,
+      3.0,
+      2.536,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.536,
+      3.0,
+      2.536,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      0.251,
+      -4.857,
+      0.749
+     ],
+     "name": null,
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.857,
+      0.251,
+      -2.084,
+      0.749
+     ],
+     "name": null,
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.084,
+      0.251,
+      0.686,
+      0.749
+     ],
+     "name": null,
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.686,
+      0.251,
+      3.689,
+      0.749
+     ],
+     "name": null,
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "NameError",
+  "message": "name 'ShowCreation' is not defined",
+  "line": 31
+ }
+}

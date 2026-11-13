@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 85.73,
+  "s_sp": 96.8,
+  "s_ly": 49.4,
+  "s_ed": 91.4,
+  "states": 7,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 85.73,
+   "conflicts": 1
+  },
+  {
+   "level": "none kept",
+   "conflict": "DashedLine \"proj_line\" (created line 32, box [2.828, -0.0, 3.0, 1.0]) overlaps MathTex \"proj_label\" (line 32, box [2.099, 0.426, 2.901, 0.75]) by 13%; moving it by [0.22, 0.0] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q2",
+  "q8",
+  "q9",
+  "q10"
+ ],
+ "fixes": {
+  "s2": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s1": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s3": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "dev_before": 60.0,
+ "dev_after": 100.0,
+ "mvqs_before": 84.3,
+ "mvqs_after": 86.48,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/tovan-sums/generic"
+}

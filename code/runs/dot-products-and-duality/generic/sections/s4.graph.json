@@ -1,0 +1,569 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 37,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.5,
+      7.0,
+      -2.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -2.0
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.5,
+      7.0,
+      -0.5
+     ],
+     "name": "functional_group",
+     "line": 6,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.0,
+      7.0,
+      1.0
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.5,
+      7.0,
+      1.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      2.0,
+      7.0,
+      2.0
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      2.5,
+      7.0,
+      2.5
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.961,
+      -2.619,
+      -6.78,
+      -2.381
+     ],
+     "name": "L_text",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.131,
+      0.0,
+      6.131,
+      2.0
+     ],
+     "name": "A_prime",
+     "line": 25,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.381,
+      2.25,
+      6.611,
+      2.491
+     ],
+     "name": "A_prime_label",
+     "line": 26,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.5,
+      7.0,
+      -2.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -2.0
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "functional_group",
+     "line": 6,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.5,
+      7.0,
+      -0.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.0,
+      7.0,
+      1.0
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.5,
+      7.0,
+      1.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      2.0,
+      7.0,
+      2.0
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.0,
+      2.5,
+      7.0,
+      2.5
+     ],
+     "name": "L_text",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.131,
+      0.0,
+      6.131,
+      2.0
+     ],
+     "name": "A_prime",
+     "line": 25,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.381,
+      2.25,
+      6.611,
+      2.491
+     ],
+     "name": "A_prime_label",
+     "line": 26,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 64,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.02,
+      3.0,
+      3.02,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.5,
+      7.0,
+      -2.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -2.0,
+      7.0,
+      -2.0
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.5,
+      7.0,
+      -1.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "functional_group",
+     "line": 6,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -0.5,
+      7.0,
+      -0.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.0,
+      7.0,
+      1.0
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.5,
+      7.0,
+      1.5
+     ],
+     "name": "functional_group",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      2.0,
+      7.0,
+      2.0
+     ],
+     "name": "line",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.0,
+      2.5,
+      7.0,
+      2.5
+     ],
+     "name": "L_text",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.131,
+      0.0,
+      6.131,
+      2.0
+     ],
+     "name": "A_prime",
+     "line": 25,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.381,
+      2.25,
+      6.611,
+      2.491
+     ],
+     "name": "A_prime_label",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.266,
+      -3.5,
+      1.266,
+      -2.995
+     ],
+     "name": "formula",
+     "line": 62,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": []
+  }
+ ],
+ "error": null
+}

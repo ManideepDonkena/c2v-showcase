@@ -1,0 +1,105 @@
+{
+ "topic": "Krell steps on a grid",
+ "before": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 72.2,
+   "conflicts": 2,
+   "ok": false
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 85.06,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  }
+ },
+ "regenerated": {
+  "s1": {
+   "tries": [
+    {
+     "id": "s1",
+     "mvqs": 81.26,
+     "conflicts": 3,
+     "rendered": true,
+     "ok": false
+    }
+   ],
+   "kept": "s1_try0"
+  },
+  "s2": {
+   "tries": [
+    {
+     "id": "s2",
+     "mvqs": 82.38,
+     "conflicts": 1,
+     "rendered": true,
+     "ok": false
+    }
+   ],
+   "kept": "s2_try1"
+  },
+  "s4": {
+   "tries": [
+    {
+     "id": "s4",
+     "mvqs": 77.51,
+     "conflicts": 2,
+     "rendered": true,
+     "ok": false
+    }
+   ],
+   "kept": "s4_try1"
+  }
+ },
+ "min_mvqs": 70.0,
+ "superseded": "/home/mani/c2v-lab/runs/krell-steps-on-a-grid/_superseded/20261113-084343",
+ "after": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 72.2,
+   "conflicts": 2,
+   "ok": false
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 82.38,
+   "conflicts": 1,
+   "ok": false
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 85.06,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 77.51,
+   "conflicts": 2,
+   "ok": false
+  }
+ },
+ "complete": true,
+ "clean": false
+}

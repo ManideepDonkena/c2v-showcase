@@ -1,0 +1,33 @@
+{
+ "gaps": [
+  "q1",
+  "q2",
+  "q4",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q9",
+  "q10",
+  "q11"
+ ],
+ "dev": 10,
+ "fixes": {
+  "s2": [
+   "SHOW two vectors of equal length forming a right angle (90 degrees) at their tails, with a small square symbol indicating the corner. SAY: 'When the angle between them is exactly 90 degrees, they are perpendicular, also known as orthogonal.' Then SHOW the same two vectors rotating so they lie on top of each other (parallel). SAY: 'When the angle is 0 or 180 degrees, they point in the same or opposite direction, meaning they are parallel.'"
+  ],
+  "s4": [
+   "SHOW two rectangular grids of numbers representing matrices A and B side-by-side, with their inner dimensions (columns of A and rows of B) highlighted in matching colors to indicate they must match. SAY: 'Matrix multiplication combines the columns of the first matrix with the rows of the second. The resulting grid takes its width from the second matrix's columns and its height from the first matrix's rows.'",
+   "Show two matrices A and B acting on basis vectors. Demonstrate that applying A then B yields a different result than applying B then A by showing the final transformed positions of the grid points do not match, proving order matters.",
+   "SHOW two vectors lying on top of each other (collinear) in a 3D coordinate system, then SHOW the resulting cross product vector shrinking to zero length and disappearing. SAY: 'When vectors point in the exact same or opposite direction, they have no perpendicular area between them, so their cross product is always the zero vector.'",
+   "Show two basis vectors that are collinear (lying on the same line) instead of orthogonal, demonstrating that they cannot span a 2D plane. State that when vectors are dependent, the transformation squashes space into a lower dimension (like a line or point), meaning the 'volume' or determinant becomes zero, and thus you cannot reverse the process to find a unique solution.",
+   "Show a transformation that squashes the 2D plane onto a single line (collapsing area to zero). Demonstrate that any vector lying on this 'shadow' line is stretched by a factor of zero (it disappears), proving that a singular matrix has an eigenvalue of 0.",
+   "SHOW a single basis vector fixed in 3D space, then animate a scalar multiplier sweeping from negative infinity to positive infinity along that vector's axis. SAY: 'The span of one vector is the infinite line passing through the origin and that vector, created by scaling it in both directions.'",
+   "Show two vectors that are perpendicular to each other (forming a 90-degree angle) and label them as 'orthogonal'. Then, demonstrate that for a symmetric matrix, the eigenvectors associated with different eigenvalues always maintain this perpendicular relationship, unlike general matrices where they might not.",
+   "SHOW a 2D vector v as a column matrix [x, y] and its transpose v^T as a row matrix [x, y]. Demonstrate the multiplication v^T * v by computing x*x + y*y, resulting in a single number (the squared magnitude). SAY: 'Multiplying a vector by its transpose sums the squares of its components, producing a scalar value representing the squared length.'"
+  ],
+  "s1": [
+   "SHOW the right triangle formed by the vector's components and the hypotenuse; SAY 'The length is found using the Pythagorean theorem: square each component (3² + 4² = 25), then take the square root to get 5.'"
+  ]
+ }
+}

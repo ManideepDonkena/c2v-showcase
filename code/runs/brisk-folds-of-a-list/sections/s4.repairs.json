@@ -1,0 +1,14 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 45,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 45: NameError: name 'ffolded_group' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": true
+ }
+]

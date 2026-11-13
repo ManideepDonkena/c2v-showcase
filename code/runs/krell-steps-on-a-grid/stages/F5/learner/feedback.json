@@ -1,0 +1,30 @@
+{
+ "stage": "F5",
+ "mode": "learner",
+ "features": [
+  "gate",
+  "leak_gate",
+  "minimal_edit",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s3": [
+   "SHOW the point (4, 6) and an arrow labeled 'Step 1' leading to a new point. SAY 'The first step takes us from (4, 6) to (6, 7)' and display the label '(6, 7)' at that final position."
+  ]
+ },
+ "changed": [
+  "s3"
+ ],
+ "edit_size": {
+  "s3": 0.177
+ },
+ "diagnosis": "f4",
+ "dev_before": 0.711144,
+ "dev_after": 0.7894310416666667,
+ "mvqs_before": 79.29,
+ "mvqs_after": 78.35,
+ "kept": true,
+ "served": "revision"
+}

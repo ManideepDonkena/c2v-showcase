@@ -1,0 +1,24 @@
+{
+ "kind": "f0",
+ "fixes": {
+  "s2": [
+   "Show the equation '0 ⊕ b' expanding into '0 + b + (0 × b)'. Visually demonstrate that '0 + b' is just 'b', and '(0 × b)' vanishes to zero, leaving only 'b' as the final result. State: 'Adding zero contributes nothing to the sum or product, so the original number b remains exactly as it was.'"
+  ],
+  "s4": [
+   "SHOW a nested structure like 'a ⊕ (b ⊕ c)' where the inner parentheses are highlighted first. SAY: 'When you see parentheses, solve the inside part first to get a single new number, then use that result in the outer operation.' Demonstrate this by calculating '3 ⊕ 4' first to get 19, then showing '2 ⊕ 19' as the next step."
+  ],
+  "s1": [
+   "SHOW a comparison between the Tovan sum result and standard multiplication for the same numbers (e.g., 2 ⊕ 3 equals 11, while 2 × 3 equals 6) to demonstrate that they are not equal."
+  ],
+  "s3": [
+   "SHOW a chain of three circles, e.g., '4', '-1', and '2'. SAY that because the operation is associative in result due to the absorbing property, or more simply, demonstrate that once the '-1' circle enters the chain, it consumes the entire remaining sequence. Specifically, show that (4 ⊕ -1) results in -1, and then (-1 ⊕ 2) also results in -1. The key idea is that the 'swallowing' power of -1 is contagious through the chain; if any element in a left-to-right evaluation becomes -1, all subsequent operations with that result will remain -1."
+  ]
+ },
+ "gaps": [
+  "q2",
+  "q8",
+  "q9",
+  "q10"
+ ],
+ "dev": 10
+}

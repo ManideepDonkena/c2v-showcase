@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 76.01,
+  "s_sp": 94.1,
+  "s_ly": 44.7,
+  "s_ed": 66.7,
+  "states": 9,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.74,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.6,
+   "conflict": "Rectangle \"initial_spectrum\" (created line 97, box [3.5, -1.0, 4.5, 1.0]) overlaps Text \"freq_label\" (line 21, box [1.991, 0.666, 5.009, 1.0]) by 33%; moving it by [0.0, -0.48] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.01,
+   "conflict": "Rectangle \"initial_pulse\" (created line 32, box [-0.5, -0.5, 0.5, 0.5]) overlaps Text \"slider_label\" (line 30, box [-1.165, -0.465, 1.165, -0.25]) by 42%; moving it by [0.0, 0.4] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Rectangle \"initial_pulse\" (created line 90, box [-0.5, -0.1, 0.5, 0.9]) overlaps Text \"time_label\" (line 18, box [-1.067, 0.743, 1.067, 1.0]) by 28%; moving it by [0.0, -0.31] would clear it"
+  }
+ ]
+}

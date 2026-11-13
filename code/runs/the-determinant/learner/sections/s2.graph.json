@@ -1,0 +1,233 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "i_hat",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      0.0,
+      0.175,
+      1.5
+     ],
+     "name": "j_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.5
+     ],
+     "name": "parallelogram",
+     "line": 14,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.51,
+      -0.473,
+      1.49,
+      -0.25
+     ],
+     "name": "det_label",
+     "line": 15,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      0.0,
+      0.175,
+      1.5
+     ],
+     "name": "i_hat",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "j_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.5
+     ],
+     "name": "parallelogram",
+     "line": 14,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.389,
+      -0.473,
+      1.611,
+      -0.25
+     ],
+     "name": "det_label",
+     "line": 15,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      0.0,
+      0.175,
+      1.5
+     ],
+     "name": "i_hat",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "j_hat",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.5
+     ],
+     "name": "parallelogram",
+     "line": 14,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.389,
+      -0.473,
+      1.611,
+      -0.25
+     ],
+     "name": "det_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.857,
+      -3.5,
+      2.857,
+      -3.166
+     ],
+     "name": "explanation",
+     "line": 31,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": []
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,20 @@
+[
+ {
+  "id": "s3",
+  "title": "Rule 1: Total Preservation",
+  "teaches": "The invariant that the sum of elements remains constant after folding.",
+  "visual": "Side-by-side comparison: [1, 2, 3, 4] (sum=10) folds to [5, 5] (sum=10). Animated counters show both sums equaling 10. A checkmark appears with 'Total Preserved'.",
+  "narration": "Crucially, a brisk fold preserves the total sum of the original list. Since we only add existing numbers together without discarding any, the aggregate value remains invariant across folds.",
+  "start": 0.0,
+  "end": 17.33
+ },
+ {
+  "id": "s4",
+  "title": "Rule 2: Length Reduction",
+  "teaches": "The structural change: length roughly halves after one brisk fold.",
+  "visual": "List [1, 2, 3, 4, 5, 6] (length 6) folds to [7, 7, 7] (length 3). An arrow labeled 'Length / 2' connects the two states. Visual emphasis on the halving effect.",
+  "narration": "Each brisk fold roughly halves the length of the list. This compression property makes brisk folds useful for reducing data size while maintaining its essential numerical sum.",
+  "start": 17.33,
+  "end": 27.67
+ }
+]

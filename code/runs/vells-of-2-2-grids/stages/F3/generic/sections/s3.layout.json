@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 75.25,
+  "s_sp": 91.3,
+  "s_ly": 58.8,
+  "s_ed": 59.5,
+  "states": 13,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.25,
+   "conflicts": 3
+  },
+  {
+   "level": "none kept",
+   "conflict": "Line \"line1\" (created line 23, box [-6.166, 2.324, -4.871, 3.062]) overlaps MathTex \"grid1\" (line 11, box [-6.28, 2.949, -6.052, 3.174]) by 25%; moving it by [0.0, -0.26] would clear it"
+  }
+ ]
+}

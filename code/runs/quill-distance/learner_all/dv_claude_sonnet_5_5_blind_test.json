@@ -1,0 +1,435 @@
+{
+ "kind": "blind",
+ "student": "claude-sonnet-5-5",
+ "frames": 0,
+ "rotations": [
+  {
+   "rotation": 0,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t2",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 1.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t3",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t4",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t5",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 1.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t6",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t7",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t8",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.0
+    }
+   ],
+   "served_by": "claude-sonnet-5-5",
+   "request_id": "req_011CgzSPiGHh7UD3naFmPbrK",
+   "usage": {
+    "input_tokens": 1480,
+    "output_tokens": 412
+   }
+  },
+  {
+   "rotation": 1,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t2",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 1.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t3",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t4",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t5",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 1.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t6",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t7",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t8",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.0
+    }
+   ],
+   "served_by": "claude-sonnet-5-5",
+   "request_id": "req_011CgzSQAuBNv5Dxqp2gsYYf",
+   "usage": {
+    "input_tokens": 1480,
+    "output_tokens": 53
+   }
+  },
+  {
+   "rotation": 2,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t2",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 1.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t3",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t4",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t5",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 1.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t6",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t7",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t8",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.0
+    }
+   ],
+   "served_by": "claude-sonnet-5-5",
+   "request_id": "req_011CgzSQNatUqrqDUXHyA2bc",
+   "usage": {
+    "input_tokens": 1480,
+    "output_tokens": 53
+   }
+  },
+  {
+   "rotation": 3,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t2",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 1.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t3",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t4",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t5",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 1.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t6",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t7",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.0
+    },
+    {
+     "id": "t8",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.0
+    }
+   ],
+   "served_by": "claude-sonnet-5-5",
+   "request_id": "req_011CgzSQciwGwG5cuJRsM98D",
+   "usage": {
+    "input_tokens": 1480,
+    "output_tokens": 53
+   }
+  }
+ ]
+}

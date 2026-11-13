@@ -1,0 +1,1419 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "gauss1",
+     "line": 12,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "gauss2",
+     "line": 13,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.345,
+      -0.47,
+      0.345,
+      -0.25
+     ],
+     "name": "mu1_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.35,
+      -0.47,
+      0.35,
+      -0.25
+     ],
+     "name": "mu2_label",
+     "line": 16,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "gauss1",
+     "line": 12,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "gauss2",
+     "line": 13,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.915,
+      -0.472,
+      0.915,
+      -0.25
+     ],
+     "name": "mu1_label",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.908,
+      -1.004,
+      0.908,
+      -0.722
+     ],
+     "name": "mu2_label",
+     "line": 16,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.25,
+      -0.5,
+      -0.25,
+      0.5
+     ],
+     "name": "var_x",
+     "line": 35,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -0.5,
+      2.25,
+      0.5
+     ],
+     "name": "var_y",
+     "line": 36,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.62,
+      -0.125,
+      0.62,
+      0.125
+     ],
+     "name": "var_x_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.607,
+      -0.125,
+      0.607,
+      0.125
+     ],
+     "name": "var_y_label",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.25,
+      -0.5,
+      -0.25,
+      0.5
+     ],
+     "name": "var_x",
+     "line": 35,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.25,
+      -0.5,
+      2.25,
+      0.5
+     ],
+     "name": "var_y",
+     "line": 36,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.62,
+      -0.125,
+      0.62,
+      0.125
+     ],
+     "name": "var_x_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.607,
+      -0.125,
+      0.607,
+      0.125
+     ],
+     "name": "var_y_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.3,
+      -0.106,
+      -0.45,
+      0.106
+     ],
+     "name": "arrow",
+     "line": 45,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -0.5,
+      1.5,
+      0.5
+     ],
+     "name": "total_var",
+     "line": 40,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.183,
+      -0.097,
+      1.183,
+      0.097
+     ],
+     "name": "total_var_label",
+     "line": 41,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.5,
+      0.0,
+      3.5,
+      0.5
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      0.0,
+      4.5,
+      0.5
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      3.251,
+      1.114,
+      3.5
+     ],
+     "name": "eq",
+     "line": 62,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 83,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      3.251,
+      1.114,
+      3.5
+     ],
+     "name": "eq",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      0.0,
+      3.0,
+      0.303
+     ],
+     "name": "gauss_a",
+     "line": 78,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      5.0,
+      0.303
+     ],
+     "name": "gauss_b",
+     "line": 79,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 89,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.114,
+      3.251,
+      1.114,
+      3.5
+     ],
+     "name": "eq",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.0
+     ],
+     "name": "gauss_a",
+     "line": 78,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.0
+     ],
+     "name": "gauss_b",
+     "line": 79,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 97,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "mult_gauss",
+     "line": 95,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.137,
+      2.888,
+      1.137,
+      3.5
+     ],
+     "name": "mult_eq",
+     "line": 96,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 101,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 108,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      0.0,
+      3.0,
+      0.5
+     ],
+     "name": "corr_gauss",
+     "line": 103,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.0,
+      5.0,
+      0.5
+     ],
+     "name": "corr_gauss2",
+     "line": 101,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 115,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "corr_gauss",
+     "line": 103,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "corr_gauss2",
+     "line": 101,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 119,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 126,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -0.5,
+      -0.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 121,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      -0.5,
+      1.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 122,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 131,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -0.5,
+      -0.5,
+      0.5
+     ],
+     "name": "dice1",
+     "line": 121,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      -0.5,
+      1.5,
+      0.5
+     ],
+     "name": "dice2",
+     "line": 122,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "total_dice",
+     "line": 129,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.183,
+      -0.097,
+      1.183,
+      0.097
+     ],
+     "name": "total_dice_label",
+     "line": 130,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 135,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 140,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "sub_gauss1",
+     "line": 137,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "sub_gauss2",
+     "line": 138,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 146,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.8,
+      0.0,
+      6.8,
+      0.85
+     ],
+     "name": "sub_gauss1",
+     "line": 137,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.8,
+      0.0,
+      6.8,
+      0.85
+     ],
+     "name": "sub_gauss2",
+     "line": 138,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 150,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 154,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "shift_gauss",
+     "line": 152,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.695,
+      3.301,
+      0.695,
+      3.5
+     ],
+     "name": "shift_eq",
+     "line": 153,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 158,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue1",
+     "line": 57,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      0.0,
+      6.0,
+      0.75
+     ],
+     "name": "gauss_blue2",
+     "line": 53,
+     "type": "ParametricFunction"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

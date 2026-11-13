@@ -1,0 +1,197 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.416,
+      2.615,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 16,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.416,
+      2.615,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.5,
+      -3.5,
+      0.962,
+      -3.085
+     ],
+     "name": "v1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.962,
+      -3.5,
+      3.44,
+      -3.085
+     ],
+     "name": "v2",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.416,
+      2.615,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.5,
+      -3.5,
+      0.962,
+      -3.085
+     ],
+     "name": "v1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.962,
+      -3.5,
+      3.44,
+      -3.085
+     ],
+     "name": "v2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.331,
+      -3.26,
+      2.601,
+      -2.91
+     ],
+     "name": "arrow",
+     "line": 20,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.615,
+      3.416,
+      2.615,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.5,
+      -3.5,
+      0.962,
+      -3.085
+     ],
+     "name": "v1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.962,
+      -3.5,
+      3.44,
+      -3.085
+     ],
+     "name": "v2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.331,
+      -3.26,
+      2.601,
+      -2.91
+     ],
+     "name": "arrow",
+     "line": 20,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.701,
+      -2.585,
+      4.701,
+      -1.085
+     ],
+     "name": "formula_box",
+     "line": 25,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.577,
+      -2.001,
+      4.824,
+      -1.669
+     ],
+     "name": "formula",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "IndexError",
+  "message": "list index out of range",
+  "line": 33
+ }
+}

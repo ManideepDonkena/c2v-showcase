@@ -1,0 +1,36 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q4",
+  "q6",
+  "q7",
+  "q8",
+  "q9",
+  "q11"
+ ],
+ "fixes": {
+  "s1": [
+   "A visual comparison showing that one input letter expands into two output letters for both rules, proving that every single character in the current word is replaced by a pair of characters in the next step.",
+   "SHOW a large 'Y' with a red 'X' through it, and SAY 'The process never begins with Y; it always starts with X.'",
+   "A visual comparison showing a word starting with 'Y' being crossed out next to the rule text 'Start from X', emphasizing that the process has no valid beginning if it does not start with X."
+  ],
+  "s3": [
+   "Show a visual comparison of the first letter of the current word and the first letter of the resulting word. Specifically, display an arrow from the 'X' at the start of 'XYY' to the 'X' at the start of the new block 'XYY', demonstrating that the starting character remains unchanged during this specific transformation.",
+   "Show the specific transformation of the first letter 'X' in 'XYYYXYX' becoming 'XYY', and explicitly highlight that this new 'X' is now the very first character of the resulting word."
+  ],
+  "s2": [
+   "A visual comparison showing that Step 0 contains only 'X' (zero Ys), while Step 1 immediately introduces two 'Y's, proving Y appears starting from the first rewrite."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3"
+ ],
+ "dev_before": 40.0,
+ "dev_after": 60.0,
+ "mvqs_before": 87.88,
+ "mvqs_after": 75.56,
+ "kept": false,
+ "dir": "/home/mani/c2v-lab/runs/orbit-words/learner"
+}

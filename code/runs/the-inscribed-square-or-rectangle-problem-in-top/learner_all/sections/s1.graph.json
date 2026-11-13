@@ -1,0 +1,3611 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 11,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.502,
+      -3.5,
+      2.502,
+      -3.222
+     ],
+     "name": "narration1",
+     "line": 34,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 37,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.023,
+      -3.5,
+      4.023,
+      -3.22
+     ],
+     "name": "statement",
+     "line": 40,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 43,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.456,
+      3.25,
+      3.544,
+      3.528
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 78,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 86,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      0.0,
+      3.0,
+      2.0
+     ],
+     "name": "rounded_square",
+     "line": 78,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 88,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 92,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 94,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 99,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 97,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 101,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 97,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "insquare",
+     "line": 94,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 107,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 97,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "insquare",
+     "line": 94,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.52,
+      -1.187,
+      1.52,
+      -0.625
+     ],
+     "name": "side_label",
+     "line": 106,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 109,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 97,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "insquare",
+     "line": 94,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 114,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 97,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "insquare",
+     "line": 94,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.5,
+      -1.0,
+      -1.5,
+      1.0
+     ],
+     "name": "rect_comp",
+     "line": 112,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.75,
+      -1.25,
+      4.25,
+      1.25
+     ],
+     "name": "square_comp",
+     "line": 76,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 116,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 97,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "insquare",
+     "line": 94,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 129,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 97,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "insquare",
+     "line": 94,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.288,
+      -2.5,
+      2.288,
+      1.744
+     ],
+     "name": "self_intersect",
+     "line": 109,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 131,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 97,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "insquare",
+     "line": 94,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.288,
+      -2.5,
+      2.288,
+      1.744
+     ],
+     "name": "self_intersect",
+     "line": 109,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.065,
+      1.994,
+      1.065,
+      2.275
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 136,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 97,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "insquare",
+     "line": 94,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.288,
+      -2.5,
+      2.288,
+      1.744
+     ],
+     "name": "self_intersect",
+     "line": 109,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.065,
+      1.994,
+      1.065,
+      2.275
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.351,
+      -3.5,
+      1.351,
+      -3.222
+     ],
+     "name": "final_text",
+     "line": 135,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 138,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.245,
+      3.166,
+      4.245,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.285,
+      -5.254,
+      3.5
+     ],
+     "name": "timeline",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.223,
+      2.78,
+      -5.642,
+      2.985
+     ],
+     "name": "timeline",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 97,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "insquare",
+     "line": 94,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.288,
+      -2.5,
+      2.288,
+      1.744
+     ],
+     "name": "self_intersect",
+     "line": 109,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.065,
+      1.994,
+      1.065,
+      2.275
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 141,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label",
+     "line": 29,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.146,
+      0.25,
+      0.146,
+      1.414
+     ],
+     "name": "arrow",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 43,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "inscribed_square",
+     "line": 55,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.811,
+      2.25,
+      0.811,
+      2.452
+     ],
+     "name": "jagged_label",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.375,
+      0.33,
+      1.375,
+      0.545
+     ],
+     "name": null,
+     "line": 86,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 97,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "insquare",
+     "line": 94,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.065,
+      1.994,
+      1.065,
+      2.275
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

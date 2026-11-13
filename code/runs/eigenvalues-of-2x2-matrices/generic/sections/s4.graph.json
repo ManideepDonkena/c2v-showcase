@@ -1,0 +1,1181 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 12,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 12,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.275,
+      -4.882,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 18,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      -0.75,
+      1.75,
+      0.75
+     ],
+     "name": "circle",
+     "line": 12,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.275,
+      -4.882,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 18,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      -0.75,
+      1.75,
+      0.75
+     ],
+     "name": "circle",
+     "line": 12,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.275,
+      -4.882,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 18,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      0.0,
+      1.75,
+      0.0
+     ],
+     "name": "major_axis",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.75,
+      0.0,
+      0.75
+     ],
+     "name": "minor_axis",
+     "line": 32,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 37,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      -0.75,
+      1.75,
+      0.75
+     ],
+     "name": "circle",
+     "line": 12,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.275,
+      -4.882,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 18,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      0.0,
+      1.75,
+      0.0
+     ],
+     "name": "major_axis",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.75,
+      0.0,
+      0.75
+     ],
+     "name": "minor_axis",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.345,
+      0.25,
+      0.345,
+      0.46
+     ],
+     "name": "major_axis_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.93,
+      -0.105,
+      -0.25,
+      0.105
+     ],
+     "name": "minor_axis_label",
+     "line": 34,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      -0.75,
+      1.75,
+      0.75
+     ],
+     "name": "circle",
+     "line": 12,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.275,
+      -4.882,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 18,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      0.0,
+      1.75,
+      0.0
+     ],
+     "name": "major_axis",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.75,
+      0.0,
+      0.75
+     ],
+     "name": "minor_axis",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.345,
+      0.25,
+      0.345,
+      0.46
+     ],
+     "name": "major_axis_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.93,
+      -0.105,
+      -0.25,
+      0.105
+     ],
+     "name": "minor_axis_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 37,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.365,
+      0.61,
+      0.615,
+      1.61
+     ],
+     "name": "j_hat",
+     "line": 42,
+     "type": "Vector"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      -0.75,
+      1.75,
+      0.75
+     ],
+     "name": "circle",
+     "line": 12,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.275,
+      -4.882,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 18,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      0.0,
+      1.75,
+      0.0
+     ],
+     "name": "major_axis",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.75,
+      0.0,
+      0.75
+     ],
+     "name": "minor_axis",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.345,
+      0.25,
+      0.345,
+      0.46
+     ],
+     "name": "major_axis_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.93,
+      -0.105,
+      -0.25,
+      0.105
+     ],
+     "name": "minor_axis_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "i_hat",
+     "line": 37,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.365,
+      0.61,
+      0.615,
+      1.61
+     ],
+     "name": "j_hat",
+     "line": 42,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.256,
+      0.279
+     ],
+     "name": "i_hat_label",
+     "line": 43,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.43,
+      1.1,
+      -0.27,
+      1.279
+     ],
+     "name": "j_hat_label",
+     "line": 44,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      -0.75,
+      1.75,
+      0.75
+     ],
+     "name": "circle",
+     "line": 12,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.275,
+      -4.882,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 18,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      0.0,
+      1.75,
+      0.0
+     ],
+     "name": "major_axis",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.75,
+      0.0,
+      0.75
+     ],
+     "name": "minor_axis",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.345,
+      0.25,
+      0.345,
+      0.46
+     ],
+     "name": "major_axis_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.93,
+      -0.105,
+      -0.25,
+      0.105
+     ],
+     "name": "minor_axis_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      3.0,
+      0.175
+     ],
+     "name": "i_hat",
+     "line": 37,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "j_hat",
+     "line": 42,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.256,
+      0.279
+     ],
+     "name": "i_hat_label",
+     "line": 43,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.43,
+      1.1,
+      -0.27,
+      1.279
+     ],
+     "name": "j_hat_label",
+     "line": 44,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      -0.75,
+      1.75,
+      0.75
+     ],
+     "name": "circle",
+     "line": 12,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.275,
+      -4.882,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 18,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      0.0,
+      1.75,
+      0.0
+     ],
+     "name": "major_axis",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.75,
+      0.0,
+      0.75
+     ],
+     "name": "minor_axis",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.345,
+      0.25,
+      0.345,
+      0.46
+     ],
+     "name": "major_axis_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.93,
+      -0.105,
+      -0.25,
+      0.105
+     ],
+     "name": "minor_axis_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      3.0,
+      0.175
+     ],
+     "name": "i_hat",
+     "line": 37,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "j_hat",
+     "line": 42,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.256,
+      0.279
+     ],
+     "name": "i_hat_label",
+     "line": 43,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.43,
+      1.1,
+      -0.27,
+      1.279
+     ],
+     "name": "j_hat_label",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      0.1,
+      3.469,
+      0.279
+     ],
+     "name": "i_transformed_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.527,
+      2.1,
+      0.9,
+      2.279
+     ],
+     "name": "j_transformed_label",
+     "line": 56,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      -0.75,
+      1.75,
+      0.75
+     ],
+     "name": "circle",
+     "line": 12,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.275,
+      -4.882,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 18,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      0.0,
+      1.75,
+      0.0
+     ],
+     "name": "major_axis",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.75,
+      0.0,
+      0.75
+     ],
+     "name": "minor_axis",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.345,
+      0.25,
+      0.345,
+      0.46
+     ],
+     "name": "major_axis_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.93,
+      -0.105,
+      -0.25,
+      0.105
+     ],
+     "name": "minor_axis_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      3.0,
+      0.175
+     ],
+     "name": "i_hat",
+     "line": 37,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "j_hat",
+     "line": 42,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.256,
+      0.279
+     ],
+     "name": "i_hat_label",
+     "line": 43,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.43,
+      1.1,
+      -0.27,
+      1.279
+     ],
+     "name": "j_hat_label",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      0.1,
+      3.469,
+      0.279
+     ],
+     "name": "i_transformed_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.527,
+      2.1,
+      0.9,
+      2.279
+     ],
+     "name": "j_transformed_label",
+     "line": 56,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.812,
+      -3.5,
+      2.812,
+      -3.163
+     ],
+     "name": "summary",
+     "line": 59,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      -0.75,
+      1.75,
+      0.75
+     ],
+     "name": "circle",
+     "line": 12,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      2.275,
+      -4.882,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 18,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.75,
+      0.0,
+      1.75,
+      0.0
+     ],
+     "name": "major_axis",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.75,
+      0.0,
+      0.75
+     ],
+     "name": "minor_axis",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.345,
+      0.25,
+      0.345,
+      0.46
+     ],
+     "name": "major_axis_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.93,
+      -0.105,
+      -0.25,
+      0.105
+     ],
+     "name": "minor_axis_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      3.0,
+      0.175
+     ],
+     "name": "i_hat",
+     "line": 37,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "j_hat",
+     "line": 42,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      0.1,
+      1.256,
+      0.279
+     ],
+     "name": "i_hat_label",
+     "line": 43,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.43,
+      1.1,
+      -0.27,
+      1.279
+     ],
+     "name": "j_hat_label",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      0.1,
+      3.469,
+      0.279
+     ],
+     "name": "i_transformed_label",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.527,
+      2.1,
+      0.9,
+      2.279
+     ],
+     "name": "j_transformed_label",
+     "line": 56,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.812,
+      -3.5,
+      2.812,
+      -3.163
+     ],
+     "name": "summary",
+     "line": 59,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,5684 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.112,
+      -0.596,
+      1.888,
+      2.956
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.112,
+      -0.596,
+      1.888,
+      2.956
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.112,
+      -0.596,
+      1.888,
+      2.956
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 43,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.112,
+      -0.596,
+      1.888,
+      2.956
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 48,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.112,
+      -0.596,
+      1.888,
+      2.956
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.066,
+      -3.032,
+      1.066,
+      -2.699
+     ],
+     "name": "signed_length",
+     "line": 32,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.112,
+      -0.596,
+      1.888,
+      2.956
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.175,
+      -0.25,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.175,
+      -0.25,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.175,
+      -0.25,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.175,
+      -0.25,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.175,
+      -0.25,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.635,
+      -3.5,
+      1.635,
+      -3.251
+     ],
+     "name": "calc_text",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.175,
+      -0.25,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.112,
+      0.224,
+      1.888,
+      3.776
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.112,
+      0.224,
+      1.888,
+      3.776
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 86,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.112,
+      0.224,
+      1.888,
+      3.776
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.098,
+      -3.032,
+      1.098,
+      -2.775
+     ],
+     "name": "commutative_text",
+     "line": 85,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 88,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.112,
+      0.224,
+      1.888,
+      3.776
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 98,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.309,
+      -3.032,
+      0.309,
+      -2.783
+     ],
+     "name": "cos_text",
+     "line": 97,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 100,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.264,
+      -3.5,
+      0.264,
+      -3.282
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 104,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 109,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.05,
+      -2.964,
+      1.05,
+      -2.631
+     ],
+     "name": "scalar_text",
+     "line": 108,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 111,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 116,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 121,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.917,
+      -3.5,
+      0.917,
+      -3.254
+     ],
+     "name": "zero_dot",
+     "line": 120,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 123,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 128,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      1.823,
+      1.823
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 132,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      1.823,
+      1.823
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.539,
+      -3.5,
+      1.539,
+      -3.251
+     ],
+     "name": "neg_calc",
+     "line": 128,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 134,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      0.177,
+      1.823,
+      1.823
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.177,
+      -0.823,
+      0.823,
+      -0.177
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 139,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 144,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.335,
+      -3.5,
+      3.335,
+      -3.163
+     ],
+     "name": "func_question",
+     "line": 143,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 146,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 151,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "level_set_A",
+     "line": 149,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "level_set_C",
+     "line": 150,
+     "type": "DashedLine"
+    }
+   ]
+  },
+  {
+   "after_line": 156,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "level_set_A",
+     "line": 149,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "level_set_C",
+     "line": 150,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.091,
+      -3.5,
+      1.091,
+      -3.166
+     ],
+     "name": "iso_text",
+     "line": 155,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 158,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "level_set_A",
+     "line": 149,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "level_set_C",
+     "line": 150,
+     "type": "DashedLine"
+    }
+   ]
+  },
+  {
+   "after_line": 162,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "level_set_A",
+     "line": 149,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "level_set_C",
+     "line": 150,
+     "type": "DashedLine"
+    }
+   ]
+  },
+  {
+   "after_line": 167,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "level_set_A",
+     "line": 149,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "level_set_C",
+     "line": 150,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.432,
+      -3.5,
+      3.432,
+      -3.163
+     ],
+     "name": "final_statement",
+     "line": 158,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 169,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "level_set_A",
+     "line": 149,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "level_set_C",
+     "line": 150,
+     "type": "DashedLine"
+    }
+   ]
+  },
+  {
+   "after_line": 171,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.995,
+      3.108,
+      2.995,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.175,
+      1.75,
+      0.175
+     ],
+     "name": "B",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.013,
+      1.171,
+      3.184,
+      1.349
+     ],
+     "name": "A_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.138,
+      3.676,
+      2.316,
+      3.847
+     ],
+     "name": "B_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.716,
+      0.322,
+      0.966,
+      0.611
+     ],
+     "name": "theta",
+     "line": 19,
+     "type": "Angle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.216,
+      1.131,
+      1.319,
+      1.31
+     ],
+     "name": "theta_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.888,
+      0.862,
+      2.586,
+      2.956
+     ],
+     "name": "proj_line",
+     "line": 30,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.749,
+      0.363,
+      2.725,
+      0.612
+     ],
+     "name": "proj_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.181,
+      -3.5,
+      0.181,
+      -3.214
+     ],
+     "name": "result_text",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.825,
+      -2.475,
+      0.0
+     ],
+     "name": "proj_line_right",
+     "line": 57,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.684,
+      -1.409,
+      -1.541,
+      -1.075
+     ],
+     "name": "zero_text",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.0
+     ],
+     "name": "level_set_A",
+     "line": 149,
+     "type": "DashedLine"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      0.5,
+      7.0,
+      0.5
+     ],
+     "name": "level_set_C",
+     "line": 150,
+     "type": "DashedLine"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

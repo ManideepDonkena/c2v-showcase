@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 29,
+  "scope": "line",
+  "error": "TypeError: Object VMobject cannot be converted to an animation"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 34,
+  "scope": "block",
+  "error": "AttributeError: module 'numpy' has no attribute 'trapz'"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 34,
+  "scope": "section",
+  "error": "AttributeError: module 'numpy' has no attribute 'trapz'"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 34,
+  "scope": "section",
+  "error": "AttributeError: module 'numpy' has no attribute 'trapz'"
+ }
+]

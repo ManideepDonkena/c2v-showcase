@@ -1,0 +1,139 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.166,
+      3.0,
+      3.166,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.166,
+      3.0,
+      3.166,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.728,
+      1.7,
+      -3.928,
+      2.5
+     ],
+     "name": "group",
+     "line": 18,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.128,
+      1.7,
+      -2.328,
+      2.5
+     ],
+     "name": "group",
+     "line": 18,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.528,
+      1.7,
+      -0.728,
+      2.5
+     ],
+     "name": "group",
+     "line": 18,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.072,
+      1.7,
+      0.872,
+      2.5
+     ],
+     "name": "circle",
+     "line": 18,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.672,
+      1.989,
+      1.782,
+      2.211
+     ],
+     "name": "group",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.582,
+      1.986,
+      2.72,
+      2.214
+     ],
+     "name": "group",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.52,
+      1.986,
+      3.652,
+      2.214
+     ],
+     "name": "group",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.452,
+      1.989,
+      4.728,
+      2.211
+     ],
+     "name": "number",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "latex error converting to dvi. See log output above or the log file: media/Tex/ee7720d34fa96eab.log",
+  "line": 32
+ }
+}

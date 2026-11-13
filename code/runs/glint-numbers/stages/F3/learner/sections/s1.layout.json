@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 83.07,
+  "s_sp": 96.2,
+  "s_ly": 24.9,
+  "s_ed": 100.0,
+  "states": 14,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 60.36,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 68.99,
+   "conflict": "Integer \"num_21\" (created line 11, box [-0.171, -0.138, 0.171, 0.138]) overlaps MathTex \"last_digit_21\" (line None, box [0.021, -0.166, 0.185, 0.166]) by 76%; moving it by [-0.3, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.35,
+   "conflict": "Integer \"num_21\" (created line 11, box [-0.471, -0.138, -0.129, 0.138]) overlaps Integer \"num_21_copy\" (line None, box [-0.471, -0.138, -0.129, 0.138]) by 100%; moving it by [0.0, 0.43] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.07,
+   "conflict": "Integer \"num_22\" (created line 43, box [-0.186, -0.138, 0.186, 0.138]) overlaps MathTex \"last_digit_22\" (line None, box [0.003, -0.166, 0.202, 0.166]) by 76%; moving it by [-0.33, 0.0] would clear it"
+  }
+ ]
+}

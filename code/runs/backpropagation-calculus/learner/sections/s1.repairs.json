@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 64,
+  "scope": "line",
+  "error": "TypeError: Object <bound method Mobject.shift of Circle> cannot be converted to an animation"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 67,
+  "scope": "block",
+  "error": "SyntaxError: unmatched ')' (s1.py, line 67)"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

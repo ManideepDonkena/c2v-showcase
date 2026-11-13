@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 62.17,
+  "s_sp": 76.1,
+  "s_ly": 44.3,
+  "s_ed": 50.9,
+  "states": 11,
+  "states_with_conflict": 9
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 57.51,
+   "conflicts": 9
+  },
+  {
+   "level": "shift",
+   "mvqs": 60.52,
+   "conflict": "Tex \"a1\" (created line 16, box [-0.337, 2.36, -0.109, 2.586]) overlaps Matrix \"grid1_mob\" (line 12, box [-0.947, 1.115, 0.947, 2.5]) by 61%; moving it by [0.0, 0.29] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 61.24,
+   "conflict": "Tex \"b1\" (created line 17, box [0.188, 2.36, 0.371, 2.711]) overlaps Matrix \"grid1_mob\" (line 12, box [-0.947, 1.115, 0.947, 2.5]) by 39%; moving it by [0.0, 0.29] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 62.17,
+   "conflict": "Tex \"c1\" (created line 18, box [-0.896, 1.029, -0.703, 1.255]) overlaps Matrix \"grid1_mob\" (line 12, box [-0.947, 1.115, 0.947, 2.5]) by 61%; moving it by [0.0, -0.29] would clear it"
+  }
+ ]
+}

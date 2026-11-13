@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 90.3,
+  "s_sp": 100.0,
+  "s_ly": 51.5,
+  "s_ed": 100.0,
+  "states": 4,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 89.52,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 90.3,
+   "conflict": "Text \"L_text\" (created line 21, box [-7.431, -2.619, -7.25, -2.381]) is outside the frame; shift it by [0.47, 0.0]"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 80.11,
+  "s_sp": 90.7,
+  "s_ly": 65.2,
+  "s_ed": 72.4,
+  "states": 33,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 79.9,
+   "conflicts": 9
+  },
+  {
+   "level": "block",
+   "mvqs": 80.11,
+   "conflict": "MathTex \"sub_5_neg\" (created line 77, box [-5.916, -4.343, -4.735, -4.171]) is outside the frame; shift it by [0.0, 0.49]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"sub_5_neg\" (created line 94, box [-5.916, -4.343, -4.735, -4.171]) is outside the frame; shift it by [0.0, 0.49]"
+  }
+ ]
+}

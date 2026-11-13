@@ -1,0 +1,84 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.321,
+      -1.007,
+      5.075,
+      -0.4
+     ],
+     "name": "number_line",
+     "line": 12,
+     "type": "NumberLine"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.583,
+      3.166,
+      4.583,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -3.0,
+      4.0,
+      3.0
+     ],
+     "name": "number_line",
+     "line": 12,
+     "type": "NumberLine"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "AttributeError",
+  "message": "ComplexPlane object has no attribute 'grid'",
+  "line": 24
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q4",
+  "q5",
+  "q6",
+  "q7",
+  "q9",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s3": [
+   "A visual demonstration where the area under the curve of the time-domain pulse remains constant while its width decreases, simultaneously causing the area under the frequency-domain curve to remain constant while its width increases, explicitly illustrating that as one dimension shrinks, the other must expand to maintain a fixed minimum product value.",
+   "A visual demonstration where the time-domain pulse width is explicitly halved (e.g., from 2 units to 1 unit) while the frequency-domain spectrum width is simultaneously doubled (e.g., from 1 unit to 2 units), accompanied by text stating 'If Δt becomes 1/2, then Δω becomes 2'.",
+   "A visual demonstration that as the time-width (Δt) approaches zero, the frequency-width (Δω) approaches infinity, proving their product cannot be less than a fixed constant.",
+   "A concrete numerical example demonstrating that multiplying the specific width of the time pulse (e.g., 2 ms) by the specific width of its frequency spectrum (e.g., 100 Hz) yields a constant value (0.2), visually reinforcing that this product is the invariant quantity governed by the inequality.",
+   "A specific numerical example showing that if the time duration (Δt) is multiplied by 4, the frequency width (Δω) is divided by 4 (multiplied by 1/4), explicitly demonstrating the inverse proportionality with concrete numbers rather than just a general inequality.",
+   "Show a side-by-side comparison of the area under the curve for the product of widths (Δt·Δω) for a Gaussian pulse versus an exponential pulse. State that the Gaussian pulse achieves the absolute minimum theoretical limit (the equality case), while other shapes like the exponential pulse result in a larger product, meaning they are not 'optimally' localized.",
+   "A visual demonstration showing that while zero-padding interpolates more points in the frequency domain (making the curve smoother), it does not add new information or narrow the main spectral lobes; explicitly show two spectra with identical peak widths but different point densities to prove resolution is determined by the original signal duration, not the padded length.",
+   "Show a specific example where the frequency domain is a sharp rectangular box (brick-wall filter) and demonstrate that its inverse Fourier transform in the time domain is a sinc function (a central peak with oscillating side lobes), illustrating that a discontinuous or 'sharp' feature in one domain creates an extended, oscillatory response in the other.",
+   "SHOW the specific numerical constant '1/4π' appearing in the inequality equation on screen, replacing or clarifying the generic '1/2' shown previously. SAY that for standard deviations defined with ordinary frequency (f), the minimum product is exactly one-quarter of pi, distinguishing this mathematical precision from the angular frequency version."
+  ],
+  "s1": [
+   "Show a Dirac delta function as an infinitely thin spike in the time domain and demonstrate that its Fourier transform is a horizontal line at a constant height across all frequencies, illustrating that a single instant contains all possible frequencies equally."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s3"
+ ],
+ "dev_before": 0.0,
+ "dev_after": 9.1,
+ "mvqs_before": 72.17,
+ "mvqs_after": 69.38,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/uncertainty-principle-in-the-context-of-fourier-/learner"
+}

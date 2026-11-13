@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 76.17,
+  "s_sp": 92.3,
+  "s_ly": 25.9,
+  "s_ed": 82.9,
+  "states": 14,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 74.21,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 75.28,
+   "conflict": "Dot \"new_point\" (created line 26, box [0.92, 2.92, 1.08, 3.08]) overlaps Text \"title\" (line 6, box [-2.185, 3.0, 2.185, 3.5]) by 50%; moving it by [0.0, -0.23] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.17,
+   "conflict": "MathTex \"new_label\" (created line 27, box [1.28, 3.28, 2.288, 3.778]) overlaps Text \"title\" (line 6, box [-2.185, 3.0, 2.185, 3.5]) by 39%; moving it by [0.0, -0.93] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"new_label\" (created line 27, box [1.28, 2.35, 2.288, 2.848]) overlaps Arrow \"arrow\" (line 25, box [1.045, 1.089, 1.955, 2.911]) by 67%; moving it by [0.0, 0.71] would clear it"
+  }
+ ]
+}

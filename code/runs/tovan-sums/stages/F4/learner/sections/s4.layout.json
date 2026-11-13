@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 79.52,
+  "s_sp": 95.0,
+  "s_ly": 32.7,
+  "s_ed": 85.0,
+  "states": 16,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 66.92,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.93,
+   "conflict": "MathTex \"expr2\" (created line 40, box [-0.949, 3.085, 0.949, 3.5]) overlaps Text \"title\" (line 6, box [-3.439, 3.0, 3.439, 3.5]) by 100%; moving it by [0.0, -0.65] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.51,
+   "conflict": "SurroundingRectangle \"inner_group\" (created line 46, box [-0.633, -0.287, 0.633, 0.287]) overlaps Text \"narration2\" (line 46, box [-7.576, -0.168, 7.576, 0.168]) by 58%; moving it by [0.0, 0.6] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.52,
+   "conflict": "Text \"narration2\" (created line 46, box [-7.576, -0.168, 7.576, 0.168]) is outside the frame; shift it by [0.61, 0.0]"
+  }
+ ]
+}

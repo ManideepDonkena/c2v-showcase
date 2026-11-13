@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 78.48,
+  "s_sp": 93.6,
+  "s_ly": 41.8,
+  "s_ed": 77.8,
+  "states": 9,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 78.48,
+   "conflicts": 2
+  },
+  {
+   "level": "none kept",
+   "conflict": "Circle \"circle\" (created line 23, box [-1.0, -1.0, 1.0, 1.0]) overlaps MathTex \"sum_text\" (line 17, box [-1.102, 0.798, 1.102, 1.479]) by 26%; moving it by [0.0, -0.35] would clear it"
+  }
+ ]
+}

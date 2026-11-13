@@ -1,0 +1,2143 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.074,
+      -0.74,
+      -1.726,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.495,
+      -0.74,
+      -1.105,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.741,
+      -0.523,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.298,
+      -0.741,
+      0.098,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.315,
+      -0.738,
+      0.685,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.901,
+      -0.745,
+      1.299,
+      -0.5
+     ],
+     "name": "label_obj",
+     "line": 18,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.074,
+      -0.74,
+      -1.726,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.495,
+      -0.74,
+      -1.105,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.741,
+      -0.523,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.298,
+      -0.741,
+      0.098,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.315,
+      -0.738,
+      0.685,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.901,
+      -0.745,
+      1.299,
+      -0.5
+     ],
+     "name": "label_obj",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.074,
+      -0.74,
+      -1.726,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.495,
+      -0.74,
+      -1.105,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.741,
+      -0.523,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.298,
+      -0.741,
+      0.098,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.315,
+      -0.738,
+      0.685,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.901,
+      -0.745,
+      1.299,
+      -0.5
+     ],
+     "name": "label_obj",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.074,
+      -0.74,
+      -1.726,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.495,
+      -0.74,
+      -1.105,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.741,
+      -0.523,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.298,
+      -0.741,
+      0.098,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.315,
+      -0.738,
+      0.685,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.901,
+      -0.745,
+      1.299,
+      -0.5
+     ],
+     "name": "label_obj",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "highlight",
+     "line": 22,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 48,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.074,
+      -0.74,
+      -1.726,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.495,
+      -0.74,
+      -1.105,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.741,
+      -0.523,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.298,
+      -0.741,
+      0.098,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.315,
+      -0.738,
+      0.685,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.901,
+      -0.745,
+      1.299,
+      -0.5
+     ],
+     "name": "label_obj",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "highlight",
+     "line": 22,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.074,
+      -0.74,
+      -1.726,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.495,
+      -0.74,
+      -1.105,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.741,
+      -0.523,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.298,
+      -0.741,
+      0.098,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.315,
+      -0.738,
+      0.685,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.901,
+      -0.745,
+      1.299,
+      -0.5
+     ],
+     "name": "label_obj",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "highlight",
+     "line": 22,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "p4_highlight",
+     "line": 38,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "p4_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.074,
+      -0.74,
+      -1.726,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.495,
+      -0.74,
+      -1.105,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.741,
+      -0.523,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.298,
+      -0.741,
+      0.098,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.315,
+      -0.738,
+      0.685,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.901,
+      -0.745,
+      1.299,
+      -0.5
+     ],
+     "name": "label_obj",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "highlight",
+     "line": 22,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "p4_highlight",
+     "line": 38,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "p4_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.074,
+      -0.74,
+      -1.726,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.495,
+      -0.74,
+      -1.105,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.741,
+      -0.523,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.298,
+      -0.741,
+      0.098,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.315,
+      -0.738,
+      0.685,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.901,
+      -0.745,
+      1.299,
+      -0.5
+     ],
+     "name": "label_obj",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "highlight",
+     "line": 22,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "p4_highlight",
+     "line": 38,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "p4_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      -3.5,
+      2.483,
+      -3.163
+     ],
+     "name": "explanation",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 67,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.074,
+      -0.74,
+      -1.726,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.495,
+      -0.74,
+      -1.105,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.741,
+      -0.523,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "bits",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.298,
+      -0.741,
+      0.098,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.315,
+      -0.738,
+      0.685,
+      -0.5
+     ],
+     "name": "bits",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "bit",
+     "line": 16,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.901,
+      -0.745,
+      1.299,
+      -0.5
+     ],
+     "name": "label_obj",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.3,
+      -0.4,
+      -1.5,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p1_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.7,
+      -0.4,
+      -0.9,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.1,
+      -0.4,
+      -0.3,
+      0.4
+     ],
+     "name": "p2_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "highlight",
+     "line": 22,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.4,
+      0.3,
+      0.4
+     ],
+     "name": "p4_highlight",
+     "line": 38,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.1,
+      -0.4,
+      0.9,
+      0.4
+     ],
+     "name": "p4_highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.7,
+      -0.4,
+      1.5,
+      0.4
+     ],
+     "name": "highlight",
+     "line": null,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      -3.5,
+      2.483,
+      -3.163
+     ],
+     "name": "explanation",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,14 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 11,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 11: TypeError: Axes() does not accept the keyword 'width' in this Manim\nline 11: TypeError: Axes() does not accept the keyword 'height' in this Manim\nHINT: Remove that keyword argument; set the property after creating the object."
+ },
+ {
+  "attempt": 1,
+  "ok": true
+ }
+]

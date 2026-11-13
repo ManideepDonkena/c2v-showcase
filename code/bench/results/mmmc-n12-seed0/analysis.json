@@ -1,0 +1,269 @@
+{
+ "topics": 12,
+ "failed_topics": 0,
+ "means": {
+  "base": {
+   "teachquiz": 10.56,
+   "teachquiz_clean": 10.56,
+   "evidence": 7.78,
+   "full": 10.56,
+   "mvqs": 78.53,
+   "sections_rendered": 3.25,
+   "c2v_api": null,
+   "c2v_manual": null,
+   "control_first_section": 1.67,
+   "control_other_topic": 0.0
+  },
+  "learner": {
+   "teachquiz": 12.22,
+   "teachquiz_clean": 12.22,
+   "evidence": 8.89,
+   "full": 12.22,
+   "mvqs": 79.27,
+   "sections_rendered": 3.67,
+   "c2v_api": null,
+   "c2v_manual": null,
+   "control_first_section": 0.0,
+   "control_other_topic": null
+  },
+  "generic": {
+   "teachquiz": 14.44,
+   "teachquiz_clean": 14.44,
+   "evidence": 6.67,
+   "full": 14.44,
+   "mvqs": 79.24,
+   "sections_rendered": 3.58,
+   "c2v_api": null,
+   "c2v_manual": null,
+   "control_first_section": 0.0,
+   "control_other_topic": null
+  },
+  "learner_all": {
+   "teachquiz": 16.67,
+   "teachquiz_clean": 16.67,
+   "evidence": 11.11,
+   "full": 16.67,
+   "mvqs": 72.56,
+   "sections_rendered": 3.5,
+   "c2v_api": null,
+   "c2v_manual": null,
+   "control_first_section": 0.0,
+   "control_other_topic": null
+  }
+ },
+ "paired": {
+  "learner - base": {
+   "teachquiz": {
+    "n": 12,
+    "mean_diff": 1.66,
+    "ci95": [
+     -1.68,
+     5.54
+    ],
+    "wins": 3,
+    "ties": 7,
+    "losses": 2,
+    "wilcoxon_p": 0.5
+   },
+   "teachquiz_clean": {
+    "n": 12,
+    "mean_diff": 1.66,
+    "ci95": [
+     -1.68,
+     5.54
+    ],
+    "wins": 3,
+    "ties": 7,
+    "losses": 2,
+    "wilcoxon_p": 0.5
+   },
+   "evidence": {
+    "n": 12,
+    "mean_diff": 1.11,
+    "ci95": [
+     -1.12,
+     3.88
+    ],
+    "wins": 2,
+    "ties": 9,
+    "losses": 1,
+    "wilcoxon_p": 0.75
+   },
+   "mvqs": {
+    "n": 12,
+    "mean_diff": 0.74,
+    "ci95": [
+     -2.07,
+     3.97
+    ],
+    "wins": 6,
+    "ties": 0,
+    "losses": 6,
+    "wilcoxon_p": 0.9697
+   },
+   "c2v_api": null,
+   "c2v_manual": null
+  },
+  "learner - generic": {
+   "teachquiz": {
+    "n": 12,
+    "mean_diff": -2.23,
+    "ci95": [
+     -10.55,
+     6.1
+    ],
+    "wins": 1,
+    "ties": 9,
+    "losses": 2,
+    "wilcoxon_p": 1.0
+   },
+   "teachquiz_clean": {
+    "n": 12,
+    "mean_diff": -2.23,
+    "ci95": [
+     -10.55,
+     6.1
+    ],
+    "wins": 1,
+    "ties": 9,
+    "losses": 2,
+    "wilcoxon_p": 1.0
+   },
+   "evidence": {
+    "n": 12,
+    "mean_diff": 2.23,
+    "ci95": [
+     -3.88,
+     9.44
+    ],
+    "wins": 2,
+    "ties": 9,
+    "losses": 1,
+    "wilcoxon_p": 0.75
+   },
+   "mvqs": {
+    "n": 12,
+    "mean_diff": 0.02,
+    "ci95": [
+     -3.09,
+     3.24
+    ],
+    "wins": 5,
+    "ties": 0,
+    "losses": 7,
+    "wilcoxon_p": 0.9697
+   },
+   "c2v_api": null,
+   "c2v_manual": null
+  },
+  "learner - learner_all": {
+   "teachquiz": {
+    "n": 12,
+    "mean_diff": -4.45,
+    "ci95": [
+     -11.12,
+     0.56
+    ],
+    "wins": 1,
+    "ties": 8,
+    "losses": 3,
+    "wilcoxon_p": 0.25
+   },
+   "teachquiz_clean": {
+    "n": 12,
+    "mean_diff": -4.45,
+    "ci95": [
+     -11.12,
+     0.56
+    ],
+    "wins": 1,
+    "ties": 8,
+    "losses": 3,
+    "wilcoxon_p": 0.25
+   },
+   "evidence": {
+    "n": 12,
+    "mean_diff": -2.22,
+    "ci95": [
+     -9.43,
+     3.89
+    ],
+    "wins": 1,
+    "ties": 9,
+    "losses": 2,
+    "wilcoxon_p": 0.75
+   },
+   "mvqs": {
+    "n": 12,
+    "mean_diff": 6.71,
+    "ci95": [
+     0.82,
+     13.53
+    ],
+    "wins": 8,
+    "ties": 0,
+    "losses": 4,
+    "wilcoxon_p": 0.0771
+   },
+   "c2v_api": null,
+   "c2v_manual": null
+  },
+  "generic - base": {
+   "teachquiz": {
+    "n": 12,
+    "mean_diff": 3.88,
+    "ci95": [
+     -5.01,
+     14.44
+    ],
+    "wins": 2,
+    "ties": 7,
+    "losses": 3,
+    "wilcoxon_p": 0.75
+   },
+   "teachquiz_clean": {
+    "n": 12,
+    "mean_diff": 3.88,
+    "ci95": [
+     -5.01,
+     14.44
+    ],
+    "wins": 2,
+    "ties": 7,
+    "losses": 3,
+    "wilcoxon_p": 0.75
+   },
+   "evidence": {
+    "n": 12,
+    "mean_diff": -1.12,
+    "ci95": [
+     -6.68,
+     5.01
+    ],
+    "wins": 1,
+    "ties": 8,
+    "losses": 3,
+    "wilcoxon_p": 0.875
+   },
+   "mvqs": {
+    "n": 12,
+    "mean_diff": 0.72,
+    "ci95": [
+     -2.31,
+     3.72
+    ],
+    "wins": 6,
+    "ties": 0,
+    "losses": 6,
+    "wilcoxon_p": 0.7334
+   },
+   "c2v_api": null,
+   "c2v_manual": null
+  }
+ },
+ "topics_where_mode_changed_the_video": {
+  "learner": 12,
+  "generic": 12,
+  "learner_all": 12
+ }
+}

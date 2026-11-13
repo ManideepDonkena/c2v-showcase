@@ -1,0 +1,738 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.633,
+      1.425,
+      0.633,
+      1.575
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.633,
+      1.425,
+      0.633,
+      1.575
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.55,
+      -1.849,
+      0.55,
+      -1.151
+     ],
+     "name": "da_dw",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.633,
+      1.425,
+      0.633,
+      1.575
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.55,
+      -1.849,
+      0.55,
+      -1.151
+     ],
+     "name": "da_dw",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.65,
+      -1.949,
+      0.65,
+      -1.051
+     ],
+     "name": "highlight",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.633,
+      1.425,
+      0.633,
+      1.575
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.55,
+      -1.849,
+      0.55,
+      -1.151
+     ],
+     "name": "da_dw",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.65,
+      -1.949,
+      0.65,
+      -1.051
+     ],
+     "name": "highlight",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.909,
+      -2.612,
+      1.909,
+      -2.388
+     ],
+     "name": "x_val",
+     "line": 22,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.893,
+      1.313,
+      0.893,
+      1.687
+     ],
+     "name": "loss_node",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.893,
+      1.313,
+      0.893,
+      1.687
+     ],
+     "name": "loss_node",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.025,
+      -1.879,
+      1.025,
+      -1.121
+     ],
+     "name": "dL_da",
+     "line": 31,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 39,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.893,
+      1.313,
+      0.893,
+      1.687
+     ],
+     "name": "loss_node",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.025,
+      -1.879,
+      1.025,
+      -1.121
+     ],
+     "name": "dL_da",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.177,
+      -2.782,
+      1.177,
+      -2.218
+     ],
+     "name": "deriv_step",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 43,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 48,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.6,
+      1.334,
+      0.6,
+      1.666
+     ],
+     "name": "act_node",
+     "line": 43,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.6,
+      1.334,
+      0.6,
+      1.666
+     ],
+     "name": "act_node",
+     "line": 43,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.338,
+      -1.675,
+      0.338,
+      -1.325
+     ],
+     "name": "sigma_prime",
+     "line": 47,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.6,
+      1.334,
+      0.6,
+      1.666
+     ],
+     "name": "act_node",
+     "line": 43,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.338,
+      -1.675,
+      0.338,
+      -1.325
+     ],
+     "name": "sigma_prime",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.051,
+      -2.762,
+      1.051,
+      -2.238
+     ],
+     "name": "chain_rule",
+     "line": 54,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.071,
+      1.121,
+      1.071,
+      1.879
+     ],
+     "name": "dL_da_simplified",
+     "line": 62,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.071,
+      1.121,
+      1.071,
+      1.879
+     ],
+     "name": "dL_da_simplified",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.042,
+      -2.753,
+      2.042,
+      -2.247
+     ],
+     "name": "explanation",
+     "line": 67,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.158,
+      1.151,
+      1.158,
+      1.849
+     ],
+     "name": "identity_act",
+     "line": 75,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.158,
+      1.151,
+      1.158,
+      1.849
+     ],
+     "name": "identity_act",
+     "line": 75,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.426,
+      0.424,
+      1.426,
+      0.651
+     ],
+     "name": "compare",
+     "line": 80,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.158,
+      1.151,
+      1.158,
+      1.849
+     ],
+     "name": "identity_act",
+     "line": 75,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.426,
+      0.424,
+      1.426,
+      0.651
+     ],
+     "name": "compare",
+     "line": 80,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.406,
+      -0.303,
+      1.406,
+      -0.076
+     ],
+     "name": "compare2",
+     "line": 81,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 88,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 91,
+   "objects": []
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 25,
+  "scope": "line",
+  "error": "ValueError: could not broadcast input array from shape (43,2) into shape (43,3)"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 25,
+  "scope": "block",
+  "error": "ValueError: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (44,) + inhomogeneous part."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 42,
+  "scope": "section",
+  "error": "IndentationError: unexpected indent (s3.py, line 42)"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 45,
+  "scope": "section",
+  "error": "ValueError: could not broadcast input array from shape (43,2) into shape (43,3)"
+ }
+]

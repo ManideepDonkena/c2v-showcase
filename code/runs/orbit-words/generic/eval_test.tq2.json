@@ -1,0 +1,371 @@
+{
+ "split": "test",
+ "questions": 8,
+ "clean_questions": 8,
+ "none": 0.0,
+ "full": 70.8,
+ "none_clean": 0.0,
+ "full_clean": 70.8,
+ "evidence": 70.8,
+ "runs": {
+  "none": [
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t3",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t5",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t6",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t8",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     }
+    ],
+    "by_order": true
+   },
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t3",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t5",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t6",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t8",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     }
+    ],
+    "by_order": true
+   },
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t3",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t5",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t6",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     },
+     {
+      "id": "t8",
+      "choice": "NULL",
+      "right": false,
+      "time": "null"
+     }
+    ],
+    "by_order": true
+   }
+  ],
+  "full": [
+   {
+    "score": 75.0,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "C",
+      "right": true,
+      "time": "00:16",
+      "backed": true
+     },
+     {
+      "id": "t2",
+      "choice": "B",
+      "right": true,
+      "time": "00:16",
+      "backed": true
+     },
+     {
+      "id": "t3",
+      "choice": "B",
+      "right": true,
+      "time": "00:28",
+      "backed": true
+     },
+     {
+      "id": "t4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "backed": false
+     },
+     {
+      "id": "t5",
+      "choice": "A",
+      "right": false,
+      "time": "00:28",
+      "backed": false
+     },
+     {
+      "id": "t6",
+      "choice": "C",
+      "right": true,
+      "time": "00:28",
+      "backed": true
+     },
+     {
+      "id": "t7",
+      "choice": "A",
+      "right": true,
+      "time": "00:53",
+      "backed": true
+     },
+     {
+      "id": "t8",
+      "choice": "A",
+      "right": true,
+      "time": "00:38",
+      "backed": true
+     }
+    ],
+    "by_order": false,
+    "evidence": 75.0
+   },
+   {
+    "score": 75.0,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "C",
+      "right": true,
+      "time": "00:16",
+      "backed": true
+     },
+     {
+      "id": "t2",
+      "choice": "B",
+      "right": true,
+      "time": "00:16",
+      "backed": true
+     },
+     {
+      "id": "t3",
+      "choice": "B",
+      "right": true,
+      "time": "00:28",
+      "backed": true
+     },
+     {
+      "id": "t4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "backed": false
+     },
+     {
+      "id": "t5",
+      "choice": "D",
+      "right": true,
+      "time": "00:28",
+      "backed": true
+     },
+     {
+      "id": "t6",
+      "choice": "C",
+      "right": true,
+      "time": "00:28",
+      "backed": true
+     },
+     {
+      "id": "t7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "backed": false
+     },
+     {
+      "id": "t8",
+      "choice": "A",
+      "right": true,
+      "time": "00:38",
+      "backed": true
+     }
+    ],
+    "by_order": false,
+    "evidence": 75.0
+   },
+   {
+    "score": 62.5,
+    "answers": [
+     {
+      "id": "t1",
+      "choice": "C",
+      "right": true,
+      "time": "00:16",
+      "backed": true
+     },
+     {
+      "id": "t2",
+      "choice": "B",
+      "right": true,
+      "time": "00:16",
+      "backed": true
+     },
+     {
+      "id": "t3",
+      "choice": "B",
+      "right": true,
+      "time": "00:28",
+      "backed": true
+     },
+     {
+      "id": "t4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "backed": false
+     },
+     {
+      "id": "t5",
+      "choice": "A",
+      "right": false,
+      "time": "00:28",
+      "backed": false
+     },
+     {
+      "id": "t6",
+      "choice": "C",
+      "right": true,
+      "time": "00:28",
+      "backed": true
+     },
+     {
+      "id": "t7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "backed": false
+     },
+     {
+      "id": "t8",
+      "choice": "A",
+      "right": true,
+      "time": "00:38",
+      "backed": true
+     }
+    ],
+    "by_order": false,
+    "evidence": 62.5
+   }
+  ]
+ },
+ "teachquiz": 70.8,
+ "teachquiz_clean": 70.8,
+ "abstained": 20.8,
+ "control_first_section": 37.5
+}

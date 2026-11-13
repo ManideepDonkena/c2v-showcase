@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 26,
+  "scope": "line",
+  "error": "TypeError: Mobject.__init__() got an unexpected keyword argument 'bracket_style'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 39,
+  "scope": "block",
+  "error": "TypeError: Mobject.__init__() got an unexpected keyword argument 'dash_length'"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

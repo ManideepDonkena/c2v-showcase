@@ -1,0 +1,287 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.112,
+      2.995,
+      3.112,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 16,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.112,
+      2.995,
+      3.112,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.112,
+      2.995,
+      3.112,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+     ],
+     "name": "v",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      1.1,
+      1.239,
+      1.281
+     ],
+     "name": "v_label",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.112,
+      2.995,
+      3.112,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+     ],
+     "name": "v",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      1.1,
+      1.239,
+      1.281
+     ],
+     "name": "v_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.335,
+      0.849,
+      0.955,
+      2.5
+     ],
+     "name": "M",
+     "line": 25,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 37,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.112,
+      2.995,
+      3.112,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+     ],
+     "name": "v",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      1.1,
+      1.239,
+      1.281
+     ],
+     "name": "v_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.335,
+      0.849,
+      0.955,
+      2.5
+     ],
+     "name": "M",
+     "line": 25,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.85,
+      3.0,
+      2.15
+     ],
+     "name": "line",
+     "line": 35,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+     ],
+     "name": "v",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.1,
+      1.1,
+      1.239,
+      1.281
+     ],
+     "name": "v_label",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

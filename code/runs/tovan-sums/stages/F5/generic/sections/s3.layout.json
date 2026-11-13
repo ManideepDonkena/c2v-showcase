@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 85.01,
+  "s_sp": 98.4,
+  "s_ly": 54.2,
+  "s_ed": 83.3,
+  "states": 6,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 77.05,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.01,
+   "conflict": "MathTex \"b_label\" (created line 14, box [-0.076, -0.146, 0.076, 0.146]) overlaps MathTex \"minus_one_label\" (line 12, box [-0.231, -0.138, 0.231, 0.138]) by 94%; moving it by [0.0, 0.43] would clear it"
+  }
+ ]
+}

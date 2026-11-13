@@ -1,0 +1,28 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 11,
+  "scope": "section",
+  "preflight": true,
+  "error": "line 11: TypeError: Matrix() does not accept the keyword 'bracket_style' in this Manim\nline 44: TypeError: Matrix() does not accept the keyword 'bracket_style' in this Manim\nline 87: TypeError: Matrix() does not accept the keyword 'bracket_style' in this Manim\nHINT: Remove that keyword argument; set the property after creating the object."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 13,
+  "scope": "block",
+  "error": "TypeError: VMobject.set_style() got an unexpected keyword argument 'bracket_style'"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 13,
+  "scope": "section",
+  "error": "TypeError: VMobject.set_style() got an unexpected keyword argument 'bracket_style'"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

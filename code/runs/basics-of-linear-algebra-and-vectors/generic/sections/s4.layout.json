@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 82.21,
+  "s_sp": 93.8,
+  "s_ly": 56.6,
+  "s_ed": 80.0,
+  "states": 8,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 67.34,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.69,
+   "conflict": "Arrow \"i_vec\" (created line 23, box [0.0, -0.675, 1.5, -0.325]) overlaps MathTex \"i_label\" (line 19, box [1.44, -0.946, 1.56, -0.6]) by 10%; moving it by [-0.21, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 80.66,
+   "conflict": "Arrow \"v_i_proj\" (created line 42, box [0.0, -0.675, 3.0, -0.325]) overlaps MathTex \"i_label\" (line 26, box [1.44, -0.946, 1.56, -0.6]) by 21%; moving it by [0.0, 0.23] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.21,
+   "conflict": "MathTex \"v_j_label\" (created line 46, box [3.1, 2.277, 3.461, 2.723]) overlaps Axes \"axes\" (line 12, box [-6.0, -3.5, 6.0, 2.5]) by 50%; moving it by [0.0, 0.37] would clear it"
+  }
+ ]
+}

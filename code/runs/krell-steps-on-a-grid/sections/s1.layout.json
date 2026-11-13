@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 72.2,
+  "s_sp": 91.3,
+  "s_ly": 29.2,
+  "s_ed": 69.1,
+  "states": 11,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 62.52,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 66.33,
+   "conflict": "MathTex \"label_P\" (created line 26, box [2.68, 3.9, 3.184, 4.149]) is outside the frame; shift it by [0.0, -0.3]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 72.2,
+   "conflict": "Arrow \"arrow\" (created line 32, box [2.489, 2.865, 3.911, 3.575]) overlaps Text \"title\" (line 6, box [-3.624, 3.11, 3.624, 3.5]) by 43%; moving it by [0.0, -0.62] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"swap_label\" (created line 45, box [2.788, 3.255, 3.612, 3.576]) overlaps Text \"title\" (line 6, box [-3.624, 3.11, 3.624, 3.5]) by 76%; moving it by [0.0, 0.4] would clear it"
+  }
+ ]
+}

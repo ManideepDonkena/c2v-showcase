@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 84.31,
+  "s_sp": 99.3,
+  "s_ly": 23.2,
+  "s_ed": 100.0,
+  "states": 18,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 81.48,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.31,
+   "conflict": "Text \"identity\" (created line 80, box [-1.316, 3.166, 1.316, 3.5]) overlaps Text \"commutative\" (line 50, box [-1.177, 3.166, 1.177, 3.5]) by 100%; moving it by [0.0, 0.48] would clear it"
+  }
+ ]
+}

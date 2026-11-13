@@ -1,0 +1,176 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the primary architectural component that defines a Transformer model?",
+   "options": {
+    "A": "Recurrent Neural Networks",
+    "B": "Convolutional Layers",
+    "C": "Self-Attention Mechanisms",
+    "D": "Long Short-Term Memory"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q2",
+   "question": "Why do Transformers use positional encodings?",
+   "options": {
+    "A": "To increase model depth",
+    "B": "To add sequence order info",
+    "C": "To reduce memory usage",
+    "D": "To normalize inputs"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "In multi-head attention, what is the main benefit of using multiple heads?",
+   "options": {
+    "A": "Faster training speed",
+    "B": "Capturing diverse relationships",
+    "C": "Reducing parameter count",
+    "D": "Simplifying gradient descent"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q5",
+   "question": "Which component follows the attention mechanism in a standard Transformer block?",
+   "options": {
+    "A": "Embedding Layer",
+    "B": "Positional Encoding",
+    "C": "Feed-Forward Network",
+    "D": "Softmax Function"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q6",
+   "question": "What is a key limitation of standard Transformers compared to RNNs?",
+   "options": {
+    "A": "Cannot handle text",
+    "B": "High memory for long seqs",
+    "C": "Slow inference speed",
+    "D": "Poor accuracy on short texts"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q7",
+   "question": "What does the 'Masked' in Masked Multi-Head Attention prevent?",
+   "options": {
+    "A": "Overfitting on validation",
+    "B": "Future token leakage",
+    "C": "Gradient explosion",
+    "D": "Vocabulary overflow"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q8",
+   "question": "Which image description corresponds to a Decoder-only architecture?",
+   "options": {
+    "A": "Encoder with CNN layers",
+    "B": "Stacked decoder blocks only",
+    "C": "Bidirectional encoder stack",
+    "D": "Single layer perceptron"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q10",
+   "question": "If Q=[1,1], K=[1,-1], what is the raw dot product before scaling?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "-1"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q11",
+   "question": "Why is Layer Normalization used in Transformers?",
+   "options": {
+    "A": "To increase dimensionality",
+    "B": "To stabilize training gradients",
+    "C": "To reduce vocabulary size",
+    "D": "To add non-linearity"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q12",
+   "question": "Which task is primarily associated with Encoder-Decoder Transformers?",
+   "options": {
+    "A": "Text Classification",
+    "B": "Machine Translation",
+    "C": "Image Generation",
+    "D": "Clustering"
+   },
+   "answer": "B"
+  }
+ ],
+ "test": [
+  {
+   "question": "What is the MAIN challenge that language models help computers overcome in understanding human language?",
+   "options": {
+    "A": "Understanding spoken words with perfect pronunciation",
+    "B": "Interpreting and generating contextually accurate and meaningful text",
+    "C": "Translating between two unrelated languages without any errors",
+    "D": "Storing every single word in the dictionary"
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "Why do traditional neural network models like RNNs struggle with understanding long sentences?",
+   "options": {
+    "A": "They can only process images, not text",
+    "B": "Information fades or becomes less clear as sentences get longer, making distant word relationships hard to capture",
+    "C": "They are too expensive to train on any dataset",
+    "D": "They ignore punctuation in sentences"
+   },
+   "answer": "B",
+   "id": "t2"
+  },
+  {
+   "question": "How do transformers address the limitations of earlier sequential models for language tasks?",
+   "options": {
+    "A": "By translating each word to all languages simultaneously",
+    "B": "By focusing on one word at a time without any contextual reference",
+    "C": "By using attention mechanisms to focus on any word in a sentence regardless of its position and processing input in parallel",
+    "D": "By storing sentences in alphabetical order"
+   },
+   "answer": "C",
+   "id": "t3"
+  },
+  {
+   "question": "In the attention mechanism of transformers, what do the terms Query (Q), Key (K), and Value (V) represent?",
+   "options": {
+    "A": "Standard mathematical constants used in all neural networks",
+    "B": "Random weights assigned to different words at initialization",
+    "C": "Vectors representing the current word, the words being attended to, and the information passed along, respectively",
+    "D": "Database table column names for storing sentences"
+   },
+   "answer": "C",
+   "id": "t4"
+  },
+  {
+   "question": "Which of the following BEST describes the impact of large language models based on transformers?",
+   "options": {
+    "A": "They only work for speech recognition tasks",
+    "B": "They can perform a range of tasks like answering questions, translating, and writing while also raising ethical concerns about bias and societal influence",
+    "C": "They replace all human teachers in classrooms",
+    "D": "They cannot be used on smartphones due to their size"
+   },
+   "answer": "B",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 10,
+ "dev_leaked": []
+}

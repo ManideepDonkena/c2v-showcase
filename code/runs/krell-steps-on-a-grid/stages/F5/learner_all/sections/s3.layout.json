@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 81.43,
+  "s_sp": 93.5,
+  "s_ly": 35.5,
+  "s_ed": 92.0,
+  "states": 15,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 81.25,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.43,
+   "conflict": "Dot \"point_46\" (created line 69, box [2.42, 4.42, 2.58, 4.58]) is outside the frame; shift it by [0.0, -0.73]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"label_46\" (created line 66, box [2.248, 4.78, 2.752, 5.029]) is outside the frame; shift it by [0.0, -1.18]"
+  }
+ ]
+}

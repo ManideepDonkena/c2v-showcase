@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 73.33,
+  "s_sp": 85.3,
+  "s_ly": 62.2,
+  "s_ed": 60.8,
+  "states": 40,
+  "states_with_conflict": 17
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 73.33,
+   "conflicts": 39
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"area_c\" (created line 23, box [-0.389, -1.974, 0.389, -1.75]) overlaps Square \"square_b\" (line 12, box [0.0, -3.0, 4.0, 1.0]) by 50%; moving it by [-0.54, 0.0] would clear it"
+  }
+ ]
+}

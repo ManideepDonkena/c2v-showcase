@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "The Asymmetric Grid",
+  "teaches": "Defining the quill distance formula and its core rule: vertical movement costs double.",
+  "visual": "A grid appears where horizontal lines are spaced normally but vertical lines are compressed to show 'cost'. Two points, A(0,0) and B(1,1), are highlighted. An arrow moves from A to B horizontally with label 'Cost: 1', then vertically with label 'Cost: 2'. The formula |x1 - x2| + 2×|y1 - y2| fades in at the top.",
+  "narration": "In quill distance, space is not uniform. Moving sideways costs 1 unit, but moving up or down costs 2 units. This creates a grid where vertical travel is twice as expensive as horizontal travel.",
+  "start": 0.0,
+  "end": 29.4
+ },
+ {
+  "id": "s2",
+  "title": "Symmetry and Direction",
+  "teaches": "Rule 1: Quill distance is symmetric (same in both directions).",
+  "visual": "Points A(0,0) and B(2,1) are shown. A path goes from A to B with total cost calculation '2 + 2 = 4'. Then the path reverses from B to A with identical cost '2 + 2 = 4'. The text 'd(A,B) = d(B,A)' appears prominently.",
+  "narration": "Despite the vertical cost, quill distance is symmetric. The distance from point A to point B is exactly the same as from B back to A. Direction does not change the total cost.",
+  "start": 29.4,
+  "end": 52.6
+ },
+ {
+  "id": "s3",
+  "title": "The Shape of Distance 2",
+  "teaches": "Rule 3: Identifying points at quill distance 2 from a center.",
+  "visual": "A central point C(0,0) is shown. Four specific points light up in sequence: (2,0), (-2,0), (0,1), and (0,-1). Each lights up with its calculation: '2 + 0 = 2' or '0 + 2 = 2'. Other nearby points like (1,1) remain dim with label 'Cost: 3'.",
+  "narration": "Consider all points exactly at quill distance 2 from the center. These include two steps sideways, or just one step up or down. Points like (1,1) are further away because their cost is 3.",
+  "start": 52.6,
+  "end": 75.47
+ },
+ {
+  "id": "s4",
+  "title": "Worked Example Calculation",
+  "teaches": "Applying the formula to a specific example: (0,0) to (3,2).",
+  "visual": "Points P(0,0) and Q(3,2) are marked. A stepped path connects them: 3 horizontal segments and 2 vertical segments. Numbers appear on segments: '1+1+1' for horizontal, '2+2' for vertical. The final equation '3 + 4 = 7' animates into place.",
+  "narration": "Let's calculate the distance from (0,0) to (3,2). We move 3 units horizontally for a cost of 3, and 2 units vertically for a cost of 4. The total quill distance is 7.",
+  "start": 75.47,
+  "end": 90.93
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 24,
+  "scope": "line",
+  "error": "AttributeError: 'S3' object has no attribute 'pulse_width'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 29,
+  "scope": "block",
+  "error": "IndentationError: unexpected indent (s3.py, line 29)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 29,
+  "scope": "section",
+  "error": "SyntaxError: invalid syntax (s3.py, line 29)"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 24,
+  "scope": "section",
+  "error": "AttributeError: 'S3' object has no attribute 'pulse_width'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ }
+]

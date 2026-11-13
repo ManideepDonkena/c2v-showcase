@@ -1,0 +1,49 @@
+{
+ "kind": "f3",
+ "fixes": {
+  "s3": [
+   "SHOW a central point and four specific points lighting up in sequence: two points located 4 units horizontally away (cost 4+0=4), one point located 2 units vertically up (cost 0+4=4), and one point located 2 units vertically down (cost 0+4=4). SAY that just as distance 2 required 2 sideways or 1 vertical step, distance 4 requires 4 sideways steps or 2 vertical steps."
+  ]
+ },
+ "items": {
+  "q1": 0.9999905,
+  "q2": 0.9999990000000001,
+  "q3": 1.0,
+  "q4": 1.0,
+  "q5": 0.9984744999999999,
+  "q6": 0.5898795,
+  "q7": 0.999981,
+  "q8": 0.9977785,
+  "q9": 0.9999899999999999,
+  "q11": 0.2601875,
+  "q12": 1.0
+ },
+ "qmap": {
+  "q1": "s1",
+  "q2": "s1",
+  "q3": "s4",
+  "q4": "s2",
+  "q5": "s3",
+  "q6": "s1",
+  "q7": "s1",
+  "q8": "s1",
+  "q9": "s1",
+  "q11": "s3",
+  "q12": "s1"
+ },
+ "ochiai": {
+  "s1": 0.0,
+  "s2": 0.0,
+  "s3": 0.7071067811865475,
+  "s4": 0.0
+ },
+ "chosen": [
+  "s3"
+ ],
+ "k": 2,
+ "failing": [
+  "q11"
+ ],
+ "refused": [],
+ "dev": 11
+}

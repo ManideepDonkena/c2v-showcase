@@ -1,0 +1,35 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 28,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 28: AttributeError: no Manim object has a method 'get_parts_by_tex'\nline 29: AttributeError: no Manim object has a method 'get_parts_by_tex'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 27,
+  "scope": "block",
+  "error": "AttributeError: 'NoneType' object has no attribute 'copy'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 30,
+  "scope": "section",
+  "error": "AttributeError: 'NoneType' object has no attribute 'animate'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 33,
+  "scope": "section",
+  "error": "AttributeError: 'NoneType' object has no attribute 'set_fill'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 4,
+  "ok": false
+ }
+]

@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 82.51,
+  "s_sp": 87.0,
+  "s_ly": 75.0,
+  "s_ed": 80.0,
+  "states": 18,
+  "states_with_conflict": 6
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 76.3,
+   "conflicts": 23
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.32,
+   "conflict": "MathTex \"expanded\" (created line 26, box [-7.621, -2.538, -4.033, -2.04]) is outside the frame; shift it by [0.66, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.42,
+   "conflict": "Text \"zero_text\" (created line 36, box [-7.74, -3.759, -2.595, -3.425]) is outside the frame; shift it by [0.78, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.51,
+   "conflict": "SurroundingRectangle \"inner_highlight\" (created line 48, box [-0.607, -0.294, 0.607, 0.294]) overlaps MathTex \"a_op_b\" (line 11, box [-1.059, -0.387, 1.059, 0.387]) by 100%; moving it by [0.0, 0.83] would clear it"
+  }
+ ]
+}

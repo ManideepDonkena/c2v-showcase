@@ -1,0 +1,163 @@
+{
+ "topic": "Vorn sequences",
+ "sections": [
+  {
+   "id": "s1",
+   "before": {
+    "mvqs": 90.5,
+    "conflicts": 1,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4088,
+      "output_tokens": 2594
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDKxKkRhzL8AoYfQAf4"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "off_screen",
+     "where": "narration2 (long rule sentence at the bottom)",
+     "change": "Dropped font_size from 24 to 20, removed the sideways and downward shifts, and capped the width at 13 so the line is centered inside the frame."
+    },
+    {
+     "kind": "other",
+     "where": "formula and formula_box",
+     "change": "Removed the 1.07 upward shift that left the box empty. Widened the box to 5.6 so it fits the formula, and centered the formula inside it."
+    },
+    {
+     "kind": "crowded",
+     "where": "seeds v1/v2, arrow, box and narration crammed into the lower right corner",
+     "change": "Arranged the seeds as a centered row at y=-1. Placed the arrow just above them and the box above the arrow. Narration lines now sit at the bottom edge, clear of the seeds."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 90.1,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s2",
+   "before": {
+    "mvqs": 88.4,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3519,
+      "output_tokens": 1155
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDNSjMz5tkbWxd3QJJX"
+    }
+   ],
+   "issues": [],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 88.4,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s3",
+   "before": {
+    "mvqs": 86.5,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3498,
+      "output_tokens": 1546
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDPwKbATNm7bqFzTUAm"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "other",
+     "where": "'Odd' labels in the checkmark loop",
+     "change": "Each 'Odd' label was placed right of its checkmark and then shifted up, so it sat over the next circle (the label for 1 appeared over 3, and the last one floated over empty space). Each label is now placed directly above its own circle and the stacked shifts are removed."
+    },
+    {
+     "kind": "other",
+     "where": "checkmarks between the circles",
+     "change": "Checkmarks sat in the gaps between circles, so it was unclear which circle each one belonged to, and the last one pointed at nothing. Each checkmark is now placed directly below its own circle."
+    },
+    {
+     "kind": "leftover",
+     "where": "end of scene",
+     "change": "The final fade-out now also removes the sequence circles, checkmarks and labels instead of leaving them on screen."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 87.0,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s4",
+   "before": {
+    "mvqs": 90.2,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3662,
+      "output_tokens": 2032
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDRiAdbY6Ca74gwYqAA"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "crowded",
+     "where": "Ratio labels above the arrows (3.00, 1.67, 2.20)",
+     "change": "Set the ratio labels to font_size=36 so neighbouring fractions no longer nearly touch each other."
+    },
+    {
+     "kind": "crowded",
+     "where": "'Approx. 2x' text directly under the title",
+     "change": "Place it with next_to(title, DOWN, buff=0.3) instead of to_edge(UP).shift(DOWN*0.5) so it no longer crowds the title."
+    },
+    {
+     "kind": "other",
+     "where": "Sequence row crammed into the upper half of the frame",
+     "change": "Arrange the terms in a VGroup with buff=1 and center the row slightly below the middle (DOWN*0.3) for a balanced layout."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 90.4,
+    "conflicts": 0,
+    "timing": 0
+   }
+  }
+ ],
+ "input_tokens": 14767,
+ "output_tokens": 7327
+}

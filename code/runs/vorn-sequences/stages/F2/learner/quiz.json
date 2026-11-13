@@ -1,0 +1,187 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the third term of the vorn sequence?",
+   "options": {
+    "A": "3",
+    "B": "5",
+    "C": "7",
+    "D": "9"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "What is the fourth term of the vorn sequence?",
+   "options": {
+    "A": "11",
+    "B": "13",
+    "C": "15",
+    "D": "17"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q3",
+   "question": "Which rule defines the recurrence relation for n > 2?",
+   "options": {
+    "A": "v(n) = v(n-1) + v(n-2)",
+    "B": "v(n) = 2×v(n-1) + v(n-2)",
+    "C": "v(n) = v(n-1) + 2×v(n-2)",
+    "D": "v(n) = 3×v(n-1) - v(n-2)"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q4",
+   "question": "What are the first two terms of the vorn sequence?",
+   "options": {
+    "A": "0, 1",
+    "B": "1, 2",
+    "C": "1, 3",
+    "D": "2, 3"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q5",
+   "question": "Why is every term in the vorn sequence odd?",
+   "options": {
+    "A": "The starting terms are even.",
+    "B": "Adding two odds yields an even.",
+    "C": "Odd + 2×Odd = Odd.",
+    "D": "Multiplication always keeps parity."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q7",
+   "question": "Approximately how does term v(n) relate to v(n-1)?",
+   "options": {
+    "A": "It is half the size.",
+    "B": "It is equal in size.",
+    "C": "It is about twice the size.",
+    "D": "It is three times the size."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q10",
+   "question": "Which common misconception about parity is false here?",
+   "options": {
+    "A": "Odd + Odd = Even.",
+    "B": "2×Odd = Even.",
+    "C": "Even + Even = Even.",
+    "D": "Odd + Even = Odd."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q12",
+   "question": "Why is v(n) always greater than 2×v(n-2)?",
+   "options": {
+    "A": "Because v(n-1) > 0.",
+    "B": "Because v(n-2) is small.",
+    "C": "Because the multiplier is 2.",
+    "D": "Because terms decrease."
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "What is the 5th vorn term v(5)?",
+   "options": {
+    "A": "16",
+    "B": "21",
+    "C": "13",
+    "D": "19"
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "What is v(6)?",
+   "options": {
+    "A": "32",
+    "B": "42",
+    "C": "41",
+    "D": "43"
+   },
+   "answer": "D",
+   "id": "t2"
+  },
+  {
+   "question": "What are the first two vorn terms?",
+   "options": {
+    "A": "1 and 3",
+    "B": "1 and 2",
+    "C": "1 and 1",
+    "D": "3 and 5"
+   },
+   "answer": "A",
+   "id": "t3"
+  },
+  {
+   "question": "Which rule makes the next vorn term?",
+   "options": {
+    "A": "previous + the one before it",
+    "B": "previous + 2 × the one before it",
+    "C": "previous × 2",
+    "D": "2 × previous + 1"
+   },
+   "answer": "B",
+   "id": "t4"
+  },
+  {
+   "question": "Is the vorn term v(10) odd or even?",
+   "options": {
+    "A": "It depends on v(9)",
+    "B": "Even",
+    "C": "Odd",
+    "D": "It is 0"
+   },
+   "answer": "C",
+   "id": "t5"
+  },
+  {
+   "question": "About how does each vorn term compare with the one before it?",
+   "options": {
+    "A": "About the same",
+    "B": "About three times as large",
+    "C": "About half as large",
+    "D": "About twice as large"
+   },
+   "answer": "D",
+   "id": "t6"
+  },
+  {
+   "question": "What is v(4)?",
+   "options": {
+    "A": "7",
+    "B": "9",
+    "C": "11",
+    "D": "8"
+   },
+   "answer": "C",
+   "id": "t7"
+  },
+  {
+   "question": "If v(7) = 85 and v(8) = 171, what is v(9)?",
+   "options": {
+    "A": "341",
+    "B": "255",
+    "C": "256",
+    "D": "342"
+   },
+   "answer": "A",
+   "id": "t8"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 8,
+ "dev_leaked": []
+}

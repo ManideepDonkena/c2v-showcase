@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 36,
+  "scope": "line",
+  "error": "NameError: name 'ShowCreation' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 25,
+  "scope": "block",
+  "error": "SyntaxError: '[' was never closed (s3.py, line 25)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 33,
+  "scope": "section",
+  "error": "IndentationError: unexpected indent (s3.py, line 33)"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 36,
+  "scope": "section",
+  "error": "NameError: name 'ShowCreation' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ }
+]

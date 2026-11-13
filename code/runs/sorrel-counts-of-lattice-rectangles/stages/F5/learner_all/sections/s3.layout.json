@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 84.37,
+  "s_sp": 90.9,
+  "s_ly": 63.2,
+  "s_ed": 87.5,
+  "states": 8,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 83.67,
+   "conflicts": 4
+  },
+  {
+   "level": "section",
+   "mvqs": 84.37,
+   "conflict": "MathTex \"sorrel_label_2x4\" (created line 35, box [-1.907, -4.067, 1.907, -3.705]) is outside the frame; shift it by [0.0, 0.22]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"sorrel_label_2x4\" (created line 35, box [-1.907, -4.067, 1.907, -3.705]) is outside the frame; shift it by [0.0, 0.22]"
+  }
+ ]
+}

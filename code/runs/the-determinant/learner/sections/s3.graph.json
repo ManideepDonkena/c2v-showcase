@@ -1,0 +1,847 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "basis_i",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "basis_j",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+     ],
+     "name": "parallelogram",
+     "line": 14,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.063,
+      1.0,
+      0.062
+     ],
+     "name": "basis_i",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.062,
+      1.0,
+      0.063
+     ],
+     "name": "basis_j",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "parallelogram",
+     "line": 14,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.063,
+      1.0,
+      0.062
+     ],
+     "name": "basis_i",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.062,
+      1.0,
+      0.063
+     ],
+     "name": "basis_j",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "parallelogram",
+     "line": 14,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.063,
+      1.0,
+      0.062
+     ],
+     "name": "basis_i",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.062,
+      1.0,
+      0.063
+     ],
+     "name": "basis_j",
+     "line": 13,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "parallelogram",
+     "line": 14,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 42,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "basis_v1",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "basis_v2",
+     "line": 34,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "basis_v1",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "basis_v2",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.888,
+      -0.57,
+      1.888,
+      -0.312
+     ],
+     "name": "no_area",
+     "line": 36,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "basis_v1",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "basis_v2",
+     "line": 34,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      1.0,
+      3.0,
+      1.0
+     ],
+     "name": "line1",
+     "line": 8,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      2.0,
+      3.0,
+      2.0
+     ],
+     "name": "line2",
+     "line": 61,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 66,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      1.0,
+      3.0,
+      1.0
+     ],
+     "name": "line1",
+     "line": 8,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      2.0,
+      3.0,
+      2.0
+     ],
+     "name": "line2",
+     "line": 61,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.916,
+      0.493,
+      0.916,
+      0.75
+     ],
+     "name": "no_solution",
+     "line": 65,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      1.0,
+      3.0,
+      1.0
+     ],
+     "name": "line1",
+     "line": 8,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      2.0,
+      3.0,
+      2.0
+     ],
+     "name": "line2",
+     "line": 61,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 75,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      1.0,
+      3.0,
+      1.0
+     ],
+     "name": "line3",
+     "line": 74,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      1.0,
+      3.0,
+      1.0
+     ],
+     "name": "line3",
+     "line": 74,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.353,
+      0.488,
+      1.353,
+      0.75
+     ],
+     "name": "inf_solutions",
+     "line": 68,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 81,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.87,
+      3.0,
+      2.87,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.873,
+      -3.5,
+      0.873,
+      -3.126
+     ],
+     "name": "det_text",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      1.0,
+      3.0,
+      1.0
+     ],
+     "name": "line3",
+     "line": 74,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": []
+  },
+  {
+   "after_line": 89,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.947,
+      -3.5,
+      4.947,
+      -3.163
+     ],
+     "name": "summary",
+     "line": 87,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 91,
+   "objects": []
+  }
+ ],
+ "error": null
+}

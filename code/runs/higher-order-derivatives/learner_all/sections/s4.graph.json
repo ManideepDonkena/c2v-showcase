@@ -1,0 +1,6011 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 42,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.036,
+      -3.5,
+      1.036,
+      -2.938
+     ],
+     "name": "example",
+     "line": 57,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 66,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.036,
+      -3.5,
+      1.036,
+      -2.938
+     ],
+     "name": "example",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.229,
+      -2.438,
+      1.229,
+      -1.877
+     ],
+     "name": "step1",
+     "line": 62,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.036,
+      -3.5,
+      1.036,
+      -2.938
+     ],
+     "name": "example",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.229,
+      -2.438,
+      1.229,
+      -1.877
+     ],
+     "name": "step1",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.187,
+      -1.377,
+      1.187,
+      -0.851
+     ],
+     "name": "step2",
+     "line": 63,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.036,
+      -3.5,
+      1.036,
+      -2.938
+     ],
+     "name": "example",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.229,
+      -2.438,
+      1.229,
+      -1.877
+     ],
+     "name": "step1",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.187,
+      -1.377,
+      1.187,
+      -0.851
+     ],
+     "name": "step2",
+     "line": 63,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.102,
+      -0.351,
+      1.102,
+      0.174
+     ],
+     "name": "step3",
+     "line": 64,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.609,
+      3.002,
+      0.609,
+      3.5
+     ],
+     "name": "sine_label",
+     "line": 81,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 86,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.609,
+      3.002,
+      0.609,
+      3.5
+     ],
+     "name": "sine_label",
+     "line": 81,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.636,
+      -1.698,
+      0.636,
+      -1.2
+     ],
+     "name": "cos_label",
+     "line": 82,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 90,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.609,
+      3.002,
+      0.609,
+      3.5
+     ],
+     "name": "sine_label",
+     "line": 81,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.636,
+      -1.698,
+      0.636,
+      -1.2
+     ],
+     "name": "cos_label",
+     "line": 82,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.832,
+      -1.698,
+      0.832,
+      -1.2
+     ],
+     "name": "neg_sin_label",
+     "line": 86,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 94,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.609,
+      3.002,
+      0.609,
+      3.5
+     ],
+     "name": "sine_label",
+     "line": 81,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.636,
+      -1.698,
+      0.636,
+      -1.2
+     ],
+     "name": "cos_label",
+     "line": 82,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.832,
+      -1.698,
+      0.832,
+      -1.2
+     ],
+     "name": "neg_sin_label",
+     "line": 86,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.859,
+      -1.698,
+      0.859,
+      -1.2
+     ],
+     "name": "neg_cos_label",
+     "line": 90,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 98,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.609,
+      3.002,
+      0.609,
+      3.5
+     ],
+     "name": "sine_label",
+     "line": 81,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.636,
+      -1.698,
+      0.636,
+      -1.2
+     ],
+     "name": "cos_label",
+     "line": 82,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.832,
+      -1.698,
+      0.832,
+      -1.2
+     ],
+     "name": "neg_sin_label",
+     "line": 86,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.859,
+      -1.698,
+      0.859,
+      -1.2
+     ],
+     "name": "neg_cos_label",
+     "line": 90,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.609,
+      -1.698,
+      0.609,
+      -1.2
+     ],
+     "name": "final_sin_label",
+     "line": 94,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 102,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    }
+   ]
+  },
+  {
+   "after_line": 111,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "blue_curve",
+     "line": 110,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.5,
+      3.0,
+      -2.5
+     ],
+     "name": "green_line",
+     "line": 105,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.522,
+      -2.3,
+      0.522,
+      -1.775
+     ],
+     "name": "green_line_label",
+     "line": 102,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 116,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "blue_curve",
+     "line": 110,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.5,
+      3.0,
+      -2.5
+     ],
+     "name": "green_line",
+     "line": 105,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.522,
+      -2.3,
+      0.522,
+      -1.775
+     ],
+     "name": "green_line_label",
+     "line": 102,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.914,
+      -2.0,
+      0.914,
+      -1.679
+     ],
+     "name": "concave_up",
+     "line": 115,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 120,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    }
+   ]
+  },
+  {
+   "after_line": 123,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.121,
+      2.938,
+      1.121,
+      3.5
+     ],
+     "name": "exp_func",
+     "line": 122,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 129,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.121,
+      2.938,
+      1.121,
+      3.5
+     ],
+     "name": "exp_func",
+     "line": 122,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.315,
+      1.877,
+      1.315,
+      2.438
+     ],
+     "name": "first_deriv",
+     "line": 126,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 131,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.121,
+      2.938,
+      1.121,
+      3.5
+     ],
+     "name": "exp_func",
+     "line": 122,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.315,
+      1.877,
+      1.315,
+      2.438
+     ],
+     "name": "first_deriv",
+     "line": 126,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.372,
+      0.815,
+      1.372,
+      1.377
+     ],
+     "name": "second_deriv",
+     "line": 127,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 135,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    }
+   ]
+  },
+  {
+   "after_line": 138,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.56,
+      2.938,
+      1.56,
+      3.5
+     ],
+     "name": "chain_example",
+     "line": 137,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 144,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.56,
+      2.938,
+      1.56,
+      3.5
+     ],
+     "name": "chain_example",
+     "line": 137,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.421,
+      1.408,
+      2.421,
+      2.438
+     ],
+     "name": "outer_diff",
+     "line": 141,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 146,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.56,
+      2.938,
+      1.56,
+      3.5
+     ],
+     "name": "chain_example",
+     "line": 137,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.421,
+      1.408,
+      2.421,
+      2.438
+     ],
+     "name": "outer_diff",
+     "line": 141,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.673,
+      0.347,
+      1.673,
+      0.908
+     ],
+     "name": "inner_diff",
+     "line": 142,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 150,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.611,
+      1.955,
+      0.611,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.04,
+      3.65,
+      6.96,
+      59.65
+     ],
+     "name": "f_t",
+     "line": 11,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.234,
+      -4.548,
+      -7.446,
+      -4.05
+     ],
+     "name": "label_f",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      -3.6,
+      -7.665,
+      59.7
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      38.35,
+      -2.84,
+      59.95
+     ],
+     "name": "f_prime_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.304,
+      37.625,
+      -7.376,
+      38.15
+     ],
+     "name": "label_f_prime",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      38.6,
+      -7.665,
+      42.9
+     ],
+     "name": "arrow2",
+     "line": 24,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      31.15,
+      -2.84,
+      43.15
+     ],
+     "name": "f_double_prime_t",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.362,
+      30.425,
+      -7.318,
+      30.95
+     ],
+     "name": "label_f_double_prime",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -8.015,
+      31.4,
+      -7.665,
+      39.3
+     ],
+     "name": "arrow3",
+     "line": 25,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -12.84,
+      39.55,
+      -2.84,
+      39.55
+     ],
+     "name": "f_triple_prime_t",
+     "line": 14,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -8.419,
+      38.825,
+      -7.261,
+      39.35
+     ],
+     "name": "label_f_triple_prime",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.0,
+      -42.2,
+      6.0,
+      13.8
+     ],
+     "name": "f_quad_prime",
+     "line": 40,
+     "type": "DashedVMobject"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.338,
+      -42.992,
+      1.662,
+      -42.4
+     ],
+     "name": "label_f_quad_prime",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      39.383,
+      -1.686,
+      39.717
+     ],
+     "name": "jerk_label",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.397,
+      38.087,
+      -1.63,
+      39.183
+     ],
+     "name": "jerk_notation",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      4.0,
+      1.0
+     ],
+     "name": "sine_graph",
+     "line": 76,
+     "type": "FunctionGraph"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

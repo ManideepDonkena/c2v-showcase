@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 81.44,
+  "s_sp": 97.9,
+  "s_ly": 29.6,
+  "s_ed": 88.6,
+  "states": 16,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 81.31,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.44,
+   "conflict": "Text \"explanation\" (created line 80, box [-8.794, -3.5, 8.794, -3.166]) is outside the frame; shift it by [1.83, 0.0]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"explanation\" (created line 70, box [-6.964, -3.5, 10.624, -3.166]) is outside the frame; shift it by [-3.66, 0.0]"
+  }
+ ]
+}

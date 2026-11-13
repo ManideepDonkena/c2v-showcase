@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 53.21,
+  "s_sp": 63.7,
+  "s_ly": 55.2,
+  "s_ed": 34.3,
+  "states": 40,
+  "states_with_conflict": 31
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 50.39,
+   "conflicts": 44
+  },
+  {
+   "level": "shift",
+   "mvqs": 51.58,
+   "conflict": "MathTex \"b_label\" (created line 14, box [-0.076, -0.146, 0.076, 0.146]) overlaps MathTex \"neg_one_label\" (line 12, box [-0.231, -0.138, 0.231, 0.138]) by 94%; moving it by [0.0, 0.43] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 53.21,
+   "conflict": "MathTex \"zero_label\" (created line 32, box [-0.087, -0.143, 0.087, 0.143]) overlaps MathTex \"neg_one_label\" (line 12, box [-0.231, -0.138, 0.231, 0.138]) by 96%; moving it by [0.0, 0.43] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"b2_label\" (created line 36, box [-0.076, -0.146, 0.076, 0.146]) overlaps MathTex \"neg_one_label\" (line 12, box [-0.231, -0.138, 0.231, 0.138]) by 94%; moving it by [0.0, 0.43] would clear it"
+  }
+ ]
+}

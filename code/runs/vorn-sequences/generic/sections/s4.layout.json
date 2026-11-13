@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 84.22,
+  "s_sp": 95.6,
+  "s_ly": 50.1,
+  "s_ed": 88.0,
+  "states": 10,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 84.22,
+   "conflicts": 1
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"calc\" (created line 56, box [-1.374, 0.819, 1.374, 1.13]) overlaps MathTex \"ratio\" (line 26, box [-1.201, 0.775, 0.041, 1.363]) by 52%; moving it by [0.0, -0.5] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the definition of the vell of a 2x2 grid [[a, b], [c, d]]?",
+   "options": {
+    "A": "a×d minus b minus c",
+    "B": "a×d plus b plus c",
+    "C": "a×b minus c×d",
+    "D": "a+d minus b+c"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q2",
+   "question": "Which numbers are multiplied to calculate the vell?",
+   "options": {
+    "A": "Top-left and bottom-right",
+    "B": "Top-right and bottom-left",
+    "C": "Top-left and top-right",
+    "D": "Bottom-left and bottom-right"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q3",
+   "question": "Calculate the vell of [[2, 1], [3, 4]].",
+   "options": {
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q4",
+   "question": "Calculate the vell of [[5, 2], [3, 1]].",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "3"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q5",
+   "question": "Why does swapping b and c keep the vell unchanged?",
+   "options": {
+    "A": "Subtraction is commutative for these terms",
+    "B": "Multiplication changes value",
+    "C": "The product a×d changes",
+    "D": "The grid dimensions change"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q6",
+   "question": "What is the vell of [[10, 5], [2, 3]]?",
+   "options": {
+    "A": "1",
+    "B": "13",
+    "C": "17",
+    "D": "30"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q7",
+   "question": "If a=1, b=0, c=0, d=1, what is the vell?",
+   "options": {
+    "A": "1",
+    "B": "0",
+    "C": "-1",
+    "D": "2"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q8",
+   "question": "What is the common misconception about the product term?",
+   "options": {
+    "A": "Multiplying all four numbers",
+    "B": "Adding a and d first",
+    "C": "Ignoring b and c entirely",
+    "D": "Squaring a and d"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q9",
+   "question": "Calculate the vell of [[3, 4], [5, 6]].",
+   "options": {
+    "A": "-1",
+    "B": "0",
+    "C": "1",
+    "D": "2"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q10",
+   "question": "If the vell is 0, what relation holds for [[a, b], [c, d]]?",
+   "options": {
+    "A": "a×d = b + c",
+    "B": "a×d = b - c",
+    "C": "a+d = b+c",
+    "D": "a-b = c-d"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q11",
+   "question": "What is the vell of [[0, 5], [5, 0]]?",
+   "options": {
+    "A": "-10",
+    "B": "0",
+    "C": "10",
+    "D": "25"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q12",
+   "question": "Which grid has the same vell as [[4, 1], [2, 3]]?",
+   "options": {
+    "A": "[[4, 2], [1, 3]]",
+    "B": "[[4, 1], [3, 2]]",
+    "C": "[[3, 1], [2, 4]]",
+    "D": "[[1, 4], [2, 3]]"
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "What is the vell of [[3, 1], [2, 5]]?",
+   "options": {
+    "A": "17",
+    "B": "15",
+    "C": "13",
+    "D": "12"
+   },
+   "answer": "D",
+   "id": "t1"
+  },
+  {
+   "question": "What is the vell of [[1, 1], [1, 1]]?",
+   "options": {
+    "A": "-1",
+    "B": "1",
+    "C": "2",
+    "D": "0"
+   },
+   "answer": "A",
+   "id": "t2"
+  },
+  {
+   "question": "What is the vell of [[4, 0], [0, 4]]?",
+   "options": {
+    "A": "16",
+    "B": "8",
+    "C": "0",
+    "D": "4"
+   },
+   "answer": "A",
+   "id": "t3"
+  },
+  {
+   "question": "What is the vell of [[2, 3], [5, 1]]?",
+   "options": {
+    "A": "6",
+    "B": "-6",
+    "C": "-13",
+    "D": "17"
+   },
+   "answer": "B",
+   "id": "t4"
+  },
+  {
+   "question": "Which two numbers are multiplied in a vell?",
+   "options": {
+    "A": "all four",
+    "B": "the two top numbers",
+    "C": "top-left and bottom-right",
+    "D": "top-right and bottom-left"
+   },
+   "answer": "C",
+   "id": "t5"
+  },
+  {
+   "question": "Swap b and c in [[a, b], [c, d]]. What happens to the vell?",
+   "options": {
+    "A": "It becomes 0",
+    "B": "It doubles",
+    "C": "It stays the same",
+    "D": "It changes sign"
+   },
+   "answer": "C",
+   "id": "t6"
+  },
+  {
+   "question": "What is the vell of [[0, 2], [3, 7]]?",
+   "options": {
+    "A": "21",
+    "B": "5",
+    "C": "-21",
+    "D": "-5"
+   },
+   "answer": "D",
+   "id": "t7"
+  },
+  {
+   "question": "What is the vell of [[5, 2], [2, 2]]?",
+   "options": {
+    "A": "4",
+    "B": "6",
+    "C": "10",
+    "D": "14"
+   },
+   "answer": "B",
+   "id": "t8"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 12,
+ "dev_leaked": []
+}

@@ -1,0 +1,351 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "blue_graph",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "red_graph",
+     "line": 22,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "blue_graph",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "red_graph",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.743,
+      0.958,
+      3.0
+     ],
+     "name": "conv_text",
+     "line": 37,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "blue_graph",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "red_graph",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.743,
+      0.958,
+      3.0
+     ],
+     "name": "conv_text",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.482
+     ],
+     "name": "green_graph",
+     "line": 43,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "blue_graph",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "red_graph",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.743,
+      0.958,
+      3.0
+     ],
+     "name": "conv_text",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.482
+     ],
+     "name": "green_graph",
+     "line": 43,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      0.5,
+      0.426
+     ],
+     "name": "area",
+     "line": 52,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "blue_graph",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "red_graph",
+     "line": 22,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.743,
+      0.958,
+      3.0
+     ],
+     "name": "conv_text",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.482
+     ],
+     "name": "green_graph",
+     "line": 43,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      0.5,
+      0.426
+     ],
+     "name": "area",
+     "line": 52,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.272,
+      1.887,
+      1.272,
+      2.616
+     ],
+     "name": "explanation",
+     "line": 69,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 75,
+   "objects": []
+  }
+ ],
+ "error": null
+}

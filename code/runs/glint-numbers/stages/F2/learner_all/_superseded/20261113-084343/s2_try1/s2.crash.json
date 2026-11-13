@@ -1,0 +1,55 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.607,
+      3.416,
+      3.607,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.607,
+      3.416,
+      3.607,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.189,
+      -0.143,
+      0.189,
+      0.143
+     ],
+     "name": "num",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "UnboundLocalError",
+  "message": "cannot access local variable 'zero_copy' where it is not associated with a value",
+  "line": 25
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 81.57,
+  "s_sp": 97.0,
+  "s_ly": 42.6,
+  "s_ed": 81.7,
+  "states": 23,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 81.57,
+   "conflicts": 1
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"square_label\" (created line 62, box [-0.454, -1.268, 0.454, -1.0]) overlaps Text \"rect_label\" (line 61, box [-0.63, -1.278, 0.63, -1.0]) by 100%; moving it by [0.0, 0.42] would clear it"
+  }
+ ]
+}

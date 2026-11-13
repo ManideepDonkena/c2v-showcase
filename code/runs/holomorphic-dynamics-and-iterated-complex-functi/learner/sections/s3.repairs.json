@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 11,
+  "scope": "line",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find mandelbrot.png at either of these locations: ['mandelbrot.png', 'mandelbrot.png', 'mandelbrot.png.jpg', 'mandelbrot.png.jpeg', 'mandelbrot.png.png', 'mandelbrot.png.gif', 'mandelbrot.png.ico']"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 10,
+  "scope": "block",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find ./mandelbrot.png at either of these locations: ['mandelbrot.png', 'mandelbrot.png', 'mandelbrot.png.jpg', 'mandelbrot.png.jpeg', 'mandelbrot.png.png', 'mandelbrot.png.gif', 'mandelbrot.png.ico']"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 62,
+  "scope": "section",
+  "error": "OSError: From: /home/mani/c2v-lab, could not find mandelbrot_zoom.png at either of these locations: ['mandelbrot_zoom.png', 'mandelbrot_zoom.png', 'mandelbrot_zoom.png.jpg', 'mandelbrot_zoom.png.jpeg', 'mandelbrot_zoom.png.png', 'mandelbrot_zoom.png.gif', 'mandelbrot_zoom.png.ico']"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

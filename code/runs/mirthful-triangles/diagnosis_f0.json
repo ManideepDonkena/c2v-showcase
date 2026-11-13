@@ -1,0 +1,30 @@
+{
+ "kind": "f0",
+ "fixes": {
+  "s1": [
+   "Show a triangle with sides labeled 'a' (shortest) and 'c' (longest). Display the inequality '2 × c ≤ 3 × a'. Then, algebraically divide both sides by 2 to show 'c ≤ 1.5 × a', explicitly stating that this means the longest side must be no more than one and a half times the shortest side.",
+   "Show a triangle with sides labeled '10', '20', and '30'. Animate the text '2 × 30' on one side and '3 × 10' on the other, connected by the symbol '>'. Highlight that 60 is greater than 30 to indicate the condition fails.",
+   "Show a triangle with sides labeled '4', '10', and '12'. Identify '12' as the longest side and '4' as the shortest side. Animate the calculation '2 × 12' (which is 24) on one side of an inequality sign and '3 × 4' (which is 12) on the other side. Display the result '24 ≤ 12' in red with a cross, indicating the condition fails.",
+   "Show a triangle with sides labeled '5', '100', and '101'. Animate the text '2 × 101' appearing next to the longest side and '3 × 5' appearing next to the shortest side. Display the inequality '202 ≤ 15' in red, indicating the condition fails.",
+   "SHOW a triangle with sides labeled '10', '14', and '15' (identifying 15 as longest and 10 as shortest). SAY: 'Check the rule: Is 2 times the longest side at most 3 times the shortest side?' ANIMATE the calculation '2 × 15 ≤ 3 × 10' appearing, then resolve it to '30 ≤ 30'. PULSE the triangle green to indicate the condition holds.",
+   "Show a triangle with sides labeled '2', '3', and '4'. Animate the text '2 × 4' on one side of an inequality sign and '3 × 2' on the other. Display the comparison '8 ≤ 6' in red to show it is false, indicating the triangle is not mirthful."
+  ],
+  "s2": [
+   "Show an equilateral triangle with side length 'x'. Display the inequality '2 × x ≤ 3 × x' and simplify it to '2 ≤ 3', demonstrating that since 2 is less than 3, the condition holds true regardless of the side length."
+  ],
+  "s4": [
+   "Show two triangles with the same shortest and longest sides but different middle sides (e.g., 4, 5, 6 and 4, 2, 6), calculate '2 × longest' and '3 × shortest' for both to prove the inequality result is identical regardless of the middle value."
+  ]
+ },
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q9"
+ ],
+ "dev": 11
+}

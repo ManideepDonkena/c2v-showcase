@@ -1,0 +1,461 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.321,
+      1.0,
+      0.879
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.132,
+      -0.879,
+      1.132,
+      -0.621
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.821,
+      1.0,
+      -0.621
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.132,
+      -2.379,
+      1.132,
+      -2.121
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -3.321,
+      1.0,
+      -2.121
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.132,
+      -3.879,
+      1.132,
+      -3.621
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.321,
+      1.0,
+      0.879
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.132,
+      -0.879,
+      1.132,
+      -0.621
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.821,
+      1.0,
+      -0.621
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.132,
+      -2.379,
+      1.132,
+      -2.121
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -3.321,
+      1.0,
+      -2.121
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.132,
+      -3.879,
+      1.132,
+      -3.621
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -5.129,
+      1.0,
+      -4.129
+     ],
+     "name": "dense_layer",
+     "line": 22,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.973,
+      -3.879,
+      0.973,
+      -3.561
+     ],
+     "name": "dense_label",
+     "line": 23,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 37,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.835,
+      3.0,
+      3.835,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.321,
+      1.0,
+      0.879
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.132,
+      -0.879,
+      1.132,
+      -0.621
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.821,
+      1.0,
+      -0.621
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.132,
+      -2.379,
+      1.132,
+      -2.121
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -3.321,
+      1.0,
+      -2.121
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.132,
+      -3.879,
+      1.132,
+      -3.621
+     ],
+     "name": "decoder_stack",
+     "line": 17,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -5.129,
+      1.0,
+      -4.129
+     ],
+     "name": "dense_layer",
+     "line": 22,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.973,
+      -3.879,
+      0.973,
+      -3.561
+     ],
+     "name": "dense_label",
+     "line": 23,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.4,
+      -6.079,
+      -1.0,
+      -5.579
+     ],
+     "name": "bars",
+     "line": 28,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.8,
+      -6.129,
+      -0.4,
+      -5.529
+     ],
+     "name": "bars",
+     "line": 28,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.2,
+      -6.179,
+      0.2,
+      -5.479
+     ],
+     "name": "bars",
+     "line": 28,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.4,
+      -6.229,
+      0.8,
+      -5.429
+     ],
+     "name": "bars",
+     "line": 28,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -6.279,
+      1.4,
+      -5.379
+     ],
+     "name": "bars",
+     "line": 28,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.542,
+      -6.543,
+      -0.858,
+      -6.329
+     ],
+     "name": "bar_group",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.802,
+      -6.593,
+      -0.398,
+      -6.379
+     ],
+     "name": "bar_group",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.184,
+      -6.615,
+      0.184,
+      -6.429
+     ],
+     "name": "bar_group",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.42,
+      -6.665,
+      0.78,
+      -6.479
+     ],
+     "name": "bar_group",
+     "line": 32,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.042,
+      -6.683,
+      1.358,
+      -6.529
+     ],
+     "name": "label",
+     "line": 32,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "Object Rectangle cannot be converted to an animation",
+  "line": 40
+ }
+}

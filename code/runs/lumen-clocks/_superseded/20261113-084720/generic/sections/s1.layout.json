@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 84.85,
+  "s_sp": 95.1,
+  "s_ly": 71.0,
+  "s_ed": 77.0,
+  "states": 20,
+  "states_with_conflict": 7
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 83.37,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.85,
+   "conflict": "Text \"rule1\" (created line 41, box [-6.611, 1.346, -0.835, 1.654]) overlaps Circle \"circle\" (line 11, box [-2.5, -2.5, 2.5, 2.5]) by 28%; moving it by [0.0, 1.3] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"rule2\" (created line 38, box [-7.148, 0.759, -0.299, 1.096]) overlaps Circle \"circle\" (line 11, box [-2.5, -2.5, 2.5, 2.5]) by 32%; moving it by [0.0, 1.89] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 49,
+  "scope": "line",
+  "error": "NameError: name 'ShowCreation' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 52,
+  "scope": "block",
+  "error": "SyntaxError: unmatched ')' (s3.py, line 52)"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

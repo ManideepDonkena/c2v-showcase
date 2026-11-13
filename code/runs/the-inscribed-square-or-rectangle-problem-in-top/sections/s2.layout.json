@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 89.26,
+  "s_sp": 98.6,
+  "s_ly": 67.8,
+  "s_ed": 88.0,
+  "states": 10,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 82.53,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 89.26,
+   "conflict": "Angle \"right_angles\" (created line 62, box [1.5, -1.0, 1.8, -0.7]) overlaps MathTex \"label\" (line 52, box [1.6, -0.9, 1.842, -0.693]) by 79%; moving it by [-0.35, 0.0] would clear it"
+  }
+ ]
+}

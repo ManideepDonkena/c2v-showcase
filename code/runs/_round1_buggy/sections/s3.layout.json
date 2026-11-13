@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 67.06,
+  "s_sp": 77.5,
+  "s_ly": 58.6,
+  "s_ed": 55.3,
+  "states": 10,
+  "states_with_conflict": 7
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 66.6,
+   "conflicts": 20
+  },
+  {
+   "level": "shift",
+   "mvqs": 67.06,
+   "conflict": "MathTex \"label_c\" (created line 19, box [-0.271, 4.25, 0.271, 4.421]) is outside the frame; shift it by [0.0, -0.57]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"area_c\" (created line 23, box [-0.389, -1.474, 0.389, -1.25]) overlaps Square \"square_b\" (line 13, box [0.0, -3.5, 4.0, 0.5]) by 50%; moving it by [-0.54, 0.0] would clear it"
+  }
+ ]
+}

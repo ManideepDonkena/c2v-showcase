@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 79.35,
+  "s_sp": 86.5,
+  "s_ly": 60.5,
+  "s_ed": 80.0,
+  "states": 6,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 79.35,
+   "conflicts": 4
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"time_label\" (created line 14, box [-0.964, -4.068, 0.718, -3.75]) is outside the frame; shift it by [0.0, 0.22]"
+  }
+ ]
+}

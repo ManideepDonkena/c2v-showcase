@@ -1,0 +1,1586 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 16,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "diag",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.282,
+      -0.426,
+      0.282,
+      -0.25
+     ],
+     "name": "diag_label",
+     "line": 22,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "diag",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.282,
+      -0.426,
+      0.282,
+      -0.25
+     ],
+     "name": "diag_label",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      2.0
+     ],
+     "name": "radius",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.799,
+      0.916,
+      -0.25,
+      1.084
+     ],
+     "name": "radius_label",
+     "line": 24,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "diag",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.282,
+      -0.426,
+      0.282,
+      -0.25
+     ],
+     "name": "diag_label",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      2.0
+     ],
+     "name": "radius",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.799,
+      0.916,
+      -0.25,
+      1.084
+     ],
+     "name": "radius_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.433,
+      -0.875,
+      0.433,
+      -0.125
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.274,
+      -1.238,
+      -0.159,
+      -1.125
+     ],
+     "name": "a_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.683,
+      -0.931,
+      0.797,
+      -0.819
+     ],
+     "name": "b_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.167,
+      0.125,
+      0.266,
+      0.291
+     ],
+     "name": "c_label",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -1.414,
+      1.414,
+      1.414
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "diag",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.282,
+      -0.426,
+      0.282,
+      -0.25
+     ],
+     "name": "diag_label",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      2.0
+     ],
+     "name": "radius",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.799,
+      0.916,
+      -0.25,
+      1.084
+     ],
+     "name": "radius_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.433,
+      -0.875,
+      0.433,
+      -0.125
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.274,
+      -1.238,
+      -0.159,
+      -1.125
+     ],
+     "name": "a_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.683,
+      -0.931,
+      0.797,
+      -0.819
+     ],
+     "name": "b_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.167,
+      0.125,
+      0.266,
+      0.291
+     ],
+     "name": "c_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.583,
+      -3.5,
+      1.583,
+      -3.189
+     ],
+     "name": "formula",
+     "line": 45,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -0.6,
+      1.414,
+      0.6
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "diag",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.282,
+      -0.426,
+      0.282,
+      -0.25
+     ],
+     "name": "diag_label",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      2.0
+     ],
+     "name": "radius",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.799,
+      0.916,
+      -0.25,
+      1.084
+     ],
+     "name": "radius_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.433,
+      -0.875,
+      0.433,
+      -0.125
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.274,
+      -1.238,
+      -0.159,
+      -1.125
+     ],
+     "name": "a_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.683,
+      -0.931,
+      0.797,
+      -0.819
+     ],
+     "name": "b_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.167,
+      0.125,
+      0.266,
+      0.291
+     ],
+     "name": "c_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.583,
+      -3.5,
+      1.583,
+      -3.189
+     ],
+     "name": "formula",
+     "line": 45,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -0.6,
+      1.414,
+      0.6
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "diag",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.282,
+      -0.426,
+      0.282,
+      -0.25
+     ],
+     "name": "diag_label",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      2.0
+     ],
+     "name": "radius",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.799,
+      0.916,
+      -0.25,
+      1.084
+     ],
+     "name": "radius_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.433,
+      -0.875,
+      0.433,
+      -0.125
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.274,
+      -1.238,
+      -0.159,
+      -1.125
+     ],
+     "name": "a_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.683,
+      -0.931,
+      0.797,
+      -0.819
+     ],
+     "name": "b_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.167,
+      0.125,
+      0.266,
+      0.291
+     ],
+     "name": "c_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.583,
+      -3.5,
+      1.583,
+      -3.189
+     ],
+     "name": "formula",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.072,
+      0.85,
+      1.164,
+      1.107
+     ],
+     "name": "points_label",
+     "line": 59,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.154,
+      0.85,
+      4.109,
+      1.184
+     ],
+     "name": "angles_label",
+     "line": 54,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -0.6,
+      1.414,
+      0.6
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "diag",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.282,
+      -0.426,
+      0.282,
+      -0.25
+     ],
+     "name": "diag_label",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      2.0
+     ],
+     "name": "radius",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.799,
+      0.916,
+      -0.25,
+      1.084
+     ],
+     "name": "radius_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.433,
+      -0.875,
+      0.433,
+      -0.125
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.274,
+      -1.238,
+      -0.159,
+      -1.125
+     ],
+     "name": "a_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.683,
+      -0.931,
+      0.797,
+      -0.819
+     ],
+     "name": "b_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.167,
+      0.125,
+      0.266,
+      0.291
+     ],
+     "name": "c_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.583,
+      -3.5,
+      1.583,
+      -3.189
+     ],
+     "name": "formula",
+     "line": 45,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -0.6,
+      1.414,
+      0.6
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "diag",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.282,
+      -0.426,
+      0.282,
+      -0.25
+     ],
+     "name": "diag_label",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      2.0
+     ],
+     "name": "radius",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.799,
+      0.916,
+      -0.25,
+      1.084
+     ],
+     "name": "radius_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.433,
+      -0.875,
+      0.433,
+      -0.125
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.274,
+      -1.238,
+      -0.159,
+      -1.125
+     ],
+     "name": "a_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.683,
+      -0.931,
+      0.797,
+      -0.819
+     ],
+     "name": "b_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.167,
+      0.125,
+      0.266,
+      0.291
+     ],
+     "name": "c_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.583,
+      -3.5,
+      1.583,
+      -3.189
+     ],
+     "name": "formula",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -3.04,
+      1.5,
+      -1.54
+     ],
+     "name": "rect_comp",
+     "line": 47,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.75,
+      -3.5,
+      3.25,
+      -2.0
+     ],
+     "name": "square_comp",
+     "line": 68,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 80,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -0.6,
+      1.414,
+      0.6
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "diag",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.282,
+      -0.426,
+      0.282,
+      -0.25
+     ],
+     "name": "diag_label",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      2.0
+     ],
+     "name": "radius",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.799,
+      0.916,
+      -0.25,
+      1.084
+     ],
+     "name": "radius_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.433,
+      -0.875,
+      0.433,
+      -0.125
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.274,
+      -1.238,
+      -0.159,
+      -1.125
+     ],
+     "name": "a_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.683,
+      -0.931,
+      0.797,
+      -0.819
+     ],
+     "name": "b_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.167,
+      0.125,
+      0.266,
+      0.291
+     ],
+     "name": "c_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.583,
+      -3.5,
+      1.583,
+      -3.189
+     ],
+     "name": "formula",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -3.04,
+      1.5,
+      -1.54
+     ],
+     "name": "rect_comp",
+     "line": 47,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.75,
+      -3.5,
+      3.25,
+      -2.0
+     ],
+     "name": "square_comp",
+     "line": 68,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.52,
+      -2.49,
+      2.52,
+      -2.153
+     ],
+     "name": "text",
+     "line": 76,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.268,
+      -1.75,
+      4.732,
+      -1.413
+     ],
+     "name": "text2",
+     "line": 77,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 86,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.255,
+      3.0,
+      2.255,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.414,
+      -0.6,
+      1.414,
+      0.6
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "diag",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.282,
+      -0.426,
+      0.282,
+      -0.25
+     ],
+     "name": "diag_label",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      2.0
+     ],
+     "name": "radius",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.799,
+      0.916,
+      -0.25,
+      1.084
+     ],
+     "name": "radius_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.433,
+      -0.875,
+      0.433,
+      -0.125
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.274,
+      -1.238,
+      -0.159,
+      -1.125
+     ],
+     "name": "a_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.683,
+      -0.931,
+      0.797,
+      -0.819
+     ],
+     "name": "b_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.167,
+      0.125,
+      0.266,
+      0.291
+     ],
+     "name": "c_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.583,
+      -3.5,
+      1.583,
+      -3.189
+     ],
+     "name": "formula",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.5,
+      -3.04,
+      1.5,
+      -1.54
+     ],
+     "name": "rect_comp",
+     "line": 47,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.75,
+      -3.5,
+      3.25,
+      -2.0
+     ],
+     "name": "square_comp",
+     "line": 68,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.52,
+      -2.49,
+      2.52,
+      -2.153
+     ],
+     "name": "text",
+     "line": 76,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.268,
+      -1.75,
+      4.732,
+      -1.413
+     ],
+     "name": "text2",
+     "line": 77,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.399,
+      -3.5,
+      5.399,
+      -3.111
+     ],
+     "name": "theorem",
+     "line": 84,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 89,
+   "objects": []
+  }
+ ],
+ "error": null
+}

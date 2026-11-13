@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 62.66,
+  "s_sp": 68.2,
+  "s_ly": 59.5,
+  "s_ed": 55.6,
+  "states": 45,
+  "states_with_conflict": 32
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 62.66,
+   "conflicts": 32
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"prod2\" (created line 65, box [-0.614, -1.078, 0.614, -0.907]) overlaps MathTex \"prod1\" (line 31, box [-0.492, -1.078, 0.492, -0.907]) by 100%; moving it by [0.0, 0.32] would clear it"
+  }
+ ]
+}

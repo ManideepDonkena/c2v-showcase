@@ -1,0 +1,965 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.2,
+      6.348,
+      -2.974
+     ],
+     "name": "x_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.65,
+      0.43,
+      2.972
+     ],
+     "name": "y_label",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.2,
+      6.348,
+      -2.974
+     ],
+     "name": "x_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.65,
+      0.43,
+      2.972
+     ],
+     "name": "y_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.398,
+      6.0,
+      1.387
+     ],
+     "name": "normal_curve",
+     "line": 24,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.2,
+      6.348,
+      -2.974
+     ],
+     "name": "x_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.65,
+      0.43,
+      2.972
+     ],
+     "name": "y_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.398,
+      6.0,
+      1.387
+     ],
+     "name": "normal_curve",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      1.587,
+      0.368,
+      1.862
+     ],
+     "name": "mu_label",
+     "line": 33,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.2,
+      6.348,
+      -2.974
+     ],
+     "name": "x_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.65,
+      0.43,
+      2.972
+     ],
+     "name": "y_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.398,
+      6.0,
+      1.387
+     ],
+     "name": "normal_curve",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      1.587,
+      0.368,
+      1.862
+     ],
+     "name": "mu_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.098,
+      -1.389,
+      2.961,
+      -1.112
+     ],
+     "name": "sigma_label",
+     "line": 35,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.2,
+      6.348,
+      -2.974
+     ],
+     "name": "x_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.65,
+      0.43,
+      2.972
+     ],
+     "name": "y_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.65,
+      -3.638,
+      5.95,
+      1.387
+     ],
+     "name": "normal_curve",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      1.587,
+      0.368,
+      1.862
+     ],
+     "name": "mu_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.098,
+      -1.389,
+      2.961,
+      -1.112
+     ],
+     "name": "sigma_label",
+     "line": 35,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.2,
+      6.348,
+      -2.974
+     ],
+     "name": "x_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.65,
+      0.43,
+      2.972
+     ],
+     "name": "y_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.65,
+      -3.638,
+      5.95,
+      1.387
+     ],
+     "name": "normal_curve",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      1.587,
+      0.368,
+      1.862
+     ],
+     "name": "mu_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.098,
+      -1.389,
+      2.961,
+      -1.112
+     ],
+     "name": "sigma_label",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.011,
+      3.646,
+      5.011,
+      3.98
+     ],
+     "name": "narration",
+     "line": 38,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.2,
+      6.348,
+      -2.974
+     ],
+     "name": "x_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.65,
+      0.43,
+      2.972
+     ],
+     "name": "y_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.65,
+      -3.638,
+      5.95,
+      1.387
+     ],
+     "name": "normal_curve",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      1.587,
+      0.368,
+      1.862
+     ],
+     "name": "mu_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.098,
+      -1.389,
+      2.961,
+      -1.112
+     ],
+     "name": "sigma_label",
+     "line": 35,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.2,
+      6.348,
+      -2.974
+     ],
+     "name": "x_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.65,
+      0.43,
+      2.972
+     ],
+     "name": "y_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.65,
+      -3.638,
+      5.95,
+      1.387
+     ],
+     "name": "normal_curve",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      1.587,
+      0.368,
+      1.862
+     ],
+     "name": "mu_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.098,
+      -1.389,
+      2.961,
+      -1.112
+     ],
+     "name": "sigma_label",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.714,
+      3.642,
+      4.714,
+      3.98
+     ],
+     "name": "narration2",
+     "line": 60,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.2,
+      6.348,
+      -2.974
+     ],
+     "name": "x_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.65,
+      0.43,
+      2.972
+     ],
+     "name": "y_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.65,
+      -3.638,
+      5.95,
+      1.387
+     ],
+     "name": "normal_curve",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      1.587,
+      0.368,
+      1.862
+     ],
+     "name": "mu_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.098,
+      -1.389,
+      2.961,
+      -1.112
+     ],
+     "name": "sigma_label",
+     "line": 35,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.2,
+      6.348,
+      -2.974
+     ],
+     "name": "x_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.65,
+      0.43,
+      2.972
+     ],
+     "name": "y_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.65,
+      -3.638,
+      5.95,
+      1.387
+     ],
+     "name": "normal_curve",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      1.587,
+      0.368,
+      1.862
+     ],
+     "name": "mu_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.098,
+      -1.389,
+      2.961,
+      -1.112
+     ],
+     "name": "sigma_label",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.442,
+      3.646,
+      3.442,
+      3.98
+     ],
+     "name": "narration3",
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.566,
+      3.116,
+      1.566,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.1,
+      -3.2,
+      6.348,
+      -2.974
+     ],
+     "name": "x_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.2,
+      2.65,
+      0.43,
+      2.972
+     ],
+     "name": "y_label",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.65,
+      -3.638,
+      5.95,
+      1.387
+     ],
+     "name": "normal_curve",
+     "line": 24,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.368,
+      1.587,
+      0.368,
+      1.862
+     ],
+     "name": "mu_label",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.098,
+      -1.389,
+      2.961,
+      -1.112
+     ],
+     "name": "sigma_label",
+     "line": 35,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

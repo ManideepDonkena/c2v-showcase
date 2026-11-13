@@ -1,0 +1,4223 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 37,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.15,
+      2.0,
+      2.85
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 42,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.15,
+      2.0,
+      2.85
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.95,
+      -3.5,
+      0.95,
+      -3.251
+     ],
+     "name": "proj_length",
+     "line": 41,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 48,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.15,
+      2.0,
+      2.85
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.95,
+      -3.5,
+      0.95,
+      -3.251
+     ],
+     "name": "proj_length",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.17,
+      -3.85,
+      2.17,
+      -3.57
+     ],
+     "name": "signed_length",
+     "line": 46,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.15,
+      2.0,
+      2.85
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.007,
+      -3.5,
+      1.007,
+      -3.251
+     ],
+     "name": "proj_zero",
+     "line": 55,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 60,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.304,
+      -3.5,
+      1.304,
+      -3.311
+     ],
+     "name": "calc_text",
+     "line": 61,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 67,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.304,
+      -3.5,
+      1.304,
+      -3.311
+     ],
+     "name": "calc_text",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.868,
+      -4.007,
+      1.868,
+      -3.75
+     ],
+     "name": "commutative",
+     "line": 66,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.6,
+      0.0,
+      1.0,
+      0.8
+     ],
+     "name": "angle",
+     "line": 74,
+     "type": "ArcBetweenPoints"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.25,
+      0.311,
+      1.353,
+      0.489
+     ],
+     "name": "angle_label",
+     "line": 75,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 78,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.6,
+      0.0,
+      1.0,
+      0.8
+     ],
+     "name": "angle",
+     "line": 74,
+     "type": "ArcBetweenPoints"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.25,
+      0.311,
+      1.353,
+      0.489
+     ],
+     "name": "angle_label",
+     "line": 75,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.641,
+      -3.5,
+      0.641,
+      -3.251
+     ],
+     "name": "cos_theta",
+     "line": 77,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.754,
+      -3.5,
+      0.754,
+      -3.255
+     ],
+     "name": "final_result",
+     "line": 83,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 88,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    }
+   ]
+  },
+  {
+   "after_line": 91,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "perp_A",
+     "line": 89,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "perp_B",
+     "line": 84,
+     "type": "Vector"
+    }
+   ]
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "perp_A",
+     "line": 89,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "perp_B",
+     "line": 84,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.793,
+      -3.5,
+      0.793,
+      -3.313
+     ],
+     "name": "zero_dot",
+     "line": 92,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 97,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "perp_A",
+     "line": 89,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "perp_B",
+     "line": 84,
+     "type": "Vector"
+    }
+   ]
+  },
+  {
+   "after_line": 100,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "perp_A",
+     "line": 89,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "perp_B",
+     "line": 84,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "neg_A",
+     "line": 98,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.0,
+      2.0,
+      0.0
+     ],
+     "name": "neg_B",
+     "line": 97,
+     "type": "Vector"
+    }
+   ]
+  },
+  {
+   "after_line": 102,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "perp_A",
+     "line": 89,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "perp_B",
+     "line": 84,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "neg_A",
+     "line": 98,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.0,
+      2.0,
+      0.0
+     ],
+     "name": "neg_B",
+     "line": 97,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.986,
+      -3.5,
+      0.986,
+      -3.251
+     ],
+     "name": "neg_calc",
+     "line": 101,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 106,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "perp_A",
+     "line": 89,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "perp_B",
+     "line": 84,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "neg_A",
+     "line": 98,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.0,
+      2.0,
+      0.0
+     ],
+     "name": "neg_B",
+     "line": 97,
+     "type": "Vector"
+    }
+   ]
+  },
+  {
+   "after_line": 109,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "perp_A",
+     "line": 89,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "perp_B",
+     "line": 84,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "neg_A",
+     "line": 98,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.0,
+      2.0,
+      0.0
+     ],
+     "name": "neg_B",
+     "line": 97,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "A_func",
+     "line": 107,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "C_func",
+     "line": 91,
+     "type": "Vector"
+    }
+   ]
+  },
+  {
+   "after_line": 111,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "perp_A",
+     "line": 89,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "perp_B",
+     "line": 84,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "neg_A",
+     "line": 98,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.0,
+      2.0,
+      0.0
+     ],
+     "name": "neg_B",
+     "line": 97,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "A_func",
+     "line": 107,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "C_func",
+     "line": 91,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.237,
+      -3.5,
+      2.237,
+      -3.163
+     ],
+     "name": "functional_text",
+     "line": 110,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 115,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "perp_A",
+     "line": 89,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "perp_B",
+     "line": 84,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "neg_A",
+     "line": 98,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.0,
+      2.0,
+      0.0
+     ],
+     "name": "neg_B",
+     "line": 97,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "A_func",
+     "line": 107,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "C_func",
+     "line": 91,
+     "type": "Vector"
+    }
+   ]
+  },
+  {
+   "after_line": 117,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      -3.0,
+      -2.611,
+      3.0
+     ],
+     "name": "left",
+     "line": 11,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.611,
+      -3.0,
+      6.611,
+      3.0
+     ],
+     "name": "right",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "perp_A",
+     "line": 89,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "perp_B",
+     "line": 84,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "neg_A",
+     "line": 98,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.0,
+      2.0,
+      0.0
+     ],
+     "name": "neg_B",
+     "line": 97,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "A_func",
+     "line": 107,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.175,
+      2.0,
+      0.175
+     ],
+     "name": "C_func",
+     "line": 91,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.319,
+      -3.5,
+      3.319,
+      -3.162
+     ],
+     "name": "iso_text",
+     "line": 116,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 120,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.48,
+      -0.166,
+      -3.742,
+      0.166
+     ],
+     "name": "geo_formula",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.601,
+      -0.168,
+      5.621,
+      0.168
+     ],
+     "name": "alg_formula",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 27,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.0,
+      1.0,
+      0.0
+     ],
+     "name": "B",
+     "line": 28,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.421,
+      1.25,
+      2.459,
+      1.499
+     ],
+     "name": "A_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.595,
+      3.302,
+      3.845
+     ],
+     "name": "B_label",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "unit_A",
+     "line": 72,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.6,
+      0.8
+     ],
+     "name": "unit_B",
+     "line": 73,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "perp_A",
+     "line": 89,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      0.0,
+      0.125,
+      1.0
+     ],
+     "name": "perp_B",
+     "line": 84,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.125,
+      1.0,
+      0.125
+     ],
+     "name": "neg_A",
+     "line": 98,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -2.0,
+      2.0,
+      0.0
+     ],
+     "name": "neg_B",
+     "line": 97,
+     "type": "Vector"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

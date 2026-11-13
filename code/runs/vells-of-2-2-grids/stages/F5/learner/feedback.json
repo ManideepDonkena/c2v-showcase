@@ -1,0 +1,18 @@
+{
+ "stage": "F5",
+ "mode": "learner",
+ "features": [
+  "gate",
+  "leak_gate",
+  "minimal_edit",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {},
+ "changed": [],
+ "edit_size": {},
+ "diagnosis": "f4",
+ "kept": false,
+ "served": "base"
+}

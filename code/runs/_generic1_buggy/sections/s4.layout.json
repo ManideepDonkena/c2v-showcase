@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 80.1,
+  "s_sp": 91.9,
+  "s_ly": 47.2,
+  "s_ed": 82.4,
+  "states": 17,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.84,
+   "conflicts": 9
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.8,
+   "conflict": "Text \"narration2\" (created line 33, box [-1.97, -4.084, 1.97, -3.75]) is outside the frame; shift it by [0.0, 0.23]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.82,
+   "conflict": "Text \"narration3\" (created line 46, box [-1.845, -3.5, 1.845, -3.166]) overlaps Text \"narration1\" (line 31, box [-2.025, -3.5, 2.025, -3.166]) by 100%; moving it by [0.0, 0.48] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 80.1,
+   "conflict": "Text \"narration4\" (created line 50, box [-2.066, -4.087, 2.066, -3.75]) overlaps Text \"narration2\" (line 38, box [-1.97, -3.854, 1.97, -3.52]) by 31%; moving it by [0.0, 0.72] would clear it"
+  }
+ ]
+}

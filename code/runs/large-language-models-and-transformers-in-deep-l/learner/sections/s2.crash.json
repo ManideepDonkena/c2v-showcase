@@ -1,0 +1,55 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.37,
+      3.0,
+      3.37,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.37,
+      3.0,
+      3.37,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.166,
+      -4.568,
+      3.5
+     ],
+     "name": "input_text",
+     "line": 12,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "Mobject.__init__() got an unexpected keyword argument 'element_config'",
+  "line": 16
+ }
+}

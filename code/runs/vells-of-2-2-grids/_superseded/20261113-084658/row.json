@@ -1,0 +1,93 @@
+{
+ "topic": "Vells of 2×2 grids",
+ "base": {
+  "teachquiz": 12.5,
+  "teachquiz_clean": 12.5,
+  "none": 0.0,
+  "full": 12.5,
+  "evidence": 12.5,
+  "control_first_section": 50.0,
+  "control_other_topic": null,
+  "mvqs": 74.47,
+  "sections_rendered": 3
+ },
+ "learner": {
+  "teachquiz": 12.5,
+  "teachquiz_clean": 12.5,
+  "none": 0.0,
+  "full": 12.5,
+  "evidence": 12.5,
+  "control_first_section": 25.0,
+  "control_other_topic": null,
+  "mvqs": 69.1,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s4"
+  ],
+  "kept_by_dev": false
+ },
+ "generic": {
+  "teachquiz": 0.0,
+  "teachquiz_clean": 0.0,
+  "none": 0.0,
+  "full": 0.0,
+  "evidence": 0.0,
+  "control_first_section": 50.0,
+  "control_other_topic": null,
+  "mvqs": 83.91,
+  "sections_rendered": 3,
+  "changed": [
+   "s3"
+  ],
+  "kept_by_dev": true
+ },
+ "learner_all": {
+  "teachquiz": 50.0,
+  "teachquiz_clean": 50.0,
+  "none": 0.0,
+  "full": 50.0,
+  "evidence": 25.0,
+  "control_first_section": 50.0,
+  "control_other_topic": null,
+  "mvqs": 76.08,
+  "sections_rendered": 4,
+  "changed": [
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "diagnosis": {
+  "gaps": [
+   "q4",
+   "q5",
+   "q6",
+   "q7",
+   "q8",
+   "q9",
+   "q10",
+   "q11",
+   "q12"
+  ],
+  "dev": 12,
+  "fixes": {
+   "s2": [
+    "Show the grid [[5, 2], [3, 1]]. Highlight '5' and '1' to multiply them into 5. Then subtract '2' to get 3, and finally subtract '3' to reveal the final answer 0.",
+    "A grid displaying [[10, 5], [2, 3]]. The numbers 10 and 3 pulse to show they are multiplied (resulting in 30). Then the number 5 is subtracted from 30 (showing 25), followed by the number 2 being subtracted from 25, resulting in the final answer 23.",
+    "A grid showing [[0, 5], [5, 0]]. The numbers 0 and 0 pulse and multiply to show 0. Then the number 5 is subtracted from 0, resulting in -5. Finally, the other number 5 is subtracted from -5, resulting in the final answer -10 displayed prominently."
+   ],
+   "s4": [
+    "Show the expression 'a×d minus b minus c' and then visually swap the positions of 'b' and 'c' to become 'a×d minus c minus b', demonstrating that because subtraction is performed sequentially on separate terms, changing the order of these two subtracted numbers does not alter the final result.",
+    "Show two grids side-by-side: Grid 1 with b=1 and c=2, and Grid 2 with b=2 and c=1 (swapped positions). Display the formula for both as a×d - b - c. Visically highlight that in Grid 1 you subtract 1 then 2, and in Grid 2 you subtract 2 then 1. State that since subtraction order of these two terms does not change the result, swapping the middle numbers yields the same vell."
+   ],
+   "s1": [
+    "A visual demonstration showing that subtracting zero leaves the previous number unchanged (e.g., '5 minus 0 is still 5'), applied to the specific calculation steps of a×d, then -b, then -c.",
+    "A visual comparison showing a grid where all four numbers are multiplied together (a×b×c×d) with a red 'X' over it, contrasted with the correct method highlighting only the diagonal pair (a and d) being multiplied while b and c remain as separate subtrahends.",
+    "SHOW a grid with labels [[a, b], [c, d]]. SAY 'The formula is a times d, then subtract b, and then subtract c.' SHOW the equation 'a × d - b - c' appearing next to the grid, explicitly displaying the two minus signs to indicate that both middle numbers are subtracted individually.",
+    "Show a grid where the final result is explicitly labeled as '0'. Then, visually rearrange the equation 'a×d - b - c = 0' by moving 'b' and 'c' to the right side of the equals sign, demonstrating that 'a×d' must equal 'b + c'."
+   ]
+  }
+ }
+}

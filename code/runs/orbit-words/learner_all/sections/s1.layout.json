@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 81.27,
+  "s_sp": 94.2,
+  "s_ly": 45.9,
+  "s_ed": 83.3,
+  "states": 18,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 67.53,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 69.73,
+   "conflict": "Arrow \"blue_arrow\" (created line 16, box [-0.75, 0.325, 0.75, 0.675]) overlaps Tex \"x_large\" (line 11, box [-0.437, -0.425, 0.437, 0.425]) by 16%; moving it by [0.0, 0.25] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 80.16,
+   "conflict": "Arrow \"green_arrow\" (created line 12, box [-0.75, -0.675, 0.75, -0.325]) overlaps Tex \"x_large\" (line 11, box [-0.437, -0.425, 0.437, 0.425]) by 16%; moving it by [0.0, -0.25] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.27,
+   "conflict": "Tex \"y_start\" (created line 71, box [-3.151, -1.642, -2.849, -1.358]) overlaps Tex \"y_in\" (line 47, box [-3.151, -1.642, -2.849, -1.358]) by 100%; moving it by [0.0, 0.43] would clear it"
+  }
+ ]
+}

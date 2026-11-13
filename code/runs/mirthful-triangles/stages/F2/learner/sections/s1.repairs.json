@@ -1,0 +1,21 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 85,
+  "scope": "section",
+  "preflight": true,
+  "error": "line 85: NameError: name 'ShowCreation' is not defined\nline 108: NameError: name 'ShowCreation' is not defined\nline 162: NameError: name 'ShowCreation' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": null,
+  "scope": "section",
+  "error": "render timed out after 600 s (an endless loop or a very long animation)"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 92.53,
+  "s_sp": 95.5,
+  "s_ly": 77.3,
+  "s_ed": 97.6,
+  "states": 17,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 85.45,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 89.74,
+   "conflict": "MathTex \"interior_formula\" (created line 20, box [-1.853, -0.166, 1.853, 0.166]) overlaps Rectangle \"rect\" (line 13, box [-1.5, -1.5, 1.5, 1.5]) by 80%; moving it by [0.0, 1.82] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 91.25,
+   "conflict": "MathTex \"edge_count\" (created line 67, box [-0.615, -1.974, 0.615, -1.75]) overlaps MathTex \"w_label\" (line 18, box [-0.082, -1.863, 0.082, -1.75]) by 100%; moving it by [0.0, -0.26] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 92.53,
+   "conflict": "MathTex \"inside_count\" (created line 42, box [-0.409, 1.75, 0.409, 1.926]) overlaps MathTex \"interior_formula\" (line 24, box [-1.853, 1.654, 1.853, 1.986]) by 100%; moving it by [0.0, 0.39] would clear it"
+  }
+ ]
+}

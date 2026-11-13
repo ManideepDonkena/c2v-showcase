@@ -1,0 +1,158 @@
+{
+ "topic": "Orbit words",
+ "sections": [
+  {
+   "id": "s1",
+   "before": {
+    "mvqs": 87.6,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3948,
+      "output_tokens": 2358
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDhKd1FNVD3SnhcW28T"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "off_screen",
+     "where": "'Simultaneous Rewrite' text, placed with to_edge(UP) and then shifted 0.49 UP",
+     "change": "It sat above the top edge, on top of the title, and never showed in any frame. It now sits at to_edge(DOWN, buff=0.8), in the free space below the green rule. It fades out before the narration appears there."
+    },
+    {
+     "kind": "overlap",
+     "where": "example1 'X → XYY' at ORIGIN + 0.89 UP",
+     "change": "The text overlapped the blue arrow and the top of the big X. It is now placed at to_edge(DOWN, buff=0.8), below the green label, after the narration has faded out."
+    },
+    {
+     "kind": "overlap",
+     "where": "example2 'XYY → XYYYXYX' at ORIGIN + 0.89 UP",
+     "change": "The text overlapped the blue arrow and the big X. It is now placed at to_edge(DOWN, buff=0.8), the same clear spot below the green label."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 87.8,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s2",
+   "before": {
+    "mvqs": 89.7,
+    "conflicts": 0,
+    "timing": 1
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3486,
+      "output_tokens": 957
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDjgerEQjMCcUkgeUeo"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "leftover",
+     "where": "Transform(x_word, xyy_word) at line 35 and the final FadeOut(xyy_word)",
+     "change": "Replaced Transform with ReplacementTransform so xyy_word is the object actually on screen. The final FadeOut now removes the word instead of leaving x_word behind."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 89.5,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s3",
+   "before": {
+    "mvqs": 68.4,
+    "conflicts": 3,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4108,
+      "output_tokens": 3201
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDkx3qYW7KdcwvYQWaK"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "x_new, y1_new, y2_new created at the screen centre (all at ORIGIN)",
+     "change": "Arranged the three rewritten pieces in a row with buff 0.5, placed below the rules, and moved final_word below that row."
+    },
+    {
+     "kind": "overlap",
+     "where": "x_part, y1_part, y2_part placed next_to(word1, DOWN), on top of the rules",
+     "change": "Moved the parts to word1's former position and faded them in as word1 fades out, so each letter is visible before it is rewritten."
+    },
+    {
+     "kind": "leftover",
+     "where": "x_new, y1_new, y2_new stay on screen through the end of the scene",
+     "change": "Faded them out in the final clean-up together with the title, rules and final word."
+    },
+    {
+     "kind": "other",
+     "where": "FadeOut(narration) and FadeOut(narration2) placed directly before ReplacementTransform of the same object",
+     "change": "Removed these redundant FadeOuts so the old narration no longer reappears and morphs; each ReplacementTransform now swaps the visible caption."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 89.0,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s4",
+   "before": {
+    "mvqs": 87.4,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3472,
+      "output_tokens": 874
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDoweMhMpkt57jGBDwF"
+    }
+   ],
+   "issues": [],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 87.4,
+    "conflicts": 0,
+    "timing": 0
+   }
+  }
+ ],
+ "input_tokens": 15014,
+ "output_tokens": 7390
+}

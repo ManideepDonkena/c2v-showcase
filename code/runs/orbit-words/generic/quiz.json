@@ -1,0 +1,209 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the first orbit word in the sequence?",
+   "options": {
+    "A": "Y",
+    "B": "X",
+    "C": "XY",
+    "D": "YY"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "Apply the rule to X. What is the second orbit word?",
+   "options": {
+    "A": "XY",
+    "B": "YX",
+    "C": "XX",
+    "D": "YY"
+   },
+   "answer": "D"
+  },
+  {
+   "id": "q3",
+   "question": "Apply the rule to XYY. What is the third orbit word?",
+   "options": {
+    "A": "XYYYXYX",
+    "B": "XYYXYX",
+    "C": "YXXYX",
+    "D": "XYXYX"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q4",
+   "question": "Why does the word length always increase?",
+   "options": {
+    "A": "Letters merge",
+    "B": "Letters duplicate",
+    "C": "Letters vanish",
+    "D": "Letters swap"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q5",
+   "question": "How many letters are in the third orbit word?",
+   "options": {
+    "A": "3",
+    "B": "5",
+    "C": "7",
+    "D": "9"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q6",
+   "question": "If the fourth word starts with X, what does it start with?",
+   "options": {
+    "A": "X",
+    "B": "Y",
+    "C": "XY",
+    "D": "YY"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q7",
+   "question": "Read: Word 3 is XYYYXYX. What is the first letter of Word 4?",
+   "options": {
+    "A": "X",
+    "B": "Y",
+    "C": "XY",
+    "D": "YY"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q8",
+   "question": "Does every orbit word contain the letter Y?",
+   "options": {
+    "A": "No, only X",
+    "B": "Yes, from step 2",
+    "C": "Only in step 1",
+    "D": "Never"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q9",
+   "question": "What is a common misconception about the start?",
+   "options": {
+    "A": "It starts with Y",
+    "B": "It stays length 1",
+    "C": "It deletes letters",
+    "D": "It swaps X/Y"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q11",
+   "question": "Explain: Why can't Word 1 be Y?",
+   "options": {
+    "A": "Rule 1 says X",
+    "B": "Rule 2 says Y",
+    "C": "Length must grow",
+    "D": "X is optional"
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "What does X become after one rewrite?",
+   "options": {
+    "A": "XXY",
+    "B": "YX",
+    "C": "XYY",
+    "D": "XY"
+   },
+   "answer": "C",
+   "id": "t1"
+  },
+  {
+   "question": "What does Y become after one rewrite?",
+   "options": {
+    "A": "XYY",
+    "B": "YX",
+    "C": "XY",
+    "D": "YY"
+   },
+   "answer": "B",
+   "id": "t2"
+  },
+  {
+   "question": "What is the orbit word after two rewrites from X?",
+   "options": {
+    "A": "XXYYXX",
+    "B": "XYYYXYX",
+    "C": "XYYXYY",
+    "D": "XYYYX"
+   },
+   "answer": "B",
+   "id": "t3"
+  },
+  {
+   "question": "How long is the orbit word after three rewrites from X?",
+   "options": {
+    "A": "9",
+    "B": "21",
+    "C": "13",
+    "D": "17"
+   },
+   "answer": "D",
+   "id": "t4"
+  },
+  {
+   "question": "How many X letters are in the word after two rewrites?",
+   "options": {
+    "A": "2",
+    "B": "1",
+    "C": "4",
+    "D": "3"
+   },
+   "answer": "D",
+   "id": "t5"
+  },
+  {
+   "question": "Which letter does every orbit word start with?",
+   "options": {
+    "A": "Y",
+    "B": "It depends on the step",
+    "C": "X",
+    "D": "It alternates"
+   },
+   "answer": "C",
+   "id": "t6"
+  },
+  {
+   "question": "What does the word YY become after one rewrite?",
+   "options": {
+    "A": "YXYX",
+    "B": "XYXY",
+    "C": "YYXX",
+    "D": "XYYXYY"
+   },
+   "answer": "A",
+   "id": "t7"
+  },
+  {
+   "question": "How are the letters rewritten?",
+   "options": {
+    "A": "All letters at once, each by its own rule",
+    "B": "One letter per step, left to right",
+    "C": "Only the last letter",
+    "D": "Only the X letters"
+   },
+   "answer": "A",
+   "id": "t8"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 10,
+ "dev_leaked": []
+}

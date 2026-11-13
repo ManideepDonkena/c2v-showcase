@@ -1,0 +1,28 @@
+{
+ "stage": "F3",
+ "mode": "learner",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s1": [
+   "SHOW the number '32' with its tens digit '3' and units digit '2' highlighted. SAY that since 3 is strictly greater than 2, the condition holds. SHOW a green checkmark or golden glow around '32' to confirm it is a dapple number."
+  ]
+ },
+ "changed": [
+  "s1"
+ ],
+ "edit_size": {
+  "s1": 0.667
+ },
+ "diagnosis": "f3",
+ "dev_before": 0.9156295416666667,
+ "dev_after": 0.8547021250000001,
+ "mvqs_before": 82.62,
+ "mvqs_after": 80.17,
+ "kept": false,
+ "served": "base"
+}

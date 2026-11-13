@@ -1,0 +1,986 @@
+{
+ "Tovan sums": [
+  {
+   "question": "What is 1 ⊕ 4 (tovan sum)?",
+   "options": {
+    "A": "5",
+    "B": "9",
+    "C": "4",
+    "D": "10"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "What is 3 ⊕ 3?",
+   "options": {
+    "A": "6",
+    "B": "9",
+    "C": "15",
+    "D": "12"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "Which number is neutral for the tovan sum (n ⊕ b = b for every b)?",
+   "options": {
+    "A": "0",
+    "B": "-1",
+    "C": "2",
+    "D": "1"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "What is (-1) ⊕ 9?",
+   "options": {
+    "A": "-9",
+    "B": "-1",
+    "C": "8",
+    "D": "9"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "What is 2 ⊕ 2 ⊕ 2, worked left to right?",
+   "options": {
+    "A": "26",
+    "B": "18",
+    "C": "12",
+    "D": "6"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "Is 5 ⊕ 7 equal to 7 ⊕ 5?",
+   "options": {
+    "A": "Only when one is 0",
+    "B": "Only for odd numbers",
+    "C": "No, never",
+    "D": "Yes, always"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "What is 0 ⊕ 6?",
+   "options": {
+    "A": "12",
+    "B": "7",
+    "C": "0",
+    "D": "6"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "A student says 2 ⊕ 3 = 5. What did they forget?",
+   "options": {
+    "A": "To subtract 1",
+    "B": "To swap the numbers",
+    "C": "To add the product 2×3",
+    "D": "To square the result"
+   },
+   "answer": "C"
+  }
+ ],
+ "Krell steps on a grid": [
+  {
+   "question": "Where does one krell step take (2, 7)?",
+   "options": {
+    "A": "(7, 2)",
+    "B": "(3, 7)",
+    "C": "(8, 2)",
+    "D": "(7, 3)"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "Where do two krell steps take (3, 5)?",
+   "options": {
+    "A": "(5, 3)",
+    "B": "(3, 7)",
+    "C": "(5, 4)",
+    "D": "(4, 6)"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "Where does one krell step take (0, 0)?",
+   "options": {
+    "A": "(1, 0)",
+    "B": "(0, 0)",
+    "C": "(0, 1)",
+    "D": "(1, 1)"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "Starting at (0, 0), where are you after four krell steps?",
+   "options": {
+    "A": "(4, 4)",
+    "B": "(2, 2)",
+    "C": "(0, 4)",
+    "D": "(4, 0)"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "What do two krell steps do to any point (x, y)?",
+   "options": {
+    "A": "Add 1 to both x and y",
+    "B": "Leave it unchanged",
+    "C": "Add 2 to y only",
+    "D": "Swap x and y"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "Which point comes right after (1, 1) on the staircase from (0, 0)?",
+   "options": {
+    "A": "(2, 1)",
+    "B": "(1, 2)",
+    "C": "(1, 0)",
+    "D": "(2, 2)"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "Where does one krell step take (4, 4)?",
+   "options": {
+    "A": "(4, 5)",
+    "B": "(5, 5)",
+    "C": "(5, 4)",
+    "D": "(4, 4)"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "After one krell step the first number of the new point is...",
+   "options": {
+    "A": "the old first number plus 1",
+    "B": "the sum of both numbers",
+    "C": "the old second number",
+    "D": "always 0"
+   },
+   "answer": "C"
+  }
+ ],
+ "Vorn sequences": [
+  {
+   "question": "What is the 5th vorn term v(5)?",
+   "options": {
+    "A": "16",
+    "B": "21",
+    "C": "13",
+    "D": "19"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "What is v(6)?",
+   "options": {
+    "A": "32",
+    "B": "42",
+    "C": "41",
+    "D": "43"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "What are the first two vorn terms?",
+   "options": {
+    "A": "1 and 3",
+    "B": "1 and 2",
+    "C": "1 and 1",
+    "D": "3 and 5"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "Which rule makes the next vorn term?",
+   "options": {
+    "A": "previous + the one before it",
+    "B": "previous + 2 × the one before it",
+    "C": "previous × 2",
+    "D": "2 × previous + 1"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "Is the vorn term v(10) odd or even?",
+   "options": {
+    "A": "It depends on v(9)",
+    "B": "Even",
+    "C": "Odd",
+    "D": "It is 0"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "About how does each vorn term compare with the one before it?",
+   "options": {
+    "A": "About the same",
+    "B": "About three times as large",
+    "C": "About half as large",
+    "D": "About twice as large"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "What is v(4)?",
+   "options": {
+    "A": "7",
+    "B": "9",
+    "C": "11",
+    "D": "8"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "If v(7) = 85 and v(8) = 171, what is v(9)?",
+   "options": {
+    "A": "341",
+    "B": "255",
+    "C": "256",
+    "D": "342"
+   },
+   "answer": "A"
+  }
+ ],
+ "Glint numbers": [
+  {
+   "question": "Which number is glint?",
+   "options": {
+    "A": "38",
+    "B": "36",
+    "C": "34",
+    "D": "27"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "Which number is NOT glint?",
+   "options": {
+    "A": "24",
+    "B": "26",
+    "C": "15",
+    "D": "31"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "Is 40 glint?",
+   "options": {
+    "A": "Yes, 40 ÷ 4 = 10",
+    "B": "Yes, it is even",
+    "C": "No, it ends in 0",
+    "D": "Only in some cases"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "How many of 12, 13, 14, 15 are glint?",
+   "options": {
+    "A": "1",
+    "B": "4",
+    "C": "3",
+    "D": "2"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "Which kind of number is always glint?",
+   "options": {
+    "A": "Every number ending in 1",
+    "B": "Every number ending in 7",
+    "C": "Every number ending in 0",
+    "D": "Every even number"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "Is 48 glint?",
+   "options": {
+    "A": "No, 8 is too large",
+    "B": "No, 48 ÷ 8 is not whole",
+    "C": "Yes, 48 ÷ 8 = 6",
+    "D": "No, it is even"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "Which number is glint?",
+   "options": {
+    "A": "58",
+    "B": "46",
+    "C": "67",
+    "D": "65"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "What decides whether a number is glint?",
+   "options": {
+    "A": "Whether it divides evenly by its last digit",
+    "B": "Whether its digits add to an even number",
+    "C": "Whether it is prime",
+    "D": "Whether its first digit divides it"
+   },
+   "answer": "A"
+  }
+ ],
+ "Mirthful triangles": [
+  {
+   "question": "Which triangle is mirthful?",
+   "options": {
+    "A": "sides 4, 4, 7",
+    "B": "sides 3, 4, 5",
+    "C": "sides 2, 3, 4",
+    "D": "sides 5, 6, 7"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "Is a triangle with sides 3, 4, 5 mirthful?",
+   "options": {
+    "A": "Yes",
+    "B": "It cannot be told",
+    "C": "No",
+    "D": "Only if it is right-angled"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "Is every equilateral triangle mirthful?",
+   "options": {
+    "A": "Only large ones",
+    "B": "Yes",
+    "C": "No",
+    "D": "Only small ones"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "A mirthful triangle is doubled in size. Is it still mirthful?",
+   "options": {
+    "A": "No, never",
+    "B": "Only if it was equilateral",
+    "C": "Yes, always",
+    "D": "Only if its sides are even"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "Which sides matter for being mirthful?",
+   "options": {
+    "A": "Only the longest",
+    "B": "Only the middle one",
+    "C": "All three equally",
+    "D": "Only the longest and the shortest"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "Sides 6, 8, 9: is the triangle mirthful?",
+   "options": {
+    "A": "No",
+    "B": "Yes",
+    "C": "It cannot be told",
+    "D": "Only if 8 is the base"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "Sides 4, 6, 7: is the triangle mirthful?",
+   "options": {
+    "A": "No",
+    "B": "It cannot be told",
+    "C": "Only if 6 is the base",
+    "D": "Yes"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "The shortest side is 10. What is the longest the longest side can be for a mirthful triangle?",
+   "options": {
+    "A": "15",
+    "B": "20",
+    "C": "30",
+    "D": "10"
+   },
+   "answer": "A"
+  }
+ ],
+ "Sorrel counts of lattice rectangles": [
+  {
+   "question": "What is the sorrel count of a 4 × 4 square?",
+   "options": {
+    "A": "-16",
+    "B": "-7",
+    "C": "7",
+    "D": "9"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "What is the sorrel count of a 2 × 5 rectangle?",
+   "options": {
+    "A": "10",
+    "B": "4",
+    "C": "-4",
+    "D": "-10"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "How many grid points are strictly inside a 5 × 3 rectangle?",
+   "options": {
+    "A": "16",
+    "B": "8",
+    "C": "15",
+    "D": "6"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "How many grid points lie on the edges of a 5 × 3 rectangle?",
+   "options": {
+    "A": "15",
+    "B": "20",
+    "C": "8",
+    "D": "16"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "A 3 × 7 and a 7 × 3 rectangle: how do their sorrel counts compare?",
+   "options": {
+    "A": "The 7 × 3 one is larger",
+    "B": "The 3 × 7 one is larger",
+    "C": "They are equal",
+    "D": "One is the negative of the other"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "What is the sorrel count of a 1 × 1 square?",
+   "options": {
+    "A": "-4",
+    "B": "0",
+    "C": "1",
+    "D": "-1"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "For which rectangle is the sorrel count positive?",
+   "options": {
+    "A": "8 × 8",
+    "B": "2 × 2",
+    "C": "3 × 4",
+    "D": "1 × 9"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "The sorrel count is...",
+   "options": {
+    "A": "all grid points of the rectangle",
+    "B": "the area minus the perimeter",
+    "C": "points inside minus points on the edges",
+    "D": "points on the edges minus points inside"
+   },
+   "answer": "C"
+  }
+ ],
+ "Quill distance": [
+  {
+   "question": "What is the quill distance from (0, 0) to (2, 3)?",
+   "options": {
+    "A": "7",
+    "B": "8",
+    "C": "5",
+    "D": "10"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "What is the quill distance from (1, 1) to (4, 1)?",
+   "options": {
+    "A": "2",
+    "B": "6",
+    "C": "4",
+    "D": "3"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "What is the quill distance from (2, 0) to (2, 4)?",
+   "options": {
+    "A": "8",
+    "B": "4",
+    "C": "6",
+    "D": "2"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "Which point is at quill distance 2 from (0, 0)?",
+   "options": {
+    "A": "(1, 2)",
+    "B": "(0, 2)",
+    "C": "(0, 1)",
+    "D": "(1, 1)"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "Is the quill distance from A to B the same as from B to A?",
+   "options": {
+    "A": "Only on the x-axis",
+    "B": "No, never",
+    "C": "Only when A is (0, 0)",
+    "D": "Yes, always"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "Which move costs more in quill distance?",
+   "options": {
+    "A": "It depends on the start",
+    "B": "They cost the same",
+    "C": "One unit up",
+    "D": "One unit right"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "What is the quill distance from (-1, 2) to (1, -1)?",
+   "options": {
+    "A": "8",
+    "B": "5",
+    "C": "7",
+    "D": "9"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "How many grid points are at quill distance exactly 2 from (0, 0)?",
+   "options": {
+    "A": "6",
+    "B": "4",
+    "C": "8",
+    "D": "2"
+   },
+   "answer": "B"
+  }
+ ],
+ "Dapple numbers": [
+  {
+   "question": "Which number is dapple?",
+   "options": {
+    "A": "37",
+    "B": "7",
+    "C": "77",
+    "D": "73"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "Is 30 dapple?",
+   "options": {
+    "A": "Only if divided by 10",
+    "B": "It cannot be told",
+    "C": "No",
+    "D": "Yes"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "Is 9 dapple?",
+   "options": {
+    "A": "No",
+    "B": "Yes",
+    "C": "Only as 09",
+    "D": "It cannot be told"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "How many numbers from 10 to 19 are dapple?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "10",
+    "D": "9"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "How many numbers from 20 to 29 are dapple?",
+   "options": {
+    "A": "1",
+    "B": "8",
+    "C": "2",
+    "D": "3"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "64 is dapple. Is 46 dapple?",
+   "options": {
+    "A": "No",
+    "B": "It cannot be told",
+    "C": "Only if it is even",
+    "D": "Yes"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "Is 55 dapple?",
+   "options": {
+    "A": "It cannot be told",
+    "B": "Yes",
+    "C": "No",
+    "D": "Only because 5 is odd"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "A number is dapple when...",
+   "options": {
+    "A": "its digits add to an even number",
+    "B": "its tens digit is greater than its units digit",
+    "C": "it is a multiple of 10",
+    "D": "its units digit is greater than its tens digit"
+   },
+   "answer": "B"
+  }
+ ],
+ "Brisk folds of a list": [
+  {
+   "question": "What is the brisk fold of [2, 5, 1, 3, 4]?",
+   "options": {
+    "A": "[6, 8]",
+    "B": "[7, 4, 4]",
+    "C": "[6, 8, 1]",
+    "D": "[6, 9, 1]"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "What is the brisk fold of [1, 1, 1, 1]?",
+   "options": {
+    "A": "[2, 2]",
+    "B": "[4]",
+    "C": "[2, 2, 2, 2]",
+    "D": "[1, 1]"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "What is the brisk fold of [5, 0, 5, 0, 5, 0]?",
+   "options": {
+    "A": "[10, 5]",
+    "B": "[10, 0, 10]",
+    "C": "[5, 5, 5]",
+    "D": "[0, 10, 0]"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "The list [3, 9, 4, 6] adds up to 22. What does its brisk fold add up to?",
+   "options": {
+    "A": "44",
+    "B": "13",
+    "C": "11",
+    "D": "22"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "How long is the brisk fold of a list of 9 numbers?",
+   "options": {
+    "A": "3",
+    "B": "5",
+    "C": "4",
+    "D": "9"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "Fold [1, 2, 3, 4, 5, 6, 7, 8] twice. What do you get?",
+   "options": {
+    "A": "[10, 26]",
+    "B": "[18, 18]",
+    "C": "[9, 9, 9, 9]",
+    "D": "[36]"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "In the brisk fold of [4, 7, 2], where does the 7 go?",
+   "options": {
+    "A": "It stays alone at the end",
+    "B": "It is added to 2",
+    "C": "It is dropped",
+    "D": "It is added to 4"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "In a brisk fold, the first number is added to...",
+   "options": {
+    "A": "the middle number",
+    "B": "the second number",
+    "C": "itself",
+    "D": "the last number"
+   },
+   "answer": "D"
+  }
+ ],
+ "Orbit words": [
+  {
+   "question": "What does X become after one rewrite?",
+   "options": {
+    "A": "XXY",
+    "B": "YX",
+    "C": "XYY",
+    "D": "XY"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "What does Y become after one rewrite?",
+   "options": {
+    "A": "XYY",
+    "B": "YX",
+    "C": "XY",
+    "D": "YY"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "What is the orbit word after two rewrites from X?",
+   "options": {
+    "A": "XXYYXX",
+    "B": "XYYYXYX",
+    "C": "XYYXYY",
+    "D": "XYYYX"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "How long is the orbit word after three rewrites from X?",
+   "options": {
+    "A": "9",
+    "B": "21",
+    "C": "13",
+    "D": "17"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "How many X letters are in the word after two rewrites?",
+   "options": {
+    "A": "2",
+    "B": "1",
+    "C": "4",
+    "D": "3"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "Which letter does every orbit word start with?",
+   "options": {
+    "A": "Y",
+    "B": "It depends on the step",
+    "C": "X",
+    "D": "It alternates"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "What does the word YY become after one rewrite?",
+   "options": {
+    "A": "YXYX",
+    "B": "XYXY",
+    "C": "YYXX",
+    "D": "XYYXYY"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "How are the letters rewritten?",
+   "options": {
+    "A": "All letters at once, each by its own rule",
+    "B": "One letter per step, left to right",
+    "C": "Only the last letter",
+    "D": "Only the X letters"
+   },
+   "answer": "A"
+  }
+ ],
+ "Vells of 2×2 grids": [
+  {
+   "question": "What is the vell of [[3, 1], [2, 5]]?",
+   "options": {
+    "A": "17",
+    "B": "15",
+    "C": "13",
+    "D": "12"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "What is the vell of [[1, 1], [1, 1]]?",
+   "options": {
+    "A": "-1",
+    "B": "1",
+    "C": "2",
+    "D": "0"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "What is the vell of [[4, 0], [0, 4]]?",
+   "options": {
+    "A": "16",
+    "B": "8",
+    "C": "0",
+    "D": "4"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "What is the vell of [[2, 3], [5, 1]]?",
+   "options": {
+    "A": "6",
+    "B": "-6",
+    "C": "-13",
+    "D": "17"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "Which two numbers are multiplied in a vell?",
+   "options": {
+    "A": "all four",
+    "B": "the two top numbers",
+    "C": "top-left and bottom-right",
+    "D": "top-right and bottom-left"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "Swap b and c in [[a, b], [c, d]]. What happens to the vell?",
+   "options": {
+    "A": "It becomes 0",
+    "B": "It doubles",
+    "C": "It stays the same",
+    "D": "It changes sign"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "What is the vell of [[0, 2], [3, 7]]?",
+   "options": {
+    "A": "21",
+    "B": "5",
+    "C": "-21",
+    "D": "-5"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "What is the vell of [[5, 2], [2, 2]]?",
+   "options": {
+    "A": "4",
+    "B": "6",
+    "C": "10",
+    "D": "14"
+   },
+   "answer": "B"
+  }
+ ],
+ "Lumen clocks": [
+  {
+   "question": "From mark 0, where is the hand after 1 tick?",
+   "options": {
+    "A": "0",
+    "B": "7",
+    "C": "1",
+    "D": "2"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "From mark 5, where is the hand after 1 tick?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "7",
+    "D": "6"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "From mark 3, where is the hand after 3 ticks?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "6"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "From mark 4, how many ticks bring the hand back to 4?",
+   "options": {
+    "A": "4",
+    "B": "2",
+    "C": "7",
+    "D": "14"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "From mark 0, where is the hand after 4 ticks?",
+   "options": {
+    "A": "2",
+    "B": "1",
+    "C": "4",
+    "D": "8"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "Does the hand ever visit every mark?",
+   "options": {
+    "A": "No, only odd marks",
+    "B": "No, only even marks",
+    "C": "Only from mark 0",
+    "D": "Yes, before it returns"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "How many marks does a lumen clock have?",
+   "options": {
+    "A": "7",
+    "B": "12",
+    "C": "6",
+    "D": "8"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "One tick moves the hand by...",
+   "options": {
+    "A": "7 marks",
+    "B": "2 marks forward",
+    "C": "1 mark forward",
+    "D": "2 marks back"
+   },
+   "answer": "B"
+  }
+ ]
+}

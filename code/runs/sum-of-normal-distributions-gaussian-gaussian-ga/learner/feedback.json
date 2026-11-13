@@ -1,0 +1,46 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q3",
+  "q4",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q9",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s4": [
+   "SHOW two separate boxes labeled 'Variance of X' and 'Variance of Y' sitting side-by-side, then an arrow pointing to a third box labeled 'Total Variance' that contains the sum of those two numbers. SAY: 'When independent variables add up, their uncertainties (variances) also add up directly, just like the means do.'",
+   "SHOW two identical blue curves side-by-side, then dynamically merge them into a single wider green curve that is visibly broader than the originals. SAY 'When you add two independent variables with variance 1, their variances add up: 1 + 1 = 2. The new standard deviation is the square root of the total variance, which is √2.'",
+   "SHOW a visual equation overlaying the resulting green curve that explicitly adds the two input means (e.g., 'μ_sum = μ_X + μ_Y') and displays the specific arithmetic operation for the expected value of the sum. SAY: 'The center of the new combined bell is simply the sum of the centers of the original bells. To find the average outcome, you just add the individual averages together.'",
+   "SHOW a specific example where two identical Gaussian distributions (e.g., N(5, 1) and N(5, 1)) are summed, resulting in a new Gaussian curve with mean 10 and variance 2. SAY: 'Just as adding two normal variables always yields another normal variable, the shape remains Gaussian regardless of the specific means or variances.'",
+   "A visual equation overlaying the resulting green bell curve that explicitly displays 'μ_sum = μ_X + μ_Y' with the specific values plugged in (e.g., '1 + 2'), demonstrating that the new center is the arithmetic sum of the individual centers, not a weighted average or maximum.",
+   "SHOW two overlapping bell curves (one blue, one red) and visually demonstrate that their point-by-point multiplication creates a new, narrower curve that is still Gaussian. SAY: 'While adding Gaussians keeps the shape Gaussian, multiplying them also results in a Gaussian, but with a different mean and variance calculated by combining precisions (inverse variances), not just summing them.'"
+  ],
+  "s2": [
+   "Show two Gaussian curves that are perfectly correlated (e.g., Y = X) so their sum is just a scaled version of one curve, then contrast this with the independent case where the variances add. Explicitly state that independence is the required condition for the variance addition rule to hold."
+  ],
+  "s3": [
+   "Show two dice rolls: one with variance 1 and another with variance 4. Visually demonstrate that when you add the outcomes of these independent events, the total spread (variance) adds up to 5, not because they are normal, but because their fluctuations do not cancel each other out due to independence.",
+   "SHOW two identical blue curves side-by-side representing X and Y. SAY 'When we subtract independent variables, their variances ADD, not cancel.' VISUALLY demonstrate this by showing the width (variance) of the resulting distribution growing wider than either individual curve, specifically illustrating that Var(X-Y) = Var(X) + Var(-Y) = σ² + σ² = 2σ², proving that uncertainty accumulates rather than disappears."
+  ],
+  "s1": [
+   "SHOW a horizontal shift of the entire bell curve along the x-axis by adding a constant 'c' to the mean, demonstrating that the shape and width (spread) remain identical. SAY: 'Adding a constant moves the center but does not stretch or compress the distribution, so the variance stays exactly the same.'"
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s4"
+ ],
+ "dev_before": 16.7,
+ "dev_after": 20.8,
+ "mvqs_before": 83.13,
+ "mvqs_after": 80.22,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/sum-of-normal-distributions-gaussian-gaussian-ga/learner"
+}

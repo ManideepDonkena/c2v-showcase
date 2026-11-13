@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "Geometric Interpretation",
+  "teaches": "The determinant represents the signed area scaling factor of a linear transformation.",
+  "visual": "A unit square with vertices at (0,0), (1,0), (0,1), and (1,1) is drawn in blue. Two basis vectors i-hat and j-hat are highlighted. The square smoothly transforms into a parallelogram defined by new vector positions. The area of the resulting parallelogram is shaded red and labeled with a numerical value.",
+  "narration": "Imagine the determinant as a measure of how much space stretches or shrinks during a transformation. We start with a simple unit square, representing one unit of area. When we apply a linear transformation, this shape morphs into a parallelogram, and the determinant tells us exactly how its area has changed.",
+  "start": 0.0,
+  "end": 35.73
+ },
+ {
+  "id": "s2",
+  "title": "Orientation and Sign",
+  "teaches": "A negative determinant indicates that the orientation of the basis vectors has been flipped.",
+  "visual": "The previous parallelogram is shown. A reflection transformation is applied, causing the shape to flip across an axis. The label changes from a positive number (e.g., 2) to a negative number (e.g., -2). Arrows indicating the direction of i-hat and j-hat are shown reversing their relative clockwise/counter-clockwise order.",
+  "narration": "But the determinant is more than just size; it also tracks orientation. If the transformation flips the plane, causing our basis vectors to reverse their rotational order, the determinant becomes negative. This sign acts as a crucial indicator of whether the 'handedness' of the space has been preserved or inverted.",
+  "start": 35.73,
+  "end": 47.6
+ },
+ {
+  "id": "s3",
+  "title": "Singularity and Collapse",
+  "teaches": "A determinant of zero means the transformation collapses space into a lower dimension.",
+  "visual": "The parallelogram is squashed until it lies entirely flat on a line (or becomes a point). The red shaded area disappears, and the label clearly displays '0'. The basis vectors are shown becoming collinear (parallel to each other).",
+  "narration": "What happens when the determinant equals zero? The shape collapses completely, losing all its dimensionality. This signifies that the transformation is singular; information is lost because multiple input points map to the same output, making it impossible to reverse the process.",
+  "start": 47.6,
+  "end": 88.33
+ },
+ {
+  "id": "s4",
+  "title": "Computational Formula",
+  "teaches": "The determinant of a 2x2 matrix is calculated as ad - bc.",
+  "visual": "A 2x2 matrix [[a, b], [c, d]] appears on screen. The terms 'ad' and 'bc' are highlighted in distinct colors. An animation shows 'ad' growing while 'bc' shrinks, with the final result 'ad - bc' appearing as the area value of the corresponding transformed unit square shown in the background.",
+  "narration": "Finally, we connect this geometry to algebra. For any 2x2 matrix, the determinant is simply the product of the main diagonal minus the product of the other diagonal. This formula ad - bc provides a quick computational check for both the scaling factor and the orientation flip we observed visually.",
+  "start": 88.33,
+  "end": 124.87
+ }
+]

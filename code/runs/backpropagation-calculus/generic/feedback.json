@@ -1,0 +1,38 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q4",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q9",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s1": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s2": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s4"
+ ],
+ "dev_before": 9.1,
+ "dev_after": 9.1,
+ "mvqs_before": 81.84,
+ "mvqs_after": 78.82,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/backpropagation-calculus/generic"
+}

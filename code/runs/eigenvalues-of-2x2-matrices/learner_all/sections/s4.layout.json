@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 80.99,
+  "s_sp": 94.7,
+  "s_ly": 58.2,
+  "s_ed": 73.3,
+  "states": 9,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 78.53,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 78.74,
+   "conflict": "Vector \"j_hat\" (created line 52, box [-0.125, 0.0, 0.125, 1.0]) overlaps MathTex \"lambda1\" (line 33, box [-0.345, 0.25, 0.345, 0.46]) by 36%; moving it by [0.0, 0.61] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 80.99,
+   "conflict": "MathTex \"j_hat_label\" (created line 54, box [-0.236, 1.1, -0.1, 1.386]) overlaps Vector \"j_hat\" (line 52, box [-0.125, 0.61, 0.125, 1.61]) by 18%; moving it by [-0.17, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Vector \"j_hat\" (created line 52, box [-0.125, 0.0, 0.125, 1.0]) overlaps MathTex \"lambda1\" (line 44, box [-0.345, 0.25, 0.345, 0.46]) by 36%; moving it by [0.0, 0.61] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 81.0,
+  "s_sp": 92.0,
+  "s_ly": 49.6,
+  "s_ed": 83.6,
+  "states": 22,
+  "states_with_conflict": 6
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 69.9,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 75.73,
+   "conflict": "MathTex \"func_text\" (created line 12, box [-6.611, 3.032, -4.885, 3.5]) overlaps Text \"title\" (line 6, box [-5.648, 3.0, 5.648, 3.5]) by 44%; moving it by [0.0, -0.65] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 75.84,
+   "conflict": "Text \"const_text\" (created line 37, box [-7.632, -2.015, -3.864, -1.678]) is outside the frame; shift it by [0.67, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.0,
+   "conflict": "Text \"mixed_text\" (created line 76, box [-3.009, 3.116, 3.009, 3.5]) overlaps Text \"title\" (line 6, box [-5.648, 3.0, 5.648, 3.5]) by 100%; moving it by [0.0, -0.65] would clear it"
+  }
+ ]
+}

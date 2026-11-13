@@ -1,0 +1,265 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.453,
+      -0.343,
+      0.453,
+      0.343
+     ],
+     "name": "num_50",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.453,
+      -0.343,
+      0.453,
+      0.343
+     ],
+     "name": "num_50",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.453,
+      -0.343,
+      0.453,
+      0.343
+     ],
+     "name": "num_50",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      -1.5,
+      1.5,
+      1.5
+     ],
+     "name": "cross",
+     "line": 25,
+     "type": "Cross"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.453,
+      -0.343,
+      0.453,
+      0.343
+     ],
+     "name": "num_50",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.5,
+      -1.5,
+      1.5,
+      1.5
+     ],
+     "name": "cross",
+     "line": 25,
+     "type": "Cross"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.544,
+      -2.084,
+      2.544,
+      -1.75
+     ],
+     "name": "rule_text",
+     "line": 31,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.434,
+      -0.343,
+      0.434,
+      0.343
+     ],
+     "name": "num_10",
+     "line": 36,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.434,
+      -0.343,
+      0.434,
+      0.343
+     ],
+     "name": "num_10",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.364,
+      -0.926,
+      2.364,
+      -0.593
+     ],
+     "name": "div_text",
+     "line": 55,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "UnboundLocalError",
+  "message": "cannot access local variable 'zero_10' where it is not associated with a value",
+  "line": 60
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.541,
+      3.3,
+      2.541,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "VMobject.set_style() got an unexpected keyword argument 'opacity'",
+  "line": 11
+ }
+}

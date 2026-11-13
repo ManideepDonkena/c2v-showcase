@@ -1,0 +1,187 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the formal name of the conjecture stating every simple closed curve in the plane contains four vertices forming a square?",
+   "options": {
+    "A": "Four-Vertex Theorem",
+    "B": "Inscribed Square Problem",
+    "C": "Jordan Curve Conjecture",
+    "D": "Poincaré Duality"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "Who proved the Inscribed Square Problem for convex curves in 1911?",
+   "options": {
+    "A": "Emil Artin",
+    "B": "Georg Hamel",
+    "C": "Otto Neugebauer",
+    "D": "Vladimir Arnold"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "Why is the general Inscribed Square Problem considered difficult for arbitrary simple closed curves?",
+   "options": {
+    "A": "Curves are not continuous",
+    "B": "Lack of smoothness prevents derivatives",
+    "C": "Curves may self-intersect",
+    "D": "Space is non-Euclidean"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q4",
+   "question": "Which topological tool is often used to prove the existence of inscribed squares on smooth curves?",
+   "options": {
+    "A": "Fundamental Group",
+    "B": "Fixed Point Theorem",
+    "C": "Brouwer Degree Theory",
+    "D": "Stokes' Theorem"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q6",
+   "question": "What is a 'common misconception' about the Inscribed Square Problem?",
+   "options": {
+    "A": "It applies to 3D space",
+    "B": "All curves have solutions",
+    "C": "It requires calculus",
+    "D": "It is proven for all"
+   },
+   "answer": "D"
+  },
+  {
+   "id": "q7",
+   "question": "For a circle of radius 1, what is the side length of the largest inscribed square?",
+   "options": {
+    "A": "1",
+    "B": "√2",
+    "C": "2",
+    "D": "π/2"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q8",
+   "question": "In the context of the problem, what does 'simple closed curve' mean?",
+   "options": {
+    "A": "Self-intersecting loop",
+    "B": "Open line segment",
+    "C": "Non-self-intersecting loop",
+    "D": "Straight line boundary"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q9",
+   "question": "Which mathematician provided a proof for the problem using circle packing arguments?",
+   "options": {
+    "A": "John Conway",
+    "B": "Richard Kenyon",
+    "C": "Andrew Wiles",
+    "D": "Maryam Mirzakhani"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q10",
+   "question": "If a curve has rotational symmetry of order 4, does it guarantee an inscribed square?",
+   "options": {
+    "A": "No, never",
+    "B": "Yes, always",
+    "C": "Only if convex",
+    "D": "Only if smooth"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q11",
+   "question": "What is the current status of the Inscribed Square Problem for all rectifiable curves?",
+   "options": {
+    "A": "Proven true",
+    "B": "Disproven false",
+    "C": "Still open",
+    "D": "Irrelevant"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q12",
+   "question": "Why is the 'inscribed rectangle' problem easier than the square case?",
+   "options": {
+    "A": "Fewer constraints",
+    "B": "More degrees of freedom",
+    "C": "Lower dimensionality",
+    "D": "Simpler topology"
+   },
+   "answer": "B"
+  }
+ ],
+ "test": [
+  {
+   "question": "What is the central challenge posed by the Inscribed Square (or Square Peg) Problem?",
+   "options": {
+    "A": "Whether every straight line in the plane contains an inscribed square",
+    "B": "Whether every simple closed curve in the plane contains four points forming a square",
+    "C": "Whether every square can be inscribed inside a triangle",
+    "D": "Whether only circular shapes can contain inscribed rectangles"
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "Which of the following is a correct definition of a simple closed curve?",
+   "options": {
+    "A": "A curve that intersects itself at least once",
+    "B": "A curved segment with sharp corners",
+    "C": "A non-intersecting loop that starts and ends at the same point",
+    "D": "A straight line segment connecting two points"
+   },
+   "answer": "C",
+   "id": "t2"
+  },
+  {
+   "question": "Who first formally proposed the Inscribed Square Problem, and in what year?",
+   "options": {
+    "A": "Stromquist in 1981",
+    "B": "Toeplitz in 1911",
+    "C": "Euler in 1707",
+    "D": "Gauss in 1820"
+   },
+   "answer": "B",
+   "id": "t3"
+  },
+  {
+   "question": "Which of the following types of curve is known to always contain at least one inscribed square?",
+   "options": {
+    "A": "Straight line",
+    "B": "Irregular polygon",
+    "C": "Perfect circle",
+    "D": "Open curve"
+   },
+   "answer": "C",
+   "id": "t4"
+  },
+  {
+   "question": "What technique can be used to visually search for an inscribed square within a complicated closed curve?",
+   "options": {
+    "A": "Overlaying rectangles at random angles",
+    "B": "Sliding a square template along the curve and checking when all four corners touch the curve",
+    "C": "Folding the curve in half",
+    "D": "Stretching the curve until it forms a straight line"
+   },
+   "answer": "B",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 11,
+ "dev_leaked": []
+}

@@ -1,0 +1,165 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the primary purpose of an error correction code?",
+   "options": {
+    "A": "To encrypt data for security",
+    "B": "To detect and fix bit errors",
+    "C": "To compress data size",
+    "D": "To increase transmission speed"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "In a Hamming code, where are parity bits placed?",
+   "options": {
+    "A": "At the end of the sequence",
+    "B": "At positions that are powers of 2",
+    "C": "Randomly throughout the stream",
+    "D": "Only at the beginning"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "Why do we use parity bits in Hamming codes?",
+   "options": {
+    "A": "To store extra data",
+    "B": "To check for even/odd counts",
+    "C": "To replace missing bits",
+    "D": "To speed up encoding"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q5",
+   "question": "What is the minimum Hamming distance required to correct 1 bit error?",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q8",
+   "question": "What is a common misconception about Hamming codes?",
+   "options": {
+    "A": "They can correct multiple errors",
+    "B": "They require parity bits",
+    "C": "They are linear codes",
+    "D": "They use binary arithmetic"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q9",
+   "question": "If the syndrome is 011 (binary), which bit position is in error?",
+   "options": {
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q10",
+   "question": "Why can't Hamming codes correct two simultaneous bit errors?",
+   "options": {
+    "A": "Parity bits are insufficient",
+    "B": "Syndrome becomes ambiguous",
+    "C": "Data length is too short",
+    "D": "Encoding is non-linear"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q11",
+   "question": "In a (7,4) Hamming code, how many parity bits are added?",
+   "options": {
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "7"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q12",
+   "question": "What happens if you flip a bit in the parity section of a Hamming codeword?",
+   "options": {
+    "A": "It is always detected",
+    "B": "It is never detected",
+    "C": "It corrupts data",
+    "D": "It creates a double error"
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "Why are error correction codes used in data transmission?",
+   "options": {
+    "A": "To compress the data for faster transmission",
+    "B": "To add extra information that can detect and fix errors caused by noise",
+    "C": "To encrypt the message to make it secure",
+    "D": "To make the message unreadable to unauthorized users"
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "How does parity help in detecting errors in binary messages?",
+   "options": {
+    "A": "By counting the number of zeros in the message",
+    "B": "By flipping every bit in the message",
+    "C": "By checking if the number of ones is even or odd",
+    "D": "By rearranging the order of bits"
+   },
+   "answer": "C",
+   "id": "t2"
+  },
+  {
+   "question": "What is the main difference between error detecting codes and error correcting codes?",
+   "options": {
+    "A": "Error detecting codes can only find errors; error correcting codes can find and fix errors",
+    "B": "Error detecting codes require more extra bits than correcting codes",
+    "C": "Error correcting codes are only used in wireless communication",
+    "D": "Error detecting codes can fix multiple errors at once"
+   },
+   "answer": "A",
+   "id": "t3"
+  },
+  {
+   "question": "In constructing a 7-bit Hamming code, which positions are used for parity bits?",
+   "options": {
+    "A": "Positions 1, 2, and 4 only",
+    "B": "Only the last three positions",
+    "C": "Every alternate position starting from the second",
+    "D": "All positions except the first one"
+   },
+   "answer": "A",
+   "id": "t4"
+  },
+  {
+   "question": "How does Hamming code identify the position of a single-bit error for correction?",
+   "options": {
+    "A": "By adding up the values of all data bits",
+    "B": "By highlighting all bits with logical OR gates",
+    "C": "By using overlapping sets of parity checks to pinpoint the exact bit",
+    "D": "By sending the message twice and comparing"
+   },
+   "answer": "C",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 9,
+ "dev_leaked": []
+}

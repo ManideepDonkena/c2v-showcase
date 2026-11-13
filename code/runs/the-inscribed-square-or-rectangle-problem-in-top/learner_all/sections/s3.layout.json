@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 71.94,
+  "s_sp": 90.4,
+  "s_ly": 62.2,
+  "s_ed": 47.7,
+  "states": 39,
+  "states_with_conflict": 12
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 69.09,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 69.91,
+   "conflict": "Text \"problem_text\" (created line 35, box [-3.211, 3.0, 3.211, 3.5]) overlaps Text \"title\" (line 6, box [-4.245, 3.166, 4.245, 3.5]) by 75%; moving it by [0.0, -0.48] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.25,
+   "conflict": "Circle \"smooth_curve\" (created line 107, box [-1.5, -1.5, 1.5, 1.5]) overlaps Text \"koch_label\" (line 93, box [-1.853, -1.584, 1.853, -1.25]) by 60%; moving it by [0.0, 0.4] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.94,
+   "conflict": "Text \"smooth_label\" (created line 112, box [-0.973, -1.591, 0.973, -1.35]) overlaps Text \"koch_label\" (line 93, box [-1.853, -1.584, 1.853, -1.25]) by 97%; moving it by [0.0, -0.38] would clear it"
+  }
+ ]
+}

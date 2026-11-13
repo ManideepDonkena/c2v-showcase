@@ -1,0 +1,1423 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.85,
+      6.0,
+      2.15
+     ],
+     "name": "jerk_graph",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.25,
+      1.75,
+      7.408,
+      2.275
+     ],
+     "name": "jerk_label",
+     "line": 31,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.85,
+      6.0,
+      2.15
+     ],
+     "name": "jerk_graph",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.25,
+      1.75,
+      7.408,
+      2.275
+     ],
+     "name": "jerk_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.904,
+      -4.434,
+      -6.25,
+      -4.1
+     ],
+     "name": "jerk_text",
+     "line": 33,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 43,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.85,
+      6.0,
+      2.15
+     ],
+     "name": "jerk_graph",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.25,
+      1.75,
+      7.408,
+      2.275
+     ],
+     "name": "jerk_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.904,
+      -4.434,
+      -6.25,
+      -4.1
+     ],
+     "name": "jerk_text",
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.037,
+      -5.999,
+      -6.116,
+      -4.684
+     ],
+     "name": "notation",
+     "line": 42,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.85,
+      6.0,
+      2.15
+     ],
+     "name": "jerk_graph",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.25,
+      1.75,
+      7.408,
+      2.275
+     ],
+     "name": "jerk_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.904,
+      -4.434,
+      -6.25,
+      -4.1
+     ],
+     "name": "jerk_text",
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.037,
+      -5.999,
+      -6.116,
+      -4.684
+     ],
+     "name": "notation",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.0,
+      -4.5,
+      -6.0,
+      1.5
+     ],
+     "name": "slider_line",
+     "line": 49,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.08,
+      -1.58,
+      -1.92,
+      -1.42
+     ],
+     "name": "slider_dot",
+     "line": 47,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.85,
+      6.0,
+      2.15
+     ],
+     "name": "jerk_graph",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.25,
+      1.75,
+      7.408,
+      2.275
+     ],
+     "name": "jerk_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.904,
+      -4.434,
+      -6.25,
+      -4.1
+     ],
+     "name": "jerk_text",
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.037,
+      -5.999,
+      -6.116,
+      -4.684
+     ],
+     "name": "notation",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -4.5,
+      -2.0,
+      1.5
+     ],
+     "name": "slider_line",
+     "line": 49,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -1.58,
+      0.08,
+      -1.42
+     ],
+     "name": "slider_dot",
+     "line": 47,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.85,
+      6.0,
+      2.15
+     ],
+     "name": "jerk_graph",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.25,
+      1.75,
+      7.408,
+      2.275
+     ],
+     "name": "jerk_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.904,
+      -4.434,
+      -6.25,
+      -4.1
+     ],
+     "name": "jerk_text",
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.037,
+      -5.999,
+      -6.116,
+      -4.684
+     ],
+     "name": "notation",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      -4.5,
+      2.0,
+      1.5
+     ],
+     "name": "slider_line",
+     "line": 49,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -1.58,
+      2.08,
+      -1.42
+     ],
+     "name": "slider_dot",
+     "line": 47,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 66,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.092,
+      3.145,
+      3.092,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 59,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.85,
+      6.0,
+      2.15
+     ],
+     "name": "jerk_graph",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.25,
+      1.75,
+      7.408,
+      2.275
+     ],
+     "name": "jerk_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.904,
+      -4.434,
+      -6.25,
+      -4.1
+     ],
+     "name": "jerk_text",
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.037,
+      -5.999,
+      -6.116,
+      -4.684
+     ],
+     "name": "notation",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      -4.5,
+      2.0,
+      1.5
+     ],
+     "name": "slider_line",
+     "line": 49,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -1.58,
+      2.08,
+      -1.42
+     ],
+     "name": "slider_dot",
+     "line": 47,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.092,
+      3.145,
+      3.092,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 59,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.85,
+      6.0,
+      2.15
+     ],
+     "name": "jerk_graph",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.25,
+      1.75,
+      7.408,
+      2.275
+     ],
+     "name": "jerk_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.904,
+      -4.434,
+      -6.25,
+      -4.1
+     ],
+     "name": "jerk_text",
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.037,
+      -5.999,
+      -6.116,
+      -4.684
+     ],
+     "name": "notation",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      -4.5,
+      2.0,
+      1.5
+     ],
+     "name": "slider_line",
+     "line": 49,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -1.58,
+      2.08,
+      -1.42
+     ],
+     "name": "slider_dot",
+     "line": 47,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      2.969,
+      -6.072,
+      3.5
+     ],
+     "name": "step1",
+     "line": 70,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 75,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.092,
+      3.145,
+      3.092,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 59,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.85,
+      6.0,
+      2.15
+     ],
+     "name": "jerk_graph",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.25,
+      1.75,
+      7.408,
+      2.275
+     ],
+     "name": "jerk_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.904,
+      -4.434,
+      -6.25,
+      -4.1
+     ],
+     "name": "jerk_text",
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.037,
+      -5.999,
+      -6.116,
+      -4.684
+     ],
+     "name": "notation",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      -4.5,
+      2.0,
+      1.5
+     ],
+     "name": "slider_line",
+     "line": 49,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -1.58,
+      2.08,
+      -1.42
+     ],
+     "name": "slider_dot",
+     "line": 47,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.755,
+      2.181,
+      -5.928,
+      2.719
+     ],
+     "name": "step2",
+     "line": 74,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.092,
+      3.145,
+      3.092,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 59,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.85,
+      6.0,
+      2.15
+     ],
+     "name": "jerk_graph",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.25,
+      1.75,
+      7.408,
+      2.275
+     ],
+     "name": "jerk_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.904,
+      -4.434,
+      -6.25,
+      -4.1
+     ],
+     "name": "jerk_text",
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.037,
+      -5.999,
+      -6.116,
+      -4.684
+     ],
+     "name": "notation",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      -4.5,
+      2.0,
+      1.5
+     ],
+     "name": "slider_line",
+     "line": 49,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -1.58,
+      2.08,
+      -1.42
+     ],
+     "name": "slider_dot",
+     "line": 47,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.636,
+      1.52,
+      -6.047,
+      1.931
+     ],
+     "name": "step3",
+     "line": 78,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 83,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.092,
+      3.145,
+      3.092,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 59,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -1.5,
+      6.0,
+      3.0
+     ],
+     "name": "acc_graph",
+     "line": 23,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.92,
+      3.25,
+      6.963,
+      3.775
+     ],
+     "name": "acc_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.85,
+      6.0,
+      2.15
+     ],
+     "name": "jerk_graph",
+     "line": 30,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.25,
+      1.75,
+      7.408,
+      2.275
+     ],
+     "name": "jerk_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.904,
+      -4.434,
+      -6.25,
+      -4.1
+     ],
+     "name": "jerk_text",
+     "line": 33,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.037,
+      -5.999,
+      -6.116,
+      -4.684
+     ],
+     "name": "notation",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      -4.5,
+      2.0,
+      1.5
+     ],
+     "name": "slider_line",
+     "line": 49,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -1.58,
+      2.08,
+      -1.42
+     ],
+     "name": "slider_dot",
+     "line": 47,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.465,
+      0.858,
+      -6.217,
+      1.27
+     ],
+     "name": "step4",
+     "line": 82,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 87,
+   "objects": []
+  }
+ ],
+ "error": null
+}

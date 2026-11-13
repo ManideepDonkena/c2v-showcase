@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 88.29,
+  "s_sp": 97.8,
+  "s_ly": 54.5,
+  "s_ed": 95.0,
+  "states": 12,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 88.29,
+   "conflicts": 2
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"edge2\" (created line 24, box [0.645, 1.751, 3.355, 2.0]) overlaps Rectangle \"rect2\" (line 12, box [1.0, -2.0, 3.0, 2.0]) by 73%; moving it by [0.0, 0.4] would clear it"
+  }
+ ]
+}

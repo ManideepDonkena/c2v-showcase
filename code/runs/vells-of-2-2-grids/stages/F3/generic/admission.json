@@ -1,0 +1,105 @@
+{
+ "topic": "Vells of 2×2 grids",
+ "before": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 80.3,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 80.94,
+   "conflicts": 1,
+   "ok": false
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 62.17,
+   "conflicts": 6,
+   "ok": false
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  }
+ },
+ "regenerated": {
+  "s2": {
+   "tries": [
+    {
+     "id": "s2",
+     "mvqs": 83.22,
+     "conflicts": 0,
+     "rendered": true,
+     "ok": true
+    }
+   ],
+   "kept": "s2_try1"
+  },
+  "s3": {
+   "tries": [
+    {
+     "id": "s3",
+     "mvqs": 85.87,
+     "conflicts": 0,
+     "rendered": true,
+     "ok": true
+    }
+   ],
+   "kept": "s3_try1"
+  },
+  "s4": {
+   "tries": [
+    {
+     "id": "s4",
+     "mvqs": 90.64,
+     "conflicts": 0,
+     "rendered": true,
+     "ok": true
+    }
+   ],
+   "kept": "s4_try1"
+  }
+ },
+ "min_mvqs": 70.0,
+ "superseded": "/home/mani/c2v-lab/runs/vells-of-2-2-grids/_superseded/20261113-084658",
+ "after": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 80.3,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 83.22,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 85.87,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 90.64,
+   "conflicts": 0,
+   "ok": true
+  }
+ },
+ "complete": true,
+ "clean": true
+}

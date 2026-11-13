@@ -1,0 +1,132 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.5,
+      0.5,
+      0.5
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.5,
+      0.5,
+      0.5
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "i_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 17,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.681,
+      -0.715,
+      0.819,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.454,
+      0.469,
+      -0.25,
+      1.031
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "Mobject.__init__() got an unexpected keyword argument 'bracket_style'",
+  "line": 29
+ }
+}

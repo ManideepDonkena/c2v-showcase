@@ -1,0 +1,176 @@
+{
+ "kind": "frames",
+ "frames": 6,
+ "rotations": [
+  {
+   "rotation": 0,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "A": 0.038327,
+      "B": 0.955546,
+      "C": 0.000494,
+      "D": 0.005634
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.955546
+    },
+    {
+     "id": "t2",
+     "p": {
+      "A": 0.000912,
+      "B": 0.908261,
+      "C": 0.089878,
+      "D": 0.000948
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.000948
+    },
+    {
+     "id": "t3",
+     "p": {
+      "A": 0.029478,
+      "B": 0.949088,
+      "C": 0.020529,
+      "D": 0.000905
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.029478
+    },
+    {
+     "id": "t4",
+     "p": {
+      "A": 0.00691,
+      "B": 0.99068,
+      "C": 5.9e-05,
+      "D": 0.002351
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.99068
+    },
+    {
+     "id": "t5",
+     "p": {
+      "A": 0.002905,
+      "B": 0.033294,
+      "C": 0.963766,
+      "D": 3.5e-05
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.963766
+    },
+    {
+     "id": "t6",
+     "p": {
+      "A": 1e-06,
+      "B": 0.021608,
+      "C": 1.3e-05,
+      "D": 0.978378
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 0.978378
+    },
+    {
+     "id": "t7",
+     "p": {
+      "A": 0.856873,
+      "B": 0.113674,
+      "C": 0.026207,
+      "D": 0.003247
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.026207
+    },
+    {
+     "id": "t8",
+     "p": {
+      "A": 0.585716,
+      "B": 0.41383,
+      "C": 0.000106,
+      "D": 0.000348
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.585716
+    }
+   ],
+   "reply": "1: B\n2: B\n3: B\n4: B\n5: C\n6: D\n7: A\n8: A",
+   "prompt_tokens": 1632,
+   "retries": 1,
+   "missing": 0
+  },
+  {
+   "rotation": 1,
+   "items": [
+    {
+     "id": "t1",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t2",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t3",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t4",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t5",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t6",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t7",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t8",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    }
+   ],
+   "reply": "I cannot answer these questions because the provided video frames do not contain any information regarding \"vorn terms\" or the values/rules associated with them. The video frames only discuss \"Glint Numbers.\"",
+   "prompt_tokens": 1610,
+   "retries": 0,
+   "missing": 8
+  }
+ ]
+}

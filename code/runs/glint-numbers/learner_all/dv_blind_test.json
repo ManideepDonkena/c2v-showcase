@@ -1,0 +1,216 @@
+{
+ "kind": "blind",
+ "frames": 0,
+ "rotations": [
+  {
+   "rotation": 0,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "A": 0.005827,
+      "B": 0.977576,
+      "C": 0.016135,
+      "D": 0.000462
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.977576
+    },
+    {
+     "id": "t2",
+     "p": {
+      "A": 0.005078,
+      "B": 0.004217,
+      "C": 0.366469,
+      "D": 0.624236
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 0.004217
+    },
+    {
+     "id": "t3",
+     "p": {
+      "A": 0.999703,
+      "B": 3.9e-05,
+      "C": 0.000257,
+      "D": 1e-06
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.000257
+    },
+    {
+     "id": "t4",
+     "p": {
+      "A": 0.015426,
+      "B": 0.000164,
+      "C": 0.000193,
+      "D": 0.984216
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 0.984216
+    },
+    {
+     "id": "t5",
+     "p": {
+      "A": 0.000952,
+      "B": 0.005668,
+      "C": 0.987544,
+      "D": 0.005836
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.000952
+    },
+    {
+     "id": "t6",
+     "p": {
+      "A": 0.0,
+      "B": 1e-06,
+      "C": 0.999999,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999999
+    },
+    {
+     "id": "t7",
+     "p": {
+      "A": 0.001391,
+      "B": 0.993965,
+      "C": 0.000235,
+      "D": 0.004409
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.004409
+    },
+    {
+     "id": "t8",
+     "p": {
+      "A": 0.999999,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.999999
+    }
+   ],
+   "reply": "Since no video material was provided, I must rely solely on the text of the questions and options to find internal patterns or logical consistency within the provided text.\n\n1: B\n2: D\n3: A\n4: D\n5: C\n6: C\n7: B\n8: A",
+   "prompt_tokens": 672,
+   "retries": 0,
+   "missing": 0
+  },
+  {
+   "rotation": 1,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "D": 0.00386,
+      "A": 0.000951,
+      "B": 0.99441,
+      "C": 0.000779
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.99441
+    },
+    {
+     "id": "t2",
+     "p": {
+      "D": 0.39289,
+      "A": 0.088546,
+      "B": 0.012895,
+      "C": 0.50567
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.012895
+    },
+    {
+     "id": "t3",
+     "p": {
+      "D": 4e-06,
+      "A": 0.999824,
+      "B": 1.6e-05,
+      "C": 0.000156
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.000156
+    },
+    {
+     "id": "t4",
+     "p": {
+      "D": 0.032498,
+      "A": 0.944699,
+      "B": 4.9e-05,
+      "C": 0.022754
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.032498
+    },
+    {
+     "id": "t5",
+     "p": {
+      "D": 0.002753,
+      "A": 0.002331,
+      "B": 0.000431,
+      "C": 0.994485
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.002331
+    },
+    {
+     "id": "t6",
+     "p": {
+      "D": 0.0,
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t7",
+     "p": {
+      "D": 0.006145,
+      "A": 0.018261,
+      "B": 0.967097,
+      "C": 0.008497
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.006145
+    },
+    {
+     "id": "t8",
+     "p": {
+      "D": 0.0,
+      "A": 1.0,
+      "B": 0.0,
+      "C": 0.0
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 1.0
+    }
+   ],
+   "reply": "Since no video material was provided, I cannot access any evidence to determine the properties of \"glint\" numbers. However, following the instruction to choose the most plausible option based on the question text alone:\n\n1: C\n2: D\n3: B\n4: B\n5: D\n6: D\n7: C\n8: B",
+   "prompt_tokens": 672,
+   "retries": 0,
+   "missing": 0
+  }
+ ]
+}

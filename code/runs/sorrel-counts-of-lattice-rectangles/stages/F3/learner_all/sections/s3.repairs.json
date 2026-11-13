@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 53,
+  "scope": "line",
+  "error": "TypeError: Object <bound method Mobject.become of MathTex('(4-1)\\\\times(2-1) = 3')> cannot be converted to an animation"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 53,
+  "scope": "block",
+  "error": "TypeError: Object <bound method Mobject.become of MathTex('(4-1)\\\\times(2-1) = 3')> cannot be converted to an animation"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 53,
+  "scope": "section",
+  "error": "TypeError: Object MathTex('(4-1)\\\\times(2-1) = 3') cannot be converted to an animation"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

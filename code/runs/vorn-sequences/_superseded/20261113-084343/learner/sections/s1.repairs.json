@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 35,
+  "scope": "line",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() takes 1 positional argument but 2 were given\nHINT: That get_... method does not exist in Manim CE: Mobject turns unknown get_* names into attribute getters that take no arguments. Compute the value yourself (e.g. np.linalg.norm(p2 - p1) on get_vertices() points)."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 34,
+  "scope": "block",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() takes 1 positional argument but 2 were given\nHINT: That get_... method does not exist in Manim CE: Mobject turns unknown get_* names into attribute getters that take no arguments. Compute the value yourself (e.g. np.linalg.norm(p2 - p1) on get_vertices() points)."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 34,
+  "scope": "section",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() takes 1 positional argument but 2 were given\nHINT: That get_... method does not exist in Manim CE: Mobject turns unknown get_* names into attribute getters that take no arguments. Compute the value yourself (e.g. np.linalg.norm(p2 - p1) on get_vertices() points)."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 40,
+  "scope": "section",
+  "error": "TypeError: Mobject.__getattr__.<locals>.getter() takes 1 positional argument but 2 were given\nHINT: That get_... method does not exist in Manim CE: Mobject turns unknown get_* names into attribute getters that take no arguments. Compute the value yourself (e.g. np.linalg.norm(p2 - p1) on get_vertices() points)."
+ }
+]

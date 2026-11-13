@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 75.81,
+  "s_sp": 90.8,
+  "s_ly": 34.9,
+  "s_ed": 78.2,
+  "states": 11,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.81,
+   "conflicts": 2
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"y1\" (created line 24, box [-0.173, -0.198, 0.179, 0.198]) overlaps Text \"y1\" (line 24, box [-0.173, -0.198, 0.179, 0.198]) by 100%; moving it by [0.5, 0.0] would clear it"
+  }
+ ]
+}

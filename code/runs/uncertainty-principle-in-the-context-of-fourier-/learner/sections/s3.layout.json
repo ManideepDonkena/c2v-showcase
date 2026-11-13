@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 70.16,
+  "s_sp": 88.3,
+  "s_ly": 51.8,
+  "s_ed": 52.2,
+  "states": 18,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 70.16,
+   "conflicts": 6
+  },
+  {
+   "level": "none kept",
+   "conflict": "ParametricFunction \"freq_spectrum\" (created line 17, box [-10.0, 0.0, 10.0, 1.0]) is outside the frame; shift it by [3.04, 0.0]"
+  }
+ ]
+}

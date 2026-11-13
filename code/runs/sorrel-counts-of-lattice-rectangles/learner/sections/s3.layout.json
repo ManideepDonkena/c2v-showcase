@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 92.19,
+  "s_sp": 96.9,
+  "s_ly": 68.6,
+  "s_ed": 100.0,
+  "states": 10,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 80.83,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.9,
+   "conflict": "MathTex \"points1\" (created line 49, box [-2.243, 3.273, 2.243, 3.5]) overlaps Text \"title\" (line 6, box [-1.8, 3.0, 1.8, 3.5]) by 80%; moving it by [0.0, 0.38] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.04,
+   "conflict": "MathTex \"points2\" (created line 50, box [-2.243, 3.273, 2.243, 3.5]) overlaps Text \"title\" (line 6, box [-1.8, 3.0, 1.8, 3.5]) by 80%; moving it by [0.0, 0.38] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 92.19,
+   "conflict": "MathTex \"points2\" (created line 50, box [-2.243, 3.653, 2.243, 3.88]) overlaps MathTex \"points1\" (line 49, box [-2.243, 3.653, 2.243, 3.88]) by 100%; moving it by [0.0, -0.38] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 83.4,
+  "s_sp": 96.5,
+  "s_ly": 67.8,
+  "s_ed": 72.0,
+  "states": 10,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 78.13,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.4,
+   "conflict": "Text \"label_right_angles\" (created line 33, box [1.25, 1.25, 3.205, 1.584]) overlaps ParametricFunction \"curve\" (line 12, box [-2.5, -1.782, 2.5, 1.782]) by 63%; moving it by [0.0, 0.68] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"label_4_points\" (created line 32, box [-2.986, -1.507, -1.75, -1.25]) overlaps ParametricFunction \"curve\" (line 12, box [-2.5, -1.782, 2.5, 1.782]) by 60%; moving it by [0.0, -0.68] would clear it"
+  }
+ ]
+}

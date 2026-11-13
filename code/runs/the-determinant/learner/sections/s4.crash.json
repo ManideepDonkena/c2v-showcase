@@ -1,0 +1,476 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.519,
+      -3.867,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 10,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.519,
+      -3.867,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 10,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 17,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.519,
+      -3.867,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 10,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 17,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 24,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.519,
+      -3.867,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 10,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 17,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.361,
+      -0.979,
+      1.361,
+      0.979
+     ],
+     "name": "matrix",
+     "line": 10,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 17,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 42,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.361,
+      -0.979,
+      1.361,
+      0.979
+     ],
+     "name": "matrix",
+     "line": 10,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 17,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.856,
+      -2.829,
+      0.856,
+      -2.491
+     ],
+     "name": "ad_val",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.862,
+      -3.421,
+      0.862,
+      -3.079
+     ],
+     "name": "bc_val",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "NameError",
+  "message": "name 'Symbol' is not defined",
+  "line": 47
+ }
+}

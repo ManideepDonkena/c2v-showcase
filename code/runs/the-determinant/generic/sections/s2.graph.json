@@ -1,0 +1,876 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.111,
+      -4.0,
+      7.111,
+      4.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.111,
+      -4.0,
+      7.111,
+      4.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "i_hat",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.677,
+      -0.451,
+      0.823,
+      -0.1
+     ],
+     "name": "i_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.1,
+      0.526,
+      0.31,
+      0.974
+     ],
+     "name": "j_label",
+     "line": 23,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.111,
+      -4.0,
+      7.111,
+      4.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "i_hat",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.677,
+      -0.451,
+      0.823,
+      -0.1
+     ],
+     "name": "i_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.1,
+      0.526,
+      0.31,
+      0.974
+     ],
+     "name": "j_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+     ],
+     "name": "parallelogram",
+     "line": 19,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.111,
+      -4.0,
+      7.111,
+      4.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "i_hat",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.677,
+      -0.451,
+      0.823,
+      -0.1
+     ],
+     "name": "i_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.1,
+      0.526,
+      0.31,
+      0.974
+     ],
+     "name": "j_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+     ],
+     "name": "parallelogram",
+     "line": 19,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.063,
+      3.149,
+      6.611,
+      3.5
+     ],
+     "name": "det_text",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 43,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.111,
+      -4.0,
+      7.111,
+      4.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.75,
+      -0.062,
+      -0.25,
+      0.062
+     ],
+     "name": "i_hat",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.677,
+      -0.451,
+      0.823,
+      -0.1
+     ],
+     "name": "i_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.1,
+      0.526,
+      0.31,
+      0.974
+     ],
+     "name": "j_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "parallelogram",
+     "line": 19,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.063,
+      3.149,
+      6.611,
+      3.5
+     ],
+     "name": "det_text",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.111,
+      -4.0,
+      7.111,
+      4.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.75,
+      -0.062,
+      -0.25,
+      0.062
+     ],
+     "name": "i_hat",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.677,
+      -0.451,
+      0.823,
+      -0.1
+     ],
+     "name": "i_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.1,
+      0.526,
+      0.31,
+      0.974
+     ],
+     "name": "j_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "parallelogram",
+     "line": 19,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.676,
+      3.149,
+      6.611,
+      3.5
+     ],
+     "name": "det_text",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 60,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.111,
+      -4.0,
+      7.111,
+      4.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.75,
+      -0.062,
+      -0.25,
+      0.062
+     ],
+     "name": "i_hat",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.677,
+      -0.451,
+      0.823,
+      -0.1
+     ],
+     "name": "i_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.1,
+      0.526,
+      0.31,
+      0.974
+     ],
+     "name": "j_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "parallelogram",
+     "line": 19,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.676,
+      3.149,
+      6.611,
+      3.5
+     ],
+     "name": "det_text",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.111,
+      -4.0,
+      7.111,
+      4.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.75,
+      -0.062,
+      -0.25,
+      0.062
+     ],
+     "name": "i_hat",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.677,
+      -0.451,
+      0.823,
+      -0.1
+     ],
+     "name": "i_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.1,
+      0.526,
+      0.31,
+      0.974
+     ],
+     "name": "j_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "parallelogram",
+     "line": 19,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.676,
+      3.149,
+      6.611,
+      3.5
+     ],
+     "name": "det_text",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.552,
+      -3.5,
+      1.552,
+      -3.163
+     ],
+     "name": "explanation",
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 73,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.457,
+      3.0,
+      2.457,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.111,
+      -4.0,
+      7.111,
+      4.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.75,
+      -0.062,
+      -0.25,
+      0.062
+     ],
+     "name": "i_hat",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.677,
+      -0.451,
+      0.823,
+      -0.1
+     ],
+     "name": "i_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.1,
+      0.526,
+      0.31,
+      0.974
+     ],
+     "name": "j_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "parallelogram",
+     "line": 19,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.676,
+      3.149,
+      6.611,
+      3.5
+     ],
+     "name": "det_text",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.726,
+      -3.5,
+      3.726,
+      -3.163
+     ],
+     "name": "explanation",
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      0.677,
+      -0.451,
+      0.823,
+      -0.1
+     ],
+     "name": "i_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.1,
+      0.526,
+      0.31,
+      0.974
+     ],
+     "name": "j_label",
+     "line": 23,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

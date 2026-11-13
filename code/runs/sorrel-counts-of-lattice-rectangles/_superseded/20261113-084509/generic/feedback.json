@@ -1,0 +1,28 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q1",
+  "q2",
+  "q5",
+  "q10",
+  "q11"
+ ],
+ "fixes": {
+  "s2": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s2",
+  "s4"
+ ],
+ "dev_before": 56.2,
+ "dev_after": 75.0,
+ "mvqs_before": 80.25,
+ "mvqs_after": 77.87,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/sorrel-counts-of-lattice-rectangles/generic"
+}

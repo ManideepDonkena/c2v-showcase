@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 71.88,
+  "s_sp": 89.9,
+  "s_ly": 41.8,
+  "s_ed": 61.8,
+  "states": 22,
+  "states_with_conflict": 10
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 70.6,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.88,
+   "conflict": "MathTex \"num_13\" (created line 43, box [-0.432, -0.343, 0.432, 0.343]) overlaps MathTexPart \"last_digit_21\" (line None, box [-0.433, -0.332, 0.433, 0.332]) by 99%; moving it by [0.0, 0.83] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"div_check\" (created line 55, box [-1.617, -0.114, 1.617, 0.237]) overlaps MathTexPart \"last_digit_21\" (line None, box [-0.433, -0.332, 0.433, 0.332]) by 52%; moving it by [0.0, 0.6] would clear it"
+  }
+ ]
+}

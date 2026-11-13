@@ -1,0 +1,34 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q1",
+  "q3",
+  "q6",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s2": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s1": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s3": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2"
+ ],
+ "dev_before": 50.0,
+ "dev_after": 65.0,
+ "mvqs_before": 89.09,
+ "mvqs_after": 86.83,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/glint-numbers/generic"
+}

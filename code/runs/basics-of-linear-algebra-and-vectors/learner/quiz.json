@@ -1,0 +1,176 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the geometric interpretation of the dot product of two non-zero vectors being zero?",
+   "options": {
+    "A": "The vectors are parallel.",
+    "B": "The vectors are orthogonal.",
+    "C": "The vectors are identical.",
+    "D": "The vectors are collinear."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "If A is a 3x2 matrix and B is a 2x4 matrix, what are the dimensions of AB?",
+   "options": {
+    "A": "2x2",
+    "B": "3x4",
+    "C": "4x3",
+    "D": "3x2"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q4",
+   "question": "Which property does matrix multiplication generally fail to satisfy?",
+   "options": {
+    "A": "Associativity",
+    "B": "Distributivity",
+    "C": "Commutativity",
+    "D": "Identity existence"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q5",
+   "question": "What is the cross product of two parallel vectors in 3D space?",
+   "options": {
+    "A": "The zero vector",
+    "B": "Their sum",
+    "C": "Their difference",
+    "D": "Undefined"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q6",
+   "question": "If det(A) = 0, what can be said about the system Ax = b?",
+   "options": {
+    "A": "It has a unique solution.",
+    "B": "It has no solution or infinite solutions.",
+    "C": "It always has a solution.",
+    "D": "A is invertible."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q7",
+   "question": "What is the magnitude of vector v = [3, 4]?",
+   "options": {
+    "A": "5",
+    "B": "7",
+    "C": "12",
+    "D": "25"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q8",
+   "question": "Which statement about eigenvalues is true for a singular matrix?",
+   "options": {
+    "A": "All eigenvalues are non-zero.",
+    "B": "At least one eigenvalue is zero.",
+    "C": "No real eigenvalues exist.",
+    "D": "Eigenvalues sum to the trace."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q9",
+   "question": "What does the span of a single non-zero vector represent in R3?",
+   "options": {
+    "A": "A plane",
+    "B": "The origin only",
+    "C": "A line through the origin",
+    "D": "The entire space"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q10",
+   "question": "If A is symmetric, what is true about its eigenvectors corresponding to distinct eigenvalues?",
+   "options": {
+    "A": "They are parallel.",
+    "B": "They are orthogonal.",
+    "C": "They are equal.",
+    "D": "They are complex."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q11",
+   "question": "What is the result of multiplying a row vector by its transpose column vector?",
+   "options": {
+    "A": "A scalar",
+    "B": "A matrix",
+    "C": "A vector",
+    "D": "Zero"
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "Which of the following BEST describes the main focus of linear algebra?",
+   "options": {
+    "A": "Studying only numbers and their operations.",
+    "B": "Exploring biological systems using chemistry.",
+    "C": "Analyzing lines, planes, and spaces with algebraic techniques.",
+    "D": "Memorizing historical math discoveries."
+   },
+   "answer": "C",
+   "id": "t1"
+  },
+  {
+   "question": "What do the coordinates (2, 3) represent on a standard graph?",
+   "options": {
+    "A": "A direction only, without any position.",
+    "B": "A point 2 units left and 3 units down from the origin.",
+    "C": "A point 2 units right and 3 units up from the origin.",
+    "D": "The total distance from origin only, not a specific location."
+   },
+   "answer": "C",
+   "id": "t2"
+  },
+  {
+   "question": "Which statement is TRUE about vectors?",
+   "options": {
+    "A": "Vectors are only numbers without any direction.",
+    "B": "A vector shows both magnitude and direction, like an arrow from one point to another.",
+    "C": "Vectors can be represented only as points, not arrows.",
+    "D": "All vectors must start at the origin."
+   },
+   "answer": "B",
+   "id": "t3"
+  },
+  {
+   "question": "When graphically representing the vector (3, 4) starting from the origin, where does the arrow point?",
+   "options": {
+    "A": "To the left 3 units and up 4 units.",
+    "B": "3 units right and 4 units up from the origin.",
+    "C": "3 units down and 4 units right.",
+    "D": "4 units left and 3 units down."
+   },
+   "answer": "B",
+   "id": "t4"
+  },
+  {
+   "question": "If a robot moves 2 units right and then 5 units up, what is the total vector representing this combined motion?",
+   "options": {
+    "A": "(2, 5)",
+    "B": "(5, 2)",
+    "C": "(7, 7)",
+    "D": "(-2, -5)"
+   },
+   "answer": "A",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 10,
+ "dev_leaked": []
+}

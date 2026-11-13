@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 77.73,
+  "s_sp": 91.3,
+  "s_ly": 56.8,
+  "s_ed": 69.1,
+  "states": 19,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 77.73,
+   "conflicts": 1
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"calc\" (created line 77, box [-0.888, -3.5, 0.888, -3.243]) overlaps MathTexPart \"inequality\" (line 32, box [-1.312, -3.484, -0.614, -3.259]) by 39%; moving it by [0.0, 0.39] would clear it"
+  }
+ ]
+}

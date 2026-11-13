@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 56,
+  "scope": "line",
+  "error": "TypeError: object of type 'function' has no len()"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 53,
+  "scope": "block",
+  "error": "SyntaxError: '(' was never closed (s1.py, line 53)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 56,
+  "scope": "section",
+  "error": "TypeError: object of type 'function' has no len()"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 52,
+  "scope": "section",
+  "error": "TypeError: object of type 'function' has no len()"
+ }
+]

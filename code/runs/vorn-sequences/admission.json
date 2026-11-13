@@ -1,0 +1,93 @@
+{
+ "topic": "Vorn sequences",
+ "before": {
+  "s1": {
+   "id": "s1",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 88.41,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 73.22,
+   "conflicts": 2,
+   "ok": false
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 90.18,
+   "conflicts": 0,
+   "ok": true
+  }
+ },
+ "regenerated": {
+  "s1": {
+   "tries": [
+    {
+     "id": "s1",
+     "mvqs": 90.49,
+     "conflicts": 1,
+     "rendered": true,
+     "ok": false
+    }
+   ],
+   "kept": "s1_try1"
+  },
+  "s3": {
+   "tries": [
+    {
+     "id": "s3",
+     "mvqs": 86.48,
+     "conflicts": 0,
+     "rendered": true,
+     "ok": true
+    }
+   ],
+   "kept": "s3_try1"
+  }
+ },
+ "min_mvqs": 70.0,
+ "superseded": "/home/mani/c2v-lab/runs/vorn-sequences/_superseded/20261113-084343",
+ "after": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 90.49,
+   "conflicts": 1,
+   "ok": false
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 88.41,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 86.48,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 90.18,
+   "conflicts": 0,
+   "ok": true
+  }
+ },
+ "complete": true,
+ "clean": false
+}

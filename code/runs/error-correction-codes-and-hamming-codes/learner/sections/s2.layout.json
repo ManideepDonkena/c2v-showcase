@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 51.91,
+  "s_sp": 53.8,
+  "s_ly": 51.2,
+  "s_ed": 49.2,
+  "states": 13,
+  "states_with_conflict": 11
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 51.39,
+   "conflicts": 15
+  },
+  {
+   "level": "section",
+   "mvqs": 51.91,
+   "conflict": "Rectangle \"None\" (created line 14, box [-3.4, 3.1, -2.6, 3.9]) overlaps Text \"title\" (line 6, box [-2.849, 3.0, 2.849, 3.5]) by 15%; moving it by [-0.4, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Rectangle \"None\" (created line 18, box [-3.4, 3.1, -2.6, 3.9]) overlaps Text \"title\" (line 6, box [-2.849, 3.0, 2.849, 3.5]) by 15%; moving it by [-0.4, 0.0] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "score": {
+  "mvqs": 85.35,
+  "s_sp": 94.0,
+  "s_ly": 71.6,
+  "s_ed": 80.0,
+  "states": 13,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.06,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.2,
+   "conflict": "Text \"check_text\" (created line 34, box [-2.419, -1.26, -0.581, -1.0]) overlaps MathTex \"label_b\" (line 28, box [-2.039, -1.057, -0.961, -0.7]) by 16%; moving it by [0.0, -0.21] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.25,
+   "conflict": "Polygon \"triangle\" (created line 18, box [-7.5, -1.5, 4.5, 2.5]) is outside the frame; shift it by [0.54, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.6,
+   "conflict": "MathTex \"label_b_up\" (created line 56, box [-1.626, -2.057, -0.294, -1.7]) overlaps MathTex \"cond\" (line 40, box [-4.287, -2.218, 1.287, -1.77]) by 80%; moving it by [0.0, 0.44] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.35,
+   "conflict": "MathTex \"label_b_up\" (created line 51, box [-1.626, -1.617, -0.294, -1.26]) overlaps Polygon \"triangle\" (line 18, box [-6.96, -1.5, 5.04, 2.5]) by 67%; moving it by [0.0, -0.39] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"label_b_up\" (created line 56, box [-1.626, -2.007, -0.294, -1.65]) overlaps MathTex \"cond\" (line 40, box [-4.287, -2.218, 1.287, -1.77]) by 66%; moving it by [0.0, 0.39] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "score": {
+  "mvqs": 86.07,
+  "s_sp": 93.4,
+  "s_ly": 46.9,
+  "s_ed": 100.0,
+  "states": 12,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.26,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.9,
+   "conflict": "MathTex \"minus_sign_2\" (created line 33, box [0.853, 2.121, 1.043, 2.134]) overlaps Matrix \"grid_mobject\" (line 12, box [-0.947, 1.115, 0.947, 2.5]) by 49%; moving it by [0.24, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.07,
+   "conflict": "MathTex \"minus_sign_1\" (created line 42, box [-0.612, 1.482, -0.422, 1.495]) overlaps MathTex \"c_copy\" (line 33, box [-0.603, 1.355, -0.437, 1.629]) by 87%; moving it by [0.0, -0.29] would clear it"
+  }
+ ]
+}

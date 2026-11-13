@@ -1,0 +1,4889 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 48,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      0.195,
+      1.618,
+      0.5
+     ],
+     "name": "narration1",
+     "line": 48,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      0.195,
+      1.618,
+      0.5
+     ],
+     "name": "narration1",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.723,
+      -0.389,
+      1.723,
+      -0.055
+     ],
+     "name": "narration2",
+     "line": 50,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      0.195,
+      1.618,
+      0.5
+     ],
+     "name": "narration1",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.723,
+      -0.389,
+      1.723,
+      -0.055
+     ],
+     "name": "narration2",
+     "line": 50,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.264,
+      -0.896,
+      2.264,
+      -0.639
+     ],
+     "name": "narration3",
+     "line": 56,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      0.195,
+      1.618,
+      0.5
+     ],
+     "name": "narration1",
+     "line": 48,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.723,
+      -0.389,
+      1.723,
+      -0.055
+     ],
+     "name": "narration2",
+     "line": 50,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.264,
+      -0.896,
+      2.264,
+      -0.639
+     ],
+     "name": "narration3",
+     "line": 56,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.205,
+      -1.406,
+      1.205,
+      -1.146
+     ],
+     "name": "narration4",
+     "line": 57,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.028,
+      0.191,
+      1.028,
+      0.5
+     ],
+     "name": "narration5",
+     "line": 71,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 78,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.028,
+      0.191,
+      1.028,
+      0.5
+     ],
+     "name": "narration5",
+     "line": 71,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.726,
+      -0.392,
+      1.726,
+      -0.059
+     ],
+     "name": "narration6",
+     "line": 72,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 80,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.028,
+      0.191,
+      1.028,
+      0.5
+     ],
+     "name": "narration5",
+     "line": 71,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.726,
+      -0.392,
+      1.726,
+      -0.059
+     ],
+     "name": "narration6",
+     "line": 72,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.55,
+      -0.899,
+      1.55,
+      -0.642
+     ],
+     "name": "narration7",
+     "line": 73,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.028,
+      0.191,
+      1.028,
+      0.5
+     ],
+     "name": "narration5",
+     "line": 71,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.726,
+      -0.392,
+      1.726,
+      -0.059
+     ],
+     "name": "narration6",
+     "line": 72,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.55,
+      -0.899,
+      1.55,
+      -0.642
+     ],
+     "name": "narration7",
+     "line": 73,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.511,
+      -1.409,
+      1.511,
+      -1.149
+     ],
+     "name": "narration8",
+     "line": 74,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 86,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 101,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -3.811,
+      -1.775
+     ],
+     "name": "side1_3",
+     "line": 90,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      -1.775,
+      -3.811,
+      -0.725
+     ],
+     "name": "side2_3",
+     "line": 91,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -5.211,
+      -0.725
+     ],
+     "name": "side3_3",
+     "line": 48,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.497,
+      -2.241,
+      -4.925,
+      -2.025
+     ],
+     "name": "label3",
+     "line": 94,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 104,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -3.811,
+      -1.775
+     ],
+     "name": "side1_3",
+     "line": 90,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      -1.775,
+      -3.811,
+      -0.725
+     ],
+     "name": "side2_3",
+     "line": 91,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -5.211,
+      -0.725
+     ],
+     "name": "side3_3",
+     "line": 48,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.497,
+      -2.241,
+      -4.925,
+      -2.025
+     ],
+     "name": "label3",
+     "line": 94,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.261,
+      -1.876,
+      -5.161,
+      -1.705
+     ],
+     "name": "label_a",
+     "line": 97,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.561,
+      -1.337,
+      -3.454,
+      -1.163
+     ],
+     "name": "label_b",
+     "line": 56,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      -1.336,
+      -6.861,
+      -1.164
+     ],
+     "name": "label_c",
+     "line": 99,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 109,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -3.811,
+      -1.775
+     ],
+     "name": "side1_3",
+     "line": 90,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      -1.775,
+      -3.811,
+      -0.725
+     ],
+     "name": "side2_3",
+     "line": 91,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -5.211,
+      -0.725
+     ],
+     "name": "side3_3",
+     "line": 48,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.497,
+      -2.241,
+      -4.925,
+      -2.025
+     ],
+     "name": "label3",
+     "line": 94,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.261,
+      -1.876,
+      -5.161,
+      -1.705
+     ],
+     "name": "label_a",
+     "line": 97,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.561,
+      -1.337,
+      -3.454,
+      -1.163
+     ],
+     "name": "label_b",
+     "line": 56,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      -1.336,
+      -6.861,
+      -1.164
+     ],
+     "name": "label_c",
+     "line": 99,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.721,
+      0.166,
+      5.721,
+      0.5
+     ],
+     "name": "narration_new",
+     "line": 108,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 114,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -3.811,
+      -1.775
+     ],
+     "name": "side1_3",
+     "line": 90,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      -1.775,
+      -3.811,
+      -0.725
+     ],
+     "name": "side2_3",
+     "line": 91,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -5.211,
+      -0.725
+     ],
+     "name": "side3_3",
+     "line": 48,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.497,
+      -2.241,
+      -4.925,
+      -2.025
+     ],
+     "name": "label3",
+     "line": 94,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.261,
+      -1.876,
+      -5.161,
+      -1.705
+     ],
+     "name": "label_a",
+     "line": 97,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.561,
+      -1.337,
+      -3.454,
+      -1.163
+     ],
+     "name": "label_b",
+     "line": 56,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      -1.336,
+      -6.861,
+      -1.164
+     ],
+     "name": "label_c",
+     "line": 99,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.721,
+      0.166,
+      5.721,
+      0.5
+     ],
+     "name": "narration_new",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.06,
+      -3.5,
+      1.06,
+      -3.2
+     ],
+     "name": "calc_rule",
+     "line": 113,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 119,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -3.811,
+      -1.775
+     ],
+     "name": "side1_3",
+     "line": 90,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      -1.775,
+      -3.811,
+      -0.725
+     ],
+     "name": "side2_3",
+     "line": 91,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -5.211,
+      -0.725
+     ],
+     "name": "side3_3",
+     "line": 48,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.497,
+      -2.241,
+      -4.925,
+      -2.025
+     ],
+     "name": "label3",
+     "line": 94,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.261,
+      -1.876,
+      -5.161,
+      -1.705
+     ],
+     "name": "label_a",
+     "line": 97,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.561,
+      -1.337,
+      -3.454,
+      -1.163
+     ],
+     "name": "label_b",
+     "line": 56,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      -1.336,
+      -6.861,
+      -1.164
+     ],
+     "name": "label_c",
+     "line": 99,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.721,
+      0.166,
+      5.721,
+      0.5
+     ],
+     "name": "narration_new",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.597,
+      -3.5,
+      0.597,
+      -3.2
+     ],
+     "name": "calc_rule",
+     "line": 113,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 124,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -3.811,
+      -1.775
+     ],
+     "name": "side1_3",
+     "line": 90,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      -1.775,
+      -3.811,
+      -0.725
+     ],
+     "name": "side2_3",
+     "line": 91,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -5.211,
+      -0.725
+     ],
+     "name": "side3_3",
+     "line": 48,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.497,
+      -2.241,
+      -4.925,
+      -2.025
+     ],
+     "name": "label3",
+     "line": 94,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.261,
+      -1.876,
+      -5.161,
+      -1.705
+     ],
+     "name": "label_a",
+     "line": 97,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.561,
+      -1.337,
+      -3.454,
+      -1.163
+     ],
+     "name": "label_b",
+     "line": 56,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      -1.336,
+      -6.861,
+      -1.164
+     ],
+     "name": "label_c",
+     "line": 99,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.721,
+      0.166,
+      5.721,
+      0.5
+     ],
+     "name": "narration_new",
+     "line": 108,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.597,
+      -3.5,
+      0.597,
+      -3.2
+     ],
+     "name": "calc_rule",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.286,
+      -3.714,
+      0.286,
+      -2.986
+     ],
+     "name": "red_x",
+     "line": 123,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 128,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.143,
+      3.0,
+      2.143,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -3.811,
+      0.225
+     ],
+     "name": "side1",
+     "line": 13,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      0.225,
+      -3.811,
+      1.275
+     ],
+     "name": "side2",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      0.225,
+      -5.211,
+      1.275
+     ],
+     "name": "side3",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.5,
+      -0.242,
+      -4.922,
+      -0.025
+     ],
+     "name": "label1",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      6.611,
+      0.225
+     ],
+     "name": "side1_2",
+     "line": 21,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.211,
+      0.225,
+      6.611,
+      1.275
+     ],
+     "name": "side2_2",
+     "line": 22,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.811,
+      0.225,
+      5.211,
+      1.275
+     ],
+     "name": "side3_2",
+     "line": 23,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.925,
+      -0.242,
+      5.497,
+      -0.025
+     ],
+     "name": "label2",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.555,
+      -3.5,
+      -1.445,
+      -3.329
+     ],
+     "name": "calc1",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.195,
+      -3.501,
+      -0.084,
+      -3.327
+     ],
+     "name": "calc2",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.166,
+      -3.658,
+      0.483,
+      -3.17
+     ],
+     "name": "check",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.444,
+      -3.5,
+      2.556,
+      -3.329
+     ],
+     "name": "calc3",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.806,
+      -3.5,
+      3.795,
+      -3.329
+     ],
+     "name": "calc4",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.045,
+      -3.617,
+      4.364,
+      -3.212
+     ],
+     "name": "x",
+     "line": 46,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -3.811,
+      -1.775
+     ],
+     "name": "side1_3",
+     "line": 90,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.211,
+      -1.775,
+      -3.811,
+      -0.725
+     ],
+     "name": "side2_3",
+     "line": 91,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.611,
+      -1.775,
+      -5.211,
+      -0.725
+     ],
+     "name": "side3_3",
+     "line": 48,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.497,
+      -2.241,
+      -4.925,
+      -2.025
+     ],
+     "name": "label3",
+     "line": 94,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.261,
+      -1.876,
+      -5.161,
+      -1.705
+     ],
+     "name": "label_a",
+     "line": 97,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.561,
+      -1.337,
+      -3.454,
+      -1.163
+     ],
+     "name": "label_b",
+     "line": 56,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      -1.336,
+      -6.861,
+      -1.164
+     ],
+     "name": "label_c",
+     "line": 99,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.597,
+      -3.5,
+      0.597,
+      -3.2
+     ],
+     "name": "calc_rule",
+     "line": 113,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

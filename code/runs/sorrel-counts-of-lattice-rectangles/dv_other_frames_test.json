@@ -1,0 +1,196 @@
+{
+ "kind": "frames",
+ "frames": 12,
+ "rotations": [
+  {
+   "rotation": 0,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "A": 0.917987,
+      "B": 0.049739,
+      "C": 0.025651,
+      "D": 0.006623
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.049739
+    },
+    {
+     "id": "t2",
+     "p": {
+      "A": 0.873911,
+      "B": 0.079258,
+      "C": 0.042118,
+      "D": 0.004713
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.004713
+    },
+    {
+     "id": "t3",
+     "p": {
+      "A": 0.001115,
+      "B": 0.998235,
+      "C": 2.8e-05,
+      "D": 0.000623
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.998235
+    },
+    {
+     "id": "t4",
+     "p": {
+      "A": 0.004962,
+      "B": 0.556837,
+      "C": 0.05967,
+      "D": 0.378531
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.378531
+    },
+    {
+     "id": "t5",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t6",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t7",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    },
+    {
+     "id": "t8",
+     "p": null,
+     "choice": null,
+     "right": false,
+     "p_right": null
+    }
+   ],
+   "reply": "Since the provided video frames do not contain any information regarding \"sorrel counts\" or the specific dimensions/properties required to calculate them, and the rules prohibit using any external knowledge, it is impossible to determine the correct answers from the evidence provided. However, following the instruction to choose the most plausible option:\n\n1: A\n2: A\n3: B\n4: B\n5:",
+   "prompt_tokens": 2580,
+   "retries": 0,
+   "missing": 4
+  },
+  {
+   "rotation": 1,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "D": 0.938687,
+      "A": 0.000815,
+      "B": 0.000196,
+      "C": 0.060302
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 0.000196
+    },
+    {
+     "id": "t2",
+     "p": {
+      "D": 0.476822,
+      "A": 0.211325,
+      "B": 0.071854,
+      "C": 0.239999
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 0.476822
+    },
+    {
+     "id": "t3",
+     "p": {
+      "D": 0.888025,
+      "A": 0.000259,
+      "B": 0.110866,
+      "C": 0.00085
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 0.110866
+    },
+    {
+     "id": "t4",
+     "p": {
+      "D": 0.986373,
+      "A": 0.012838,
+      "B": 0.000366,
+      "C": 0.000423
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 0.986373
+    },
+    {
+     "id": "t5",
+     "p": {
+      "D": 0.037523,
+      "A": 0.000256,
+      "B": 0.000973,
+      "C": 0.961248
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.961248
+    },
+    {
+     "id": "t6",
+     "p": {
+      "D": 0.146665,
+      "A": 0.003879,
+      "B": 0.846379,
+      "C": 0.003076
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.003879
+    },
+    {
+     "id": "t7",
+     "p": {
+      "D": 0.001511,
+      "A": 0.935815,
+      "B": 0.026992,
+      "C": 0.035682
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.935815
+    },
+    {
+     "id": "t8",
+     "p": {
+      "D": 0.001419,
+      "A": 0.000434,
+      "B": 0.000289,
+      "C": 0.997858
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.997858
+    }
+   ],
+   "reply": "1: A\n2: A\n3: A\n4: A\n5: D\n6: C\n7: B\n8: D",
+   "prompt_tokens": 2602,
+   "retries": 1,
+   "missing": 0
+  }
+ ]
+}

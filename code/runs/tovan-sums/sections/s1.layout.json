@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 85.17,
+  "s_sp": 99.0,
+  "s_ly": 28.3,
+  "s_ed": 100.0,
+  "states": 8,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 82.47,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.17,
+   "conflict": "Text \"result_label\" (created line 41, box [-0.48, -0.129, 0.48, 0.129]) overlaps MathTex \"a_op_b\" (line 11, box [-0.441, -0.161, 0.441, 0.161]) by 91%; moving it by [0.0, 0.44] would clear it"
+  }
+ ]
+}

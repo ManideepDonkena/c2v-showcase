@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 76.09,
+  "s_sp": 90.1,
+  "s_ly": 63.4,
+  "s_ed": 61.3,
+  "states": 20,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 69.39,
+   "conflicts": 9
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.09,
+   "conflict": "Dot \"dots\" (created line 69, box [0.4, 3.9, 0.6, 4.1]) is outside the frame; shift it by [0.0, -0.25]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Dot \"dots\" (created line 69, box [0.4, -4.35, 0.6, -4.15]) is outside the frame; shift it by [0.0, 0.5]"
+  }
+ ]
+}

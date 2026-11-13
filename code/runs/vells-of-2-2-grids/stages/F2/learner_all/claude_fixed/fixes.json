@@ -1,0 +1,154 @@
+{
+ "topic": "Vells of 2×2 grids",
+ "sections": [
+  {
+   "id": "s1",
+   "before": {
+    "mvqs": 80.3,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3498,
+      "output_tokens": 1235
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDhtZA9BT2dX1vXmSe1"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "Yellow arrow from 'a' to 'd' in the matrix",
+     "change": "The arrow ran from beyond the top-left of 'a' to beyond the bottom-right of 'd', so its line and tip were drawn over both letters. It now runs from the bottom-right corner of 'a' to the top-left corner of 'd' with a small buff, so both entries stay readable."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 79.9,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s2",
+   "before": {
+    "mvqs": 83.5,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3908,
+      "output_tokens": 2501
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDjM3PXho3nZUANzZfr"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "Multiplication step: '×' and '8' are placed next to a_copy, which sits inside the matrix, so they draw on top of entry '1'.",
+     "change": "Moved the multiplication line to its own row centred below the matrix (buff 0.5)."
+    },
+    {
+     "kind": "overlap",
+     "where": "Subtraction steps: '−', '1', '−', '3' and '= 4' are placed next to a_copy inside the matrix, so they overlap entry '1' and the right bracket.",
+     "change": "Laid out the subtraction terms and the final result as one row centred below the matrix, spaced with arrange(RIGHT, buff=0.2), and removed the ad-hoc shift on c_text."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 83.8,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s3",
+   "before": {
+    "mvqs": 85.9,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4121,
+      "output_tokens": 2380
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDmqzii48WqSeFiJHAc"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "off_screen",
+     "where": "rule_text ('Rule one states that only the top-left and bottom-right numbers are multiplied.') after the -2.82*RIGHT shift relative to grid2",
+     "change": "Removed the ad-hoc shift. The text is now placed below both grids and centered at x=0, with a width cap so it stays inside the frame instead of touching the right edge."
+    },
+    {
+     "kind": "other",
+     "where": "grid1/grid2 pair sits right of center (grid1 centered under title, grid2 pushed right)",
+     "change": "Arranged both grids in a VGroup with buff=1.5 and centered the group under the title, giving a balanced layout. The lines are created after positioning, so they still connect the correct entries."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 84.8,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s4",
+   "before": {
+    "mvqs": 90.5,
+    "conflicts": 0,
+    "timing": 2
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4036,
+      "output_tokens": 1818
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDp2XHnbsQZr8KpptNn"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "leftover",
+     "where": "Transform(grid1, grid2) and Transform(grid1_label, grid2_label)",
+     "change": "Use ReplacementTransform so grid2 and grid2_label are the objects on screen and the final FadeOut acts on them."
+    },
+    {
+     "kind": "off_screen",
+     "where": "narration text 'Since subtraction is commutative in this context'",
+     "change": "Place the narration below vell_group2 and center it horizontally (set_x(0)), replacing the shift relative to the checkmark that pushed it to the right frame edge."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 90.5,
+    "conflicts": 0,
+    "timing": 0
+   }
+  }
+ ],
+ "input_tokens": 15563,
+ "output_tokens": 7934
+}

@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 71.25,
+  "s_sp": 89.2,
+  "s_ly": 22.8,
+  "s_ed": 73.6,
+  "states": 75,
+  "states_with_conflict": 33
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 68.0,
+   "conflicts": 17
+  },
+  {
+   "level": "shift",
+   "mvqs": 69.29,
+   "conflict": "MathTex \"eq\" (created line 15, box [0.0, -0.193, 0.406, 0.193]) overlaps Integer \"units_2\" (line 12, box [0.0, -0.221, 0.265, 0.221]) by 87%; moving it by [0.42, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 70.27,
+   "conflict": "MathTex \"eq\" (created line 40, box [0.0, -0.193, 0.406, 0.193]) overlaps Integer \"units_2\" (line 37, box [0.0, -0.221, 0.265, 0.221]) by 87%; moving it by [0.42, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.25,
+   "conflict": "MathTex \"eq\" (created line 60, box [0.0, -0.193, 0.406, 0.193]) overlaps Integer \"units_0\" (line 57, box [0.0, -0.228, 0.28, 0.228]) by 84%; moving it by [0.43, 0.0] would clear it"
+  }
+ ]
+}

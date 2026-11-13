@@ -1,0 +1,125 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      2.992,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      2.992,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 11,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      2.992,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.414,
+      2.5,
+      1.414
+     ],
+     "name": "curve",
+     "line": 11,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.604,
+      1.664,
+      1.604,
+      1.998
+     ],
+     "name": "label1",
+     "line": 27,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.006,
+      1.514,
+      0.006,
+      1.564
+     ],
+     "name": "arrow1",
+     "line": 23,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      2.992,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "NameError",
+  "message": "name 'ShowCreation' is not defined",
+  "line": 48
+ }
+}

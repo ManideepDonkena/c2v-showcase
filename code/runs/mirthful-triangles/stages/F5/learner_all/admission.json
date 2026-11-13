@@ -1,0 +1,81 @@
+{
+ "topic": "Mirthful triangles",
+ "before": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 86.72,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 90.12,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 72.21,
+   "conflicts": 3,
+   "ok": false
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 91.42,
+   "conflicts": 0,
+   "ok": true
+  }
+ },
+ "regenerated": {
+  "s3": {
+   "tries": [
+    {
+     "id": "s3",
+     "mvqs": 85.35,
+     "conflicts": 4,
+     "rendered": true,
+     "ok": false
+    }
+   ],
+   "kept": "s3_try0"
+  }
+ },
+ "min_mvqs": 70.0,
+ "superseded": "/home/mani/c2v-lab/runs/mirthful-triangles/_superseded/20261113-084502",
+ "after": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 86.72,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 90.12,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 72.21,
+   "conflicts": 3,
+   "ok": false
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 91.42,
+   "conflicts": 0,
+   "ok": true
+  }
+ },
+ "complete": true,
+ "clean": false
+}

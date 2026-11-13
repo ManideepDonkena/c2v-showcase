@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 7,
+  "scope": "line",
+  "error": "AttributeError: 'function' object has no attribute 'WriteText'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 29,
+  "scope": "block",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 43,
+  "scope": "section",
+  "error": "NameError: name 'WriteText' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

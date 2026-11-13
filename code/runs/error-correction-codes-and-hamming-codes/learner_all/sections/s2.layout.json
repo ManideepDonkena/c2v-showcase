@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 63.38,
+  "s_sp": 74.5,
+  "s_ly": 64.1,
+  "s_ed": 44.4,
+  "states": 27,
+  "states_with_conflict": 25
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 57.58,
+   "conflicts": 15
+  },
+  {
+   "level": "shift",
+   "mvqs": 63.38,
+   "conflict": "Rectangle \"slots\" (created line 20, box [-0.35, -0.35, 0.35, 0.35]) overlaps MathTex \"grid_labels\" (line 13, box [-0.041, 0.217, 0.041, 0.383]) by 80%; moving it by [0.0, -0.28] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"label\" (created line 31, box [-0.116, -0.104, 0.116, 0.104]) overlaps Rectangle \"slots\" (line 20, box [-0.35, -0.63, 0.35, 0.07]) by 83%; moving it by [0.0, 0.32] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,9545 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.592,
+      3.0,
+      3.592,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.592,
+      3.0,
+      3.592,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.224,
+      0.112,
+      1.776,
+      0.888
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.876,
+      0.988,
+      2.07,
+      1.229
+     ],
+     "name": "A_label",
+     "line": 13,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.592,
+      3.0,
+      3.592,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.224,
+      0.112,
+      1.776,
+      0.888
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.876,
+      0.988,
+      2.07,
+      1.229
+     ],
+     "name": "A_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -4.21,
+      -5.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -3.21,
+      -5.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -2.21,
+      -5.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -1.21,
+      -5.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -0.21,
+      -5.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      0.79,
+      -5.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      1.79,
+      -5.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      2.79,
+      -5.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      3.79,
+      -5.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -4.21,
+      -4.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -3.21,
+      -4.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -2.21,
+      -4.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -1.21,
+      -4.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -0.21,
+      -4.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      0.79,
+      -4.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      1.79,
+      -4.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      2.79,
+      -4.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      3.79,
+      -4.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -4.21,
+      -3.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -3.21,
+      -3.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -2.21,
+      -3.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -1.21,
+      -3.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -0.21,
+      -3.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      0.79,
+      -3.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      1.79,
+      -3.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      2.79,
+      -3.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      3.79,
+      -3.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -4.21,
+      -2.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -3.21,
+      -2.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -2.21,
+      -2.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -1.21,
+      -2.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -0.21,
+      -2.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      0.79,
+      -2.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      1.79,
+      -2.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      2.79,
+      -2.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      3.79,
+      -2.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -4.21,
+      -1.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -3.21,
+      -1.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -2.21,
+      -1.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -1.21,
+      -1.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -0.21,
+      -1.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      0.79,
+      -1.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      1.79,
+      -1.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      2.79,
+      -1.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      3.79,
+      -1.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -4.21,
+      -0.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -3.21,
+      -0.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -2.21,
+      -0.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -1.21,
+      -0.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -0.21,
+      -0.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      0.79,
+      -0.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      1.79,
+      -0.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      2.79,
+      -0.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      3.79,
+      -0.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -4.21,
+      0.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -3.21,
+      0.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -2.21,
+      0.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -1.21,
+      0.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -0.21,
+      0.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      0.79,
+      0.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      1.79,
+      0.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      2.79,
+      0.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      3.79,
+      0.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -4.21,
+      1.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -3.21,
+      1.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -2.21,
+      1.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -1.21,
+      1.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -0.21,
+      1.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      0.79,
+      1.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      1.79,
+      1.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      2.79,
+      1.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      3.79,
+      1.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -4.21,
+      2.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -3.21,
+      2.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -2.21,
+      2.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -1.21,
+      2.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -0.21,
+      2.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      0.79,
+      2.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      1.79,
+      2.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      2.79,
+      2.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      3.79,
+      2.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -4.21,
+      3.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -3.21,
+      3.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -2.21,
+      3.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -1.21,
+      3.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -0.21,
+      3.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      0.79,
+      3.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      1.79,
+      3.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      2.79,
+      3.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      3.79,
+      3.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -4.21,
+      4.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -3.21,
+      4.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -2.21,
+      4.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -1.21,
+      4.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -0.21,
+      4.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      0.79,
+      4.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      1.79,
+      4.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      2.79,
+      4.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      3.79,
+      4.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -4.21,
+      5.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -3.21,
+      5.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -2.21,
+      5.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -1.21,
+      5.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -0.21,
+      5.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      0.79,
+      5.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      1.79,
+      5.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      2.79,
+      5.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      3.79,
+      5.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -4.21,
+      6.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -3.21,
+      6.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -2.21,
+      6.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -1.21,
+      6.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -0.21,
+      6.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      0.79,
+      6.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      1.79,
+      6.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      2.79,
+      6.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      3.79,
+      6.03,
+      3.85
+     ],
+     "name": "dot",
+     "line": 22,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.592,
+      3.0,
+      3.592,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.224,
+      0.112,
+      1.776,
+      0.888
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.876,
+      0.988,
+      2.07,
+      1.229
+     ],
+     "name": "A_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -4.21,
+      -5.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -3.21,
+      -5.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -2.21,
+      -5.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -1.21,
+      -5.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -0.21,
+      -5.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      0.79,
+      -5.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      1.79,
+      -5.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      2.79,
+      -5.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      3.79,
+      -5.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -4.21,
+      -4.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -3.21,
+      -4.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -2.21,
+      -4.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -1.21,
+      -4.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -0.21,
+      -4.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      0.79,
+      -4.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      1.79,
+      -4.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      2.79,
+      -4.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      3.79,
+      -4.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -4.21,
+      -3.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -3.21,
+      -3.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -2.21,
+      -3.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -1.21,
+      -3.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -0.21,
+      -3.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      0.79,
+      -3.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      1.79,
+      -3.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      2.79,
+      -3.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      3.79,
+      -3.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -4.21,
+      -2.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -3.21,
+      -2.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -2.21,
+      -2.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -1.21,
+      -2.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -0.21,
+      -2.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      0.79,
+      -2.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      1.79,
+      -2.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      2.79,
+      -2.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      3.79,
+      -2.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -4.21,
+      -1.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -3.21,
+      -1.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -2.21,
+      -1.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -1.21,
+      -1.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -0.21,
+      -1.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      0.79,
+      -1.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      1.79,
+      -1.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      2.79,
+      -1.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      3.79,
+      -1.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -4.21,
+      -0.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -3.21,
+      -0.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -2.21,
+      -0.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -1.21,
+      -0.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -0.21,
+      -0.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      0.79,
+      -0.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      1.79,
+      -0.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      2.79,
+      -0.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      3.79,
+      -0.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -4.21,
+      0.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -3.21,
+      0.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -2.21,
+      0.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -1.21,
+      0.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -0.21,
+      0.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      0.79,
+      0.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      1.79,
+      0.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      2.79,
+      0.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      3.79,
+      0.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -4.21,
+      1.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -3.21,
+      1.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -2.21,
+      1.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -1.21,
+      1.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -0.21,
+      1.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      0.79,
+      1.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      1.79,
+      1.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      2.79,
+      1.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      3.79,
+      1.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -4.21,
+      2.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -3.21,
+      2.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -2.21,
+      2.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -1.21,
+      2.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -0.21,
+      2.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      0.79,
+      2.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      1.79,
+      2.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      2.79,
+      2.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      3.79,
+      2.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -4.21,
+      3.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -3.21,
+      3.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -2.21,
+      3.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -1.21,
+      3.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -0.21,
+      3.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      0.79,
+      3.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      1.79,
+      3.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      2.79,
+      3.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      3.79,
+      3.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -4.21,
+      4.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -3.21,
+      4.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -2.21,
+      4.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -1.21,
+      4.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -0.21,
+      4.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      0.79,
+      4.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      1.79,
+      4.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      2.79,
+      4.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      3.79,
+      4.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -4.21,
+      5.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -3.21,
+      5.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -2.21,
+      5.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -1.21,
+      5.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -0.21,
+      5.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      0.79,
+      5.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      1.79,
+      5.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      2.79,
+      5.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      3.79,
+      5.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -4.21,
+      6.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -3.21,
+      6.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -2.21,
+      6.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -1.21,
+      6.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -0.21,
+      6.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      0.79,
+      6.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      1.79,
+      6.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      2.79,
+      6.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      3.79,
+      6.03,
+      3.85
+     ],
+     "name": "dot",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -9.0,
+      7.0,
+      -9.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -7.0,
+      7.0,
+      -7.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -5.0,
+      7.0,
+      -5.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -3.0,
+      7.0,
+      -3.0
+     ],
+     "name": "level_lines",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.0,
+      7.0,
+      1.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      3.0,
+      7.0,
+      3.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      5.0,
+      7.0,
+      5.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      7.0,
+      7.0,
+      7.0
+     ],
+     "name": "line",
+     "line": 31,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.592,
+      3.0,
+      3.592,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.224,
+      0.112,
+      1.776,
+      0.888
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.876,
+      0.988,
+      2.07,
+      1.229
+     ],
+     "name": "A_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -4.21,
+      -5.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -3.21,
+      -5.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -2.21,
+      -5.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -1.21,
+      -5.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -0.21,
+      -5.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      0.79,
+      -5.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      1.79,
+      -5.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      2.79,
+      -5.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      3.79,
+      -5.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -4.21,
+      -4.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -3.21,
+      -4.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -2.21,
+      -4.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -1.21,
+      -4.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -0.21,
+      -4.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      0.79,
+      -4.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      1.79,
+      -4.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      2.79,
+      -4.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      3.79,
+      -4.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -4.21,
+      -3.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -3.21,
+      -3.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -2.21,
+      -3.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -1.21,
+      -3.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -0.21,
+      -3.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      0.79,
+      -3.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      1.79,
+      -3.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      2.79,
+      -3.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      3.79,
+      -3.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -4.21,
+      -2.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -3.21,
+      -2.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -2.21,
+      -2.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -1.21,
+      -2.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -0.21,
+      -2.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      0.79,
+      -2.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      1.79,
+      -2.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      2.79,
+      -2.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      3.79,
+      -2.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -4.21,
+      -1.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -3.21,
+      -1.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -2.21,
+      -1.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -1.21,
+      -1.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -0.21,
+      -1.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      0.79,
+      -1.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      1.79,
+      -1.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      2.79,
+      -1.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      3.79,
+      -1.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -4.21,
+      -0.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -3.21,
+      -0.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -2.21,
+      -0.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -1.21,
+      -0.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -0.21,
+      -0.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      0.79,
+      -0.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      1.79,
+      -0.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      2.79,
+      -0.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      3.79,
+      -0.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -4.21,
+      0.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -3.21,
+      0.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -2.21,
+      0.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -1.21,
+      0.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -0.21,
+      0.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      0.79,
+      0.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      1.79,
+      0.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      2.79,
+      0.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      3.79,
+      0.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -4.21,
+      1.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -3.21,
+      1.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -2.21,
+      1.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -1.21,
+      1.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -0.21,
+      1.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      0.79,
+      1.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      1.79,
+      1.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      2.79,
+      1.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      3.79,
+      1.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -4.21,
+      2.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -3.21,
+      2.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -2.21,
+      2.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -1.21,
+      2.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -0.21,
+      2.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      0.79,
+      2.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      1.79,
+      2.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      2.79,
+      2.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      3.79,
+      2.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -4.21,
+      3.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -3.21,
+      3.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -2.21,
+      3.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -1.21,
+      3.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -0.21,
+      3.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      0.79,
+      3.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      1.79,
+      3.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      2.79,
+      3.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      3.79,
+      3.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -4.21,
+      4.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -3.21,
+      4.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -2.21,
+      4.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -1.21,
+      4.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -0.21,
+      4.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      0.79,
+      4.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      1.79,
+      4.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      2.79,
+      4.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      3.79,
+      4.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -4.21,
+      5.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -3.21,
+      5.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -2.21,
+      5.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -1.21,
+      5.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -0.21,
+      5.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      0.79,
+      5.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      1.79,
+      5.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      2.79,
+      5.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      3.79,
+      5.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -4.21,
+      6.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -3.21,
+      6.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -2.21,
+      6.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -1.21,
+      6.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -0.21,
+      6.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      0.79,
+      6.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      1.79,
+      6.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      2.79,
+      6.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      3.79,
+      6.03,
+      3.85
+     ],
+     "name": "dot",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -9.0,
+      7.0,
+      -9.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -7.0,
+      7.0,
+      -7.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -5.0,
+      7.0,
+      -5.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -3.0,
+      7.0,
+      -3.0
+     ],
+     "name": "level_lines",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.0,
+      7.0,
+      1.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      3.0,
+      7.0,
+      3.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      5.0,
+      7.0,
+      5.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      7.0,
+      7.0,
+      7.0
+     ],
+     "name": "line",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "B",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.863,
+      1.021,
+      3.048,
+      1.262
+     ],
+     "name": "B_label",
+     "line": 43,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 51,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.592,
+      3.0,
+      3.592,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.224,
+      0.112,
+      1.776,
+      0.888
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.876,
+      0.988,
+      2.07,
+      1.229
+     ],
+     "name": "A_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -4.21,
+      -5.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -3.21,
+      -5.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -2.21,
+      -5.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -1.21,
+      -5.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -0.21,
+      -5.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      0.79,
+      -5.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      1.79,
+      -5.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      2.79,
+      -5.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      3.79,
+      -5.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -4.21,
+      -4.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -3.21,
+      -4.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -2.21,
+      -4.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -1.21,
+      -4.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -0.21,
+      -4.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      0.79,
+      -4.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      1.79,
+      -4.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      2.79,
+      -4.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      3.79,
+      -4.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -4.21,
+      -3.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -3.21,
+      -3.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -2.21,
+      -3.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -1.21,
+      -3.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -0.21,
+      -3.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      0.79,
+      -3.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      1.79,
+      -3.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      2.79,
+      -3.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      3.79,
+      -3.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -4.21,
+      -2.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -3.21,
+      -2.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -2.21,
+      -2.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -1.21,
+      -2.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -0.21,
+      -2.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      0.79,
+      -2.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      1.79,
+      -2.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      2.79,
+      -2.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      3.79,
+      -2.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -4.21,
+      -1.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -3.21,
+      -1.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -2.21,
+      -1.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -1.21,
+      -1.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -0.21,
+      -1.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      0.79,
+      -1.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      1.79,
+      -1.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      2.79,
+      -1.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      3.79,
+      -1.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -4.21,
+      -0.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -3.21,
+      -0.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -2.21,
+      -0.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -1.21,
+      -0.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -0.21,
+      -0.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      0.79,
+      -0.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      1.79,
+      -0.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      2.79,
+      -0.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      3.79,
+      -0.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -4.21,
+      0.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -3.21,
+      0.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -2.21,
+      0.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -1.21,
+      0.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -0.21,
+      0.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      0.79,
+      0.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      1.79,
+      0.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      2.79,
+      0.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      3.79,
+      0.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -4.21,
+      1.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -3.21,
+      1.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -2.21,
+      1.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -1.21,
+      1.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -0.21,
+      1.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      0.79,
+      1.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      1.79,
+      1.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      2.79,
+      1.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      3.79,
+      1.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -4.21,
+      2.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -3.21,
+      2.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -2.21,
+      2.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -1.21,
+      2.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -0.21,
+      2.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      0.79,
+      2.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      1.79,
+      2.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      2.79,
+      2.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      3.79,
+      2.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -4.21,
+      3.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -3.21,
+      3.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -2.21,
+      3.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -1.21,
+      3.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -0.21,
+      3.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      0.79,
+      3.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      1.79,
+      3.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      2.79,
+      3.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      3.79,
+      3.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -4.21,
+      4.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -3.21,
+      4.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -2.21,
+      4.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -1.21,
+      4.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -0.21,
+      4.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      0.79,
+      4.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      1.79,
+      4.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      2.79,
+      4.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      3.79,
+      4.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -4.21,
+      5.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -3.21,
+      5.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -2.21,
+      5.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -1.21,
+      5.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -0.21,
+      5.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      0.79,
+      5.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      1.79,
+      5.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      2.79,
+      5.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      3.79,
+      5.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -4.21,
+      6.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -3.21,
+      6.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -2.21,
+      6.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -1.21,
+      6.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -0.21,
+      6.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      0.79,
+      6.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      1.79,
+      6.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      2.79,
+      6.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      3.79,
+      6.03,
+      3.85
+     ],
+     "name": "dot",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -9.0,
+      7.0,
+      -9.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -7.0,
+      7.0,
+      -7.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -5.0,
+      7.0,
+      -5.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -3.0,
+      7.0,
+      -3.0
+     ],
+     "name": "level_lines",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.0,
+      7.0,
+      1.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      3.0,
+      7.0,
+      3.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      5.0,
+      7.0,
+      5.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      7.0,
+      7.0,
+      7.0
+     ],
+     "name": "line",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.237,
+      0.079,
+      2.763,
+      0.976
+     ],
+     "name": "B",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.863,
+      1.021,
+      3.048,
+      1.262
+     ],
+     "name": "B_label",
+     "line": 43,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.798,
+      -3.5,
+      0.798,
+      -3.172
+     ],
+     "name": "dot_product_value",
+     "line": 49,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.592,
+      3.0,
+      3.592,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.224,
+      0.112,
+      1.776,
+      0.888
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.876,
+      0.988,
+      2.07,
+      1.229
+     ],
+     "name": "A_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -4.21,
+      -5.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -3.21,
+      -5.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -2.21,
+      -5.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -1.21,
+      -5.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -0.21,
+      -5.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      0.79,
+      -5.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      1.79,
+      -5.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      2.79,
+      -5.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      3.79,
+      -5.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -4.21,
+      -4.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -3.21,
+      -4.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -2.21,
+      -4.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -1.21,
+      -4.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -0.21,
+      -4.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      0.79,
+      -4.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      1.79,
+      -4.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      2.79,
+      -4.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      3.79,
+      -4.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -4.21,
+      -3.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -3.21,
+      -3.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -2.21,
+      -3.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -1.21,
+      -3.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -0.21,
+      -3.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      0.79,
+      -3.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      1.79,
+      -3.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      2.79,
+      -3.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      3.79,
+      -3.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -4.21,
+      -2.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -3.21,
+      -2.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -2.21,
+      -2.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -1.21,
+      -2.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -0.21,
+      -2.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      0.79,
+      -2.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      1.79,
+      -2.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      2.79,
+      -2.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      3.79,
+      -2.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -4.21,
+      -1.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -3.21,
+      -1.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -2.21,
+      -1.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -1.21,
+      -1.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -0.21,
+      -1.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      0.79,
+      -1.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      1.79,
+      -1.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      2.79,
+      -1.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      3.79,
+      -1.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -4.21,
+      -0.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -3.21,
+      -0.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -2.21,
+      -0.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -1.21,
+      -0.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -0.21,
+      -0.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      0.79,
+      -0.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      1.79,
+      -0.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      2.79,
+      -0.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      3.79,
+      -0.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -4.21,
+      0.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -3.21,
+      0.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -2.21,
+      0.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -1.21,
+      0.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -0.21,
+      0.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      0.79,
+      0.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      1.79,
+      0.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      2.79,
+      0.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      3.79,
+      0.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -4.21,
+      1.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -3.21,
+      1.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -2.21,
+      1.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -1.21,
+      1.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -0.21,
+      1.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      0.79,
+      1.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      1.79,
+      1.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      2.79,
+      1.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      3.79,
+      1.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -4.21,
+      2.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -3.21,
+      2.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -2.21,
+      2.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -1.21,
+      2.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -0.21,
+      2.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      0.79,
+      2.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      1.79,
+      2.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      2.79,
+      2.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      3.79,
+      2.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -4.21,
+      3.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -3.21,
+      3.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -2.21,
+      3.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -1.21,
+      3.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -0.21,
+      3.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      0.79,
+      3.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      1.79,
+      3.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      2.79,
+      3.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      3.79,
+      3.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -4.21,
+      4.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -3.21,
+      4.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -2.21,
+      4.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -1.21,
+      4.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -0.21,
+      4.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      0.79,
+      4.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      1.79,
+      4.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      2.79,
+      4.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      3.79,
+      4.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -4.21,
+      5.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -3.21,
+      5.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -2.21,
+      5.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -1.21,
+      5.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -0.21,
+      5.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      0.79,
+      5.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      1.79,
+      5.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      2.79,
+      5.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      3.79,
+      5.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -4.21,
+      6.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -3.21,
+      6.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -2.21,
+      6.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -1.21,
+      6.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -0.21,
+      6.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      0.79,
+      6.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      1.79,
+      6.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      2.79,
+      6.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      3.79,
+      6.03,
+      3.85
+     ],
+     "name": "dot",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -9.0,
+      7.0,
+      -9.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -7.0,
+      7.0,
+      -7.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -5.0,
+      7.0,
+      -5.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -3.0,
+      7.0,
+      -3.0
+     ],
+     "name": "level_lines",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.0,
+      7.0,
+      1.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      3.0,
+      7.0,
+      3.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      5.0,
+      7.0,
+      5.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      7.0,
+      7.0,
+      7.0
+     ],
+     "name": "line",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.079,
+      0.237,
+      0.976,
+      2.763
+     ],
+     "name": "B",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      2.863,
+      1.264,
+      3.104
+     ],
+     "name": "B_label",
+     "line": 43,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.798,
+      -3.5,
+      0.798,
+      -3.172
+     ],
+     "name": "dot_product_value",
+     "line": 49,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 64,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.592,
+      3.0,
+      3.592,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.224,
+      0.112,
+      1.776,
+      0.888
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.876,
+      0.988,
+      2.07,
+      1.229
+     ],
+     "name": "A_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -4.21,
+      -5.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -3.21,
+      -5.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -2.21,
+      -5.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -1.21,
+      -5.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      -0.21,
+      -5.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      0.79,
+      -5.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      1.79,
+      -5.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      2.79,
+      -5.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.03,
+      3.79,
+      -5.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -4.21,
+      -4.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -3.21,
+      -4.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -2.21,
+      -4.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -1.21,
+      -4.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      -0.21,
+      -4.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      0.79,
+      -4.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      1.79,
+      -4.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      2.79,
+      -4.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.03,
+      3.79,
+      -4.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -4.21,
+      -3.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -3.21,
+      -3.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -2.21,
+      -3.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -1.21,
+      -3.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      -0.21,
+      -3.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      0.79,
+      -3.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      1.79,
+      -3.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      2.79,
+      -3.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.03,
+      3.79,
+      -3.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -4.21,
+      -2.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -3.21,
+      -2.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -2.21,
+      -2.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -1.21,
+      -2.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      -0.21,
+      -2.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      0.79,
+      -2.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      1.79,
+      -2.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      2.79,
+      -2.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.03,
+      3.79,
+      -2.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -4.21,
+      -1.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -3.21,
+      -1.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -2.21,
+      -1.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -1.21,
+      -1.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      -0.21,
+      -1.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      0.79,
+      -1.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      1.79,
+      -1.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      2.79,
+      -1.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.03,
+      3.79,
+      -1.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -4.21,
+      -0.97,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -3.21,
+      -0.97,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -2.21,
+      -0.97,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -1.21,
+      -0.97,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      -0.21,
+      -0.97,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      0.79,
+      -0.97,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      1.79,
+      -0.97,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      2.79,
+      -0.97,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.03,
+      3.79,
+      -0.97,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -4.21,
+      0.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -3.21,
+      0.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -2.21,
+      0.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -1.21,
+      0.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      -0.21,
+      0.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      0.79,
+      0.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      1.79,
+      0.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      2.79,
+      0.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.03,
+      3.79,
+      0.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -4.21,
+      1.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -3.21,
+      1.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -2.21,
+      1.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -1.21,
+      1.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      -0.21,
+      1.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      0.79,
+      1.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      1.79,
+      1.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      2.79,
+      1.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.97,
+      3.79,
+      1.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -4.21,
+      2.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -3.21,
+      2.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -2.21,
+      2.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -1.21,
+      2.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      -0.21,
+      2.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      0.79,
+      2.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      1.79,
+      2.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      2.79,
+      2.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.97,
+      3.79,
+      2.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -4.21,
+      3.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -3.21,
+      3.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -2.21,
+      3.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -1.21,
+      3.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      -0.21,
+      3.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      0.79,
+      3.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      1.79,
+      3.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      2.79,
+      3.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.97,
+      3.79,
+      3.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -4.21,
+      4.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -3.21,
+      4.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -2.21,
+      4.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -1.21,
+      4.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      -0.21,
+      4.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      0.79,
+      4.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      1.79,
+      4.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      2.79,
+      4.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.97,
+      3.79,
+      4.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -4.21,
+      5.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -3.21,
+      5.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -2.21,
+      5.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -1.21,
+      5.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      -0.21,
+      5.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      0.79,
+      5.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      1.79,
+      5.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      2.79,
+      5.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      4.97,
+      3.79,
+      5.03,
+      3.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -4.21,
+      6.03,
+      -4.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -3.21,
+      6.03,
+      -3.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -2.21,
+      6.03,
+      -2.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -1.21,
+      6.03,
+      -1.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      -0.21,
+      6.03,
+      -0.15
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      0.79,
+      6.03,
+      0.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      1.79,
+      6.03,
+      1.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      2.79,
+      6.03,
+      2.85
+     ],
+     "name": "grid",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.97,
+      3.79,
+      6.03,
+      3.85
+     ],
+     "name": "dot",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -9.0,
+      7.0,
+      -9.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -7.0,
+      7.0,
+      -7.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -5.0,
+      7.0,
+      -5.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -3.0,
+      7.0,
+      -3.0
+     ],
+     "name": "level_lines",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      -1.0,
+      7.0,
+      -1.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      1.0,
+      7.0,
+      1.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      3.0,
+      7.0,
+      3.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      5.0,
+      7.0,
+      5.0
+     ],
+     "name": "level_lines",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -7.0,
+      7.0,
+      7.0,
+      7.0
+     ],
+     "name": "line",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.079,
+      0.237,
+      0.976,
+      2.763
+     ],
+     "name": "B",
+     "line": 15,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      2.863,
+      1.264,
+      3.104
+     ],
+     "name": "B_label",
+     "line": 43,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.845,
+      -3.5,
+      0.845,
+      -3.172
+     ],
+     "name": "dot_product_value",
+     "line": 49,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.592,
+      3.0,
+      3.592,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.224,
+      0.112,
+      1.776,
+      0.888
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.592,
+      3.0,
+      3.592,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.224,
+      0.112,
+      1.776,
+      0.888
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.799,
+      -3.5,
+      2.799,
+      -3.238
+     ],
+     "name": "message",
+     "line": 77,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 85,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.592,
+      3.0,
+      3.592,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.224,
+      0.112,
+      1.776,
+      0.888
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.799,
+      -3.5,
+      2.799,
+      -3.238
+     ],
+     "name": "message",
+     "line": 77,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.073,
+      -3.038,
+      4.073,
+      -2.705
+     ],
+     "name": "final_text",
+     "line": 83,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 88,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      0.224,
+      0.112,
+      1.776,
+      0.888
+     ],
+     "name": "A",
+     "line": 12,
+     "type": "Arrow"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

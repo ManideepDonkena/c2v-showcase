@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 87.39,
+  "s_sp": 95.4,
+  "s_ly": 48.3,
+  "s_ed": 100.0,
+  "states": 8,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.22,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 78.51,
+   "conflict": "SurroundingRectangle \"highlight\" (created line 23, box [-3.003, 1.002, -1.528, 1.8]) overlaps MathTex \"formula\" (line 17, box [-3.822, 1.102, 3.822, 1.7]) by 74%; moving it by [0.0, 0.85] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 87.39,
+   "conflict": "MathTex \"calc3\" (created line 30, box [-2.49, 0.789, 2.49, 1.387]) overlaps MathTex \"formula\" (line 17, box [-3.822, 1.102, 3.822, 1.7]) by 47%; moving it by [0.0, -0.43] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"rule_text\" (created line 43, box [-7.736, -3.5, 7.736, -3.163]) is outside the frame; shift it by [0.78, 0.0]"
+  }
+ ]
+}

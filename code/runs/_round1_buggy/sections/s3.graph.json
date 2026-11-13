@@ -1,0 +1,1675 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      3.116,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      3.116,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -3.0,
+      -0.5,
+      0.0
+     ],
+     "name": "square_a",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "square_b",
+     "line": 13,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.0,
+      2.5,
+      4.0
+     ],
+     "name": "square_c",
+     "line": 14,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      3.116,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -3.0,
+      -0.5,
+      0.0
+     ],
+     "name": "square_a",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "square_b",
+     "line": 13,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.0,
+      2.5,
+      4.0
+     ],
+     "name": "square_c",
+     "line": 14,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -3.421,
+      -1.716,
+      -3.25
+     ],
+     "name": "label_a",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.728,
+      -3.926,
+      2.272,
+      -3.75
+     ],
+     "name": "label_b",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.271,
+      3.68,
+      0.271,
+      3.851
+     ],
+     "name": "label_c",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      3.116,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -3.0,
+      -0.5,
+      0.0
+     ],
+     "name": "square_a",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "square_b",
+     "line": 13,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.0,
+      2.5,
+      4.0
+     ],
+     "name": "square_c",
+     "line": 14,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -3.421,
+      -1.716,
+      -3.25
+     ],
+     "name": "label_a",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.728,
+      -3.926,
+      2.272,
+      -3.75
+     ],
+     "name": "label_b",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.271,
+      3.68,
+      0.271,
+      3.851
+     ],
+     "name": "label_c",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      0.25,
+      -1.66,
+      0.474
+     ],
+     "name": "area_a",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.611,
+      0.75,
+      2.389,
+      0.974
+     ],
+     "name": "area_b",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.389,
+      -1.474,
+      0.389,
+      -1.25
+     ],
+     "name": "area_c",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      3.116,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -3.0,
+      -0.5,
+      0.0
+     ],
+     "name": "square_a",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "square_b",
+     "line": 13,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.0,
+      2.5,
+      4.0
+     ],
+     "name": "square_c",
+     "line": 14,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -3.421,
+      -1.716,
+      -3.25
+     ],
+     "name": "label_a",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.728,
+      -3.926,
+      2.272,
+      -3.75
+     ],
+     "name": "label_b",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.271,
+      3.68,
+      0.271,
+      3.851
+     ],
+     "name": "label_c",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      0.25,
+      -1.66,
+      0.474
+     ],
+     "name": "area_a",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.611,
+      0.75,
+      2.389,
+      0.974
+     ],
+     "name": "area_b",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.389,
+      -1.474,
+      0.389,
+      -1.25
+     ],
+     "name": "area_c",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      3.116,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -3.0,
+      -0.5,
+      0.0
+     ],
+     "name": "square_a",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "square_b",
+     "line": 13,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.0,
+      2.5,
+      4.0
+     ],
+     "name": "square_c",
+     "line": 14,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -3.421,
+      -1.716,
+      -3.25
+     ],
+     "name": "label_a",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.728,
+      -3.926,
+      2.272,
+      -3.75
+     ],
+     "name": "label_b",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.271,
+      3.68,
+      0.271,
+      3.851
+     ],
+     "name": "label_c",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      0.25,
+      -1.66,
+      0.474
+     ],
+     "name": "area_a",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.611,
+      0.75,
+      2.389,
+      0.974
+     ],
+     "name": "area_b",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.389,
+      -1.474,
+      0.389,
+      -1.25
+     ],
+     "name": "area_c",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      -4.5,
+      1.0,
+      1.5
+     ],
+     "name": "square_a2",
+     "line": 49,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -5.5,
+      6.0,
+      2.5
+     ],
+     "name": "square_b2",
+     "line": 50,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      -3.5,
+      5.0,
+      6.5
+     ],
+     "name": "square_c2",
+     "line": 51,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -4.921,
+      -1.716,
+      -4.75
+     ],
+     "name": "label_a2",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.729,
+      -5.928,
+      2.271,
+      -5.75
+     ],
+     "name": "label_b2",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.334,
+      6.75,
+      0.334,
+      6.921
+     ],
+     "name": "label_c2",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.402,
+      1.75,
+      -1.598,
+      1.974
+     ],
+     "name": "area_a2",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.61,
+      2.75,
+      2.39,
+      2.974
+     ],
+     "name": "area_b2",
+     "line": 58,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.453,
+      -3.974,
+      0.453,
+      -3.75
+     ],
+     "name": "area_c2",
+     "line": 59,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      3.116,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -3.0,
+      -0.5,
+      0.0
+     ],
+     "name": "square_a",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "square_b",
+     "line": 13,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.0,
+      2.5,
+      4.0
+     ],
+     "name": "square_c",
+     "line": 14,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -3.421,
+      -1.716,
+      -3.25
+     ],
+     "name": "label_a",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.728,
+      -3.926,
+      2.272,
+      -3.75
+     ],
+     "name": "label_b",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.271,
+      3.68,
+      0.271,
+      3.851
+     ],
+     "name": "label_c",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      0.25,
+      -1.66,
+      0.474
+     ],
+     "name": "area_a",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.611,
+      0.75,
+      2.389,
+      0.974
+     ],
+     "name": "area_b",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.389,
+      -1.474,
+      0.389,
+      -1.25
+     ],
+     "name": "area_c",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      -4.5,
+      1.0,
+      1.5
+     ],
+     "name": "square_a2",
+     "line": 49,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -5.5,
+      6.0,
+      2.5
+     ],
+     "name": "square_b2",
+     "line": 50,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      -3.5,
+      5.0,
+      6.5
+     ],
+     "name": "square_c2",
+     "line": 51,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -4.921,
+      -1.716,
+      -4.75
+     ],
+     "name": "label_a2",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.729,
+      -5.928,
+      2.271,
+      -5.75
+     ],
+     "name": "label_b2",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.334,
+      6.75,
+      0.334,
+      6.921
+     ],
+     "name": "label_c2",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.402,
+      1.75,
+      -1.598,
+      1.974
+     ],
+     "name": "area_a2",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.61,
+      2.75,
+      2.39,
+      2.974
+     ],
+     "name": "area_b2",
+     "line": 58,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.453,
+      -3.974,
+      0.453,
+      -3.75
+     ],
+     "name": "area_c2",
+     "line": 59,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.93,
+      3.263,
+      0.93,
+      3.5
+     ],
+     "name": "sum_text",
+     "line": 65,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      3.116,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -3.0,
+      -0.5,
+      0.0
+     ],
+     "name": "square_a",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "square_b",
+     "line": 13,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.0,
+      2.5,
+      4.0
+     ],
+     "name": "square_c",
+     "line": 14,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -3.421,
+      -1.716,
+      -3.25
+     ],
+     "name": "label_a",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.728,
+      -3.926,
+      2.272,
+      -3.75
+     ],
+     "name": "label_b",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.271,
+      3.68,
+      0.271,
+      3.851
+     ],
+     "name": "label_c",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      0.25,
+      -1.66,
+      0.474
+     ],
+     "name": "area_a",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.611,
+      0.75,
+      2.389,
+      0.974
+     ],
+     "name": "area_b",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.389,
+      -1.474,
+      0.389,
+      -1.25
+     ],
+     "name": "area_c",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      -4.5,
+      1.0,
+      1.5
+     ],
+     "name": "square_a2",
+     "line": 49,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -5.5,
+      6.0,
+      2.5
+     ],
+     "name": "square_b2",
+     "line": 50,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      -3.5,
+      5.0,
+      6.5
+     ],
+     "name": "square_c2",
+     "line": 51,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -4.921,
+      -1.716,
+      -4.75
+     ],
+     "name": "label_a2",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.729,
+      -5.928,
+      2.271,
+      -5.75
+     ],
+     "name": "label_b2",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.334,
+      6.75,
+      0.334,
+      6.921
+     ],
+     "name": "label_c2",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.402,
+      1.75,
+      -1.598,
+      1.974
+     ],
+     "name": "area_a2",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.61,
+      2.75,
+      2.39,
+      2.974
+     ],
+     "name": "area_b2",
+     "line": 58,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.453,
+      -3.974,
+      0.453,
+      -3.75
+     ],
+     "name": "area_c2",
+     "line": 59,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.93,
+      3.263,
+      0.93,
+      3.5
+     ],
+     "name": "sum_text",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.26,
+      -3.5,
+      2.26,
+      -3.166
+     ],
+     "name": "error_text",
+     "line": 75,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 81,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.483,
+      3.116,
+      2.483,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -3.0,
+      -0.5,
+      0.0
+     ],
+     "name": "square_a",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "square_b",
+     "line": 13,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.0,
+      2.5,
+      4.0
+     ],
+     "name": "square_c",
+     "line": 14,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -3.421,
+      -1.716,
+      -3.25
+     ],
+     "name": "label_a",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.728,
+      -3.926,
+      2.272,
+      -3.75
+     ],
+     "name": "label_b",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.271,
+      3.68,
+      0.271,
+      3.851
+     ],
+     "name": "label_c",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      0.25,
+      -1.66,
+      0.474
+     ],
+     "name": "area_a",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.611,
+      0.75,
+      2.389,
+      0.974
+     ],
+     "name": "area_b",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.389,
+      -1.474,
+      0.389,
+      -1.25
+     ],
+     "name": "area_c",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      -4.5,
+      1.0,
+      1.5
+     ],
+     "name": "square_a2",
+     "line": 49,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -5.5,
+      6.0,
+      2.5
+     ],
+     "name": "square_b2",
+     "line": 50,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      -3.5,
+      5.0,
+      6.5
+     ],
+     "name": "square_c2",
+     "line": 51,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -4.921,
+      -1.716,
+      -4.75
+     ],
+     "name": "label_a2",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.729,
+      -5.928,
+      2.271,
+      -5.75
+     ],
+     "name": "label_b2",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.334,
+      6.75,
+      0.334,
+      6.921
+     ],
+     "name": "label_c2",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.402,
+      1.75,
+      -1.598,
+      1.974
+     ],
+     "name": "area_a2",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.61,
+      2.75,
+      2.39,
+      2.974
+     ],
+     "name": "area_b2",
+     "line": 58,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.453,
+      -3.974,
+      0.453,
+      -3.75
+     ],
+     "name": "area_c2",
+     "line": 59,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.93,
+      3.263,
+      0.93,
+      3.5
+     ],
+     "name": "sum_text",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.26,
+      -3.5,
+      2.26,
+      -3.166
+     ],
+     "name": "error_text",
+     "line": 75,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.738,
+      -2.916,
+      1.738,
+      -2.578
+     ],
+     "name": "correct_text",
+     "line": 80,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -3.0,
+      -0.5,
+      0.0
+     ],
+     "name": "square_a",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      -3.5,
+      4.0,
+      0.5
+     ],
+     "name": "square_b",
+     "line": 13,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.5,
+      -1.0,
+      2.5,
+      4.0
+     ],
+     "name": "square_c",
+     "line": 14,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -3.421,
+      -1.716,
+      -3.25
+     ],
+     "name": "label_a",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.728,
+      -3.926,
+      2.272,
+      -3.75
+     ],
+     "name": "label_b",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.271,
+      3.68,
+      0.271,
+      3.851
+     ],
+     "name": "label_c",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.34,
+      0.25,
+      -1.66,
+      0.474
+     ],
+     "name": "area_a",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.611,
+      0.75,
+      2.389,
+      0.974
+     ],
+     "name": "area_b",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.389,
+      -1.474,
+      0.389,
+      -1.25
+     ],
+     "name": "area_c",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      -4.5,
+      1.0,
+      1.5
+     ],
+     "name": "square_a2",
+     "line": 49,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -5.5,
+      6.0,
+      2.5
+     ],
+     "name": "square_b2",
+     "line": 50,
+     "type": "Square"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.0,
+      -3.5,
+      5.0,
+      6.5
+     ],
+     "name": "square_c2",
+     "line": 51,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.284,
+      -4.921,
+      -1.716,
+      -4.75
+     ],
+     "name": "label_a2",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.729,
+      -5.928,
+      2.271,
+      -5.75
+     ],
+     "name": "label_b2",
+     "line": 54,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.334,
+      6.75,
+      0.334,
+      6.921
+     ],
+     "name": "label_c2",
+     "line": 55,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.402,
+      1.75,
+      -1.598,
+      1.974
+     ],
+     "name": "area_a2",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.61,
+      2.75,
+      2.39,
+      2.974
+     ],
+     "name": "area_b2",
+     "line": 58,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.453,
+      -3.974,
+      0.453,
+      -3.75
+     ],
+     "name": "area_c2",
+     "line": 59,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.93,
+      3.263,
+      0.93,
+      3.5
+     ],
+     "name": "sum_text",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.26,
+      -3.5,
+      2.26,
+      -3.166
+     ],
+     "name": "error_text",
+     "line": 75,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.738,
+      -2.916,
+      1.738,
+      -2.578
+     ],
+     "name": "correct_text",
+     "line": 80,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

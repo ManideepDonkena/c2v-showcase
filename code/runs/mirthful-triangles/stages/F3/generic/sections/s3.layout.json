@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 89.36,
+  "s_sp": 96.7,
+  "s_ly": 54.9,
+  "s_ed": 100.0,
+  "states": 8,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 84.22,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 89.36,
+   "conflict": "MathTex \"condition_text_final\" (created line 59, box [-4.329, -1.95, 0.329, -1.55]) overlaps MathTex \"condition_text\" (line 21, box [-4.576, -2.255, 0.576, -1.85]) by 25%; moving it by [0.0, 0.25] would clear it"
+  }
+ ]
+}

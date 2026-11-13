@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "The Origin and the Rule",
+  "teaches": "Definition of an orbit word starting with X and the simultaneous rewriting rules.",
+  "visual": "A large, bold 'X' appears in the center. Two arrows point from it: one labeled 'X → XYY' (blue) and another 'Y → YX' (green). The words 'Simultaneous Rewrite' pulse briefly above.",
+  "narration": "An orbit word begins with a single letter, X. To grow, we rewrite every letter at the same time: replace each X with XYY, and each Y with YX.",
+  "start": 0.0,
+  "end": 40.73
+ },
+ {
+  "id": "s2",
+  "title": "Step 1: From X to XYY",
+  "teaches": "Applying the rule to the starting word for the first iteration.",
+  "visual": "The 'X' from the previous scene splits into three letters: 'X', 'Y', 'Y'. They align horizontally as 'XYY'. A bracket highlights that the original X became XYY, while no Ys existed yet.",
+  "narration": "Starting with X, we apply the rule. Since there is only one X, it becomes XYY. The word grows from length 1 to length 3.",
+  "start": 40.73,
+  "end": 59.6
+ },
+ {
+  "id": "s3",
+  "title": "Step 2: From XYY to XYYYXYX",
+  "teaches": "Applying the rule simultaneously to all letters in the second iteration.",
+  "visual": "The word 'XYY' is shown. Below it, each letter transforms simultaneously: The 'X' becomes 'XYY', the first 'Y' becomes 'YX', and the second 'Y' becomes 'YX'. These chunks merge into 'XYYYXYX'.",
+  "narration": "Now rewrite every letter in XYY at once. The X becomes XYY, and each Y becomes YX. Concatenating these gives us the new orbit word: XYYYXYX.",
+  "start": 59.6,
+  "end": 86.4
+ },
+ {
+  "id": "s4",
+  "title": "Verification and Growth",
+  "teaches": "Confirming the result and emphasizing the growth property.",
+  "visual": "The final word 'XYYYXYX' is displayed prominently. A counter shows 'Length: 7'. An arrow points to the text 'Every rewrite makes the word longer', with a checkmark appearing next to it.",
+  "narration": "We have successfully generated the second orbit word. Notice that every rewrite strictly increases the length, ensuring the orbit word grows indefinitely.",
+  "start": 86.4,
+  "end": 112.2
+ }
+]

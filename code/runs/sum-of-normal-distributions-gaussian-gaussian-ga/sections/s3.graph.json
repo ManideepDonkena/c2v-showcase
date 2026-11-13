@@ -1,0 +1,351 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_graph",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_graph",
+     "line": 13,
+     "type": "FunctionGraph"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_graph",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_graph",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.743,
+      0.958,
+      3.0
+     ],
+     "name": "conv_text",
+     "line": 23,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_graph",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_graph",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.743,
+      0.958,
+      3.0
+     ],
+     "name": "conv_text",
+     "line": 23,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.092
+     ],
+     "name": "green_curve",
+     "line": 36,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_graph",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_graph",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.743,
+      0.958,
+      3.0
+     ],
+     "name": "conv_text",
+     "line": 23,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.092
+     ],
+     "name": "green_curve",
+     "line": 36,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.092
+     ],
+     "name": "area",
+     "line": 49,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.912,
+      3.116,
+      2.912,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_graph",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_graph",
+     "line": 13,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.743,
+      0.958,
+      3.0
+     ],
+     "name": "conv_text",
+     "line": 23,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.092
+     ],
+     "name": "green_curve",
+     "line": 36,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.092
+     ],
+     "name": "area",
+     "line": 49,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.115,
+      -3.5,
+      1.115,
+      -2.67
+     ],
+     "name": "explanation",
+     "line": 36,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": []
+  }
+ ],
+ "error": null
+}

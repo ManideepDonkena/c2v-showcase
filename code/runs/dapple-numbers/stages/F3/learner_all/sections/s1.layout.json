@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 74.53,
+  "s_sp": 91.5,
+  "s_ly": 31.0,
+  "s_ed": 75.3,
+  "states": 17,
+  "states_with_conflict": 7
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 69.05,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.29,
+   "conflict": "MathTex \"number\" (created line 29, box [-0.799, -1.895, 0.134, -1.181]) overlaps MathTex \"pulse\" (line None, box [-0.799, -1.895, 0.134, -1.181]) by 100%; moving it by [0.0, 0.86] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.96,
+   "conflict": "Integer \"tens_digit_2\" (created line 55, box [-0.845, -0.286, -0.5, 0.286]) overlaps Integer \"tens_digit\" (line 11, box [-0.831, -0.286, -0.5, 0.286]) by 100%; moving it by [-0.48, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.53,
+   "conflict": "Integer \"units_digit_2\" (created line 56, box [0.5, -0.276, 0.831, 0.276]) overlaps Integer \"units_digit\" (line 12, box [0.5, -0.276, 0.831, 0.276]) by 100%; moving it by [0.48, 0.0] would clear it"
+  }
+ ]
+}

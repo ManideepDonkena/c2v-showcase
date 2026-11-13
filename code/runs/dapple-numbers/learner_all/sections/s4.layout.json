@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 54.28,
+  "s_sp": 56.3,
+  "s_ly": 57.9,
+  "s_ed": 48.4,
+  "states": 57,
+  "states_with_conflict": 49
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 51.73,
+   "conflicts": 289
+  },
+  {
+   "level": "shift",
+   "mvqs": 53.92,
+   "conflict": "MathTex \"num25\" (created line 21, box [-0.336, -0.257, 0.336, 0.257]) overlaps MathTex \"num52\" (line 11, box [-0.149, -0.257, 0.149, 0.257]) by 100%; moving it by [0.64, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 54.28,
+   "conflict": "MathTex \"comp_gt\" (created line 46, box [-0.228, -0.217, 0.228, 0.217]) overlaps MathTex \"num52\" (line 11, box [-0.149, -0.257, 0.149, 0.257]) by 84%; moving it by [0.53, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"comp_gt\" (created line 46, box [0.302, -0.217, 0.758, 0.217]) overlaps MathTex \"num25\" (line 25, box [0.304, -0.257, 0.976, 0.257]) by 99%; moving it by [-0.6, 0.0] would clear it"
+  }
+ ]
+}

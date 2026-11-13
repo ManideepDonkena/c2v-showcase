@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 40,
+  "scope": "line",
+  "error": "NameError: name 'BOTTOM' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 40,
+  "scope": "block",
+  "error": "NameError: name 'BOTTOM' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

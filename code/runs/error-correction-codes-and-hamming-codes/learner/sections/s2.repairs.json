@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 27,
+  "scope": "line",
+  "error": "TypeError: Object Rectangle cannot be converted to an animation"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 27,
+  "scope": "block",
+  "error": "TypeError: Object Rectangle cannot be converted to an animation"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

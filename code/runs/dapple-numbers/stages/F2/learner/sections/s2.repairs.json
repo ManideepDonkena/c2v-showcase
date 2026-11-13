@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 12,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 12: TypeError: NumberLine() does not accept the keyword 'numbers_to_show' in this Manim\nHINT: Remove that keyword argument; set the property after creating the object."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 12,
+  "scope": "block",
+  "preflight": true,
+  "error": "line 12: TypeError: NumberLine() does not accept the keyword 'numbers_to_show' in this Manim\nHINT: Remove that keyword argument; set the property after creating the object."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 12,
+  "scope": "section",
+  "preflight": true,
+  "error": "line 12: TypeError: NumberLine() does not accept the keyword 'numbers_to_show' in this Manim\nHINT: Remove that keyword argument; set the property after creating the object."
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

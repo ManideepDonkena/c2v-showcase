@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 72.21,
+  "s_sp": 88.0,
+  "s_ly": 24.8,
+  "s_ed": 77.5,
+  "states": 8,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 69.66,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 72.21,
+   "conflict": "MathTex \"sum1\" (created line 31, box [-0.495, 0.059, 0.481, 0.248]) overlaps MathTex \"sum2\" (line 27, box [-0.508, -0.065, 0.477, 0.121]) by 32%; moving it by [0.0, 0.21] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Integer \"None\" (created line 12, box [0.25, -0.586, 0.349, -0.414]) overlaps Integer \"None\" (line 12, box [0.234, -0.586, 0.337, -0.414]) by 87%; moving it by [0.24, 0.0] would clear it"
+  }
+ ]
+}

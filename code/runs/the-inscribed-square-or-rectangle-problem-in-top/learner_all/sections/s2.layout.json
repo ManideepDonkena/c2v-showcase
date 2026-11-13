@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 69.41,
+  "s_sp": 83.9,
+  "s_ly": 72.2,
+  "s_ed": 43.4,
+  "states": 22,
+  "states_with_conflict": 16
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 66.53,
+   "conflicts": 10
+  },
+  {
+   "level": "shift",
+   "mvqs": 67.29,
+   "conflict": "MathTex \"label_4p\" (created line 24, box [1.25, 1.25, 2.125, 1.423]) overlaps ParametricFunction \"curve\" (line 12, box [-2.0, -1.414, 2.0, 1.414]) by 81%; moving it by [0.0, 0.31] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 69.41,
+   "conflict": "MathTex \"label_ra\" (created line 25, box [-1.577, 1.25, -1.25, 1.439]) overlaps ParametricFunction \"curve\" (line 12, box [-2.0, -1.414, 2.0, 1.414]) by 86%; moving it by [0.0, 0.31] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"None\" (created line 38, box [1.75, 1.0, 2.625, 1.173]) overlaps ParametricFunction \"curve\" (line 12, box [-2.0, -1.414, 2.0, 1.414]) by 28%; moving it by [0.4, 0.0] would clear it"
+  }
+ ]
+}

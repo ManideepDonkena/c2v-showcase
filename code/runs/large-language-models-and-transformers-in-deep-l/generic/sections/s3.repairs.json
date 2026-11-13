@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 113,
+  "scope": "line",
+  "error": "TypeError: Animation only works on Mobjects"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 117,
+  "scope": "block",
+  "error": "IndentationError: unexpected indent (s3.py, line 117)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 124,
+  "scope": "section",
+  "error": "IndentationError: unexpected indent (s3.py, line 124)"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 113,
+  "scope": "section",
+  "error": "TypeError: Animation only works on Mobjects"
+ }
+]

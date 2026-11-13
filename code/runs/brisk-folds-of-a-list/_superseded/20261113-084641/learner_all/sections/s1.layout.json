@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 79.14,
+  "s_sp": 91.4,
+  "s_ly": 37.9,
+  "s_ed": 86.2,
+  "states": 39,
+  "states_with_conflict": 9
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 79.13,
+   "conflicts": 6
+  },
+  {
+   "level": "block",
+   "mvqs": 79.14,
+   "conflict": "Arrow \"arrow2\" (created line 21, box [-0.285, -0.067, 0.252, 0.067]) overlaps Integer \"mob_list1\" (line 13, box [0.231, -0.1, 0.352, 0.1]) by 11%; moving it by [-0.17, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Arrow \"arrow2\" (created line 21, box [-0.285, -0.067, 0.252, 0.067]) overlaps Integer \"mob_list1\" (line 13, box [0.231, -0.1, 0.352, 0.1]) by 11%; moving it by [-0.17, 0.0] would clear it"
+  }
+ ]
+}

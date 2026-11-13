@@ -1,0 +1,32 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q3",
+  "q6",
+  "q8",
+  "q10",
+  "q12",
+  "q14",
+  "q17",
+  "q20",
+  "q24"
+ ],
+ "fixes": {
+  "s1": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s2": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2"
+ ],
+ "dev_before": 20.0,
+ "dev_after": 20.0,
+ "mvqs_before": 87.36,
+ "mvqs_after": 84.95,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/pythagoras-theorem/generic1"
+}

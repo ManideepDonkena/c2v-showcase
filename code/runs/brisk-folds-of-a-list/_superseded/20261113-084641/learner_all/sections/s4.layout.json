@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 45.45,
+  "s_sp": 43.9,
+  "s_ly": 55.0,
+  "s_ed": 41.6,
+  "states": 70,
+  "states_with_conflict": 68
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 45.45,
+   "conflicts": 216
+  },
+  {
+   "level": "none kept",
+   "conflict": "Arrow \"arrow\" (created line 28, box [-1.563, 2.688, 1.546, 3.038]) overlaps Text \"title\" (line 6, box [-2.962, 3.0, 2.962, 3.5]) by 10%; moving it by [0.0, -0.19] would clear it"
+  }
+ ]
+}

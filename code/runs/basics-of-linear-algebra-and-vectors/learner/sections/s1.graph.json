@@ -1,0 +1,678 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.249,
+      3.0,
+      2.249,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.249,
+      3.0,
+      2.249,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.249,
+      3.0,
+      2.249,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      3.69,
+      3.08,
+      3.85
+     ],
+     "name": "point_P",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.18,
+      3.68,
+      3.327,
+      3.85
+     ],
+     "name": "label_P",
+     "line": 23,
+     "type": "Tex"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.249,
+      3.0,
+      2.249,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      3.69,
+      3.08,
+      3.85
+     ],
+     "name": "point_P",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.18,
+      3.68,
+      3.327,
+      3.85
+     ],
+     "name": "label_P",
+     "line": 23,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.15,
+      3.0,
+      2.85
+     ],
+     "name": "vector_OP",
+     "line": 30,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.249,
+      3.0,
+      2.249,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      3.69,
+      3.08,
+      3.85
+     ],
+     "name": "point_P",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.18,
+      3.68,
+      3.327,
+      3.85
+     ],
+     "name": "label_P",
+     "line": 23,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.15,
+      3.0,
+      2.85
+     ],
+     "name": "vector_OP",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.2,
+      3.05,
+      4.061,
+      3.329
+     ],
+     "name": "components",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 43,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.249,
+      3.0,
+      2.249,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      3.69,
+      3.08,
+      3.85
+     ],
+     "name": "point_P",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.18,
+      3.68,
+      3.327,
+      3.85
+     ],
+     "name": "label_P",
+     "line": 23,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.15,
+      3.0,
+      2.85
+     ],
+     "name": "vector_OP",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.2,
+      3.05,
+      4.061,
+      3.329
+     ],
+     "name": "components",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      4.0
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.249,
+      3.0,
+      2.249,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      3.69,
+      3.08,
+      3.85
+     ],
+     "name": "point_P",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.18,
+      3.68,
+      3.327,
+      3.85
+     ],
+     "name": "label_P",
+     "line": 23,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.15,
+      3.0,
+      2.85
+     ],
+     "name": "vector_OP",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.2,
+      3.05,
+      4.061,
+      3.329
+     ],
+     "name": "components",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      4.0
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.104,
+      -3.5,
+      4.104,
+      -3.163
+     ],
+     "name": "theorem_text",
+     "line": 47,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.249,
+      3.0,
+      2.249,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      3.69,
+      3.08,
+      3.85
+     ],
+     "name": "point_P",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.18,
+      3.68,
+      3.327,
+      3.85
+     ],
+     "name": "label_P",
+     "line": 23,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.15,
+      3.0,
+      2.85
+     ],
+     "name": "vector_OP",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.2,
+      3.05,
+      4.061,
+      3.329
+     ],
+     "name": "components",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      4.0
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.104,
+      -3.5,
+      4.104,
+      -3.163
+     ],
+     "name": "theorem_text",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.466,
+      -3.999,
+      1.466,
+      -3.7
+     ],
+     "name": "formula",
+     "line": 53,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.249,
+      3.0,
+      2.249,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "grid",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      3.69,
+      3.08,
+      3.85
+     ],
+     "name": "point_P",
+     "line": 22,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.18,
+      3.68,
+      3.327,
+      3.85
+     ],
+     "name": "label_P",
+     "line": 23,
+     "type": "Tex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.15,
+      3.0,
+      2.85
+     ],
+     "name": "vector_OP",
+     "line": 30,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.2,
+      3.05,
+      4.061,
+      3.329
+     ],
+     "name": "components",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      4.0
+     ],
+     "name": "triangle",
+     "line": 26,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.104,
+      -3.5,
+      4.104,
+      -3.163
+     ],
+     "name": "theorem_text",
+     "line": 47,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.466,
+      -3.999,
+      1.466,
+      -3.7
+     ],
+     "name": "formula",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.666,
+      -4.005,
+      3.172,
+      -3.694
+     ],
+     "name": "final",
+     "line": 59,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": []
+  }
+ ],
+ "error": null
+}

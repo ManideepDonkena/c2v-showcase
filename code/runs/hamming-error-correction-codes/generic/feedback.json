@@ -1,0 +1,36 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q4",
+  "q6",
+  "q7",
+  "q8",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s2": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s1": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s2",
+  "s4"
+ ],
+ "dev_before": 0.0,
+ "dev_after": 10.0,
+ "mvqs_before": 86.93,
+ "mvqs_after": 85.47,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/hamming-error-correction-codes/generic"
+}

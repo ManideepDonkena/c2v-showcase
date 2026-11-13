@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 43,
+  "scope": "line",
+  "error": "SyntaxError: invalid syntax. Perhaps you forgot a comma? (s3.py, line 43)"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 42,
+  "scope": "block",
+  "error": "SyntaxError: invalid syntax. Perhaps you forgot a comma? (s3.py, line 42)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 41,
+  "scope": "section",
+  "error": "SyntaxError: invalid syntax. Perhaps you forgot a comma? (s3.py, line 41)"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

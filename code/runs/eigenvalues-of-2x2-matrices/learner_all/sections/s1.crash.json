@@ -1,0 +1,197 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.112,
+      2.995,
+      3.112,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.112,
+      2.995,
+      3.112,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+     ],
+     "name": "v",
+     "line": 11,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.25,
+      1.25,
+      1.389,
+      1.431
+     ],
+     "name": "v_label",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.112,
+      2.995,
+      3.112,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+     ],
+     "name": "v",
+     "line": 11,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.25,
+      1.25,
+      1.389,
+      1.431
+     ],
+     "name": "v_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.74,
+      -0.089,
+      -1.313,
+      0.089
+     ],
+     "name": "A_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.063,
+      -0.766,
+      1.063,
+      0.766
+     ],
+     "name": "A",
+     "line": 17,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.112,
+      2.995,
+      3.112,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      0.0,
+      0.175,
+      2.0
+     ],
+     "name": "v",
+     "line": 11,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.25,
+      2.25,
+      0.574,
+      2.431
+     ],
+     "name": "v_label",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.74,
+      -0.089,
+      -1.313,
+      0.089
+     ],
+     "name": "A_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.063,
+      -0.766,
+      1.063,
+      0.766
+     ],
+     "name": "A",
+     "line": 17,
+     "type": "Matrix"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "Mobject.__init__() got an unexpected keyword argument 'dash_length'",
+  "line": 29
+ }
+}

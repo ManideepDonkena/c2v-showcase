@@ -1,0 +1,91 @@
+{
+ "topic": "Orbit words",
+ "base": {
+  "teachquiz": 79.2,
+  "teachquiz_clean": 79.2,
+  "none": 0.0,
+  "full": 79.2,
+  "evidence": 66.7,
+  "control_first_section": 37.5,
+  "control_other_topic": null,
+  "mvqs": 87.88,
+  "sections_rendered": 4
+ },
+ "learner": {
+  "teachquiz": 87.5,
+  "teachquiz_clean": 87.5,
+  "none": 0.0,
+  "full": 87.5,
+  "evidence": 62.5,
+  "control_first_section": 25.0,
+  "control_other_topic": null,
+  "mvqs": 75.56,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s3"
+  ],
+  "kept_by_dev": false
+ },
+ "generic": {
+  "teachquiz": 70.8,
+  "teachquiz_clean": 70.8,
+  "none": 0.0,
+  "full": 70.8,
+  "evidence": 70.8,
+  "control_first_section": 37.5,
+  "control_other_topic": null,
+  "mvqs": 87.69,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "learner_all": {
+  "teachquiz": 62.5,
+  "teachquiz_clean": 62.5,
+  "none": 0.0,
+  "full": 62.5,
+  "evidence": 62.5,
+  "control_first_section": 25.0,
+  "control_other_topic": null,
+  "mvqs": 77.35,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": false
+ },
+ "diagnosis": {
+  "gaps": [
+   "q4",
+   "q6",
+   "q7",
+   "q8",
+   "q9",
+   "q11"
+  ],
+  "dev": 10,
+  "fixes": {
+   "s1": [
+    "A visual comparison showing that one input letter expands into two output letters for both rules, proving that every single character in the current word is replaced by a pair of characters in the next step.",
+    "SHOW a large 'Y' with a red 'X' through it, and SAY 'The process never begins with Y; it always starts with X.'",
+    "A visual comparison showing a word starting with 'Y' being crossed out next to the rule text 'Start from X', emphasizing that the process has no valid beginning if it does not start with X."
+   ],
+   "s3": [
+    "Show a visual comparison of the first letter of the current word and the first letter of the resulting word. Specifically, display an arrow from the 'X' at the start of 'XYY' to the 'X' at the start of the new block 'XYY', demonstrating that the starting character remains unchanged during this specific transformation.",
+    "Show the specific transformation of the first letter 'X' in 'XYYYXYX' becoming 'XYY', and explicitly highlight that this new 'X' is now the very first character of the resulting word."
+   ],
+   "s2": [
+    "A visual comparison showing that Step 0 contains only 'X' (zero Ys), while Step 1 immediately introduces two 'Y's, proving Y appears starting from the first rewrite."
+   ]
+  }
+ }
+}

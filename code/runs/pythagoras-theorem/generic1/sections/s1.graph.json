@@ -1,0 +1,821 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.309,
+      -2.25,
+      2.309,
+      1.75
+     ],
+     "name": "triangle_color",
+     "line": 11,
+     "type": "Triangle"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.309,
+      -2.25,
+      2.309,
+      1.75
+     ],
+     "name": "triangle_color",
+     "line": 11,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      -0.321,
+      -2.409,
+      -0.179
+     ],
+     "name": "leg_a_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.569,
+      0.057,
+      -2.35
+     ],
+     "name": "leg_b_label",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.309,
+      -2.25,
+      2.309,
+      1.75
+     ],
+     "name": "triangle_color",
+     "line": 11,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      -0.321,
+      -2.409,
+      -0.179
+     ],
+     "name": "leg_a_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.569,
+      0.057,
+      -2.35
+     ],
+     "name": "leg_b_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.409,
+      -0.321,
+      2.531,
+      -0.179
+     ],
+     "name": "hypotenuse_label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.309,
+      -2.25,
+      2.309,
+      1.75
+     ],
+     "name": "triangle_color",
+     "line": 11,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      -0.321,
+      -2.409,
+      -0.179
+     ],
+     "name": "leg_a_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.569,
+      0.057,
+      -2.35
+     ],
+     "name": "leg_b_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.409,
+      -0.321,
+      2.531,
+      -0.179
+     ],
+     "name": "hypotenuse_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.459,
+      -2.4,
+      -2.159,
+      -2.1
+     ],
+     "name": "right_angle_marker",
+     "line": 28,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.309,
+      -2.25,
+      2.309,
+      1.75
+     ],
+     "name": "triangle_color",
+     "line": 11,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      -0.321,
+      -2.409,
+      -0.179
+     ],
+     "name": "leg_a_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.569,
+      0.057,
+      -2.35
+     ],
+     "name": "leg_b_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.409,
+      -0.321,
+      2.531,
+      -0.179
+     ],
+     "name": "hypotenuse_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.459,
+      -2.4,
+      -2.159,
+      -2.1
+     ],
+     "name": "right_angle_marker",
+     "line": 28,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.08,
+      -3.5,
+      6.08,
+      -3.166
+     ],
+     "name": "narration",
+     "line": 44,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.309,
+      -2.25,
+      2.309,
+      1.75
+     ],
+     "name": "triangle_color",
+     "line": 11,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      -0.321,
+      -2.409,
+      -0.179
+     ],
+     "name": "leg_a_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.569,
+      0.057,
+      -2.35
+     ],
+     "name": "leg_b_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.409,
+      -0.321,
+      2.531,
+      -0.179
+     ],
+     "name": "hypotenuse_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.459,
+      -2.4,
+      -2.159,
+      -2.1
+     ],
+     "name": "right_angle_marker",
+     "line": 28,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.309,
+      -2.25,
+      2.309,
+      1.75
+     ],
+     "name": "triangle_color",
+     "line": 11,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      -0.321,
+      -2.409,
+      -0.179
+     ],
+     "name": "leg_a_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.569,
+      0.057,
+      -2.35
+     ],
+     "name": "leg_b_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.409,
+      -0.321,
+      2.531,
+      -0.179
+     ],
+     "name": "hypotenuse_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.459,
+      -2.4,
+      -2.159,
+      -2.1
+     ],
+     "name": "right_angle_marker",
+     "line": 28,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.842,
+      -3.5,
+      4.842,
+      -3.166
+     ],
+     "name": "leg_def",
+     "line": 53,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.309,
+      -2.25,
+      2.309,
+      1.75
+     ],
+     "name": "triangle_color",
+     "line": 11,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      -0.321,
+      -2.409,
+      -0.179
+     ],
+     "name": "leg_a_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.569,
+      0.057,
+      -2.35
+     ],
+     "name": "leg_b_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.409,
+      -0.321,
+      2.531,
+      -0.179
+     ],
+     "name": "hypotenuse_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.459,
+      -2.4,
+      -2.159,
+      -2.1
+     ],
+     "name": "right_angle_marker",
+     "line": 28,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.309,
+      -2.25,
+      2.309,
+      1.75
+     ],
+     "name": "triangle_color",
+     "line": 11,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      -0.321,
+      -2.409,
+      -0.179
+     ],
+     "name": "leg_a_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.569,
+      0.057,
+      -2.35
+     ],
+     "name": "leg_b_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.409,
+      -0.321,
+      2.531,
+      -0.179
+     ],
+     "name": "hypotenuse_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.459,
+      -2.4,
+      -2.159,
+      -2.1
+     ],
+     "name": "right_angle_marker",
+     "line": 28,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.459,
+      -3.5,
+      5.459,
+      -3.166
+     ],
+     "name": "hyp_def",
+     "line": 60,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.309,
+      -2.25,
+      2.309,
+      1.75
+     ],
+     "name": "triangle_color",
+     "line": 11,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      -0.321,
+      -2.409,
+      -0.179
+     ],
+     "name": "leg_a_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.569,
+      0.057,
+      -2.35
+     ],
+     "name": "leg_b_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.409,
+      -0.321,
+      2.531,
+      -0.179
+     ],
+     "name": "hypotenuse_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.459,
+      -2.4,
+      -2.159,
+      -2.1
+     ],
+     "name": "right_angle_marker",
+     "line": 28,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.309,
+      -2.25,
+      2.309,
+      1.75
+     ],
+     "name": "triangle_color",
+     "line": 11,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      -0.321,
+      -2.409,
+      -0.179
+     ],
+     "name": "leg_a_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.569,
+      0.057,
+      -2.35
+     ],
+     "name": "leg_b_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.409,
+      -0.321,
+      2.531,
+      -0.179
+     ],
+     "name": "hypotenuse_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.459,
+      -2.4,
+      -2.159,
+      -2.1
+     ],
+     "name": "right_angle_marker",
+     "line": 28,
+     "type": "Square"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

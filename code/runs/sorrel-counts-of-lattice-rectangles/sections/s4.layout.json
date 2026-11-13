@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 73.94,
+  "s_sp": 93.3,
+  "s_ly": 45.0,
+  "s_ed": 61.0,
+  "states": 9,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 62.47,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 69.15,
+   "conflict": "MathTex \"count_edge\" (created line 41, box [1.366, 3.28, 1.634, 3.487]) overlaps Text \"title\" (line 6, box [-4.097, 3.295, 4.097, 3.8]) by 92%; moving it by [0.0, -0.34] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 73.94,
+   "conflict": "MathTex \"calc\" (created line 47, box [-1.705, -1.336, 1.705, -1.064]) overlaps Dot \"grid\" (line 14, box [-1.24, -1.24, -1.16, -1.16]) by 100%; moving it by [0.0, -0.33] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"rule_text\" (created line 59, box [-3.559, -2.667, 3.559, -2.333]) overlaps Rectangle \"rule_box\" (line 58, box [-2.5, -3.5, 2.5, -1.5]) by 70%; moving it by [0.0, 1.32] would clear it"
+  }
+ ]
+}

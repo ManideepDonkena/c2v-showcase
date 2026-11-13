@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 71.7,
+  "s_sp": 86.6,
+  "s_ly": 63.2,
+  "s_ed": 52.5,
+  "states": 53,
+  "states_with_conflict": 18
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 69.25,
+   "conflicts": 21
+  },
+  {
+   "level": "shift",
+   "mvqs": 70.68,
+   "conflict": "MathTex \"count_inside\" (created line 14, box [1.935, 0.456, 2.065, 0.67]) overlaps Rectangle \"rect\" (line 12, box [-2.0, -1.0, 2.0, 1.0]) by 50%; moving it by [0.21, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.66,
+   "conflict": "MathTex \"count_edge\" (created line 41, box [1.864, -0.544, 2.136, -0.33]) overlaps Rectangle \"rect\" (line 12, box [-2.0, -1.0, 2.0, 1.0]) by 50%; moving it by [0.29, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.7,
+   "conflict": "MathTex \"breakdown3\" (created line 60, box [-7.412, 2.253, -2.904, 2.502]) is outside the frame; shift it by [0.45, 0.0]"
+  }
+ ]
+}

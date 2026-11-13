@@ -1,0 +1,198 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the geometric interpretation of a linear transformation with determinant equal to zero?",
+   "options": {
+    "A": "It preserves area.",
+    "B": "It maps space to a lower dimension.",
+    "C": "It rotates space by 90 degrees.",
+    "D": "It scales space uniformly."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "Which property must hold for a map T: R^n -> R^m to be linear?",
+   "options": {
+    "A": "T(0) = 1.",
+    "B": "T(u + v) = T(u) + T(v).",
+    "C": "T(cu) = c + T(u).",
+    "D": "T(uv) = T(u)T(v)."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "If A is a 2x2 matrix with eigenvalues 2 and 3, what is the trace of A?",
+   "options": {
+    "A": "5.",
+    "B": "6.",
+    "C": "1.",
+    "D": "-1."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q4",
+   "question": "Consider a transformation that maps every vector in R^2 to the zero vector. What is its matrix representation?",
+   "options": {
+    "A": "Identity matrix.",
+    "B": "Zero matrix.",
+    "C": "Diagonal matrix.",
+    "D": "Rotation matrix."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q5",
+   "question": "Why is the composition of two linear transformations also linear?",
+   "options": {
+    "A": "Because matrices are commutative.",
+    "B": "Because addition and scalar multiplication distribute.",
+    "C": "Because determinants multiply.",
+    "D": "Because vectors have length."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q6",
+   "question": "Apply: If A = [[1, 0], [0, -1]] and v = [3, 4]^T, what is Av?",
+   "options": {
+    "A": "[3, 4]^T.",
+    "B": "[3, -4]^T.",
+    "C": "[-3, 4]^T.",
+    "D": "[-3, -4]^T."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q7",
+   "question": "A student claims: 'If det(A) = 1, then A must be orthogonal.' Is this true?",
+   "options": {
+    "A": "Yes, always.",
+    "B": "No, determinant is not enough.",
+    "C": "Yes, for 2x2 matrices only.",
+    "D": "No, orthogonal matrices have det 0."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q8",
+   "question": "What does the column space of a matrix A represent?",
+   "options": {
+    "A": "The null space of A.",
+    "B": "The range of the transformation.",
+    "C": "The kernel of the map.",
+    "D": "The inverse of A."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q9",
+   "question": "Read: A matrix rotates vectors by 90 degrees counterclockwise in R^2. What is its determinant?",
+   "options": {
+    "A": "0.",
+    "B": "1.",
+    "C": "-1.",
+    "D": "2."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q10",
+   "question": "Apply: If A = [[2, 1], [1, 2]], what is the eigenvalue corresponding to eigenvector [1, 1]^T?",
+   "options": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q11",
+   "question": "Which statement about invertible linear transformations is FALSE?",
+   "options": {
+    "A": "Its determinant is non-zero.",
+    "B": "It has a trivial null space.",
+    "C": "It preserves linear independence.",
+    "D": "It maps distinct vectors to the same vector."
+   },
+   "answer": "D"
+  },
+  {
+   "id": "q12",
+   "question": "Explain why matrix multiplication corresponds to composition of linear maps.",
+   "options": {
+    "A": "Because it is commutative.",
+    "B": "Because rows dot columns match inputs.",
+    "C": "Because determinants add.",
+    "D": "Because vectors are orthogonal."
+   },
+   "answer": "B"
+  }
+ ],
+ "test": [
+  {
+   "question": "Which of the following best describes a transformation, as introduced in the warm-up?",
+   "options": {
+    "A": "A process that always keeps objects in the same place and size.",
+    "B": "A rule that takes an input, like a point or vector, and produces a new output, potentially moving or reshaping objects.",
+    "C": "A way to only rotate objects but never scale them.",
+    "D": "A tool to convert numbers into words."
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "How can the vector (2, 3) be visualized in a 2D coordinate system?",
+   "options": {
+    "A": "As a point at the origin with no length.",
+    "B": "As an arrow starting at (2, 3) going to (0, 0).",
+    "C": "As an arrow from the origin (0, 0) to the point (2, 3).",
+    "D": "As a horizontal line passing through the y-coordinate 3."
+   },
+   "answer": "C",
+   "id": "t2"
+  },
+  {
+   "question": "Which property is always true for any linear transformation?",
+   "options": {
+    "A": "It always moves the origin to a new location.",
+    "B": "It maps straight lines to curved paths.",
+    "C": "The image of the sum of two vectors is the sum of their images.",
+    "D": "It rotates all vectors by 180 degrees."
+   },
+   "answer": "C",
+   "id": "t3"
+  },
+  {
+   "question": "If a matrix A = [[2, 0], [0, 1]] transforms a vector (3, 4), what is the result and why?",
+   "options": {
+    "A": "(3, 8) because both coordinates are doubled.",
+    "B": "(6, 4) because only the x-coordinate is scaled by 2.",
+    "C": "(2, 0) because only the x-coordinate is kept.",
+    "D": "(0, 4) because the x-coordinate becomes zero."
+   },
+   "answer": "B",
+   "id": "t4"
+  },
+  {
+   "question": "Which real-life scenario is a direct application of matrices and linear transformations?",
+   "options": {
+    "A": "Animating a game character to rotate and resize on the screen.",
+    "B": "Creating random numbers for a lottery.",
+    "C": "Sorting words alphabetically in a document.",
+    "D": "Translating sentences between languages."
+   },
+   "answer": "A",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 12,
+ "dev_leaked": []
+}

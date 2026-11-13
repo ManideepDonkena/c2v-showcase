@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "The Peano Curve Construction",
+  "teaches": "Visualizing how a 1D line can be iteratively transformed to fill a 2D space.",
+  "visual": "A simple horizontal line segment appears. It splits into three vertical segments connected by two horizontal ones (a 'U' shape). This process repeats recursively for three iterations, showing the curve becoming increasingly jagged and dense, eventually covering a square grid.",
+  "narration": "We begin with a simple line, but through infinite recursion, it twists and folds upon itself. Watch as each iteration increases the complexity, proving that a one-dimensional object can densely cover a two-dimensional area.",
+  "start": 0.0,
+  "end": 34.93
+ },
+ {
+  "id": "s2",
+  "title": "The Length Paradox",
+  "teaches": "Understanding that while the curve fills space, its total length becomes infinite.",
+  "visual": "The final dense curve is highlighted. Numbers appear next to each iteration step: 'Iteration 1: Length 3', 'Iteration 2: Length 9', 'Iteration 3: Length 27'. The numbers grow rapidly towards infinity (∞), while the bounding box remains fixed at size 1x1.",
+  "narration": "Notice the paradox: as the curve fills the square, its total length explodes to infinity. We have an object of infinite length trapped within a finite boundary, challenging our intuition about dimension and measure.",
+  "start": 34.93,
+  "end": 63.53
+ },
+ {
+  "id": "s3",
+  "title": "Surjectivity vs. Injectivity",
+  "teaches": "Clarifying that the mapping is continuous and surjective but not injective.",
+  "visual": "Two points on the original line segment are highlighted in red and blue. As the animation plays, these points trace paths that overlap significantly in the square. Labels 'f(t1) = f(t2)' appear where paths cross, indicating non-injectivity, while arrows show every point in the square is reached (surjectivity).",
+  "narration": "This curve is continuous and surjective, meaning it hits every point in the square. However, it is not injective; multiple points on the original line map to the same location in space, creating overlaps essential to filling the void.",
+  "start": 63.53,
+  "end": 89.6
+ },
+ {
+  "id": "s4",
+  "title": "Fractal Dimension and Conclusion",
+  "teaches": "Introducing fractal dimension as the bridge between infinite length and finite area.",
+  "visual": "The curve fades into a solid filled square. Text appears: 'Topological Dimension = 1', 'Hausdorff Dimension = 2'. The equation 'D = log(N) / log(1/r)' animates briefly, showing how scaling affects dimension. The screen ends with the title 'Infinity in Finite Space'.",
+  "narration": "Space-filling curves reveal that dimension is not always an integer. By analyzing how length scales with size, we see that these curves possess a fractal dimension of 2, perfectly bridging the gap between infinite mathematics and finite geometry.",
+  "start": 89.6,
+  "end": 135.2
+ }
+]

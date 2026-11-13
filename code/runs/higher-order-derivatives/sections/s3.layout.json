@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 78.38,
+  "s_sp": 86.7,
+  "s_ly": 57.9,
+  "s_ed": 78.2,
+  "states": 9,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 78.38,
+   "conflicts": 7
+  },
+  {
+   "level": "none kept",
+   "conflict": "ParametricFunction \"f_t\" (created line 20, box [-6.0, -1.351, 6.0, 50.5]) is outside the frame; shift it by [0.0, -46.65]"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 84.39,
+  "s_sp": 96.6,
+  "s_ly": 30.5,
+  "s_ed": 100.0,
+  "states": 9,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 81.61,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.39,
+   "conflict": "Text \"not_dapple_25\" (created line 53, box [-1.395, 0.724, 1.395, 1.057]) overlaps Text \"not_dapple_44\" (line 21, box [-0.871, 0.726, 0.871, 1.059]) by 99%; moving it by [0.0, -0.48] would clear it"
+  }
+ ]
+}

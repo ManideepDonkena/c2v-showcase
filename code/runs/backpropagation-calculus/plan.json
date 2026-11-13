@@ -1,0 +1,35 @@
+{
+ "title": "Backpropagation Calculus: A Visual Journey",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "The Forward Pass & The Loss",
+   "teaches": "Establishing the computational graph and defining the error metric.",
+   "visual": "A directed acyclic graph appears node by node: Input (x) -> Weight (w) -> Activation (a) -> Prediction (y_hat). A target value (y) appears below y_hat. A red bracket connects them, labeled 'Loss L = (y_hat - y)^2', which grows larger as the gap between y_hat and y widens.",
+   "narration": "We begin with the forward pass, where data flows through weights to generate a prediction. The discrepancy between this prediction and the actual target is quantified as our Loss function, which we aim to minimize."
+  },
+  {
+   "id": "s2",
+   "title": "The Chain Rule Unveiled",
+   "teaches": "Decomposing the derivative using the Chain Rule.",
+   "visual": "The graph highlights the path from Loss back to Weight. The equation dL/dw = (dL/da) * (da/dw) appears. The terms 'dL/da' and 'da/dw' are color-coded to match the segments of the graph they correspond to, visually linking the local gradients.",
+   "narration": "To update the weight, we cannot simply look at it in isolation. We must apply the Chain Rule, breaking down the total derivative into a product of smaller, manageable local partial derivatives along the path."
+  },
+  {
+   "id": "s3",
+   "title": "Calculating Local Gradients",
+   "teaches": "Computing specific partial derivatives for simple functions.",
+   "visual": "Close-up on the activation node (a = w*x). The term 'da/dw' highlights and resolves to 'x'. Then, close-up on the loss node. The term 'dL/da' highlights and resolves to '2*(y_hat - y)'. Numbers populate the screen: if x=2, the gradient contribution is 2.",
+   "narration": "Now we compute these local gradients explicitly. For a linear weight, the derivative with respect to the input is simply the input value itself. For the squared error loss, the derivative scales with the current error magnitude."
+  },
+  {
+   "id": "s4",
+   "title": "Gradient Assembly & Update",
+   "teaches": "Combining gradients and applying the update rule.",
+   "visual": "The two calculated gradient values multiply together on screen to form 'dL/dw'. An arrow points from this result to the weight node 'w', with a minus sign indicating subtraction. The weight value visibly decreases, and the Loss bracket shrinks slightly, showing improvement.",
+   "narration": "By multiplying these local gradients, we obtain the full gradient of the loss with respect to the weight. We then subtract this gradient, scaled by a learning rate, from the current weight to iteratively reduce the error."
+  }
+ ],
+ "topic": "Backpropagation calculus",
+ "grade": "undergraduate students"
+}

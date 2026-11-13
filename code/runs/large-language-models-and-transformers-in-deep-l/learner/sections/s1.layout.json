@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 69.26,
+  "s_sp": 86.2,
+  "s_ly": 25.9,
+  "s_ed": 70.0,
+  "states": 20,
+  "states_with_conflict": 10
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 65.51,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 69.26,
+   "conflict": "Text \"rnn_text\" (created line 64, box [-2.181, 3.166, 2.181, 3.5]) overlaps Text \"title\" (line 6, box [-3.065, 3.116, 3.065, 3.5]) by 100%; moving it by [0.0, 0.48] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"rnn_text\" (created line 12, box [-2.19, 3.24, 2.19, 3.5]) overlaps Text \"title\" (line 6, box [-3.065, 3.116, 3.065, 3.5]) by 100%; moving it by [0.0, 0.41] would clear it"
+  }
+ ]
+}

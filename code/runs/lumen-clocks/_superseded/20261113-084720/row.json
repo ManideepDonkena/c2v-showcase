@@ -1,0 +1,89 @@
+{
+ "topic": "Lumen clocks",
+ "base": {
+  "teachquiz": 54.2,
+  "teachquiz_clean": 54.2,
+  "none": 0.0,
+  "full": 54.2,
+  "evidence": 50.0,
+  "control_first_section": 37.5,
+  "control_other_topic": null,
+  "mvqs": 86.03,
+  "sections_rendered": 3
+ },
+ "learner": {
+  "teachquiz": 45.8,
+  "teachquiz_clean": 45.8,
+  "none": 0.0,
+  "full": 45.8,
+  "evidence": 41.7,
+  "control_first_section": 37.5,
+  "control_other_topic": null,
+  "mvqs": 85.93,
+  "sections_rendered": 4,
+  "changed": [
+   "s2",
+   "s3"
+  ],
+  "kept_by_dev": true
+ },
+ "generic": {
+  "teachquiz": 87.5,
+  "teachquiz_clean": 87.5,
+  "none": 0.0,
+  "full": 87.5,
+  "evidence": 83.3,
+  "control_first_section": 62.5,
+  "control_other_topic": null,
+  "mvqs": 80.67,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": false
+ },
+ "learner_all": {
+  "teachquiz": 41.7,
+  "teachquiz_clean": 41.7,
+  "none": 0.0,
+  "full": 41.7,
+  "evidence": 16.7,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 80.31,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": false
+ },
+ "diagnosis": {
+  "gaps": [
+   "q3",
+   "q6",
+   "q8",
+   "q9",
+   "q10",
+   "q11"
+  ],
+  "dev": 9,
+  "fixes": {
+   "s3": [
+    "SHOW a hand starting at mark 5 and jumping forward two positions past mark 6 to land on mark 0, while SAYING 'From 5, add 2 marks: 5 plus 2 is 7, which wraps around to 0.'",
+    "Show the hand starting at mark 3 and moving forward by exactly two positions to land on mark 5, explicitly labeling this first destination as 'Mark 5'.",
+    "A visual comparison showing that the circle has only 7 positions (0-6), so moving past the last position (6) by 2 steps lands you on the second position of the next loop (0), illustrating that the numbers repeat in a cycle rather than continuing linearly."
+   ],
+   "s2": [
+    "A visual demonstration showing that the '+2' rule applies to any starting number, not just zero. Specifically, show a hand starting at mark 1, jumping forward two positions (past 1 and 2) to land on mark 3, reinforcing that the movement is relative to the current position."
+   ],
+   "s4": [
+    "Show a clock with 6 marks (0-5) and demonstrate that starting at 0, the hand visits only even numbers (0→2→4→0), leaving odd numbers unvisited, proving it does not cover all marks.",
+    "Show the cumulative distance traveled as a number line or stack of blocks: 7 jumps of size 2 equals a total length of 14. Then show that on a circle of size 7, a length of 14 fits exactly twice (14 = 2 * 7), meaning you complete two full loops and land precisely back at the starting point."
+   ]
+  }
+ }
+}

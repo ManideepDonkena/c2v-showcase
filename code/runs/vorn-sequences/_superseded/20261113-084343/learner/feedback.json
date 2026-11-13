@@ -1,0 +1,38 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q3",
+  "q4",
+  "q5",
+  "q7",
+  "q10",
+  "q12"
+ ],
+ "fixes": {
+  "s1": [
+   "Visually highlight the coefficient '2' attached to the term two steps back (v(n-2)) in the formula box, explicitly stating that this specific multiplier distinguishes the rule from a standard addition-only sequence.",
+   "Explicitly display the numbers '1' and '3' as the specific starting values for v(1) and v(2), clearly labeling them as the initial conditions that define the sequence's origin."
+  ],
+  "s3": [
+   "Show the calculation 'Odd + 2 × Odd' breaking down into 'Odd + Even', then visually demonstrating that adding an odd number to an even number always results in an odd number.",
+   "Show the algebraic breakdown of the formula for an odd term: display 'Odd + 2×Odd' and explicitly label '2×Odd' as Even, then show 'Odd + Even = Odd' to prove the result must be Odd."
+  ],
+  "s4": [
+   "Show the ratio of consecutive terms (v(n)/v(n-1)) for the calculated values (e.g., 11/5 = 2.2) and explicitly state that this value is close to 2, demonstrating that each term grows to approximately double the size of the previous one."
+  ],
+  "s2": [
+   "Show the formula v(n) = v(n-1) + 2*v(n-2). Visually separate the term 'v(n-1)' and emphasize that since all terms are positive (starting with 1, 3), adding a positive number to '2*v(n-2)' makes the total strictly greater than just '2*v(n-2)'. Say: 'Because we add v(n-1) to 2 times the term before, the result is larger than 2 times the term before.'"
+  ]
+ },
+ "changed": [
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "dev_before": 50.0,
+ "dev_after": 75.0,
+ "mvqs_before": 83.94,
+ "mvqs_after": 86.78,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/vorn-sequences/learner"
+}

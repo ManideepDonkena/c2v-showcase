@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 86.23,
+  "s_sp": 96.9,
+  "s_ly": 44.9,
+  "s_ed": 96.0,
+  "states": 10,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 74.86,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.77,
+   "conflict": "Text \"result_label\" (created line 38, box [-0.48, -0.129, 0.48, 0.129]) overlaps MathTex \"a_op_b\" (line 11, box [-0.441, -0.161, 0.441, 0.161]) by 91%; moving it by [0.0, 0.44] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.13,
+   "conflict": "MathTex \"formula\" (created line 22, box [-1.291, -1.276, 1.291, -0.861]) overlaps Circle \"circle_a\" (line 18, box [-1.0, -1.0, 1.0, 1.0]) by 25%; moving it by [0.0, -0.29] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.23,
+   "conflict": "MathTex \"eq2\" (created line 56, box [-0.576, -4.09, 0.576, -3.891]) is outside the frame; shift it by [0.0, 0.24]"
+  }
+ ]
+}

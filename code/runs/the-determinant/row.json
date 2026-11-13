@@ -1,0 +1,107 @@
+{
+ "topic": "The determinant",
+ "base": {
+  "teachquiz": 60.0,
+  "teachquiz_clean": 60.0,
+  "none": 0.0,
+  "full": 60.0,
+  "evidence": 46.7,
+  "control_first_section": 20.0,
+  "control_other_topic": null,
+  "mvqs": 83.19,
+  "sections_rendered": 4
+ },
+ "learner": {
+  "teachquiz": 53.3,
+  "teachquiz_clean": 53.3,
+  "none": 0.0,
+  "full": 53.3,
+  "evidence": 46.7,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 84.86,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "generic": {
+  "teachquiz": 53.3,
+  "teachquiz_clean": 53.3,
+  "none": 0.0,
+  "full": 53.3,
+  "evidence": 33.3,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 79.05,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "learner_all": {
+  "teachquiz": 60.0,
+  "teachquiz_clean": 60.0,
+  "none": 0.0,
+  "full": 60.0,
+  "evidence": 60.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 81.11,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "diagnosis": {
+  "gaps": [
+   "q1",
+   "q2",
+   "q3",
+   "q4",
+   "q5",
+   "q6",
+   "q7",
+   "q8",
+   "q9",
+   "q10",
+   "q11",
+   "q12"
+  ],
+  "dev": 12,
+  "fixes": {
+   "s1": [
+    "SHOW the specific column vectors of the matrix as the sides of the parallelogram and SAY that the determinant's magnitude equals the area of this shape, explicitly linking the abstract 'scaling factor' to the concrete geometric figure formed by those columns.",
+    "Show two sequential transformations applied to a unit square: first by matrix B, then by matrix A. Visually demonstrate that the final area scaling factor of the combined transformation is equal to the product of the individual area scaling factors of each step.",
+    "Show a rotation or reflection transformation where the unit square transforms into another unit square of identical size and shape, demonstrating that the area remains unchanged (scaling factor is 1), while noting that orthogonal matrices preserve lengths and angles."
+   ],
+   "s3": [
+    "Show two basis vectors that are identical (pointing in the exact same direction) and demonstrate that they fail to enclose any area, resulting in a collapsed shape with zero volume.",
+    "Show two parallel lines that never intersect (representing no solution) and one line where every point on the line is a valid solution (representing infinite solutions), demonstrating that a zero determinant means the transformation loses dimensionality, preventing a unique intersection point."
+   ],
+   "s4": [
+    "A visual mapping where the specific numbers from the matrix (1, 2, 3, 4) are plugged into the 'ad - bc' formula to calculate the area of the transformed unit square, explicitly showing that (1*4) minus (2*3) equals -2.",
+    "Show a 2x2 matrix where one row is multiplied by a scalar k (e.g., the first row becomes [ka, kb]). Visually demonstrate that the base of the corresponding parallelogram stretches by factor k while the height remains constant. Show that the area calculation changes from ad - bc to (ka)d - (kb)c, which simplifies to k(ad - bc), proving the new determinant is k times the original.",
+    "Show two 2x2 matrices that are transposes of each other (swap rows and columns). Calculate the determinant for both using the ad-bc formula. Visually demonstrate that swapping 'b' and 'c' in the matrix does not change the value of 'ad - bc', proving the determinant remains identical.",
+    "Show the specific values a=0, b=1, c=1, d=0 plugged into the formula ad - bc. Visually demonstrate that 0*0 equals 0 and 1*1 equals 1, then show the subtraction 0 - 1 resulting in -1. Compare this result to the orientation flip shown in s2, indicating that a negative area value corresponds to the reversed order of the basis vectors.",
+    "A visual counter-example showing two matrices A and B where the area of the transformed unit square by (A+B) is clearly not equal to the sum of the areas of the transformed unit squares by A and B separately, demonstrating that determinants do not distribute over matrix addition.",
+    "Show a 2x2 upper triangular matrix where b=0, visually demonstrating that the 'bc' term vanishes, leaving only the product of the diagonal elements (a*d) as the determinant."
+   ],
+   "s2": [
+    "Show two basis vectors forming a parallelogram with positive area. Then, swap their positions (swap the rows of the matrix defining them). Visually demonstrate that the new parallelogram has the exact same size but the orientation is reversed (clockwise vs counter-clockwise), and explicitly state that this reversal flips the sign of the determinant."
+   ]
+  }
+ }
+}

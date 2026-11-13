@@ -1,0 +1,137 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.447,
+      2.995,
+      3.447,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.447,
+      2.995,
+      3.447,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "filled_julia",
+     "line": 12,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.447,
+      2.995,
+      3.447,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "filled_julia",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "background",
+     "line": 18,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.447,
+      2.995,
+      3.447,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "filled_julia",
+     "line": 12,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      -3.9,
+      7.0,
+      3.9
+     ],
+     "name": "background",
+     "line": 18,
+     "type": "Rectangle"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "could not broadcast input array from shape (43,2) into shape (43,3)",
+  "line": 45
+ }
+}

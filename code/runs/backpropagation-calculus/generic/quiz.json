@@ -1,0 +1,187 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the primary mathematical tool used in backpropagation to compute gradients?",
+   "options": {
+    "A": "Chain rule of calculus",
+    "B": "Product rule of calculus",
+    "C": "Fundamental theorem of algebra",
+    "D": "Mean value theorem"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q2",
+   "question": "In a simple feedforward network, how does the error signal flow during backpropagation?",
+   "options": {
+    "A": "From output layer to input layer",
+    "B": "From input layer to output layer",
+    "C": "Randomly between layers",
+    "D": "Only within the hidden layer"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q3",
+   "question": "If L = (y - ŷ)², what is ∂L/∂ŷ?",
+   "options": {
+    "A": "-2(y - ŷ)",
+    "B": "2(y - ŷ)",
+    "C": "(y - ŷ)²",
+    "D": "1"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q4",
+   "question": "For a neuron with pre-activation z = wx + b and activation a = σ(z), what is ∂L/∂w?",
+   "options": {
+    "A": "δ · x",
+    "B": "δ · a",
+    "C": "σ'(z) · w",
+    "D": "x · b"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q5",
+   "question": "Why is the derivative of the activation function needed in backpropagation?",
+   "options": {
+    "A": "To scale the input data",
+    "B": "To adjust the learning rate",
+    "C": "To propagate the error gradient",
+    "D": "To initialize weights"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q6",
+   "question": "In a chain z → a = σ(z) → L, if ∂L/∂a = 2 and σ'(z) = 0.5, what is ∂L/∂z?",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "4",
+    "D": "0.5"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q7",
+   "question": "What is the gradient of L = ½(y - ŷ)² with respect to ŷ?",
+   "options": {
+    "A": "-(y - ŷ)",
+    "B": "(y - ŷ)",
+    "C": "2(y - ŷ)",
+    "D": "-1"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q8",
+   "question": "If a node has two incoming paths from previous layers, how is its total gradient computed?",
+   "options": {
+    "A": "Sum of gradients from each path",
+    "B": "Product of gradients from each path",
+    "C": "Average of gradients from each path",
+    "D": "Maximum of gradients from each path"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q9",
+   "question": "Which common misconception about backpropagation is false?",
+   "options": {
+    "A": "It computes exact global minima",
+    "B": "It uses gradient descent",
+    "C": "It requires differentiable functions",
+    "D": "It propagates errors backward"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q11",
+   "question": "What does δ^l_j represent in backpropagation notation?",
+   "options": {
+    "A": "Error term for neuron j in layer l",
+    "B": "Weight between layers l and l+1",
+    "C": "Activation of neuron j in layer l",
+    "D": "Bias of neuron j in layer l"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q12",
+   "question": "If activation is linear (a = z), what happens to the gradient flow?",
+   "options": {
+    "A": "Gradients pass through unchanged in magnitude",
+    "B": "Gradients vanish completely",
+    "C": "Gradients explode exponentially",
+    "D": "Gradients become zero"
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "What is the main purpose of backpropagation in a neural network as illustrated by the animal classification example?",
+   "options": {
+    "A": "To automatically add more layers to the network",
+    "B": "To adjust network weights to minimize prediction errors",
+    "C": "To shuffle the input features before processing",
+    "D": "To increase the number of output classes"
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "Which mathematical concept is essential for computing derivatives in backpropagation, as demonstrated with the function composition tree?",
+   "options": {
+    "A": "Product Rule",
+    "B": "Chain Rule",
+    "C": "Quotient Rule",
+    "D": "Power Rule"
+   },
+   "answer": "B",
+   "id": "t2"
+  },
+  {
+   "question": "During the forward pass in a neural network, what happens to input features as they flow through the layers?",
+   "options": {
+    "A": "They are discarded after the first layer",
+    "B": "They are multiplied only by output weights",
+    "C": "Their values are transformed at each node based on weights and activations",
+    "D": "They remain unchanged until the output layer"
+   },
+   "answer": "C",
+   "id": "t3"
+  },
+  {
+   "question": "In the backward pass of backpropagation, how is the error signal typically propagated through the network?",
+   "options": {
+    "A": "Forward from input to output layer",
+    "B": "Randomly across different nodes",
+    "C": "Backward from output towards input using the chain rule",
+    "D": "Only updated for the output nodes"
+   },
+   "answer": "C",
+   "id": "t4"
+  },
+  {
+   "question": "When updating weights during the learning step, what is the role of the learning rate in the equation w_new = w_old - learning_rate * gradient?",
+   "options": {
+    "A": "It determines the number of network layers",
+    "B": "It controls the speed of weight updates based on the computed gradient",
+    "C": "It averages the weights across the network",
+    "D": "It amplifies the loss across all nodes"
+   },
+   "answer": "B",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 11,
+ "dev_leaked": []
+}

@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 82.43,
+  "s_sp": 94.7,
+  "s_ly": 36.4,
+  "s_ed": 92.7,
+  "states": 20,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 82.43,
+   "conflicts": 4
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"grid_label\" (created line 13, box [-7.618, 2.751, -6.861, 3.008]) is outside the frame; shift it by [0.66, 0.0]"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.532,
+      3.0,
+      3.532,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.532,
+      3.0,
+      3.532,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.104,
+      -0.663,
+      -1.896,
+      -0.337
+     ],
+     "name": null,
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.304,
+      -0.663,
+      -1.096,
+      -0.337
+     ],
+     "name": null,
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.491,
+      -0.66,
+      -0.309,
+      -0.34
+     ],
+     "name": null,
+     "line": 12,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.309,
+      -0.66,
+      0.491,
+      -0.34
+     ],
+     "name": "bit",
+     "line": 12,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "UnboundLocalError",
+  "message": "cannot access local variable 'highlight' where it is not associated with a value",
+  "line": 30
+ }
+}

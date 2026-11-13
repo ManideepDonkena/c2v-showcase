@@ -1,0 +1,373 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.914,
+      -3.5,
+      0.914,
+      -3.28
+     ],
+     "name": "mu_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.908,
+      -4.032,
+      0.908,
+      -3.75
+     ],
+     "name": "sigma_label",
+     "line": 32,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.914,
+      -3.5,
+      0.914,
+      -3.28
+     ],
+     "name": "mu_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.908,
+      -4.032,
+      0.908,
+      -3.75
+     ],
+     "name": "sigma_label",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_x",
+     "line": 37,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_y",
+     "line": 38,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 39,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 40,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 51,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.914,
+      -3.5,
+      0.914,
+      -3.28
+     ],
+     "name": "mu_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.908,
+      -4.032,
+      0.908,
+      -3.75
+     ],
+     "name": "sigma_label",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_x",
+     "line": 37,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_y",
+     "line": 38,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.878,
+      -0.109,
+      0.878,
+      0.109
+     ],
+     "name": "var_x_label",
+     "line": 39,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      -0.109,
+      0.875,
+      0.109
+     ],
+     "name": "var_y_label",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.8,
+      -0.175,
+      0.8,
+      0.175
+     ],
+     "name": "arrow",
+     "line": 44,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "total_var",
+     "line": 42,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.939,
+      -0.107,
+      0.939,
+      0.107
+     ],
+     "name": "total_var_label",
+     "line": 43,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.914,
+      -3.5,
+      0.914,
+      -3.28
+     ],
+     "name": "mu_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.908,
+      -4.032,
+      0.908,
+      -3.75
+     ],
+     "name": "sigma_label",
+     "line": 32,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "could not broadcast input array from shape (99,2) into shape (99,3)",
+  "line": 60
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "topic": "Dapple numbers",
+ "sections": [
+  {
+   "id": "s1",
+   "before": {
+    "mvqs": 85.1,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3402,
+      "output_tokens": 1332
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDfGp33eLTEsUkMnGhf"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "other",
+     "where": "Number '52' and its yellow pulse copy",
+     "change": "The number was shifted up by 0.72 after the pulse copy was made, so the glow was drawn at a different spot than the number and the number ended up crowded under the title. I removed that shift so the number stays at UP*1.5 and the pulse lines up exactly on it."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 83.0,
+    "conflicts": 1,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s2",
+   "before": {
+    "mvqs": 78.4,
+    "conflicts": 10,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4239,
+      "output_tokens": 2627
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDgxqMGCk2j6KMHM4R1"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "off_screen",
+     "where": "number_line: unit_size=0.8 makes the line 80 units long, and the extra shift of 33.08 to the right pushes it further out of frame",
+     "change": "Set unit_size to 0.12 so the line is 12 units long. Removed the stray shift and centred the line at DOWN*0.5."
+    },
+    {
+     "kind": "overlap",
+     "where": "num_label / zero_label text was drawn directly over the number line's own tick numbers (the doubled '10' and '0')",
+     "change": "Placed zero_label and each num_label above the line (next_to UP) so they no longer cover the built-in tick numbers."
+    },
+    {
+     "kind": "overlap",
+     "where": "zero_label overlapped the Cross zero_x",
+     "change": "Moved zero_label above the line with buff=0.45 so it clears the cross."
+    },
+    {
+     "kind": "off_screen",
+     "where": "not_dapple_text centred under 0 ran past the left edge",
+     "change": "Aligned its left edge with the cross (aligned_edge=LEFT) and put it below the tick numbers."
+    },
+    {
+     "kind": "crowded",
+     "where": "Neighbouring 'Dapple' labels were only 1.2 units apart",
+     "change": "Put the dapple_text labels above the number labels at font_size 20 so neighbours keep clear gaps."
+    },
+    {
+     "kind": "other",
+     "where": "final cleanup faded out title and number_line twice",
+     "change": "Fade out each mobject only once."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 90.5,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s3",
+   "before": {
+    "mvqs": 84.1,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3551,
+      "output_tokens": 1338
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDjjG7FgDrN5CBRgZPB"
+    }
+   ],
+   "issues": [],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 84.1,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s4",
+   "before": {
+    "mvqs": 73.6,
+    "conflicts": 5,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4062,
+      "output_tokens": 5334
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDmCDsSywnnsbW8gW46"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "dapple_52 transformed into digit5 and then digit2, all at ORIGIN",
+     "change": "Moved the original 52 up to UP*1.5 and placed digit5 and digit2 side by side at DOWN*0.8 (LEFT/RIGHT 0.6). Each digit now appears with TransformFromCopy from 52, so the digits no longer stack on each other or on 52."
+    },
+    {
+     "kind": "overlap",
+     "where": "red 2/5 transforms and the swapped 25 drawn on top of the leftover dapple_52 at the origin",
+     "change": "The red digits are now placed at the digit positions and 25 is centred on the digit pair, away from 52."
+    },
+    {
+     "kind": "overlap",
+     "where": "arrow and 'Reversal' text next_to dapple_52 collided with the digits and label",
+     "change": "The arrow now sits to the right of the digit pair with 'Reversal' above it."
+    },
+    {
+     "kind": "leftover",
+     "where": "dapple_label (showing '2') stayed under 'Not Dapple'",
+     "change": "dapple_label now fades out during the reversal step and is dropped from the final FadeOut."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 84.2,
+    "conflicts": 0,
+    "timing": 0
+   }
+  }
+ ],
+ "input_tokens": 15254,
+ "output_tokens": 10631
+}

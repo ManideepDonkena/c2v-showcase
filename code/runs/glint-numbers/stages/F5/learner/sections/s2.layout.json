@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 92.9,
+  "s_sp": 99.5,
+  "s_ly": 65.8,
+  "s_ed": 100.0,
+  "states": 19,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 90.16,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 92.9,
+   "conflict": "Text \"rule2\" (created line 86, box [-4.253, 3.366, 4.253, 3.7]) overlaps Text \"title\" (line 6, box [-3.607, 3.416, 3.607, 3.8]) by 74%; moving it by [0.0, -0.43] would clear it"
+  }
+ ]
+}

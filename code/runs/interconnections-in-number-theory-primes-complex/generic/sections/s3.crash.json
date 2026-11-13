@@ -1,0 +1,144 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.804,
+      3.0,
+      1.804,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.804,
+      3.0,
+      1.804,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.937,
+      -0.464,
+      1.937,
+      0.464
+     ],
+     "name": "zeta_eq",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.804,
+      3.0,
+      1.804,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.937,
+      -0.464,
+      1.937,
+      0.464
+     ],
+     "name": "zeta_eq",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      -3.5,
+      -2.711,
+      -3.286
+     ],
+     "name": null,
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.79,
+      -3.5,
+      -1.21,
+      -3.286
+     ],
+     "name": null,
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.289,
+      -3.5,
+      0.289,
+      -3.286
+     ],
+     "name": null,
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.207,
+      -3.5,
+      1.793,
+      -3.283
+     ],
+     "name": null,
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.653,
+      -3.5,
+      3.347,
+      -3.286
+     ],
+     "name": "pt",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "VMobject.scale() got an unexpected keyword argument 'scale_tips'",
+  "line": 30
+ }
+}

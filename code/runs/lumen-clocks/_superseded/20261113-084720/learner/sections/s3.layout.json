@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 88.16,
+  "s_sp": 96.6,
+  "s_ly": 66.6,
+  "s_ed": 88.5,
+  "states": 26,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 67.09,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 69.43,
+   "conflict": "MathTex \"marks\" (created line 15, box [2.448, -0.086, 2.552, 0.086]) overlaps Circle \"circle\" (line 11, box [-2.5, -2.5, 2.5, 2.5]) by 50%; moving it by [0.2, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 87.27,
+   "conflict": "MathTex \"marks\" (created line 15, box [-0.408, 2.354, -0.309, 2.52]) overlaps Circle \"circle\" (line 11, box [-2.5, -2.5, 2.5, 2.5]) by 88%; moving it by [0.0, 0.3] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 88.16,
+   "conflict": "Arrow \"hand\" (created line 21, box [-0.593, -2.194, -0.056, -0.244]) overlaps MathTex \"marks\" (line 15, box [-0.408, -2.223, -0.309, -2.051]) by 83%; moving it by [0.0, 0.29] would clear it"
+  }
+ ]
+}

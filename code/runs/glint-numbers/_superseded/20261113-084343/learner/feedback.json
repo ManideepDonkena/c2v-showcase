@@ -1,0 +1,36 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q1",
+  "q3",
+  "q6",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s3": [
+   "Show the number 45 with the digit '5' pulsing gold. Display the equation '45 ÷ 5 = 9' appearing below it, followed by a green checkmark to visually confirm that dividing by 5 results in a whole number."
+  ],
+  "s4": [
+   "Show the number 24 with its last digit '4' highlighted. Display the calculation '24 ÷ 4 = 6' clearly on screen to demonstrate that dividing the whole number by its final digit yields a whole result."
+  ],
+  "s1": [
+   "Show the number 22 with the last digit '2' pulsing. Display the division equation '22 ÷ 2 = 11' with a green checkmark to demonstrate that it IS a Glint number, contrasting it with the failure case of 26 shown in s4.",
+   "Show the number 21 with its last digit '1' pulsing green and a checkmark, while simultaneously showing the number 24 with its last digit '4' pulsing green and a checkmark. State that both are Glint numbers to demonstrate that they can be odd or even, proving that being even is not a requirement."
+  ],
+  "s2": [
+   "Show the number 10 with its last digit '0' turning red and shaking, accompanied by the text 'Division by Zero is Impossible' to explicitly link the visual rejection of zero-ending numbers to the mathematical impossibility of dividing by zero."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3"
+ ],
+ "dev_before": 65.0,
+ "dev_after": 60.0,
+ "mvqs_before": 89.09,
+ "mvqs_after": 84.8,
+ "kept": false,
+ "dir": "/home/mani/c2v-lab/runs/glint-numbers/learner"
+}

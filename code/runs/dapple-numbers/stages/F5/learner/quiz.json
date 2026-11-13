@@ -1,0 +1,231 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "Which of the following numbers is a dapple number?",
+   "options": {
+    "A": "32",
+    "B": "23",
+    "C": "44",
+    "D": "10"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q2",
+   "question": "Why is the number 77 not a dapple number?",
+   "options": {
+    "A": "It has two digits.",
+    "B": "Its tens digit is 0.",
+    "C": "The digits are equal.",
+    "D": "It is odd."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q3",
+   "question": "What is the smallest two-digit dapple number?",
+   "options": {
+    "A": "10",
+    "B": "21",
+    "C": "11",
+    "D": "20"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q4",
+   "question": "If you reverse the digits of a dapple number, what is the result?",
+   "options": {
+    "A": "It remains dapple.",
+    "B": "It becomes zero.",
+    "C": "It is not dapple.",
+    "D": "It becomes prime."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q5",
+   "question": "Which multiple of 10 is NOT a dapple number?",
+   "options": {
+    "A": "20",
+    "B": "50",
+    "C": "90",
+    "D": "None"
+   },
+   "answer": "D"
+  },
+  {
+   "id": "q6",
+   "question": "Consider the number 83. Is it dapple?",
+   "options": {
+    "A": "Yes, because 8 > 3.",
+    "B": "No, because 3 < 8.",
+    "C": "Yes, because it is prime.",
+    "D": "No, because it ends in 3."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q7",
+   "question": "Which statement about one-digit numbers is true?",
+   "options": {
+    "A": "They are all dapple.",
+    "B": "None are dapple.",
+    "C": "Only even ones are.",
+    "D": "Only odd ones are."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q8",
+   "question": "If number X is dapple and number Y is the reverse of X, which is true?",
+   "options": {
+    "A": "X + Y = 100.",
+    "B": "Y is also dapple.",
+    "C": "X > Y.",
+    "D": "Y has more digits."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q9",
+   "question": "Which of these is a common misconception about dapple numbers?",
+   "options": {
+    "A": "They must be even.",
+    "B": "10 is not dapple.",
+    "C": "44 is dapple.",
+    "D": "They are always prime."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q10",
+   "question": "What is the largest two-digit dapple number?",
+   "options": {
+    "A": "98",
+    "B": "99",
+    "C": "89",
+    "D": "90"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q11",
+   "question": "Why is 50 a dapple number?",
+   "options": {
+    "A": "It ends in zero.",
+    "B": "5 > 0.",
+    "C": "It is divisible by 5.",
+    "D": "It has two digits."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q12",
+   "question": "If a number is not dapple, what can we say about its digits?",
+   "options": {
+    "A": "Tens < Units.",
+    "B": "Tens = Units.",
+    "C": "Tens > Units.",
+    "D": "One digit is zero."
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "Which number is dapple?",
+   "options": {
+    "A": "37",
+    "B": "7",
+    "C": "77",
+    "D": "73"
+   },
+   "answer": "D",
+   "id": "t1"
+  },
+  {
+   "question": "Is 30 dapple?",
+   "options": {
+    "A": "Only if divided by 10",
+    "B": "It cannot be told",
+    "C": "No",
+    "D": "Yes"
+   },
+   "answer": "D",
+   "id": "t2"
+  },
+  {
+   "question": "Is 9 dapple?",
+   "options": {
+    "A": "No",
+    "B": "Yes",
+    "C": "Only as 09",
+    "D": "It cannot be told"
+   },
+   "answer": "A",
+   "id": "t3"
+  },
+  {
+   "question": "How many numbers from 10 to 19 are dapple?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "10",
+    "D": "9"
+   },
+   "answer": "B",
+   "id": "t4"
+  },
+  {
+   "question": "How many numbers from 20 to 29 are dapple?",
+   "options": {
+    "A": "1",
+    "B": "8",
+    "C": "2",
+    "D": "3"
+   },
+   "answer": "C",
+   "id": "t5"
+  },
+  {
+   "question": "64 is dapple. Is 46 dapple?",
+   "options": {
+    "A": "No",
+    "B": "It cannot be told",
+    "C": "Only if it is even",
+    "D": "Yes"
+   },
+   "answer": "A",
+   "id": "t6"
+  },
+  {
+   "question": "Is 55 dapple?",
+   "options": {
+    "A": "It cannot be told",
+    "B": "Yes",
+    "C": "No",
+    "D": "Only because 5 is odd"
+   },
+   "answer": "C",
+   "id": "t7"
+  },
+  {
+   "question": "A number is dapple when...",
+   "options": {
+    "A": "its digits add to an even number",
+    "B": "its tens digit is greater than its units digit",
+    "C": "it is a multiple of 10",
+    "D": "its units digit is greater than its tens digit"
+   },
+   "answer": "B",
+   "id": "t8"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 12,
+ "dev_leaked": []
+}

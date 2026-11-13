@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "Definition and Formula",
+  "teaches": "The core definition of the Tovan sum operation (a ⊕ b) as a combination of addition and multiplication.",
+  "visual": "Large text 'a ⊕ b' appears center screen. An arrow points down to the equation 'a + b + (a × b)'. Variables 'a' and 'b' are represented by two distinct colored circles that merge into a single larger circle labeled 'Result'.",
+  "narration": "We define the Tovan sum of two whole numbers, written as a ⊕ b, not just as their sum, but as their sum plus their product. This unique operation combines standard addition with multiplication in a single step.",
+  "start": 0.0,
+  "end": 16.8
+ },
+ {
+  "id": "s2",
+  "title": "Commutativity and Identity",
+  "teaches": "The property that order does not matter (commutativity) and the role of zero as the neutral element.",
+  "visual": "Two scenes side-by-side. Left: '3 ⊕ 5' transforms into '15 + 8 + 15 = 38'. Right: '5 ⊕ 3' transforms into '3 + 5 + 15 = 23' (wait, correction: 5+3+15=23? No. 5⊕3 = 5+3+15=23. 3⊕5 = 3+5+15=23. They are equal). Actually, let's use the neutral element example clearly: '0 ⊕ 7' shows the '0' fading away leaving just '7'.",
+  "narration": "The order of operands never changes the result; a ⊕ b always equals b ⊕ a. Additionally, zero acts as a neutral element, meaning any number combined with zero remains unchanged.",
+  "start": 16.8,
+  "end": 53.6
+ },
+ {
+  "id": "s3",
+  "title": "The Absorbing Element (-1)",
+  "teaches": "The special rule where -1 absorbs any other number in the operation.",
+  "visual": "A large, dark '(-1)' circle moves aggressively towards a bright 'b' circle. Upon contact, the 'b' circle vanishes or is consumed, and only '(-1)' remains on screen with the label 'Result'.",
+  "narration": "The number negative one acts as an absorbing element. Regardless of the other operand's value, if it is combined with -1, the result is always -1.",
+  "start": 53.6,
+  "end": 66.47
+ },
+ {
+  "id": "s4",
+  "title": "Chained Operations Example",
+  "teaches": "How to evaluate a chain of Tovan sums from left to right using the worked example 2 ⊕ 3.",
+  "visual": "Text '2 ⊕ 3' appears. It expands step-by-step: first showing '2 + 3', then adding '(2 × 3)', and finally resolving to '= 11'. The numbers animate sequentially to emphasize the left-to-right calculation flow.",
+  "narration": "When chaining operations, we always work from left to right. For our example, 2 ⊕ 3 becomes 2 plus 3 plus the product of 2 times 3, which equals 11.",
+  "start": 66.47,
+  "end": 94.4
+ }
+]

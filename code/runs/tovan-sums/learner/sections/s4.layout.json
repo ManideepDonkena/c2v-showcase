@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 82.57,
+  "s_sp": 97.8,
+  "s_ly": 29.2,
+  "s_ed": 92.7,
+  "states": 11,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 70.84,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.57,
+   "conflict": "MathTex \"nested\" (created line 22, box [-0.949, 3.085, 0.949, 3.5]) overlaps Text \"title\" (line 6, box [-3.439, 3.0, 3.439, 3.5]) by 100%; moving it by [0.0, -0.65] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the geometric interpretation of the determinant of a 2x2 matrix?",
+   "options": {
+    "A": "The slope of the line",
+    "B": "The area of the parallelogram formed by column vectors",
+    "C": "The length of the diagonal",
+    "D": "The angle between rows"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "If a matrix has two identical rows, what is its determinant?",
+   "options": {
+    "A": "1",
+    "B": "0",
+    "C": "The sum of the rows",
+    "D": "Undefined"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "Calculate det(A) for A = [[1, 2], [3, 4]].",
+   "options": {
+    "A": "-2",
+    "B": "2",
+    "C": "10",
+    "D": "-10"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q4",
+   "question": "Which property holds for det(AB) where A and B are square matrices?",
+   "options": {
+    "A": "det(AB) = det(A) + det(B)",
+    "B": "det(AB) = det(A) * det(B)",
+    "C": "det(AB) = det(B) - det(A)",
+    "D": "det(AB) = 0"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q5",
+   "question": "What happens to the determinant if you multiply a row by scalar k?",
+   "options": {
+    "A": "It remains unchanged",
+    "B": "It is multiplied by k",
+    "C": "It is multiplied by k^2",
+    "D": "It becomes zero"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q6",
+   "question": "For a 3x3 matrix, what is the determinant of its transpose?",
+   "options": {
+    "A": "Negative of original",
+    "B": "Same as original",
+    "C": "Reciprocal of original",
+    "D": "Zero"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q7",
+   "question": "If det(A) = 0, what can be said about the system Ax = b?",
+   "options": {
+    "A": "It has a unique solution",
+    "B": "It has no solution only if b=0",
+    "C": "It has either no solution or infinite solutions",
+    "D": "It always has infinite solutions"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q8",
+   "question": "Calculate det(A) for A = [[0, 1], [1, 0]].",
+   "options": {
+    "A": "1",
+    "B": "-1",
+    "C": "0",
+    "D": "2"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q9",
+   "question": "Which statement is a common misconception about determinants?",
+   "options": {
+    "A": "det(A+B) = det(A) + det(B)",
+    "B": "det(kA) = k^n * det(A)",
+    "C": "det(I) = 1",
+    "D": "det(A^T) = det(A)"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q10",
+   "question": "If A is orthogonal, what is |det(A)|?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "n",
+    "D": "2"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q11",
+   "question": "What is the determinant of an upper triangular matrix?",
+   "options": {
+    "A": "Sum of diagonal entries",
+    "B": "Product of off-diagonal entries",
+    "C": "Product of diagonal entries",
+    "D": "Zero"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q12",
+   "question": "If you swap two rows of A to get B, how does det(B) relate to det(A)?",
+   "options": {
+    "A": "det(B) = det(A)",
+    "B": "det(B) = -det(A)",
+    "C": "det(B) = 2*det(A)",
+    "D": "det(B) = 0"
+   },
+   "answer": "B"
+  }
+ ],
+ "test": [
+  {
+   "question": "What does the determinant of a square matrix primarily indicate?",
+   "options": {
+    "A": "The number of elements in the matrix",
+    "B": "The amount by which the matrix scales areas or volumes during transformation",
+    "C": "The sum of all elements in the first row",
+    "D": "The trace of the matrix"
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "When a matrix transformation turns a square into a parallelogram on a grid, what property has changed?",
+   "options": {
+    "A": "The type of matrix",
+    "B": "The area covered by the shape",
+    "C": "The number of rows in the matrix",
+    "D": "The determinant becomes negative"
+   },
+   "answer": "B",
+   "id": "t2"
+  },
+  {
+   "question": "Given the matrix [[2, 3], [1, 4]], what is its determinant?",
+   "options": {
+    "A": "7",
+    "B": "5",
+    "C": "10",
+    "D": "11"
+   },
+   "answer": "B",
+   "id": "t3"
+  },
+  {
+   "question": "What does it mean if the determinant of a 2x2 matrix is zero?",
+   "options": {
+    "A": "The transformation doubles the area",
+    "B": "The matrix changes the square into a parallelogram",
+    "C": "The transformed shape collapses to a line with no area",
+    "D": "The shape flips over the x-axis"
+   },
+   "answer": "C",
+   "id": "t4"
+  },
+  {
+   "question": "Which of the following is TRUE about determinants and their properties?",
+   "options": {
+    "A": "All matrices, whether square or rectangular, have determinants",
+    "B": "Swapping two rows in a square matrix does not affect the determinant",
+    "C": "If a square matrix has determinant zero, it does not have an inverse",
+    "D": "If the determinant is positive, the matrix cannot solve a system of equations"
+   },
+   "answer": "C",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 12,
+ "dev_leaked": []
+}

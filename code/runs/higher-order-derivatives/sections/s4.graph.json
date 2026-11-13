@@ -1,0 +1,1682 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -3.567,
+      0.175,
+      2.75
+     ],
+     "name": "arrow1",
+     "line": 38,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      -0.666,
+      0.645,
+      -0.151
+     ],
+     "name": "arrow1_label",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 42,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -3.567,
+      0.175,
+      2.75
+     ],
+     "name": "arrow1",
+     "line": 38,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      -0.666,
+      0.645,
+      -0.151
+     ],
+     "name": "arrow1_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.667,
+      4.0,
+      29.0
+     ],
+     "name": "df_t",
+     "line": 16,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.464,
+      -4.392,
+      0.464,
+      -3.867
+     ],
+     "name": "df_label",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -3.567,
+      0.175,
+      2.75
+     ],
+     "name": "arrow1",
+     "line": 38,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      -0.666,
+      0.645,
+      -0.151
+     ],
+     "name": "arrow1_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.667,
+      4.0,
+      29.0
+     ],
+     "name": "df_t",
+     "line": 16,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.464,
+      -4.392,
+      0.464,
+      -3.867
+     ],
+     "name": "df_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -13.9,
+      0.175,
+      28.9
+     ],
+     "name": "arrow2",
+     "line": 45,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      7.243,
+      0.645,
+      7.757
+     ],
+     "name": "arrow2_label",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -3.567,
+      0.175,
+      2.75
+     ],
+     "name": "arrow1",
+     "line": 38,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      -0.666,
+      0.645,
+      -0.151
+     ],
+     "name": "arrow1_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.667,
+      4.0,
+      29.0
+     ],
+     "name": "df_t",
+     "line": 16,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.464,
+      -4.392,
+      0.464,
+      -3.867
+     ],
+     "name": "df_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -13.9,
+      0.175,
+      28.9
+     ],
+     "name": "arrow2",
+     "line": 45,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      7.243,
+      0.645,
+      7.757
+     ],
+     "name": "arrow2_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -14.0,
+      4.0,
+      10.0
+     ],
+     "name": "d2f_t",
+     "line": 20,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.522,
+      -14.725,
+      0.522,
+      -14.2
+     ],
+     "name": "d2f_label",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -3.567,
+      0.175,
+      2.75
+     ],
+     "name": "arrow1",
+     "line": 38,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      -0.666,
+      0.645,
+      -0.151
+     ],
+     "name": "arrow1_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.667,
+      4.0,
+      29.0
+     ],
+     "name": "df_t",
+     "line": 16,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.464,
+      -4.392,
+      0.464,
+      -3.867
+     ],
+     "name": "df_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -13.9,
+      0.175,
+      28.9
+     ],
+     "name": "arrow2",
+     "line": 45,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      7.243,
+      0.645,
+      7.757
+     ],
+     "name": "arrow2_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -14.0,
+      4.0,
+      10.0
+     ],
+     "name": "d2f_t",
+     "line": 20,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.522,
+      -14.725,
+      0.522,
+      -14.2
+     ],
+     "name": "d2f_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      3.1,
+      0.175,
+      9.9
+     ],
+     "name": "arrow3",
+     "line": 52,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      6.243,
+      0.645,
+      6.757
+     ],
+     "name": "arrow3_label",
+     "line": 53,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -3.567,
+      0.175,
+      2.75
+     ],
+     "name": "arrow1",
+     "line": 38,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      -0.666,
+      0.645,
+      -0.151
+     ],
+     "name": "arrow1_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.667,
+      4.0,
+      29.0
+     ],
+     "name": "df_t",
+     "line": 16,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.464,
+      -4.392,
+      0.464,
+      -3.867
+     ],
+     "name": "df_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -13.9,
+      0.175,
+      28.9
+     ],
+     "name": "arrow2",
+     "line": 45,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      7.243,
+      0.645,
+      7.757
+     ],
+     "name": "arrow2_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -14.0,
+      4.0,
+      10.0
+     ],
+     "name": "d2f_t",
+     "line": 20,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.522,
+      -14.725,
+      0.522,
+      -14.2
+     ],
+     "name": "d2f_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      3.1,
+      0.175,
+      9.9
+     ],
+     "name": "arrow3",
+     "line": 52,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      6.243,
+      0.645,
+      6.757
+     ],
+     "name": "arrow3_label",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      3.0,
+      4.0,
+      3.0
+     ],
+     "name": "d3f_t",
+     "line": 24,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.579,
+      2.275,
+      0.579,
+      2.8
+     ],
+     "name": "d3f_label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -3.567,
+      0.175,
+      2.75
+     ],
+     "name": "arrow1",
+     "line": 38,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      -0.666,
+      0.645,
+      -0.151
+     ],
+     "name": "arrow1_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.667,
+      4.0,
+      29.0
+     ],
+     "name": "df_t",
+     "line": 16,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.464,
+      -4.392,
+      0.464,
+      -3.867
+     ],
+     "name": "df_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -13.9,
+      0.175,
+      28.9
+     ],
+     "name": "arrow2",
+     "line": 45,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      7.243,
+      0.645,
+      7.757
+     ],
+     "name": "arrow2_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -14.0,
+      4.0,
+      10.0
+     ],
+     "name": "d2f_t",
+     "line": 20,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.522,
+      -14.725,
+      0.522,
+      -14.2
+     ],
+     "name": "d2f_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      3.1,
+      0.175,
+      9.9
+     ],
+     "name": "arrow3",
+     "line": 52,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      6.243,
+      0.645,
+      6.757
+     ],
+     "name": "arrow3_label",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      3.0,
+      4.0,
+      3.0
+     ],
+     "name": "d3f_t",
+     "line": 24,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.579,
+      2.275,
+      0.579,
+      2.8
+     ],
+     "name": "d3f_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      0.1,
+      0.175,
+      2.9
+     ],
+     "name": "arrow4",
+     "line": 54,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      1.243,
+      0.645,
+      1.757
+     ],
+     "name": "arrow4_label",
+     "line": 60,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -3.567,
+      0.175,
+      2.75
+     ],
+     "name": "arrow1",
+     "line": 38,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      -0.666,
+      0.645,
+      -0.151
+     ],
+     "name": "arrow1_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.667,
+      4.0,
+      29.0
+     ],
+     "name": "df_t",
+     "line": 16,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.464,
+      -4.392,
+      0.464,
+      -3.867
+     ],
+     "name": "df_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      -13.9,
+      0.175,
+      28.9
+     ],
+     "name": "arrow2",
+     "line": 45,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      7.243,
+      0.645,
+      7.757
+     ],
+     "name": "arrow2_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -14.0,
+      4.0,
+      10.0
+     ],
+     "name": "d2f_t",
+     "line": 20,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.522,
+      -14.725,
+      0.522,
+      -14.2
+     ],
+     "name": "d2f_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      3.1,
+      0.175,
+      9.9
+     ],
+     "name": "arrow3",
+     "line": 52,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      6.243,
+      0.645,
+      6.757
+     ],
+     "name": "arrow3_label",
+     "line": 53,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      3.0,
+      4.0,
+      3.0
+     ],
+     "name": "d3f_t",
+     "line": 24,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.579,
+      2.275,
+      0.579,
+      2.8
+     ],
+     "name": "d3f_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.175,
+      0.1,
+      0.175,
+      2.9
+     ],
+     "name": "arrow4",
+     "line": 54,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.425,
+      1.243,
+      0.645,
+      1.757
+     ],
+     "name": "arrow4_label",
+     "line": 60,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.0
+     ],
+     "name": "d4f_t",
+     "line": 28,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -0.792,
+      0.662,
+      -0.2
+     ],
+     "name": "d4f_label",
+     "line": 31,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 67,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.667,
+      4.0,
+      29.0
+     ],
+     "name": "df_t",
+     "line": 16,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.464,
+      -4.392,
+      0.464,
+      -3.867
+     ],
+     "name": "df_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -14.0,
+      4.0,
+      10.0
+     ],
+     "name": "d2f_t",
+     "line": 20,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.522,
+      -14.725,
+      0.522,
+      -14.2
+     ],
+     "name": "d2f_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      3.0,
+      4.0,
+      3.0
+     ],
+     "name": "d3f_t",
+     "line": 24,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.579,
+      2.275,
+      0.579,
+      2.8
+     ],
+     "name": "d3f_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.0
+     ],
+     "name": "d4f_t",
+     "line": 28,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -0.792,
+      0.662,
+      -0.2
+     ],
+     "name": "d4f_label",
+     "line": 31,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.667,
+      4.0,
+      29.0
+     ],
+     "name": "df_t",
+     "line": 16,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.464,
+      -4.392,
+      0.464,
+      -3.867
+     ],
+     "name": "df_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -14.0,
+      4.0,
+      10.0
+     ],
+     "name": "d2f_t",
+     "line": 20,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.522,
+      -14.725,
+      0.522,
+      -14.2
+     ],
+     "name": "d2f_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      3.0,
+      4.0,
+      3.0
+     ],
+     "name": "d3f_t",
+     "line": 24,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.579,
+      2.275,
+      0.579,
+      2.8
+     ],
+     "name": "d3f_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.34,
+      -0.429,
+      0.34,
+      0.429
+     ],
+     "name": "d4f_t",
+     "line": 28,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -0.792,
+      0.662,
+      -0.2
+     ],
+     "name": "d4f_label",
+     "line": 31,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -37.15,
+      4.0,
+      2.85
+     ],
+     "name": "f_t",
+     "line": 12,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -34.698,
+      0.394,
+      -34.2
+     ],
+     "name": "f_label",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -3.667,
+      4.0,
+      29.0
+     ],
+     "name": "df_t",
+     "line": 16,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.464,
+      -4.392,
+      0.464,
+      -3.867
+     ],
+     "name": "df_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -14.0,
+      4.0,
+      10.0
+     ],
+     "name": "d2f_t",
+     "line": 20,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.522,
+      -14.725,
+      0.522,
+      -14.2
+     ],
+     "name": "d2f_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      3.0,
+      4.0,
+      3.0
+     ],
+     "name": "d3f_t",
+     "line": 24,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.579,
+      2.275,
+      0.579,
+      2.8
+     ],
+     "name": "d3f_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.34,
+      -0.429,
+      0.34,
+      0.429
+     ],
+     "name": "d4f_t",
+     "line": 28,
+     "type": "FunctionGraph"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.662,
+      -0.792,
+      0.662,
+      -0.2
+     ],
+     "name": "d4f_label",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.559,
+      -3.5,
+      2.559,
+      -3.18
+     ],
+     "name": "abstraction_text",
+     "line": 76,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 80,
+   "objects": []
+  }
+ ],
+ "error": null
+}

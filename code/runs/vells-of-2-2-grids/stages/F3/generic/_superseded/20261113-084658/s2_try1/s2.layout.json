@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 83.22,
+  "s_sp": 95.4,
+  "s_ly": 27.5,
+  "s_ed": 100.0,
+  "states": 11,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 79.09,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.22,
+   "conflict": "MathTex \"c_text\" (created line 47, box [0.846, 2.32, 0.975, 2.534]) overlaps Matrix \"grid_mobject\" (line 12, box [-0.947, 1.415, 0.947, 2.8]) by 78%; moving it by [0.25, 0.0] would clear it"
+  }
+ ]
+}

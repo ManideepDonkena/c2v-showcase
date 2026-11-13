@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 76.46,
+  "s_sp": 90.8,
+  "s_ly": 47.7,
+  "s_ed": 71.8,
+  "states": 17,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 76.18,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.46,
+   "conflict": "Text \"example_title\" (created line 46, box [-2.571, 3.0, 2.571, 3.5]) overlaps Text \"title\" (line 6, box [-2.678, 2.992, 2.678, 3.5]) by 100%; moving it by [0.0, -0.66] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"example_title\" (created line 46, box [-2.571, 2.34, 2.571, 2.84]) overlaps MathTex \"number\" (line 26, box [-0.373, 1.934, 0.373, 2.506]) by 28%; moving it by [0.0, 0.32] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 84.18,
+  "s_sp": 95.3,
+  "s_ly": 44.7,
+  "s_ed": 92.0,
+  "states": 15,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 65.41,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 72.77,
+   "conflict": "MathTex \"equation\" (created line 19, box [-0.776, 3.197, 0.776, 3.5]) overlaps Text \"title\" (line 6, box [-2.827, 2.992, 2.827, 3.5]) by 100%; moving it by [0.0, 0.45] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.18,
+   "conflict": "Vector \"Av\" (created line 15, box [0.0, -0.175, 3.0, 0.175]) overlaps MathTex \"v_label\" (line 12, box [1.1, 0.1, 1.239, 0.281]) by 41%; moving it by [0.0, -0.22] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"v_length\" (created line 47, box [0.396, -0.349, 0.604, -0.1]) overlaps Vector \"v\" (line 11, box [0.0, -0.125, 1.0, 0.125]) by 10%; moving it by [0.0, -0.17] would clear it"
+  }
+ ]
+}

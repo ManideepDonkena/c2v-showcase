@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 86.04,
+  "s_sp": 95.5,
+  "s_ly": 67.6,
+  "s_ed": 82.6,
+  "states": 23,
+  "states_with_conflict": 6
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 64.31,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 69.04,
+   "conflict": "Text \"mark_labels\" (created line 25, box [2.422, -0.122, 2.578, 0.122]) overlaps Circle \"circle\" (line 20, box [-2.5, -2.5, 2.5, 2.5]) by 50%; moving it by [0.23, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.04,
+   "conflict": "Text \"mark_labels\" (created line 25, box [-0.399, 2.317, -0.254, 2.558]) overlaps Circle \"circle\" (line 20, box [-2.5, -2.5, 2.5, 2.5]) by 75%; moving it by [0.0, 0.33] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"check\" (created line 55, box [-0.445, -2.794, -0.208, -2.428]) overlaps Circle \"circle\" (line 20, box [-2.5, -2.5, 2.5, 2.5]) by 19%; moving it by [0.0, -0.22] would clear it"
+  }
+ ]
+}

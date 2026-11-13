@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 16,
+  "scope": "line",
+  "error": "TypeError: Write only works for vectorized Mobjects"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 16,
+  "scope": "block",
+  "error": "TypeError: Write only works for vectorized Mobjects"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 15,
+  "scope": "section",
+  "error": "TypeError: Write only works for vectorized Mobjects"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 16,
+  "scope": "section",
+  "error": "TypeError: Write only works for vectorized Mobjects"
+ }
+]

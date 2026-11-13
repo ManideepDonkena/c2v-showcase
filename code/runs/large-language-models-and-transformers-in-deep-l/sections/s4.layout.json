@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 73.92,
+  "s_sp": 91.4,
+  "s_ly": 36.2,
+  "s_ed": 70.0,
+  "states": 10,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 73.92,
+   "conflicts": 2
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"bar_chart\" (created line 47, box [-2.088, 0.808, -1.912, 1.0]) overlaps Rectangle \"bar_chart\" (line 45, box [-2.2, 0.1, -1.8, 0.85]) by 21%; moving it by [0.0, 0.19] would clear it"
+  }
+ ]
+}

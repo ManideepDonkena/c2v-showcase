@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 81.31,
+  "s_sp": 99.7,
+  "s_ly": 61.3,
+  "s_ed": 64.1,
+  "states": 50,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 79.84,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.31,
+   "conflict": "Polygon \"triangle\" (created line 181, box [-3.0, 0.0, 0.0, 4.0]) overlaps Text \"title\" (line 6, box [-1.85, 3.116, 1.85, 3.5]) by 50%; moving it by [0.0, -1.03] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 22,
+  "scope": "line",
+  "error": "RuntimeError: latex failed but did not produce a log file. Check your LaTeX installation.\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 21,
+  "scope": "block",
+  "error": "SyntaxError: '(' was never closed (s3.py, line 21)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 100,
+  "scope": "section",
+  "error": "TypeError: Animation only works on Mobjects"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

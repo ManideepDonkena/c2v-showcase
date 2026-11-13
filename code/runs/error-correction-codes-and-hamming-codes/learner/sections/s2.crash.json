@@ -1,0 +1,396 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "Object Rectangle cannot be converted to an animation",
+  "line": 27
+ }
+}

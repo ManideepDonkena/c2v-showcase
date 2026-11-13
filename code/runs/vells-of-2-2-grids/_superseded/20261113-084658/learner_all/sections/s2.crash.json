@@ -1,0 +1,156 @@
+{
+ "states": [
+  {
+   "after_line": 6,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.907,
+      3.11,
+      3.907,
+      3.5
+     ],
+     "name": "title",
+     "line": 5,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.907,
+      3.11,
+      3.907,
+      3.5
+     ],
+     "name": "title",
+     "line": 5,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.407,
+      -0.124,
+      -0.258,
+      0.124
+     ],
+     "name": "grid1_obj",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -0.124,
+      -0.271,
+      0.124
+     ],
+     "name": "grid1_obj",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.247,
+      -0.129,
+      0.402,
+      0.129
+     ],
+     "name": "grid1_obj",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.242,
+      -0.126,
+      0.407,
+      0.126
+     ],
+     "name": "grid1_obj",
+     "line": 11,
+     "type": "Integer"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.907,
+      3.11,
+      3.907,
+      3.5
+     ],
+     "name": "title",
+     "line": 5,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.422,
+      -0.149,
+      -0.243,
+      0.149
+     ],
+     "name": "grid1_obj",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.394,
+      -0.124,
+      -0.271,
+      0.124
+     ],
+     "name": "grid1_obj",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.247,
+      -0.129,
+      0.402,
+      0.129
+     ],
+     "name": "grid1_obj",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.225,
+      -0.152,
+      0.424,
+      0.152
+     ],
+     "name": "grid1_obj",
+     "line": 11,
+     "type": "Integer"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "TypeError",
+  "message": "Animation only works on Mobjects",
+  "line": 22
+ }
+}

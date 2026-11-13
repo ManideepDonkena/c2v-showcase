@@ -1,0 +1,144 @@
+{
+ "kind": "static",
+ "frames": 6,
+ "rotations": [
+  {
+   "rotation": 0,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "A": 0.014067,
+      "B": 0.984014,
+      "C": 0.000224,
+      "D": 0.001694
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.984014
+    },
+    {
+     "id": "t2",
+     "p": {
+      "A": 2e-06,
+      "B": 0.999998,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.999998
+    },
+    {
+     "id": "t3",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t4",
+     "p": {
+      "A": 0.0,
+      "B": 4e-06,
+      "C": 0.0,
+      "D": 0.999995
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 0.999995
+    },
+    {
+     "id": "t5",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 1.0
+    }
+   ],
+   "reply": "1: B\n2: B\n3: B\n4: D\n5: B",
+   "prompt_tokens": 1689,
+   "retries": 1,
+   "missing": 0
+  },
+  {
+   "rotation": 1,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "D": 0.002426,
+      "A": 0.002706,
+      "B": 0.984374,
+      "C": 0.010494
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.984374
+    },
+    {
+     "id": "t2",
+     "p": {
+      "D": 0.0,
+      "A": 4.2e-05,
+      "B": 0.999958,
+      "C": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.999958
+    },
+    {
+     "id": "t3",
+     "p": {
+      "D": 0.0,
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t4",
+     "p": {
+      "D": 0.999998,
+      "A": 0.0,
+      "B": 1e-06,
+      "C": 0.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 0.999998
+    },
+    {
+     "id": "t5",
+     "p": {
+      "D": 0.0,
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 1.0
+    }
+   ],
+   "reply": "1: C\n2: C\n3: C\n4: A\n5: C",
+   "prompt_tokens": 1689,
+   "retries": 1,
+   "missing": 0
+  }
+ ]
+}

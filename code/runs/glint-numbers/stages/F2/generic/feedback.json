@@ -1,0 +1,40 @@
+{
+ "stage": "F2",
+ "mode": "generic",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch"
+ ],
+ "fixes": {
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s2": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s1": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s3": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3"
+ ],
+ "edit_size": {
+  "s1": 0.624,
+  "s2": 0.714,
+  "s3": 0.661
+ },
+ "diagnosis": "f0",
+ "dev_before": 50.0,
+ "dev_after": 65.0,
+ "mvqs_before": 89.84,
+ "mvqs_after": 85.69,
+ "kept": true,
+ "served": "revision"
+}

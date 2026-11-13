@@ -1,0 +1,34 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 42,
+  "scope": "line",
+  "error": "TypeError: VGroup.add() got an unexpected keyword argument 'run_time'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 42,
+  "scope": "block",
+  "error": "TypeError: VGroup.add() got an unexpected keyword argument 'run_time'"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 42,
+  "scope": "section",
+  "error": "TypeError: Only values of type VMobject can be added as submobjects of VGroup, but the value <manim.mobject.mobject._AnimationBuilder object at 0x7119c5350290> (at index 0 of parameter 0) is of type _AnimationBuilder."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 51,
+  "scope": "section",
+  "error": "ValueError: latex error converting to dvi. See log output above or the log file: media/Tex/0ac01e63fb6e75e2.log\nHINT: LaTeX failed: use Text instead of MathTex for anything that is not a formula, and escape backslashes."
+ },
+ {
+  "attempt": 4,
+  "ok": true
+ }
+]

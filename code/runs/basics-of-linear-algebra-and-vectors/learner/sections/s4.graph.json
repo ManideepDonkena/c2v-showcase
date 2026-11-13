@@ -1,0 +1,662 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.675,
+      1.5,
+      -0.325
+     ],
+     "name": "i_vec",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.47,
+      -0.923,
+      1.53,
+      -0.75
+     ],
+     "name": "i_label",
+     "line": 24,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.675,
+      1.5,
+      -0.325
+     ],
+     "name": "i_vec",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.47,
+      -0.923,
+      1.53,
+      -0.75
+     ],
+     "name": "i_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      -0.5,
+      0.125,
+      0.5
+     ],
+     "name": "j_vec",
+     "line": 21,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.33,
+      0.389,
+      -0.25,
+      0.611
+     ],
+     "name": "j_label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.675,
+      1.5,
+      -0.325
+     ],
+     "name": "i_vec",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.47,
+      -0.923,
+      1.53,
+      -0.75
+     ],
+     "name": "i_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      -0.5,
+      0.125,
+      0.5
+     ],
+     "name": "j_vec",
+     "line": 21,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.33,
+      0.389,
+      -0.25,
+      0.611
+     ],
+     "name": "j_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.5,
+      3.0,
+      2.5
+     ],
+     "name": "v_vec",
+     "line": 32,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      2.75,
+      3.388,
+      2.862
+     ],
+     "name": "v_label",
+     "line": 34,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.675,
+      1.5,
+      -0.325
+     ],
+     "name": "i_vec",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.47,
+      -0.923,
+      1.53,
+      -0.75
+     ],
+     "name": "i_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      -0.5,
+      0.125,
+      0.5
+     ],
+     "name": "j_vec",
+     "line": 21,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.33,
+      0.389,
+      -0.25,
+      0.611
+     ],
+     "name": "j_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.5,
+      3.0,
+      2.5
+     ],
+     "name": "v_vec",
+     "line": 32,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      2.75,
+      3.388,
+      2.862
+     ],
+     "name": "v_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.675,
+      3.0,
+      -0.325
+     ],
+     "name": "v_comp_i",
+     "line": 28,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.489,
+      3.116,
+      2.489,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.675,
+      1.5,
+      -0.325
+     ],
+     "name": "i_vec",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.47,
+      -0.923,
+      1.53,
+      -0.75
+     ],
+     "name": "i_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      -0.5,
+      0.125,
+      0.5
+     ],
+     "name": "j_vec",
+     "line": 21,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.33,
+      0.389,
+      -0.25,
+      0.611
+     ],
+     "name": "j_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.5,
+      3.0,
+      2.5
+     ],
+     "name": "v_vec",
+     "line": 32,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      2.75,
+      3.388,
+      2.862
+     ],
+     "name": "v_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.675,
+      3.0,
+      -0.325
+     ],
+     "name": "v_comp_i",
+     "line": 28,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.825,
+      -0.5,
+      3.175,
+      2.5
+     ],
+     "name": "v_comp_j",
+     "line": 42,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.984,
+      3.128,
+      0.984,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.675,
+      1.5,
+      -0.325
+     ],
+     "name": "i_vec",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.47,
+      -0.923,
+      1.53,
+      -0.75
+     ],
+     "name": "i_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.125,
+      -0.5,
+      0.125,
+      0.5
+     ],
+     "name": "j_vec",
+     "line": 21,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.33,
+      0.389,
+      -0.25,
+      0.611
+     ],
+     "name": "j_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.5,
+      3.0,
+      2.5
+     ],
+     "name": "v_vec",
+     "line": 32,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      2.75,
+      3.388,
+      2.862
+     ],
+     "name": "v_label",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -0.675,
+      3.0,
+      -0.325
+     ],
+     "name": "v_comp_i",
+     "line": 28,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.825,
+      -0.5,
+      3.175,
+      2.5
+     ],
+     "name": "v_comp_j",
+     "line": 42,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 11,
+     "type": "Axes"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

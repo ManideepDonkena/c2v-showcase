@@ -1,0 +1,51 @@
+{
+ "stage": "F3",
+ "mode": "learner_all",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s1": [
+   "SHOW a chain of three colored circles labeled '4', '(-1)', and '2' arranged horizontally. SAY 'When chaining, we go left to right.' Animate the first two circles ('4' and '(-1)') merging into a single dark circle labeled '-1'. Then, animate this new '-1' circle moving to merge with the third circle ('2'). SHOW the final result as just the dark circle labeled '-1'. SAY 'Because -1 swallows everything it touches, the entire chain collapses to -1.'",
+   "SHOW the formula '(-1) + 5 + ((-1) × 5)' expanding on screen, then animate the calculation steps to explicitly show '-1 + 5 - 5' simplifying to '-1'. SAY: 'Even though 5 is added, the multiplication term (-1 × 5) cancels it out completely, leaving only the absorbing element.'",
+   "SHOW a nested structure like 'a ⊕ (b ⊕ c)' where the inner parentheses '(b ⊕ c)' are highlighted as a single unit that must be calculated first to produce an intermediate result, which is then used in the outer operation. SAY: 'When parentheses exist, you must solve the inside group before applying the outside operation, just like standard order of operations.'"
+  ],
+  "s2": [
+   "SHOW a chain of three colored circles labeled '4', '(-1)', and '2' arranged horizontally. SAY 'When chaining, we go left to right.' Animate the first two circles ('4' and '(-1)') merging into a single dark circle labeled '-1'. Then, animate this new '-1' circle moving to merge with the third circle ('2'). SHOW the final result as just the dark circle labeled '-1'. SAY 'Because -1 swallows everything it touches, the entire chain collapses to -1.'",
+   "SHOW the formula '(-1) + 5 + ((-1) × 5)' expanding on screen, then animate the calculation steps to explicitly show '-1 + 5 - 5' simplifying to '-1'. SAY: 'Even though 5 is added, the multiplication term (-1 × 5) cancels it out completely, leaving only the absorbing element.'",
+   "SHOW a nested structure like 'a ⊕ (b ⊕ c)' where the inner parentheses '(b ⊕ c)' are highlighted as a single unit that must be calculated first to produce an intermediate result, which is then used in the outer operation. SAY: 'When parentheses exist, you must solve the inside group before applying the outside operation, just like standard order of operations.'"
+  ],
+  "s3": [
+   "SHOW a chain of three colored circles labeled '4', '(-1)', and '2' arranged horizontally. SAY 'When chaining, we go left to right.' Animate the first two circles ('4' and '(-1)') merging into a single dark circle labeled '-1'. Then, animate this new '-1' circle moving to merge with the third circle ('2'). SHOW the final result as just the dark circle labeled '-1'. SAY 'Because -1 swallows everything it touches, the entire chain collapses to -1.'",
+   "SHOW the formula '(-1) + 5 + ((-1) × 5)' expanding on screen, then animate the calculation steps to explicitly show '-1 + 5 - 5' simplifying to '-1'. SAY: 'Even though 5 is added, the multiplication term (-1 × 5) cancels it out completely, leaving only the absorbing element.'",
+   "SHOW a nested structure like 'a ⊕ (b ⊕ c)' where the inner parentheses '(b ⊕ c)' are highlighted as a single unit that must be calculated first to produce an intermediate result, which is then used in the outer operation. SAY: 'When parentheses exist, you must solve the inside group before applying the outside operation, just like standard order of operations.'"
+  ],
+  "s4": [
+   "SHOW a chain of three colored circles labeled '4', '(-1)', and '2' arranged horizontally. SAY 'When chaining, we go left to right.' Animate the first two circles ('4' and '(-1)') merging into a single dark circle labeled '-1'. Then, animate this new '-1' circle moving to merge with the third circle ('2'). SHOW the final result as just the dark circle labeled '-1'. SAY 'Because -1 swallows everything it touches, the entire chain collapses to -1.'",
+   "SHOW the formula '(-1) + 5 + ((-1) × 5)' expanding on screen, then animate the calculation steps to explicitly show '-1 + 5 - 5' simplifying to '-1'. SAY: 'Even though 5 is added, the multiplication term (-1 × 5) cancels it out completely, leaving only the absorbing element.'",
+   "SHOW a nested structure like 'a ⊕ (b ⊕ c)' where the inner parentheses '(b ⊕ c)' are highlighted as a single unit that must be calculated first to produce an intermediate result, which is then used in the outer operation. SAY: 'When parentheses exist, you must solve the inside group before applying the outside operation, just like standard order of operations.'"
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "edit_size": {
+  "s1": 0.735,
+  "s2": 0.745,
+  "s3": 0.73,
+  "s4": 0.798
+ },
+ "diagnosis": "f3",
+ "dev_before": 0.7852851999999999,
+ "dev_after": 0.89994165,
+ "mvqs_before": 84.3,
+ "mvqs_after": 69.06,
+ "kept": false,
+ "served": "base"
+}

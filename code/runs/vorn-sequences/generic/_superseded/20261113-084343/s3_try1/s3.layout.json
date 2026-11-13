@@ -1,0 +1,27 @@
+{
+ "score": {
+  "mvqs": 86.48,
+  "s_sp": 96.3,
+  "s_ly": 41.6,
+  "s_ed": 100.0,
+  "states": 12,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 68.34,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 68.7,
+   "conflict": "Text \"odd_label\" (created line 33, box [-1.152, -0.629, -0.52, -0.371]) overlaps Tex \"seq_group\" (line 19, box [-0.86, -0.6, -0.74, -0.4]) by 100%; moving it by [0.0, 0.38] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.48,
+   "conflict": "Text \"odd_label\" (created line 33, box [-1.152, -0.249, -0.52, 0.009]) overlaps Circle \"seq_group\" (line 18, box [-1.2, -0.9, -0.4, -0.1]) by 57%; moving it by [0.0, 0.3] would clear it"
+  }
+ ]
+}

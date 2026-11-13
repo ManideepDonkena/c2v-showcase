@@ -1,0 +1,43 @@
+{
+ "stage": "F3",
+ "mode": "learner_all",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s1": [
+   "SHOW a triangle with sides labeled '2', '3', and '4' (identifying 4 as longest and 2 as shortest). SAY: 'Check the rule: Is twice the longest side at most three times the shortest?' SHOW the calculation '2 × 4 ≤ 3 × 2' animating in, which resolves to '8 ≤ 6'. SHOW a red X or pulse red to indicate the condition fails."
+  ],
+  "s2": [
+   "SHOW a triangle with sides labeled '2', '3', and '4' (identifying 4 as longest and 2 as shortest). SAY: 'Check the rule: Is twice the longest side at most three times the shortest?' SHOW the calculation '2 × 4 ≤ 3 × 2' animating in, which resolves to '8 ≤ 6'. SHOW a red X or pulse red to indicate the condition fails."
+  ],
+  "s3": [
+   "SHOW a triangle with sides labeled '2', '3', and '4' (identifying 4 as longest and 2 as shortest). SAY: 'Check the rule: Is twice the longest side at most three times the shortest?' SHOW the calculation '2 × 4 ≤ 3 × 2' animating in, which resolves to '8 ≤ 6'. SHOW a red X or pulse red to indicate the condition fails."
+  ],
+  "s4": [
+   "SHOW a triangle with sides labeled '2', '3', and '4' (identifying 4 as longest and 2 as shortest). SAY: 'Check the rule: Is twice the longest side at most three times the shortest?' SHOW the calculation '2 × 4 ≤ 3 × 2' animating in, which resolves to '8 ≤ 6'. SHOW a red X or pulse red to indicate the condition fails."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "edit_size": {
+  "s1": 0.699,
+  "s2": 0.746,
+  "s3": 0.78,
+  "s4": 0.809
+ },
+ "diagnosis": "f3",
+ "dev_before": 0.8162924545454545,
+ "dev_after": 0.8168699545454546,
+ "mvqs_before": 85.12,
+ "mvqs_after": 80.56,
+ "kept": true,
+ "served": "revision"
+}

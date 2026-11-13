@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 77.26,
+  "s_sp": 92.9,
+  "s_ly": 36.2,
+  "s_ed": 78.6,
+  "states": 14,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 73.25,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.78,
+   "conflict": "Text \"result_label\" (created line 41, box [-0.48, -0.129, 0.48, 0.129]) overlaps MathTex \"a_op_b\" (line 11, box [-0.441, -0.161, 0.441, 0.161]) by 91%; moving it by [0.0, 0.44] would clear it"
+  },
+  {
+   "level": "section",
+   "mvqs": 77.26,
+   "conflict": "Text \"rule2\" (created line 55, box [-1.86, 0.605, 1.86, 0.902]) overlaps Circle \"circle_b\" (line 32, box [-1.0, -1.0, 1.0, 1.0]) by 53%; moving it by [0.0, 0.55] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"rule3\" (created line 56, box [-3.0, 0.371, 3.0, 0.705]) overlaps Circle \"circle_b\" (line 18, box [-1.0, -1.0, 1.0, 1.0]) by 33%; moving it by [0.0, 0.78] would clear it"
+  }
+ ]
+}

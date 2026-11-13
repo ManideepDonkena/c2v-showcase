@@ -1,0 +1,469 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.45,
+      1.342,
+      -1.55,
+      1.658
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.144,
+      1.342,
+      -1.867,
+      1.619
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.728,
+      1.368,
+      -1.55,
+      1.658
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.144,
+      1.342,
+      -1.867,
+      1.619
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.728,
+      1.368,
+      -1.55,
+      1.658
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.3,
+      1.355,
+      -0.684,
+      1.645
+     ],
+     "name": "left_result",
+     "line": 20,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.144,
+      1.342,
+      -1.867,
+      1.619
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.728,
+      1.368,
+      -1.55,
+      1.658
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.3,
+      1.355,
+      -0.684,
+      1.645
+     ],
+     "name": "left_result",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.559,
+      1.342,
+      2.441,
+      1.658
+     ],
+     "name": "right_expr",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 39,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.144,
+      1.342,
+      -1.867,
+      1.619
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.728,
+      1.368,
+      -1.55,
+      1.658
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.3,
+      1.355,
+      -0.684,
+      1.645
+     ],
+     "name": "left_result",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.559,
+      1.342,
+      2.441,
+      1.658
+     ],
+     "name": "right_expr",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.691,
+      1.355,
+      3.308,
+      1.645
+     ],
+     "name": "right_result",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.144,
+      1.342,
+      -1.867,
+      1.619
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.728,
+      1.368,
+      -1.55,
+      1.658
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.3,
+      1.355,
+      -0.684,
+      1.645
+     ],
+     "name": "left_result",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.559,
+      1.342,
+      2.441,
+      1.658
+     ],
+     "name": "right_expr",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.691,
+      1.355,
+      3.308,
+      1.645
+     ],
+     "name": "right_result",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.897,
+      -3.5,
+      1.897,
+      -3.166
+     ],
+     "name": "identity_explanation",
+     "line": 43,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.144,
+      1.342,
+      -1.867,
+      1.619
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.728,
+      1.368,
+      -1.55,
+      1.658
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "VMobjectFromSVGPath"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.3,
+      1.355,
+      -0.684,
+      1.645
+     ],
+     "name": "left_result",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.559,
+      1.342,
+      2.441,
+      1.658
+     ],
+     "name": "right_expr",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.691,
+      1.355,
+      3.308,
+      1.645
+     ],
+     "name": "right_result",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.01,
+      -3.5,
+      1.01,
+      -3.243
+     ],
+     "name": "commutative_text",
+     "line": 48,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": []
+  }
+ ],
+ "error": null
+}

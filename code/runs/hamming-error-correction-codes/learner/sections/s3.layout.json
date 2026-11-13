@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 79.01,
+  "s_sp": 90.2,
+  "s_ly": 52.9,
+  "s_ed": 77.9,
+  "states": 19,
+  "states_with_conflict": 7
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 63.71,
+   "conflicts": 10
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.52,
+   "conflict": "Dot \"error_dot\" (created line 17, box [-5.787, 1.42, -5.627, 1.58]) overlaps MathTex \"codeword\" (line 11, box [-6.611, 1.243, -5.206, 1.757]) by 100%; moving it by [0.0, 0.49] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.9,
+   "conflict": "MathTex \"syndrome\" (created line 37, box [-7.168, -0.1, -4.649, 0.443]) is outside the frame; shift it by [0.21, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.01,
+   "conflict": "MathTex \"codeword2\" (created line 64, box [-6.611, 1.243, -5.206, 1.757]) overlaps MathTex \"codeword\" (line 11, box [-6.611, 1.243, -5.206, 1.757]) by 100%; moving it by [0.0, 0.66] would clear it"
+  }
+ ]
+}

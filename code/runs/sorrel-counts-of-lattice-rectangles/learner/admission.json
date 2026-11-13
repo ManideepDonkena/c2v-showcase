@@ -1,0 +1,105 @@
+{
+ "topic": "Sorrel counts of lattice rectangles",
+ "before": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 71.52,
+   "conflicts": 4,
+   "ok": false
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 92.12,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 81.13,
+   "conflicts": 4,
+   "ok": false
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 76.21,
+   "conflicts": 2,
+   "ok": false
+  }
+ },
+ "regenerated": {
+  "s1": {
+   "tries": [
+    {
+     "id": "s1",
+     "mvqs": 67.0,
+     "conflicts": 3,
+     "rendered": true,
+     "ok": false
+    }
+   ],
+   "kept": "s1_try1"
+  },
+  "s3": {
+   "tries": [
+    {
+     "id": "s3",
+     "mvqs": 87.0,
+     "conflicts": 1,
+     "rendered": true,
+     "ok": false
+    }
+   ],
+   "kept": "s3_try1"
+  },
+  "s4": {
+   "tries": [
+    {
+     "id": "s4",
+     "mvqs": 73.94,
+     "conflicts": 1,
+     "rendered": true,
+     "ok": false
+    }
+   ],
+   "kept": "s4_try1"
+  }
+ },
+ "min_mvqs": 70.0,
+ "superseded": "/home/mani/c2v-lab/runs/sorrel-counts-of-lattice-rectangles/_superseded/20261113-084509",
+ "after": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 67.0,
+   "conflicts": 3,
+   "ok": false
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 92.12,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": true,
+   "mvqs": 87.0,
+   "conflicts": 1,
+   "ok": false
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 73.94,
+   "conflicts": 1,
+   "ok": false
+  }
+ },
+ "complete": true,
+ "clean": false
+}

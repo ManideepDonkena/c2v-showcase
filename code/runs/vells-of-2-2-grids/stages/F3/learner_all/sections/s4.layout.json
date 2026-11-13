@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 71.37,
+  "s_sp": 81.5,
+  "s_ly": 54.5,
+  "s_ed": 65.7,
+  "states": 14,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.1,
+   "conflicts": 11
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.36,
+   "conflict": "MathTex \"result1\" (created line 33, box [-0.536, -4.0, 0.536, -3.777]) overlaps MathTex \"step3\" (line 28, box [-1.162, -3.937, 1.162, -3.723]) by 71%; moving it by [0.0, 0.43] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 71.37,
+   "conflict": "MathTex \"result1\" (created line 33, box [-0.536, -3.57, 0.536, -3.347]) overlaps MathTex \"step2\" (line 24, box [-1.159, -3.473, 1.159, -3.25]) by 56%; moving it by [0.0, -0.28] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"result1\" (created line 33, box [-0.787, -3.57, 0.787, -3.347]) overlaps MathTex \"step2\" (line 24, box [-1.159, -3.473, 1.159, -3.25]) by 56%; moving it by [0.0, -0.28] would clear it"
+  }
+ ]
+}

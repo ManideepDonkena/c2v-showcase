@@ -1,0 +1,220 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "Which definition correctly identifies a mirthful triangle?",
+   "options": {
+    "A": "Longest side ≤ 1.5 × shortest side",
+    "B": "Longest side ≤ 2 × shortest side",
+    "C": "Shortest side ≥ 1.5 × longest side",
+    "D": "Middle side ≤ 1.5 × shortest side"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q2",
+   "question": "Why is an equilateral triangle always mirthful?",
+   "options": {
+    "A": "All sides are equal, so ratio is 1",
+    "B": "It has three equal angles",
+    "C": "Its area is always positive",
+    "D": "It fits inside a circle"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q3",
+   "question": "A triangle has sides 10, 20, 30. Is it mirthful?",
+   "options": {
+    "A": "Yes",
+    "B": "No",
+    "C": "Maybe",
+    "D": "Unknown"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q4",
+   "question": "If a triangle with sides 6, 8, 10 is mirthful, what about sides 3, 4, 5?",
+   "options": {
+    "A": "Also mirthful",
+    "B": "Not mirthful",
+    "C": "Depends on angles",
+    "D": "Cannot determine"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q5",
+   "question": "Sides are 4, 10, 12. Is it mirthful?",
+   "options": {
+    "A": "Yes",
+    "B": "No",
+    "C": "Only if right",
+    "D": "Only if acute"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q6",
+   "question": "Sides are 5, 100, 101. Is it mirthful?",
+   "options": {
+    "A": "Yes",
+    "B": "No",
+    "C": "Only if isosceles",
+    "D": "Depends on height"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q7",
+   "question": "Sides are 10, 14, 15. Is it mirthful?",
+   "options": {
+    "A": "Yes",
+    "B": "No",
+    "C": "Only if obtuse",
+    "D": "Depends on perimeter"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q8",
+   "question": "Why does the middle side not affect mirthfulness?",
+   "options": {
+    "A": "Definition uses only min/max",
+    "B": "It is always average",
+    "C": "It determines area",
+    "D": "It fixes angles"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q9",
+   "question": "Sides are 2, 3, 4. Is it mirthful?",
+   "options": {
+    "A": "Yes",
+    "B": "No",
+    "C": "Only if equilateral",
+    "D": "Depends on scale"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q10",
+   "question": "Sides are 4, 5, 6. Is it mirthful?",
+   "options": {
+    "A": "Yes",
+    "B": "No",
+    "C": "Only if scaled",
+    "D": "Depends on type"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q11",
+   "question": "What is the common misconception about scaling?",
+   "options": {
+    "A": "Scaling changes mirthfulness",
+    "B": "Scaling changes shape",
+    "C": "Scaling changes angles",
+    "D": "Scaling changes area only"
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "Which triangle is mirthful?",
+   "options": {
+    "A": "sides 4, 4, 7",
+    "B": "sides 3, 4, 5",
+    "C": "sides 2, 3, 4",
+    "D": "sides 5, 6, 7"
+   },
+   "answer": "D",
+   "id": "t1"
+  },
+  {
+   "question": "Is a triangle with sides 3, 4, 5 mirthful?",
+   "options": {
+    "A": "Yes",
+    "B": "It cannot be told",
+    "C": "No",
+    "D": "Only if it is right-angled"
+   },
+   "answer": "C",
+   "id": "t2"
+  },
+  {
+   "question": "Is every equilateral triangle mirthful?",
+   "options": {
+    "A": "Only large ones",
+    "B": "Yes",
+    "C": "No",
+    "D": "Only small ones"
+   },
+   "answer": "B",
+   "id": "t3"
+  },
+  {
+   "question": "A mirthful triangle is doubled in size. Is it still mirthful?",
+   "options": {
+    "A": "No, never",
+    "B": "Only if it was equilateral",
+    "C": "Yes, always",
+    "D": "Only if its sides are even"
+   },
+   "answer": "C",
+   "id": "t4"
+  },
+  {
+   "question": "Which sides matter for being mirthful?",
+   "options": {
+    "A": "Only the longest",
+    "B": "Only the middle one",
+    "C": "All three equally",
+    "D": "Only the longest and the shortest"
+   },
+   "answer": "D",
+   "id": "t5"
+  },
+  {
+   "question": "Sides 6, 8, 9: is the triangle mirthful?",
+   "options": {
+    "A": "No",
+    "B": "Yes",
+    "C": "It cannot be told",
+    "D": "Only if 8 is the base"
+   },
+   "answer": "B",
+   "id": "t6"
+  },
+  {
+   "question": "Sides 4, 6, 7: is the triangle mirthful?",
+   "options": {
+    "A": "No",
+    "B": "It cannot be told",
+    "C": "Only if 6 is the base",
+    "D": "Yes"
+   },
+   "answer": "A",
+   "id": "t7"
+  },
+  {
+   "question": "The shortest side is 10. What is the longest the longest side can be for a mirthful triangle?",
+   "options": {
+    "A": "15",
+    "B": "20",
+    "C": "30",
+    "D": "10"
+   },
+   "answer": "A",
+   "id": "t8"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 11,
+ "dev_leaked": []
+}

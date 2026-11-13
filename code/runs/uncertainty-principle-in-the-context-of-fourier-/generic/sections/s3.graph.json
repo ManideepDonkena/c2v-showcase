@@ -1,0 +1,738 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      0.743,
+      1.067,
+      1.0
+     ],
+     "name": "time_label",
+     "line": 18,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 22,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      0.743,
+      1.067,
+      1.0
+     ],
+     "name": "time_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.991,
+      0.666,
+      5.009,
+      1.0
+     ],
+     "name": "freq_label",
+     "line": 21,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      0.743,
+      1.067,
+      1.0
+     ],
+     "name": "time_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.991,
+      0.666,
+      5.009,
+      1.0
+     ],
+     "name": "freq_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "slider_line",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "slider_dot",
+     "line": 28,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.165,
+      -0.465,
+      1.165,
+      -0.25
+     ],
+     "name": "slider_label",
+     "line": 30,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      0.743,
+      1.067,
+      1.0
+     ],
+     "name": "time_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.991,
+      0.666,
+      5.009,
+      1.0
+     ],
+     "name": "freq_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "slider_line",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "slider_dot",
+     "line": 28,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.165,
+      -0.465,
+      1.165,
+      -0.25
+     ],
+     "name": "slider_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.1,
+      0.5,
+      0.9
+     ],
+     "name": "initial_pulse",
+     "line": 32,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.5,
+      -1.48,
+      4.5,
+      0.52
+     ],
+     "name": "initial_spectrum",
+     "line": 99,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 51,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      0.743,
+      1.067,
+      1.0
+     ],
+     "name": "time_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.991,
+      0.666,
+      5.009,
+      1.0
+     ],
+     "name": "freq_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "slider_line",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "slider_dot",
+     "line": 28,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.165,
+      -0.465,
+      1.165,
+      -0.25
+     ],
+     "name": "slider_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.1,
+      0.5,
+      0.9
+     ],
+     "name": "initial_pulse",
+     "line": 32,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.5,
+      -1.48,
+      4.5,
+      0.52
+     ],
+     "name": "initial_spectrum",
+     "line": 99,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.993,
+      2.242,
+      0.993,
+      3.0
+     ],
+     "name": "formula",
+     "line": 49,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      0.743,
+      1.067,
+      1.0
+     ],
+     "name": "time_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.991,
+      0.666,
+      5.009,
+      1.0
+     ],
+     "name": "freq_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "slider_line",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.52,
+      -0.08,
+      0.68,
+      0.08
+     ],
+     "name": "slider_dot",
+     "line": 28,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.165,
+      -0.465,
+      1.165,
+      -0.25
+     ],
+     "name": "slider_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.1,
+      0.5,
+      0.9
+     ],
+     "name": "initial_pulse",
+     "line": 32,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.5,
+      -1.48,
+      4.5,
+      0.52
+     ],
+     "name": "initial_spectrum",
+     "line": 99,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.993,
+      2.242,
+      0.993,
+      3.0
+     ],
+     "name": "formula",
+     "line": 49,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      0.743,
+      1.067,
+      1.0
+     ],
+     "name": "time_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.991,
+      0.666,
+      5.009,
+      1.0
+     ],
+     "name": "freq_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "slider_line",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "slider_dot",
+     "line": 28,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.165,
+      -0.465,
+      1.165,
+      -0.25
+     ],
+     "name": "slider_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.1,
+      0.5,
+      0.9
+     ],
+     "name": "initial_pulse",
+     "line": 32,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.5,
+      -1.48,
+      4.5,
+      0.52
+     ],
+     "name": "initial_spectrum",
+     "line": 99,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.993,
+      2.242,
+      0.993,
+      3.0
+     ],
+     "name": "formula",
+     "line": 49,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.616,
+      3.11,
+      1.616,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.067,
+      0.743,
+      1.067,
+      1.0
+     ],
+     "name": "time_label",
+     "line": 18,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.991,
+      0.666,
+      5.009,
+      1.0
+     ],
+     "name": "freq_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "slider_line",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": "slider_dot",
+     "line": 28,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.165,
+      -0.465,
+      1.165,
+      -0.25
+     ],
+     "name": "slider_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.1,
+      0.5,
+      0.9
+     ],
+     "name": "initial_pulse",
+     "line": 32,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.5,
+      -1.48,
+      4.5,
+      0.52
+     ],
+     "name": "initial_spectrum",
+     "line": 99,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.993,
+      2.242,
+      0.993,
+      3.0
+     ],
+     "name": "formula",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.401,
+      -3.5,
+      5.401,
+      -3.163
+     ],
+     "name": "text",
+     "line": 70,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 75,
+   "objects": []
+  }
+ ],
+ "error": null
+}

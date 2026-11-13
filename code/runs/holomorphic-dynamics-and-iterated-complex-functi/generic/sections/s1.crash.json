@@ -1,0 +1,161 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.322,
+      3.11,
+      2.322,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.322,
+      3.11,
+      2.322,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.5,
+      -3.0,
+      4.5,
+      3.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.322,
+      3.11,
+      2.322,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.5,
+      -3.0,
+      4.5,
+      3.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.357,
+      3.149,
+      6.611,
+      3.5
+     ],
+     "name": "func_label",
+     "line": 23,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.322,
+      3.11,
+      2.322,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -4.5,
+      -3.0,
+      4.5,
+      3.0
+     ],
+     "name": "plane",
+     "line": 12,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.357,
+      3.149,
+      6.611,
+      3.5
+     ],
+     "name": "func_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "origin",
+     "line": 29,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.052,
+      -0.351,
+      0.052,
+      -0.18
+     ],
+     "name": "origin_label",
+     "line": 30,
+     "type": "Tex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "latex error converting to dvi. See log output above or the log file: media/Tex/a5f52792e25964d9.log",
+  "line": 36
+ }
+}

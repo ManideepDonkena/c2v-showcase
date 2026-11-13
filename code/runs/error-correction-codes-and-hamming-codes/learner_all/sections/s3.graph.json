@@ -1,0 +1,7395 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -1.2,
+      0.2,
+      1.2
+     ],
+     "name": "p1_circle",
+     "line": 32,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -0.2,
+      1.2,
+      2.2
+     ],
+     "name": "p2_circle",
+     "line": 33,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -1.2,
+      2.2,
+      1.2
+     ],
+     "name": "p4_circle",
+     "line": 34,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -1.2,
+      0.2,
+      1.2
+     ],
+     "name": "p1_circle",
+     "line": 32,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -0.2,
+      1.2,
+      2.2
+     ],
+     "name": "p2_circle",
+     "line": 33,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -1.2,
+      2.2,
+      1.2
+     ],
+     "name": "p4_circle",
+     "line": 34,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.144,
+      -1.62,
+      -0.856,
+      -1.45
+     ],
+     "name": "p1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.148,
+      2.45,
+      0.148,
+      2.62
+     ],
+     "name": "p2_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.849,
+      -1.62,
+      1.151,
+      -1.45
+     ],
+     "name": "p4_label",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -1.2,
+      0.2,
+      1.2
+     ],
+     "name": "p1_circle",
+     "line": 32,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -0.2,
+      1.2,
+      2.2
+     ],
+     "name": "p2_circle",
+     "line": 33,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -1.2,
+      2.2,
+      1.2
+     ],
+     "name": "p4_circle",
+     "line": 34,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.144,
+      -1.62,
+      -0.856,
+      -1.45
+     ],
+     "name": "p1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.148,
+      2.45,
+      0.148,
+      2.62
+     ],
+     "name": "p2_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.849,
+      -1.62,
+      1.151,
+      -1.45
+     ],
+     "name": "p4_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.154,
+      0.915,
+      -0.846,
+      1.085
+     ],
+     "name": "d1",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.157,
+      -0.085,
+      0.157,
+      0.085
+     ],
+     "name": "d2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.842,
+      0.912,
+      1.158,
+      1.088
+     ],
+     "name": "d3",
+     "line": 40,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -1.2,
+      0.2,
+      1.2
+     ],
+     "name": "p1_circle",
+     "line": 32,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -0.2,
+      1.2,
+      2.2
+     ],
+     "name": "p2_circle",
+     "line": 33,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -1.2,
+      2.2,
+      1.2
+     ],
+     "name": "p4_circle",
+     "line": 34,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.144,
+      -1.62,
+      -0.856,
+      -1.45
+     ],
+     "name": "p1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.148,
+      2.45,
+      0.148,
+      2.62
+     ],
+     "name": "p2_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.849,
+      -1.62,
+      1.151,
+      -1.45
+     ],
+     "name": "p4_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.154,
+      0.915,
+      -0.846,
+      1.085
+     ],
+     "name": "d1",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.157,
+      -0.085,
+      0.157,
+      0.085
+     ],
+     "name": "d2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.842,
+      0.912,
+      1.158,
+      1.088
+     ],
+     "name": "d3",
+     "line": 40,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -1.2,
+      0.2,
+      1.2
+     ],
+     "name": "p1_circle",
+     "line": 32,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -0.2,
+      1.2,
+      2.2
+     ],
+     "name": "p2_circle",
+     "line": 33,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -1.2,
+      2.2,
+      1.2
+     ],
+     "name": "p4_circle",
+     "line": 34,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.144,
+      -1.62,
+      -0.856,
+      -1.45
+     ],
+     "name": "p1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.148,
+      2.45,
+      0.148,
+      2.62
+     ],
+     "name": "p2_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.849,
+      -1.62,
+      1.151,
+      -1.45
+     ],
+     "name": "p4_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.154,
+      0.915,
+      -0.846,
+      1.085
+     ],
+     "name": "d1",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.157,
+      -0.085,
+      0.157,
+      0.085
+     ],
+     "name": "d2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.842,
+      0.912,
+      1.158,
+      1.088
+     ],
+     "name": "d3",
+     "line": 40,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 67,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -1.2,
+      0.2,
+      1.2
+     ],
+     "name": "p1_circle",
+     "line": 32,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -0.2,
+      1.2,
+      2.2
+     ],
+     "name": "p2_circle",
+     "line": 33,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -1.2,
+      2.2,
+      1.2
+     ],
+     "name": "p4_circle",
+     "line": 34,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.144,
+      -1.62,
+      -0.856,
+      -1.45
+     ],
+     "name": "p1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.148,
+      2.45,
+      0.148,
+      2.62
+     ],
+     "name": "p2_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.849,
+      -1.62,
+      1.151,
+      -1.45
+     ],
+     "name": "p4_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.154,
+      0.915,
+      -0.846,
+      1.085
+     ],
+     "name": "d1",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.157,
+      -0.085,
+      0.157,
+      0.085
+     ],
+     "name": "d2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.842,
+      0.912,
+      1.158,
+      1.088
+     ],
+     "name": "d3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.221,
+      -3.5,
+      0.221,
+      -3.272
+     ],
+     "name": "syndrome",
+     "line": 66,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -1.2,
+      0.2,
+      1.2
+     ],
+     "name": "p1_circle",
+     "line": 32,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -0.2,
+      1.2,
+      2.2
+     ],
+     "name": "p2_circle",
+     "line": 33,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -1.2,
+      2.2,
+      1.2
+     ],
+     "name": "p4_circle",
+     "line": 34,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.144,
+      -1.62,
+      -0.856,
+      -1.45
+     ],
+     "name": "p1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.148,
+      2.45,
+      0.148,
+      2.62
+     ],
+     "name": "p2_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.849,
+      -1.62,
+      1.151,
+      -1.45
+     ],
+     "name": "p4_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.154,
+      0.915,
+      -0.846,
+      1.085
+     ],
+     "name": "d1",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.157,
+      -0.085,
+      0.157,
+      0.085
+     ],
+     "name": "d2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.842,
+      0.912,
+      1.158,
+      1.088
+     ],
+     "name": "d3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.221,
+      -3.5,
+      0.221,
+      -3.272
+     ],
+     "name": "syndrome",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      0.385,
+      -5.853,
+      0.555
+     ],
+     "name": "mapping",
+     "line": 72,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.608,
+      -0.085,
+      -5.855,
+      0.085
+     ],
+     "name": "mapping",
+     "line": 73,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.605,
+      -0.555,
+      -5.859,
+      -0.385
+     ],
+     "name": "mapping",
+     "line": 74,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 81,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.645,
+      3.0,
+      4.645,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.075,
+      -0.25,
+      -6.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.859,
+      -0.069,
+      -6.791,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.075,
+      -0.25,
+      -5.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.866,
+      -0.069,
+      -5.784,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -5.075,
+      -0.25,
+      -4.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.868,
+      -0.071,
+      -4.782,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.075,
+      -0.25,
+      -3.575,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.871,
+      -0.07,
+      -3.779,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.525,
+      -0.25,
+      -3.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.316,
+      -0.071,
+      -3.234,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.525,
+      -0.25,
+      -2.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.318,
+      -0.071,
+      -2.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.525,
+      -0.25,
+      -1.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.32,
+      -0.072,
+      -1.23,
+      0.072
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.525,
+      -0.25,
+      -0.025,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.318,
+      -0.071,
+      -0.232,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.025,
+      -0.25,
+      0.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.232,
+      -0.071,
+      0.318,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.025,
+      -0.25,
+      1.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.185,
+      -0.071,
+      1.365,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.025,
+      -0.25,
+      2.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.189,
+      -0.069,
+      2.361,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.025,
+      -0.25,
+      3.525,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.186,
+      -0.069,
+      3.364,
+      0.069
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.575,
+      -0.25,
+      4.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.735,
+      -0.071,
+      3.915,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      4.575,
+      -0.25,
+      5.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.733,
+      -0.07,
+      4.917,
+      0.07
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      5.575,
+      -0.25,
+      6.075,
+      0.25
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.736,
+      -0.071,
+      5.914,
+      0.071
+     ],
+     "name": "grid",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      6.575,
+      -0.25,
+      7.075,
+      0.25
+     ],
+     "name": "cell",
+     "line": 15,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.735,
+      -0.071,
+      6.915,
+      0.071
+     ],
+     "name": "label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.2,
+      -1.2,
+      0.2,
+      1.2
+     ],
+     "name": "p1_circle",
+     "line": 32,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.2,
+      -0.2,
+      1.2,
+      2.2
+     ],
+     "name": "p2_circle",
+     "line": 33,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.2,
+      -1.2,
+      2.2,
+      1.2
+     ],
+     "name": "p4_circle",
+     "line": 34,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.144,
+      -1.62,
+      -0.856,
+      -1.45
+     ],
+     "name": "p1_label",
+     "line": 36,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.148,
+      2.45,
+      0.148,
+      2.62
+     ],
+     "name": "p2_label",
+     "line": 37,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.849,
+      -1.62,
+      1.151,
+      -1.45
+     ],
+     "name": "p4_label",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.154,
+      0.915,
+      -0.846,
+      1.085
+     ],
+     "name": "d1",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.157,
+      -0.085,
+      0.157,
+      0.085
+     ],
+     "name": "d2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.842,
+      0.912,
+      1.158,
+      1.088
+     ],
+     "name": "d3",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.221,
+      -3.5,
+      0.221,
+      -3.272
+     ],
+     "name": "syndrome",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      0.385,
+      -5.853,
+      0.555
+     ],
+     "name": "mapping",
+     "line": 72,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.608,
+      -0.085,
+      -5.855,
+      0.085
+     ],
+     "name": "mapping",
+     "line": 73,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.605,
+      -0.555,
+      -5.859,
+      -0.385
+     ],
+     "name": "mapping",
+     "line": 74,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.166,
+      -2.095,
+      1.166,
+      -1.905
+     ],
+     "name": "calc",
+     "line": 80,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 85,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 106,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.236,
+      3.272,
+      0.236,
+      3.5
+     ],
+     "name": "c1",
+     "line": 104,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.221,
+      2.55,
+      0.221,
+      2.772
+     ],
+     "name": "c2",
+     "line": 105,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 111,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.236,
+      3.272,
+      0.236,
+      3.5
+     ],
+     "name": "c1",
+     "line": 104,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.221,
+      2.55,
+      0.221,
+      2.772
+     ],
+     "name": "c2",
+     "line": 105,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.471,
+      2.573,
+      1.847,
+      2.749
+     ],
+     "name": "dist",
+     "line": 110,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 115,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 124,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.52,
+      -3.5,
+      0.52,
+      -3.327
+     ],
+     "name": "flip1",
+     "line": 20,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 129,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.52,
+      -3.5,
+      0.52,
+      -3.327
+     ],
+     "name": "flip1",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.917,
+      -3.077,
+      0.917,
+      -2.85
+     ],
+     "name": "amb_syndrome",
+     "line": 128,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 133,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 141,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.512,
+      -3.5,
+      0.512,
+      -3.324
+     ],
+     "name": "p2_flip",
+     "line": 140,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 146,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.512,
+      -3.5,
+      0.512,
+      -3.324
+     ],
+     "name": "p2_flip",
+     "line": 140,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.917,
+      -3.074,
+      0.917,
+      -2.848
+     ],
+     "name": "correct_syndrome",
+     "line": 145,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 150,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 158,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.06,
+      -3.5,
+      4.06,
+      -3.166
+     ],
+     "name": "final",
+     "line": 152,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 161,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -6.866,
+      -0.083,
+      -6.784,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.325,
+      -0.083,
+      -3.225,
+      0.083
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.22,
+      -0.084,
+      0.33,
+      0.084
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.773,
+      -0.086,
+      3.877,
+      0.086
+     ],
+     "name": "label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,1542 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.25,
+      -0.219,
+      2.55,
+      -0.219
+     ],
+     "name": "tangent_line",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.55,
+      -0.219,
+      2.55,
+      0.635
+     ],
+     "name": "tangent_line",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.068,
+      -0.735,
+      2.732,
+      1.151
+     ],
+     "name": "tangent_line",
+     "line": 25,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.25,
+      -0.219,
+      2.55,
+      -0.219
+     ],
+     "name": "tangent_line",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.55,
+      -0.219,
+      2.55,
+      0.635
+     ],
+     "name": "tangent_line",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.068,
+      -0.735,
+      2.732,
+      1.151
+     ],
+     "name": "tangent_line",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.041,
+      -0.304,
+      2.459,
+      -0.133
+     ],
+     "name": "slope_value",
+     "line": 38,
+     "type": "DecimalNumber"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -9.5,
+      6.0,
+      8.5
+     ],
+     "name": "f2_graph",
+     "line": 48,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.978,
+      2.975,
+      5.022,
+      3.5
+     ],
+     "name": "f2_label",
+     "line": 49,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -9.5,
+      6.0,
+      8.5
+     ],
+     "name": "f2_graph",
+     "line": 48,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.978,
+      2.975,
+      5.022,
+      3.5
+     ],
+     "name": "f2_label",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.175,
+      0.35,
+      -2.825,
+      2.4
+     ],
+     "name": "arrow_up",
+     "line": 54,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -9.5,
+      6.0,
+      8.5
+     ],
+     "name": "f2_graph",
+     "line": 48,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.978,
+      2.975,
+      5.022,
+      3.5
+     ],
+     "name": "f2_label",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.175,
+      0.35,
+      -2.825,
+      2.4
+     ],
+     "name": "arrow_up",
+     "line": 54,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.825,
+      -3.4,
+      3.175,
+      -1.35
+     ],
+     "name": "arrow_down",
+     "line": 50,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -9.5,
+      6.0,
+      8.5
+     ],
+     "name": "f2_graph",
+     "line": 48,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.978,
+      2.975,
+      5.022,
+      3.5
+     ],
+     "name": "f2_label",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.175,
+      0.35,
+      -2.825,
+      2.4
+     ],
+     "name": "arrow_up",
+     "line": 54,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.825,
+      -3.4,
+      3.175,
+      -1.35
+     ],
+     "name": "arrow_down",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.85,
+      -3.443,
+      2.15
+     ],
+     "name": "text1",
+     "line": 63,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -9.5,
+      6.0,
+      8.5
+     ],
+     "name": "f2_graph",
+     "line": 48,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.978,
+      2.975,
+      5.022,
+      3.5
+     ],
+     "name": "f2_label",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.175,
+      0.35,
+      -2.825,
+      2.4
+     ],
+     "name": "arrow_up",
+     "line": 54,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.825,
+      -3.4,
+      3.175,
+      -1.35
+     ],
+     "name": "arrow_down",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.85,
+      -3.443,
+      2.15
+     ],
+     "name": "text1",
+     "line": 63,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.176,
+      1.263,
+      -3.878,
+      1.6
+     ],
+     "name": "text2",
+     "line": 64,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -9.5,
+      6.0,
+      8.5
+     ],
+     "name": "f2_graph",
+     "line": 48,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.978,
+      2.975,
+      5.022,
+      3.5
+     ],
+     "name": "f2_label",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.175,
+      0.35,
+      -2.825,
+      2.4
+     ],
+     "name": "arrow_up",
+     "line": 54,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.825,
+      -3.4,
+      3.175,
+      -1.35
+     ],
+     "name": "arrow_down",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.85,
+      -3.443,
+      2.15
+     ],
+     "name": "text1",
+     "line": 63,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.176,
+      1.263,
+      -3.878,
+      1.6
+     ],
+     "name": "text2",
+     "line": 64,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.642,
+      0.713,
+      -3.412,
+      1.013
+     ],
+     "name": "text3",
+     "line": 65,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -9.5,
+      6.0,
+      8.5
+     ],
+     "name": "f2_graph",
+     "line": 48,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.978,
+      2.975,
+      5.022,
+      3.5
+     ],
+     "name": "f2_label",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.175,
+      0.35,
+      -2.825,
+      2.4
+     ],
+     "name": "arrow_up",
+     "line": 54,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.825,
+      -3.4,
+      3.175,
+      -1.35
+     ],
+     "name": "arrow_down",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.85,
+      -3.443,
+      2.15
+     ],
+     "name": "text1",
+     "line": 63,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.176,
+      1.263,
+      -3.878,
+      1.6
+     ],
+     "name": "text2",
+     "line": 64,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.642,
+      0.713,
+      -3.412,
+      1.013
+     ],
+     "name": "text3",
+     "line": 65,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.229,
+      0.127,
+      -3.825,
+      0.463
+     ],
+     "name": "text4",
+     "line": 66,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 78,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "f_graph",
+     "line": 17,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -9.5,
+      6.0,
+      8.5
+     ],
+     "name": "f2_graph",
+     "line": 48,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.978,
+      2.975,
+      5.022,
+      3.5
+     ],
+     "name": "f2_label",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.175,
+      0.35,
+      -2.825,
+      2.4
+     ],
+     "name": "arrow_up",
+     "line": 54,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.825,
+      -3.4,
+      3.175,
+      -1.35
+     ],
+     "name": "arrow_down",
+     "line": 50,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 90,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "concave_up",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -9.5,
+      6.0,
+      8.5
+     ],
+     "name": "f2_graph",
+     "line": 48,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.978,
+      2.975,
+      5.022,
+      3.5
+     ],
+     "name": "f2_label",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.175,
+      0.35,
+      -2.825,
+      2.4
+     ],
+     "name": "arrow_up",
+     "line": 54,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.825,
+      -3.4,
+      3.175,
+      -1.35
+     ],
+     "name": "arrow_down",
+     "line": 50,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 95,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.286,
+      3.116,
+      4.286,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "concave_up",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -9.5,
+      6.0,
+      8.5
+     ],
+     "name": "f2_graph",
+     "line": 48,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.978,
+      2.975,
+      5.022,
+      3.5
+     ],
+     "name": "f2_label",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.175,
+      0.35,
+      -2.825,
+      2.4
+     ],
+     "name": "arrow_up",
+     "line": 54,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.825,
+      -3.4,
+      3.175,
+      -1.35
+     ],
+     "name": "arrow_down",
+     "line": 50,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.234,
+      -3.5,
+      3.234,
+      -3.243
+     ],
+     "name": "final_text",
+     "line": 90,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 98,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -42.5,
+      6.0,
+      41.5
+     ],
+     "name": "concave_up",
+     "line": 83,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.436,
+      3.002,
+      5.224,
+      3.5
+     ],
+     "name": "f_label",
+     "line": 14,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -9.5,
+      6.0,
+      8.5
+     ],
+     "name": "f2_graph",
+     "line": 48,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.978,
+      2.975,
+      5.022,
+      3.5
+     ],
+     "name": "f2_label",
+     "line": 49,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.175,
+      0.35,
+      -2.825,
+      2.4
+     ],
+     "name": "arrow_up",
+     "line": 54,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.825,
+      -3.4,
+      3.175,
+      -1.35
+     ],
+     "name": "arrow_down",
+     "line": 50,
+     "type": "Arrow"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

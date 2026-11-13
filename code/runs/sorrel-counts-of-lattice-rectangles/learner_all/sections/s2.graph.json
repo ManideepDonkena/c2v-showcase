@@ -1,0 +1,4598 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.293,
+      1.25,
+      -1.707,
+      1.437
+     ],
+     "name": "top_count",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.293,
+      -1.697,
+      -1.707,
+      -1.51
+     ],
+     "name": "bottom_count",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.289,
+      -0.097,
+      -3.75,
+      0.097
+     ],
+     "name": "left_count",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.02,
+      -0.097,
+      0.559,
+      0.097
+     ],
+     "name": "right_count",
+     "line": 42,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 51,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.293,
+      1.25,
+      -1.707,
+      1.437
+     ],
+     "name": "top_count",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.293,
+      -1.697,
+      -1.707,
+      -1.51
+     ],
+     "name": "bottom_count",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.289,
+      -0.097,
+      -3.75,
+      0.097
+     ],
+     "name": "left_count",
+     "line": 41,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.02,
+      -0.097,
+      0.559,
+      0.097
+     ],
+     "name": "right_count",
+     "line": 42,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -1.5,
+      3.0,
+      1.5
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -1.5,
+      3.0,
+      1.5
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.196,
+      3.149,
+      1.196,
+      3.46
+     ],
+     "name": "interior_points",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.894,
+      1.877,
+      0.894,
+      2.189
+     ],
+     "name": "edge_points",
+     "line": 61,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -1.5,
+      3.0,
+      1.5
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.196,
+      3.149,
+      1.196,
+      3.46
+     ],
+     "name": "interior_points",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.894,
+      1.877,
+      0.894,
+      2.189
+     ],
+     "name": "edge_points",
+     "line": 61,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.816,
+      1.163,
+      0.816,
+      1.377
+     ],
+     "name": "result",
+     "line": 63,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -1.5,
+      3.0,
+      1.5
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.5,
+      -1.0,
+      0.5,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.5,
+      -1.0,
+      0.5,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.199,
+      2.689,
+      1.199,
+      3.0
+     ],
+     "name": "interior_points_52",
+     "line": 77,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.896,
+      1.877,
+      0.896,
+      2.189
+     ],
+     "name": "edge_points_52",
+     "line": 78,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 83,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.5,
+      -1.0,
+      0.5,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.199,
+      2.689,
+      1.199,
+      3.0
+     ],
+     "name": "interior_points_52",
+     "line": 77,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.896,
+      1.877,
+      0.896,
+      2.189
+     ],
+     "name": "edge_points_52",
+     "line": 78,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.897,
+      1.16,
+      0.897,
+      1.377
+     ],
+     "name": "result_52",
+     "line": 79,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 85,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.5,
+      -1.0,
+      0.5,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 89,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      -1.5,
+      3.5,
+      1.5
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 94,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      -1.5,
+      3.5,
+      1.5
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.069,
+      2.789,
+      0.069,
+      3.0
+     ],
+     "name": "interior_33",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.134,
+      2.082,
+      0.134,
+      2.289
+     ],
+     "name": "edge_33",
+     "line": 89,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 98,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      -1.5,
+      3.5,
+      1.5
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.069,
+      2.789,
+      0.069,
+      3.0
+     ],
+     "name": "interior_33",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.134,
+      2.082,
+      0.134,
+      2.289
+     ],
+     "name": "edge_33",
+     "line": 89,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.819,
+      1.364,
+      0.819,
+      1.582
+     ],
+     "name": "final_33",
+     "line": 97,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 100,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.5,
+      -1.5,
+      3.5,
+      1.5
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 106,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 110,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.334,
+      -1.461,
+      -1.666,
+      -1.25
+     ],
+     "name": "label_42",
+     "line": 109,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 115,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.334,
+      -1.461,
+      -1.666,
+      -1.25
+     ],
+     "name": "label_42",
+     "line": 109,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.751,
+      0.958,
+      3.0
+     ],
+     "name": "interior_42",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.714,
+      2.002,
+      0.714,
+      2.251
+     ],
+     "name": "edge_42",
+     "line": 114,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 119,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.334,
+      -1.461,
+      -1.666,
+      -1.25
+     ],
+     "name": "label_42",
+     "line": 109,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.751,
+      0.958,
+      3.0
+     ],
+     "name": "interior_42",
+     "line": 113,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.714,
+      2.002,
+      0.714,
+      2.251
+     ],
+     "name": "edge_42",
+     "line": 114,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.654,
+      1.331,
+      0.654,
+      1.502
+     ],
+     "name": "result_42",
+     "line": 118,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 121,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      -1.0,
+      0.0,
+      1.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.334,
+      -1.461,
+      -1.666,
+      -1.25
+     ],
+     "name": "label_42",
+     "line": 109,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 124,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.334,
+      -1.461,
+      -1.666,
+      -1.25
+     ],
+     "name": "label_42",
+     "line": 109,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 128,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.334,
+      -1.461,
+      -1.666,
+      -1.25
+     ],
+     "name": "label_42",
+     "line": 109,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.666,
+      -2.461,
+      2.334,
+      -2.25
+     ],
+     "name": "label_24",
+     "line": 127,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 133,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.334,
+      -1.461,
+      -1.666,
+      -1.25
+     ],
+     "name": "label_42",
+     "line": 109,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.666,
+      -2.461,
+      2.334,
+      -2.25
+     ],
+     "name": "label_24",
+     "line": 127,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.751,
+      0.958,
+      3.0
+     ],
+     "name": "interior_24",
+     "line": 131,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.714,
+      2.002,
+      0.714,
+      2.251
+     ],
+     "name": "edge_24",
+     "line": 132,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 137,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.334,
+      -1.461,
+      -1.666,
+      -1.25
+     ],
+     "name": "label_42",
+     "line": 109,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.666,
+      -2.461,
+      2.334,
+      -2.25
+     ],
+     "name": "label_24",
+     "line": 127,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.958,
+      2.751,
+      0.958,
+      3.0
+     ],
+     "name": "interior_24",
+     "line": 131,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.714,
+      2.002,
+      0.714,
+      2.251
+     ],
+     "name": "edge_24",
+     "line": 132,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.654,
+      1.331,
+      0.654,
+      1.502
+     ],
+     "name": "result_24",
+     "line": 136,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 139,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.334,
+      -1.461,
+      -1.666,
+      -1.25
+     ],
+     "name": "label_42",
+     "line": 109,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.666,
+      -2.461,
+      2.334,
+      -2.25
+     ],
+     "name": "label_24",
+     "line": 127,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 143,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.97,
+      2.995,
+      3.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "rect",
+     "line": 19,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.334,
+      -1.461,
+      -1.666,
+      -1.25
+     ],
+     "name": "label_42",
+     "line": 109,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.666,
+      -2.461,
+      2.334,
+      -2.25
+     ],
+     "name": "label_24",
+     "line": 127,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.84,
+      2.689,
+      2.84,
+      3.0
+     ],
+     "name": "final",
+     "line": 142,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 146,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.27,
+      2.585,
+      1.27,
+      3.0
+     ],
+     "name": "formula1",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.762,
+      1.67,
+      0.762,
+      2.085
+     ],
+     "name": "formula2",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.082,
+      -1.363,
+      -1.918,
+      -1.25
+     ],
+     "name": "w_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -0.088,
+      -0.128,
+      0.088
+     ],
+     "name": "h_label",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "top_edge",
+     "line": 20,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -0.5,
+      -1.0
+     ],
+     "name": "bottom_edge",
+     "line": 31,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.5,
+      -1.0,
+      -3.5,
+      1.0
+     ],
+     "name": "left_edge",
+     "line": 32,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.5,
+      -1.0,
+      -0.5,
+      1.0
+     ],
+     "name": "right_edge",
+     "line": 33,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.909,
+      -2.311,
+      -0.091,
+      -2.0
+     ],
+     "name": "total",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

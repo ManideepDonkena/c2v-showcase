@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 63.41,
+  "s_sp": 76.4,
+  "s_ly": 58.4,
+  "s_ed": 45.1,
+  "states": 10,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 63.41,
+   "conflicts": 7
+  },
+  {
+   "level": "none kept",
+   "conflict": "NumberLine \"number_line\" (created line 12, box [-7.111, -4.269, 7.207, 4.0]) is outside the frame; shift it by [-0.25, 0.42]"
+  }
+ ]
+}

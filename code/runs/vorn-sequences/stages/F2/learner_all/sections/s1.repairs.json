@@ -1,0 +1,34 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 29,
+  "scope": "line",
+  "error": "AttributeError: 'NoneType' object has no attribute 'set_color'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 28,
+  "scope": "block",
+  "error": "AttributeError: 'NoneType' object has no attribute 'set_color'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 28,
+  "scope": "section",
+  "error": "AttributeError: 'NoneType' object has no attribute 'set_color'\nHINT: That method does not exist on this Manim CE object. Use only documented methods (shift, move_to, next_to, scale, rotate, to_edge, set_color, become) or build the shape from points."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 32,
+  "scope": "section",
+  "error": "TypeError: unsupported operand type(s) for +: 'NoneType' and 'float'\nHINT: A value is None: a helper returned nothing or a variable was never set. Compute coordinates as numpy arrays."
+ },
+ {
+  "attempt": 4,
+  "ok": false
+ }
+]

@@ -1,0 +1,415 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.675
+     ],
+     "name": "axes",
+     "line": 28,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.675
+     ],
+     "name": "axes",
+     "line": 28,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.399
+     ],
+     "name": "blue_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.002,
+      4.0,
+      0.199
+     ],
+     "name": "red_graph",
+     "line": 21,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 39,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.675
+     ],
+     "name": "axes",
+     "line": 28,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.675
+     ],
+     "name": "axes",
+     "line": 28,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.178
+     ],
+     "name": "green_graph",
+     "line": 47,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 60,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.675
+     ],
+     "name": "axes",
+     "line": 28,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.178
+     ],
+     "name": "green_graph",
+     "line": 47,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.141,
+      2.725,
+      1.141,
+      3.0
+     ],
+     "name": "mu_label",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.675
+     ],
+     "name": "axes",
+     "line": 28,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.178
+     ],
+     "name": "green_graph",
+     "line": 47,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.141,
+      2.725,
+      1.141,
+      3.0
+     ],
+     "name": "mu_label",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.135,
+      2.123,
+      1.135,
+      2.475
+     ],
+     "name": "sigma_label",
+     "line": 63,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.675
+     ],
+     "name": "axes",
+     "line": 28,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.178
+     ],
+     "name": "green_graph",
+     "line": 47,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 75,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.76,
+      3.0,
+      2.76,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.675
+     ],
+     "name": "axes",
+     "line": 28,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.178
+     ],
+     "name": "green_graph",
+     "line": 47,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.032,
+      -3.0,
+      4.032,
+      -2.663
+     ],
+     "name": "final_text",
+     "line": 73,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.675
+     ],
+     "name": "axes",
+     "line": 28,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -7.0,
+      0.0,
+      7.0,
+      0.178
+     ],
+     "name": "green_graph",
+     "line": 47,
+     "type": "ParametricFunction"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

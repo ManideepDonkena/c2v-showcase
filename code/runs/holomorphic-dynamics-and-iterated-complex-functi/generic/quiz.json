@@ -1,0 +1,187 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the primary definition of a holomorphic function on an open set U in the complex plane?",
+   "options": {
+    "A": "It is differentiable at every point in U.",
+    "B": "It has a continuous derivative everywhere.",
+    "C": "It is analytic and equals its Taylor series.",
+    "D": "It maps real numbers to real numbers."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q2",
+   "question": "Why is the Mandelbrot set connected?",
+   "options": {
+    "A": "Because c=0 is in the set.",
+    "B": "Due to the Fatou-Julia theorem.",
+    "C": "Because it is defined by polynomials.",
+    "D": "Because all Julia sets are connected."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "For the quadratic map f(z) = z^2 + c, if |z_n| > 2 and |c| <= 2, what happens to the orbit?",
+   "options": {
+    "A": "It converges to a fixed point.",
+    "B": "It remains bounded forever.",
+    "C": "It escapes to infinity.",
+    "D": "It oscillates periodically."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q4",
+   "question": "Consider f(z) = z^2 - 1. What is the multiplier of the fixed point z=1?",
+   "options": {
+    "A": "-1",
+    "B": "0",
+    "C": "1",
+    "D": "2"
+   },
+   "answer": "D"
+  },
+  {
+   "id": "q5",
+   "question": "Which property distinguishes the Julia set from the Fatou set for a rational map?",
+   "options": {
+    "A": "The Julia set is open.",
+    "B": "The Fatou set is totally disconnected.",
+    "C": "Dynamics are chaotic on the Julia set.",
+    "D": "Dynamics are stable on the Julia set."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q6",
+   "question": "If a critical point of f(z) escapes to infinity, what can be said about its Julia set?",
+   "options": {
+    "A": "It is always connected.",
+    "B": "It is totally disconnected (Cantor set).",
+    "C": "It contains the origin.",
+    "D": "It is a smooth circle."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q7",
+   "question": "What does 'conjugacy' imply in holomorphic dynamics?",
+   "options": {
+    "A": "Functions have identical Julia sets.",
+    "B": "Dynamics are topologically equivalent.",
+    "C": "Derivatives are equal everywhere.",
+    "D": "Fixed points coincide exactly."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q8",
+   "question": "For f(z) = z^2 + c, if c is in the Mandelbrot set, what is true about the critical orbit?",
+   "options": {
+    "A": "It escapes to infinity.",
+    "B": "It stays bounded.",
+    "C": "It hits zero immediately.",
+    "D": "It becomes periodic instantly."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q9",
+   "question": "What is the period of the fixed point z=0 for f(z) = z^2?",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "Infinity",
+    "D": "Undefined"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q10",
+   "question": "Which is a common misconception about the boundary of the Mandelbrot set?",
+   "options": {
+    "A": "It has Hausdorff dimension 2.",
+    "B": "It is a smooth curve.",
+    "C": "It contains all c with bounded orbits.",
+    "D": "It is self-similar."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q12",
+   "question": "What characterizes a super-attracting fixed point?",
+   "options": {
+    "A": "Multiplier lambda = 1.",
+    "B": "Multiplier lambda = -1.",
+    "C": "Multiplier lambda = 0.",
+    "D": "Derivative is undefined."
+   },
+   "answer": "C"
+  }
+ ],
+ "test": [
+  {
+   "question": "What happens when the function f(z) = z^2 is repeatedly applied to points on the complex plane?",
+   "options": {
+    "A": "Points always move in straight lines away from the origin.",
+    "B": "Points form intricate patterns based on their starting positions, illustrating fractal and dynamic behaviors.",
+    "C": "All points immediately return to their starting positions.",
+    "D": "Points always converge to zero regardless of their initial value."
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "Which feature of the Argand diagram helps in visualizing complex numbers and their transformations?",
+   "options": {
+    "A": "It plots real numbers on a timeline.",
+    "B": "It uses colors to show temperature variation.",
+    "C": "It represents complex numbers as points using horizontal (real) and vertical (imaginary) axes.",
+    "D": "It only shows the modulus without direction."
+   },
+   "answer": "C",
+   "id": "t2"
+  },
+  {
+   "question": "Which property distinguishes holomorphic functions in the context of complex dynamics?",
+   "options": {
+    "A": "They are only defined for real numbers.",
+    "B": "They always map every point to zero.",
+    "C": "They are complex-differentiable and locally preserve angles, leading to smooth geometric transformations.",
+    "D": "They produce non-repeating random outputs."
+   },
+   "answer": "C",
+   "id": "t3"
+  },
+  {
+   "question": "In iterated function systems, what is an 'orbit'?",
+   "options": {
+    "A": "The circular path a planet follows in space.",
+    "B": "A single point fixed under a function.",
+    "C": "The sequence of points obtained by repeatedly applying a function to a starting value.",
+    "D": "A straight line moving away from the origin."
+   },
+   "answer": "C",
+   "id": "t4"
+  },
+  {
+   "question": "How are the boundaries of the Mandelbrot set visually described?",
+   "options": {
+    "A": "They are always straight lines and simple shapes.",
+    "B": "They are sharp edges without any interesting detail.",
+    "C": "They display intricate, infinitely detailed patterns that separate stable and chaotic regions under iteration.",
+    "D": "They are invisible and cannot be visualized."
+   },
+   "answer": "C",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 11,
+ "dev_leaked": []
+}

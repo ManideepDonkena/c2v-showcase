@@ -1,0 +1,120 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.188,
+      3.0,
+      2.188,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.188,
+      3.0,
+      2.188,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.693,
+      -0.35,
+      -1.307,
+      0.85
+     ],
+     "name": "tri",
+     "line": 18,
+     "type": "Triangle"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.188,
+      3.0,
+      2.188,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -2.693,
+      -0.35,
+      -1.307,
+      0.85
+     ],
+     "name": "tri",
+     "line": 18,
+     "type": "Triangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.071,
+      -0.943,
+      -2.929,
+      -0.6
+     ],
+     "name": "label_a",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.057,
+      0.572,
+      0.021,
+      0.928
+     ],
+     "name": "label_b",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.043,
+      1.1,
+      0.043,
+      1.443
+     ],
+     "name": "label_c",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "latex error converting to dvi. See log output above or the log file: media/Tex/9f127f75af995abe.log",
+  "line": 33
+ }
+}

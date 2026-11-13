@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 58.69,
+  "s_sp": 58.8,
+  "s_ly": 47.8,
+  "s_ed": 65.7,
+  "states": 7,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 58.69,
+   "conflicts": 11
+  },
+  {
+   "level": "none kept",
+   "conflict": "Line \"grid\" (created line 14, box [-8.999, -18.0, 0.0, 18.0]) overlaps Text \"title\" (line 6, box [-4.04, 2.995, 4.04, 3.5]) by 50%; moving it by [-4.19, 0.0] would clear it"
+  }
+ ]
+}

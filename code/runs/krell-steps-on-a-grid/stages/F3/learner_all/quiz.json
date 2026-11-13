@@ -1,0 +1,231 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the definition of a single Krell step for a point (x, y)?",
+   "options": {
+    "A": "(y, x + 1)",
+    "B": "(x + 1, y)",
+    "C": "(y + 1, x)",
+    "D": "(x, y + 1)"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q2",
+   "question": "What are the coordinates after two Krell steps starting from (0, 0)?",
+   "options": {
+    "A": "(1, 1)",
+    "B": "(0, 2)",
+    "C": "(2, 0)",
+    "D": "(1, 2)"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q3",
+   "question": "Apply one Krell step to the point (3, 5). What is the result?",
+   "options": {
+    "A": "(5, 4)",
+    "B": "(4, 5)",
+    "C": "(5, 3)",
+    "D": "(3, 6)"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q4",
+   "question": "Why does repeating Krell steps from (0,0) create a staircase pattern?",
+   "options": {
+    "A": "Coordinates alternate increasing and constant",
+    "B": "Both coordinates increase by 1 every step",
+    "C": "The x-coordinate always stays zero",
+    "D": "The y-coordinate decreases each time"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q5",
+   "question": "What is the net effect of two consecutive Krell steps on any point (x, y)?",
+   "options": {
+    "A": "(x + 1, y + 1)",
+    "B": "(x + 2, y)",
+    "C": "(x, y + 2)",
+    "D": "(y + 1, x + 1)"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q6",
+   "question": "Start at (0,0). After three Krell steps, what are the coordinates?",
+   "options": {
+    "A": "(1, 2)",
+    "B": "(2, 2)",
+    "C": "(1, 3)",
+    "D": "(2, 1)"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q7",
+   "question": "If a point is at (2, 2), what does one Krell step produce?",
+   "options": {
+    "A": "(2, 3)",
+    "B": "(3, 2)",
+    "C": "(2, 2)",
+    "D": "(3, 3)"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q8",
+   "question": "Which common misconception about Krell steps is FALSE?",
+   "options": {
+    "A": "Two steps equal a diagonal move of (1,1)",
+    "B": "One step swaps coordinates and adds 1 to y",
+    "C": "Steps always increase both x and y simultaneously",
+    "D": "The operation is non-commutative with position"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q9",
+   "question": "What are the coordinates after four Krell steps starting from (0, 0)?",
+   "options": {
+    "A": "(2, 2)",
+    "B": "(1, 3)",
+    "C": "(3, 1)",
+    "D": "(2, 3)"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q10",
+   "question": "Apply one Krell step to (-1, 4). What is the result?",
+   "options": {
+    "A": "(4, 0)",
+    "B": "(0, 4)",
+    "C": "(4, -1)",
+    "D": "(-1, 5)"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q11",
+   "question": "How many Krell steps are needed to move from (0,0) to (3,3)?",
+   "options": {
+    "A": "6",
+    "B": "3",
+    "C": "9",
+    "D": "12"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q12",
+   "question": "If you are at (x, y), what is the x-coordinate after one Krell step?",
+   "options": {
+    "A": "y",
+    "B": "x + 1",
+    "C": "x",
+    "D": "y + 1"
+   },
+   "answer": "A"
+  }
+ ],
+ "test": [
+  {
+   "question": "Where does one krell step take (2, 7)?",
+   "options": {
+    "A": "(7, 2)",
+    "B": "(3, 7)",
+    "C": "(8, 2)",
+    "D": "(7, 3)"
+   },
+   "answer": "D",
+   "id": "t1"
+  },
+  {
+   "question": "Where do two krell steps take (3, 5)?",
+   "options": {
+    "A": "(5, 3)",
+    "B": "(3, 7)",
+    "C": "(5, 4)",
+    "D": "(4, 6)"
+   },
+   "answer": "D",
+   "id": "t2"
+  },
+  {
+   "question": "Where does one krell step take (0, 0)?",
+   "options": {
+    "A": "(1, 0)",
+    "B": "(0, 0)",
+    "C": "(0, 1)",
+    "D": "(1, 1)"
+   },
+   "answer": "C",
+   "id": "t3"
+  },
+  {
+   "question": "Starting at (0, 0), where are you after four krell steps?",
+   "options": {
+    "A": "(4, 4)",
+    "B": "(2, 2)",
+    "C": "(0, 4)",
+    "D": "(4, 0)"
+   },
+   "answer": "B",
+   "id": "t4"
+  },
+  {
+   "question": "What do two krell steps do to any point (x, y)?",
+   "options": {
+    "A": "Add 1 to both x and y",
+    "B": "Leave it unchanged",
+    "C": "Add 2 to y only",
+    "D": "Swap x and y"
+   },
+   "answer": "A",
+   "id": "t5"
+  },
+  {
+   "question": "Which point comes right after (1, 1) on the staircase from (0, 0)?",
+   "options": {
+    "A": "(2, 1)",
+    "B": "(1, 2)",
+    "C": "(1, 0)",
+    "D": "(2, 2)"
+   },
+   "answer": "B",
+   "id": "t6"
+  },
+  {
+   "question": "Where does one krell step take (4, 4)?",
+   "options": {
+    "A": "(4, 5)",
+    "B": "(5, 5)",
+    "C": "(5, 4)",
+    "D": "(4, 4)"
+   },
+   "answer": "A",
+   "id": "t7"
+  },
+  {
+   "question": "After one krell step the first number of the new point is...",
+   "options": {
+    "A": "the old first number plus 1",
+    "B": "the sum of both numbers",
+    "C": "the old second number",
+    "D": "always 0"
+   },
+   "answer": "C",
+   "id": "t8"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 12,
+ "dev_leaked": []
+}

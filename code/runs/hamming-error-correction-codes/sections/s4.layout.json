@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 85.62,
+  "s_sp": 97.2,
+  "s_ly": 35.1,
+  "s_ed": 100.0,
+  "states": 15,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 67.9,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.66,
+   "conflict": "Rectangle \"highlight\" (created line 24, box [-0.103, 0.772, 0.497, 1.372]) overlaps MathTex \"error\" (line 18, box [-0.285, 0.929, 0.285, 1.214]) by 68%; moving it by [0.54, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.14,
+   "conflict": "Text \"narration3\" (created line 60, box [-6.611, 1.833, 0.058, 2.167]) overlaps MathTex \"original\" (line 12, box [-0.276, 1.714, 0.276, 2.0]) by 35%; moving it by [0.0, 0.32] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.62,
+   "conflict": "Text \"narration4\" (created line 68, box [-6.611, 1.833, 0.429, 2.167]) overlaps MathTex \"original\" (line 12, box [-0.276, 1.714, 0.276, 2.0]) by 58%; moving it by [0.0, 0.32] would clear it"
+  }
+ ]
+}

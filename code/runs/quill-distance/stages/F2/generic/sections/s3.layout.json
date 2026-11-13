@@ -1,0 +1,27 @@
+{
+ "score": {
+  "mvqs": 85.28,
+  "s_sp": 94.7,
+  "s_ly": 39.5,
+  "s_ed": 100.0,
+  "states": 24,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 77.1,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.46,
+   "conflict": "Dot \"p5\" (created line 58, box [0.92, 0.92, 1.08, 1.08]) overlaps Tex \"p3_label\" (line 37, box [0.28, 0.751, 1.371, 1.249]) by 100%; moving it by [0.0, 0.48] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.28,
+   "conflict": "Tex \"cost_label\" (created line 60, box [1.046, 0.718, 2.605, 1.08]) overlaps Tex \"p3_label\" (line 35, box [0.28, 0.751, 1.371, 1.249]) by 19%; moving it by [0.47, 0.0] would clear it"
+  }
+ ]
+}

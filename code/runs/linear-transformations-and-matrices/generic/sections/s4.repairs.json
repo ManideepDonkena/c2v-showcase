@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 30,
+  "scope": "line",
+  "error": "TypeError: 'int' object is not iterable"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 29,
+  "scope": "block",
+  "error": "TypeError: 'int' object is not iterable"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 29,
+  "scope": "section",
+  "error": "TypeError: 'int' object is not iterable"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 30,
+  "scope": "section",
+  "error": "TypeError: 'int' object is not iterable"
+ }
+]

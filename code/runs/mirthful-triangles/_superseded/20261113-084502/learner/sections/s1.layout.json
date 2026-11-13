@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 55.37,
+  "s_sp": 59.9,
+  "s_ly": 59.0,
+  "s_ed": 45.5,
+  "states": 33,
+  "states_with_conflict": 30
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 55.37,
+   "conflicts": 46
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"inequality_text\" (created line 22, box [-0.94, -0.133, 0.94, 0.133]) overlaps Polygon \"triangle\" (line 11, box [0.0, 0.0, 3.0, 2.6]) by 25%; moving it by [0.0, -0.28] would clear it"
+  }
+ ]
+}

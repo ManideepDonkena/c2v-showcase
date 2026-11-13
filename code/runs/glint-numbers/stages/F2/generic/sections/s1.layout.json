@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 86.24,
+  "s_sp": 94.7,
+  "s_ly": 49.5,
+  "s_ed": 96.7,
+  "states": 18,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 82.7,
+   "conflicts": 10
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.42,
+   "conflict": "MathTex \"example1\" (created line 53, box [-1.334, -0.211, 1.334, 0.211]) overlaps MathTex \"last_digit\" (line None, box [0.051, -0.207, 0.257, 0.207]) by 100%; moving it by [0.0, 0.57] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.13,
+   "conflict": "MathTex \"example2\" (created line 60, box [-1.952, -0.211, 1.952, 0.211]) overlaps MathTex \"last_digit\" (line None, box [0.051, -0.207, 0.257, 0.207]) by 100%; moving it by [0.0, 0.57] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.24,
+   "conflict": "Text \"rules\" (created line 69, box [-3.389, -0.167, 3.389, 0.167]) overlaps MathTex \"last_digit\" (line None, box [0.051, -0.207, 0.257, 0.207]) by 80%; moving it by [0.0, 0.52] would clear it"
+  }
+ ]
+}

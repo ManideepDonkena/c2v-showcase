@@ -1,0 +1,117 @@
+{
+ "topic": "Brisk folds of a list",
+ "before": {
+  "s1": {
+   "id": "s1",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 70.78,
+   "conflicts": 1,
+   "ok": false
+  }
+ },
+ "regenerated": {
+  "s1": {
+   "tries": [
+    {
+     "id": "s1",
+     "mvqs": 72.21,
+     "conflicts": 1,
+     "rendered": true,
+     "ok": false
+    }
+   ],
+   "kept": "s1_try1"
+  },
+  "s2": {
+   "tries": [
+    {
+     "id": "s2",
+     "mvqs": 85.94,
+     "conflicts": 0,
+     "rendered": true,
+     "ok": true
+    }
+   ],
+   "kept": "s2_try1"
+  },
+  "s3": {
+   "tries": [
+    {
+     "id": "s3",
+     "mvqs": null,
+     "conflicts": null,
+     "rendered": false,
+     "ok": false
+    }
+   ],
+   "kept": "s3_try0"
+  },
+  "s4": {
+   "tries": [
+    {
+     "id": "s4",
+     "mvqs": 87.88,
+     "conflicts": 0,
+     "rendered": true,
+     "ok": true
+    }
+   ],
+   "kept": "s4_try1"
+  }
+ },
+ "min_mvqs": 70.0,
+ "superseded": "/home/mani/c2v-lab/runs/brisk-folds-of-a-list/_superseded/20261113-084641",
+ "after": {
+  "s1": {
+   "id": "s1",
+   "rendered": true,
+   "mvqs": 72.21,
+   "conflicts": 1,
+   "ok": false
+  },
+  "s2": {
+   "id": "s2",
+   "rendered": true,
+   "mvqs": 85.94,
+   "conflicts": 0,
+   "ok": true
+  },
+  "s3": {
+   "id": "s3",
+   "rendered": false,
+   "mvqs": null,
+   "conflicts": null,
+   "ok": false
+  },
+  "s4": {
+   "id": "s4",
+   "rendered": true,
+   "mvqs": 87.88,
+   "conflicts": 0,
+   "ok": true
+  }
+ },
+ "complete": false,
+ "clean": false
+}

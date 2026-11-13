@@ -1,0 +1,35 @@
+{
+ "title": "The Convolution of Gaussians",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "The First Bell",
+   "teaches": "Definition and parameters (mean, variance) of a standard normal distribution.",
+   "visual": "A smooth blue curve representing N(0, 1) appears on a Cartesian plane. Labels 'μ=0' and 'σ²=1' fade in near the peak and width respectively. The curve pulses gently to emphasize its shape.",
+   "narration": "We begin with a standard normal distribution centered at zero. This bell curve is defined by its mean, which sets the center, and its variance, which controls the spread."
+  },
+  {
+   "id": "s2",
+   "title": "The Second Bell",
+   "teaches": "Independence and superposition of two distinct Gaussian sources.",
+   "visual": "A second red curve, N(2, 4), slides in from the right. It is wider (higher variance) and shifted to the right (mean=2). The two curves overlap slightly, visually demonstrating two independent random variables X and Y.",
+   "narration": "Now introduce a second independent normal variable with a different mean and variance. When we consider the sum of these two independent variables, we are looking at their combined probabilistic behavior."
+  },
+  {
+   "id": "s3",
+   "title": "The Convolution Process",
+   "teaches": "The mathematical operation (convolution) that combines the distributions.",
+   "visual": "The blue and red curves become semi-transparent. A green curve begins to draw itself dynamically, representing the convolution integral. The area under the new green curve fills up, showing the accumulation of probability mass from both input distributions.",
+   "narration": "To find the distribution of their sum, we perform a convolution. This mathematical operation integrates the product of the two functions, effectively blending their shapes into a single new distribution."
+  },
+  {
+   "id": "s4",
+   "title": "The Resulting Gaussian",
+   "teaches": "Closure property: The sum is also Gaussian with μ_sum = μ1 + μ2 and σ²_sum = σ1² + σ2².",
+   "visual": "The green curve solidifies into a new, distinct bell shape. Labels appear showing 'μ_new = 0+2=2' and 'σ²_new = 1+4=5'. The original blue and red curves fade out, leaving only the resulting Gaussian highlighted.",
+   "narration": "The result is another perfect Gaussian distribution. Crucially, the new mean is the sum of the individual means, and the new variance is the sum of the individual variances, proving that Gaussians are closed under addition."
+  }
+ ],
+ "topic": "Sum of normal distributions, Gaussian + Gaussian = Gaussian",
+ "grade": "undergraduate students"
+}

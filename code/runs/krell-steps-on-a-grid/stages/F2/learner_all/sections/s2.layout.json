@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 82.38,
+  "s_sp": 91.7,
+  "s_ly": 32.8,
+  "s_ed": 100.0,
+  "states": 11,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 67.78,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.38,
+   "conflict": "Arrow \"arrow\" (created line 43, box [0.845, 0.889, 1.555, 2.311]) overlaps MathTex \"xy_text\" (line 33, box [1.336, 1.18, 1.864, 1.429]) by 41%; moving it by [-0.37, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"narration\" (created line 69, box [-10.956, -3.7, 10.956, -3.363]) is outside the frame; shift it by [3.99, 0.0]"
+  }
+ ]
+}

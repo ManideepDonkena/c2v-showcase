@@ -1,0 +1,48 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q4",
+  "q6",
+  "q7",
+  "q8",
+  "q9",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s3": [
+   "A clear statement that finding four points on the curve that form a square with equal side lengths and right angles is an unsolved mathematical mystery for all possible shapes, not just a visual glitch.",
+   "A historical timeline overlay appearing alongside the struggling square animation, explicitly displaying the name 'Emil Artin' and the year '1911' next to a visual representation of a convex curve (like an ellipse) where the inscribed square is successfully locked in place, contrasting this solved case with the general unresolved case.",
+   "A visual demonstration showing that while the rectangle's side lengths can be continuously adjusted to match (making it a square), the specific geometric constraints of an irregular curve prevent all four vertices from simultaneously lying on the boundary, illustrating that existence is not guaranteed by simple continuity alone.",
+   "A visual comparison showing that while the rectangle case (s2) always finds a solution, the square case fails for certain jagged or irregular curves, demonstrating that 'All curves have solutions' is false.",
+   "A specific example of a curve with 4-fold rotational symmetry (like a rounded square or astroid) where an inscribed square exists, contrasted with the general case to show that while symmetry helps, it does not automatically solve the topological constraints for all irregular shapes without further proof.",
+   "A visual split-screen comparison: on one side, a jagged, fractal-like curve (like the Koch snowflake) where no inscribed square can be found, labeled 'Counterexample Found'; on the other side, a smooth, rectifiable curve with a highlighted inscribed square, labeled 'Proven True'. The narration should state that while the general case remains unsolved, mathematicians have successfully proven it holds true specifically for curves that are 'rectifiable' (having finite length)."
+  ],
+  "s4": [
+   "A visual metaphor comparing the search for an inscribed square to finding a 'stationary point' in a continuous transformation, explicitly stating that this specific mathematical guarantee is known as the Inscribed Square Problem's reliance on Fixed Point Theorems (specifically referencing the work of mathematicians like Vaughan Jones or the general class of fixed-point arguments used in topology).",
+   "A visual demonstration of packing circles into a region to approximate a shape, accompanied by an explanation that this specific geometric technique was used to solve the problem for certain types of curves."
+  ],
+  "s2": [
+   "Show a square inscribed in a circle where the square's diagonal equals the circle's diameter (2). State that for a radius of 1, the diagonal is 2. Use the Pythagorean theorem on the right triangle formed by two sides and the diagonal to calculate the side length as √2.",
+   "A visual comparison showing that while a rectangle only requires opposite sides to be equal and angles to be 90 degrees (allowing width and height to vary independently), a square forces the width and height to be identical, removing one degree of freedom and making the geometric fit significantly more restrictive."
+  ],
+  "s1": [
+   "SHOW a second curve that crosses itself (like a figure-eight) and label it 'Self-intersecting', then contrast it with the white loop by explicitly stating 'No crossing allowed' while tracing the line to prove it returns to the start without touching itself."
+  ]
+ },
+ "changed": [
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "dev_before": 0.0,
+ "dev_after": 18.2,
+ "mvqs_before": 86.04,
+ "mvqs_after": 87.03,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/the-inscribed-square-or-rectangle-problem-in-top/learner"
+}

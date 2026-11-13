@@ -1,0 +1,176 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the primary purpose of Hamming codes?",
+   "options": {
+    "A": "Data compression",
+    "B": "Error detection only",
+    "C": "Single error correction",
+    "D": "Multi-error correction"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q2",
+   "question": "In a Hamming(7,4) code, how many parity bits are used?",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q3",
+   "question": "Why are parity bits placed at positions that are powers of 2?",
+   "options": {
+    "A": "To simplify hardware",
+    "B": "To maximize distance",
+    "C": "For binary indexing",
+    "D": "To reduce latency"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q4",
+   "question": "What is the minimum Hamming distance required to correct 1 error?",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q6",
+   "question": "If the syndrome is 101, which bit position is in error?",
+   "options": {
+    "A": "Pos 1",
+    "B": "Pos 2",
+    "C": "Pos 5",
+    "D": "Pos 7"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q7",
+   "question": "Can Hamming codes detect two simultaneous errors?",
+   "options": {
+    "A": "Yes, always",
+    "B": "No, never",
+    "C": "Only if odd",
+    "D": "Depends on data"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q8",
+   "question": "What is the overhead ratio for Hamming(7,4)?",
+   "options": {
+    "A": "1/2",
+    "B": "3/4",
+    "C": "3/7",
+    "D": "4/7"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q10",
+   "question": "What happens if two bits flip in Hamming(7,4)?",
+   "options": {
+    "A": "Detected only",
+    "B": "Corrected correctly",
+    "C": "Wrongly corrected",
+    "D": "Ignored"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q11",
+   "question": "For 4 data bits, what is the minimum n in Hamming(n,k)?",
+   "options": {
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q12",
+   "question": "Why is Hamming distance 3 critical?",
+   "options": {
+    "A": "Detects 2 errors",
+    "B": "Corrects 1 error",
+    "C": "Both A and B",
+    "D": "None of above"
+   },
+   "answer": "C"
+  }
+ ],
+ "test": [
+  {
+   "question": "Why is error correction necessary in digital communication systems?",
+   "options": {
+    "A": "Because it makes data transmission faster",
+    "B": "Because noise during transmission can alter bits, so error correction ensures the correct message is received",
+    "C": "Because digital systems never make mistakes without it",
+    "D": "Because it reduces the need for hardware in communication systems"
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "What is the main drawback of using parity bits for error detection?",
+   "options": {
+    "A": "Parity bits can fix any number of errors",
+    "B": "Parity bits require significantly more data storage",
+    "C": "Parity bits can detect errors but cannot identify or correct which bit is wrong",
+    "D": "Parity bits only work with odd numbers"
+   },
+   "answer": "C",
+   "id": "t2"
+  },
+  {
+   "question": "Which of the following best describes the capability of a Hamming code such as Hamming(7,4)?",
+   "options": {
+    "A": "It can correct any number of errors",
+    "B": "It can detect and correct single-bit errors in transmitted data",
+    "C": "It is only useful for two-bit errors",
+    "D": "It simply signals when an error exists, but cannot correct it"
+   },
+   "answer": "B",
+   "id": "t3"
+  },
+  {
+   "question": "In a Hamming(7,4) code, how are data and parity bits arranged?",
+   "options": {
+    "A": "All data bits come before parity bits",
+    "B": "All parity bits come after data bits",
+    "C": "Data and parity bits are intermixed, with parity bits at positions corresponding to powers of two",
+    "D": "Data and parity bits are randomly placed"
+   },
+   "answer": "C",
+   "id": "t4"
+  },
+  {
+   "question": "How do parity bits in Hamming codes determine which data bits to cover?",
+   "options": {
+    "A": "Each parity bit covers all the bit positions",
+    "B": "Each parity bit covers only even positions",
+    "C": "Each parity bit covers bit positions matching a 1 in its own binary position",
+    "D": "Each parity bit covers positions based on the previous data bit"
+   },
+   "answer": "C",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 10,
+ "dev_leaked": []
+}

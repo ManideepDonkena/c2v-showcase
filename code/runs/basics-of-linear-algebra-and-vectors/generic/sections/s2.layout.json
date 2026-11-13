@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 82.71,
+  "s_sp": 94.9,
+  "s_ly": 56.4,
+  "s_ed": 80.0,
+  "states": 9,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 78.06,
+   "conflicts": 1
+  },
+  {
+   "level": "block",
+   "mvqs": 80.06,
+   "conflict": "Arrow \"B\" (created line 17, box [-0.224, 0.888, 1.499, 3.472]) overlaps Text \"title\" (line 6, box [-1.85, 3.116, 1.85, 3.5]) by 43%; moving it by [0.0, -0.51] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 81.55,
+   "conflict": "Arrow \"B\" (created line 17, box [-0.224, 0.888, 1.499, 3.472]) overlaps Text \"title\" (line 6, box [-1.85, 3.116, 1.85, 3.5]) by 43%; moving it by [0.0, -0.51] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 82.71,
+   "conflict": "Arrow \"B\" (created line 17, box [-0.224, 0.888, 1.499, 3.472]) overlaps Text \"title\" (line 6, box [-1.85, 3.116, 1.85, 3.5]) by 43%; moving it by [0.0, -0.51] would clear it"
+  }
+ ]
+}

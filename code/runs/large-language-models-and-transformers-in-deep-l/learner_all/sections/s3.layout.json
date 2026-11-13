@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 61.64,
+  "s_sp": 65.8,
+  "s_ly": 69.9,
+  "s_ed": 49.2,
+  "states": 26,
+  "states_with_conflict": 22
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 57.17,
+   "conflicts": 34
+  },
+  {
+   "level": "shift",
+   "mvqs": 58.25,
+   "conflict": "Text \"decoder_text\" (created line 12, box [-3.132, -0.129, -0.868, 0.129]) overlaps Rectangle \"decoder_block\" (line 11, box [-3.0, -0.5, -1.0, 0.5]) by 88%; moving it by [0.0, 0.78] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 61.64,
+   "conflict": "Text \"decoder_text\" (created line 12, box [-3.132, 0.651, -0.868, 0.909]) overlaps Rectangle \"decoder_block\" (line 11, box [-3.0, -1.7, -1.0, 1.7]) by 88%; moving it by [0.0, 1.2] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"None\" (created line 33, box [-1.142, -1.565, -0.458, -1.35]) overlaps Rectangle \"decoder_block\" (line 11, box [-3.0, -1.7, -1.0, 1.7]) by 20%; moving it by [0.29, 0.0] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "stage": "F5",
+ "mode": "learner_all",
+ "features": [
+  "gate",
+  "leak_gate",
+  "minimal_edit",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s1": [
+   "SHOW the point (4, 6) and an arrow labeled 'Step 1' leading to a new point. SAY 'The first step takes us from (4, 6) to (6, 7)' and display the label '(6, 7)' at that final position."
+  ],
+  "s2": [
+   "SHOW the point (4, 6) and an arrow labeled 'Step 1' leading to a new point. SAY 'The first step takes us from (4, 6) to (6, 7)' and display the label '(6, 7)' at that final position."
+  ],
+  "s3": [
+   "SHOW the point (4, 6) and an arrow labeled 'Step 1' leading to a new point. SAY 'The first step takes us from (4, 6) to (6, 7)' and display the label '(6, 7)' at that final position."
+  ],
+  "s4": [
+   "SHOW the point (4, 6) and an arrow labeled 'Step 1' leading to a new point. SAY 'The first step takes us from (4, 6) to (6, 7)' and display the label '(6, 7)' at that final position."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "edit_size": {
+  "s1": 0.179,
+  "s2": 0.24,
+  "s3": 0.193,
+  "s4": 0.194
+ },
+ "diagnosis": "f4",
+ "dev_before": 0.711144,
+ "dev_after": 0.7499806666666666,
+ "mvqs_before": 79.29,
+ "mvqs_after": 72.69,
+ "kept": false,
+ "served": "base"
+}

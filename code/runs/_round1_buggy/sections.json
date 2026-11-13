@@ -1,0 +1,20 @@
+[
+ {
+  "id": "s1",
+  "title": "The Right Triangle Setup",
+  "teaches": "Identifying the hypotenuse and legs of a right-angled triangle.",
+  "visual": "A large right-angled triangle appears in the center. The two shorter sides (legs) are labeled 'a' and 'b' in blue, while the longest side opposite the right angle is labeled 'c' (hypotenuse) in red. A small square symbol animates into the corner to explicitly mark the 90-degree angle.",
+  "narration": "Every right-angled triangle has a special relationship between its three sides. The two shorter sides touching the right angle are called legs, while the longest side opposite the right angle is known as the hypotenuse.",
+  "start": 0.0,
+  "end": 23.73
+ },
+ {
+  "id": "s3",
+  "title": "The Area Connection",
+  "teaches": "Understanding that the sum of the areas of the two smaller squares equals the area of the largest square.",
+  "visual": "The blue and green squares (on sides a and b) become semi-transparent. Their contents flow like liquid into the red square (on side c), perfectly filling it without spilling over. Numbers appear: if a=3 and b=4, the areas 9 and 16 merge to fill the area 25 of the red square.",
+  "narration": "Here is the magic: if you add the area of the blue square and the green square together, it exactly equals the area of the big red square. This means the combined space of the two smaller squares matches the largest one perfectly.",
+  "start": 23.73,
+  "end": 48.0
+ }
+]

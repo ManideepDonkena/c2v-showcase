@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 71.38,
+  "s_sp": 87.1,
+  "s_ly": 51.9,
+  "s_ed": 58.2,
+  "states": 11,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 69.67,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 71.38,
+   "conflict": "ParametricFunction \"a_func\" (created line 22, box [-6.0, -0.5, 6.0, 5.5]) is outside the frame; shift it by [0.0, -1.65]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"a_label\" (created line 26, box [6.25, 5.75, 7.704, 6.193]) is outside the frame; shift it by [-0.74, -2.34]"
+  }
+ ]
+}

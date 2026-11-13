@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 66.23,
+  "s_sp": 87.7,
+  "s_ly": 33.8,
+  "s_ed": 52.0,
+  "states": 20,
+  "states_with_conflict": 16
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 64.78,
+   "conflicts": 6
+  },
+  {
+   "level": "block",
+   "mvqs": 66.23,
+   "conflict": "Circle \"zero\" (created line 16, box [-2.3, 1.2, -1.7, 1.8]) overlaps MathTex \"left_expr\" (line 11, box [-2.45, 1.342, -1.55, 1.658]) by 66%; moving it by [0.0, 0.61] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"final_label\" (created line 30, box [0.447, 1.413, 0.553, 1.587]) overlaps MathTex \"seven_label\" (line 19, box [0.447, 1.413, 0.553, 1.587]) by 100%; moving it by [0.26, 0.0] would clear it"
+  }
+ ]
+}

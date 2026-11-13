@@ -1,0 +1,140 @@
+{
+ "concepts": {
+  "tovan-sums": {
+   "topic": "Tovan sums",
+   "versions": [
+    "claude_layout",
+    "local_F0_learner",
+    "local_F5_learner",
+    "local_autofix",
+    "local_base"
+   ]
+  },
+  "krell-steps-on-a-grid": {
+   "topic": "Krell steps on a grid",
+   "versions": [
+    "claude_layout",
+    "local_F0_learner",
+    "local_F5_learner",
+    "local_autofix",
+    "local_base"
+   ]
+  },
+  "vorn-sequences": {
+   "topic": "Vorn sequences",
+   "versions": [
+    "claude_layout",
+    "local_F0_learner",
+    "local_autofix",
+    "local_base"
+   ]
+  },
+  "glint-numbers": {
+   "topic": "Glint numbers",
+   "versions": [
+    "claude_layout",
+    "local_F0_learner",
+    "local_autofix",
+    "local_base"
+   ]
+  },
+  "mirthful-triangles": {
+   "topic": "Mirthful triangles",
+   "versions": [
+    "claude_layout",
+    "local_F0_learner",
+    "local_autofix",
+    "local_base"
+   ]
+  },
+  "sorrel-counts-of-lattice-rectangles": {
+   "topic": "Sorrel counts of lattice rectangles",
+   "versions": [
+    "claude_layout",
+    "local_F0_learner",
+    "local_F5_learner",
+    "local_autofix",
+    "local_base"
+   ]
+  },
+  "quill-distance": {
+   "topic": "Quill distance",
+   "versions": [
+    "claude_layout",
+    "local_F0_learner",
+    "local_F5_learner",
+    "local_autofix",
+    "local_base"
+   ]
+  },
+  "dapple-numbers": {
+   "topic": "Dapple numbers",
+   "versions": [
+    "claude_layout",
+    "local_F0_learner",
+    "local_autofix",
+    "local_base"
+   ]
+  },
+  "orbit-words": {
+   "topic": "Orbit words",
+   "versions": [
+    "claude_layout",
+    "local_F0_learner",
+    "local_autofix",
+    "local_base"
+   ]
+  },
+  "vells-of-2-2-grids": {
+   "topic": "Vells of 2×2 grids",
+   "versions": [
+    "claude_layout",
+    "local_F0_learner",
+    "local_autofix",
+    "local_base"
+   ]
+  }
+ },
+ "comparisons": [
+  {
+   "name": "repair_krell-steps-on-a-grid",
+   "topic": "Krell steps on a grid",
+   "panels": [
+    "Local models (qwen), base",
+    "Repair loop F5 (learner)"
+   ],
+   "video": "showcase/comparisons/repair_krell-steps-on-a-grid.mp4",
+   "gif": "gifs/repair_krell-steps-on-a-grid.gif"
+  },
+  {
+   "name": "repair_sorrel-counts-of-lattice-rectangles",
+   "topic": "Sorrel counts of lattice rectangles",
+   "panels": [
+    "Local models (qwen), base",
+    "Repair loop F5 (learner)"
+   ],
+   "video": "showcase/comparisons/repair_sorrel-counts-of-lattice-rectangles.mp4",
+   "gif": "gifs/repair_sorrel-counts-of-lattice-rectangles.gif"
+  },
+  {
+   "name": "layout_dapple-numbers",
+   "topic": "Dapple numbers",
+   "panels": [
+    "Local models (qwen), base",
+    "Local + Claude layout fix"
+   ],
+   "video": "showcase/comparisons/layout_dapple-numbers.mp4",
+   "gif": "gifs/layout_dapple-numbers.gif"
+  },
+  {
+   "name": "layout_krell-steps-on-a-grid",
+   "topic": "Krell steps on a grid",
+   "panels": [
+    "Local models (qwen), base",
+    "Local + Claude layout fix"
+   ],
+   "video": "showcase/comparisons/layout_krell-steps-on-a-grid.mp4",
+   "gif": "gifs/layout_krell-steps-on-a-grid.gif"
+  }
+ ]
+}

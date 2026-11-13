@@ -1,0 +1,906 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.0,
+      3.0,
+      2.5
+     ],
+     "name": "triangle",
+     "line": 17,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -1.363,
+      0.057,
+      -1.25
+     ],
+     "name": "label_a",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.75,
+      0.662,
+      1.842,
+      0.838
+     ],
+     "name": "label_b",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.847,
+      0.694,
+      -1.75,
+      0.806
+     ],
+     "name": "label_c",
+     "line": 22,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.0,
+      3.0,
+      2.5
+     ],
+     "name": "triangle",
+     "line": 17,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -1.363,
+      0.057,
+      -1.25
+     ],
+     "name": "label_a",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.75,
+      0.662,
+      1.842,
+      0.838
+     ],
+     "name": "label_b",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.847,
+      0.694,
+      -1.75,
+      0.806
+     ],
+     "name": "label_c",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -0.112,
+      -5.913,
+      0.112
+     ],
+     "name": "two_c",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.663,
+      -0.128,
+      -5.46,
+      0.128
+     ],
+     "name": "less_equal",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.21,
+      -0.114,
+      -4.487,
+      0.114
+     ],
+     "name": "three_a",
+     "line": 31,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 39,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.0,
+      3.0,
+      2.5
+     ],
+     "name": "triangle",
+     "line": 17,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -1.363,
+      0.057,
+      -1.25
+     ],
+     "name": "label_a",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.75,
+      0.662,
+      1.842,
+      0.838
+     ],
+     "name": "label_b",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.847,
+      0.694,
+      -1.75,
+      0.806
+     ],
+     "name": "label_c",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -0.112,
+      -5.913,
+      0.112
+     ],
+     "name": "two_c",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.663,
+      -0.128,
+      -5.46,
+      0.128
+     ],
+     "name": "less_equal",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.21,
+      -0.114,
+      -4.487,
+      0.114
+     ],
+     "name": "three_a",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.712,
+      -2.5,
+      0.712,
+      -2.255
+     ],
+     "name": "calc_text",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.962,
+      -2.5,
+      2.386,
+      -2.255
+     ],
+     "name": "calc_text2",
+     "line": 38,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -1.0,
+      3.0,
+      2.5
+     ],
+     "name": "triangle",
+     "line": 17,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -1.363,
+      0.057,
+      -1.25
+     ],
+     "name": "label_a",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.75,
+      0.662,
+      1.842,
+      0.838
+     ],
+     "name": "label_b",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.847,
+      0.694,
+      -1.75,
+      0.806
+     ],
+     "name": "label_c",
+     "line": 22,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -0.112,
+      -5.913,
+      0.112
+     ],
+     "name": "two_c",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.663,
+      -0.128,
+      -5.46,
+      0.128
+     ],
+     "name": "less_equal",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.21,
+      -0.114,
+      -4.487,
+      0.114
+     ],
+     "name": "three_a",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.712,
+      -2.5,
+      0.712,
+      -2.255
+     ],
+     "name": "calc_text",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.962,
+      -2.5,
+      2.386,
+      -2.255
+     ],
+     "name": "calc_text2",
+     "line": 38,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.821,
+      -1.82,
+      0.821,
+      -1.517
+     ],
+     "name": "is_mirthful",
+     "line": 43,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.551,
+      -3.5,
+      6.551,
+      -3.163
+     ],
+     "name": "narration",
+     "line": 56,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.122,
+      -0.168,
+      3.122,
+      0.168
+     ],
+     "name": "rule1",
+     "line": 65,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.122,
+      -0.168,
+      3.122,
+      0.168
+     ],
+     "name": "rule1",
+     "line": 65,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.154,
+      -0.755,
+      3.154,
+      -0.418
+     ],
+     "name": "rule2",
+     "line": 61,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 73,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.122,
+      -0.168,
+      3.122,
+      0.168
+     ],
+     "name": "rule1",
+     "line": 65,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.154,
+      -0.755,
+      3.154,
+      -0.418
+     ],
+     "name": "rule2",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.73,
+      -1.262,
+      2.73,
+      -1.005
+     ],
+     "name": "rule3",
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 81,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.659,
+      -3.5,
+      1.659,
+      -3.166
+     ],
+     "name": "example",
+     "line": 80,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 87,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.659,
+      -3.5,
+      1.659,
+      -3.166
+     ],
+     "name": "example",
+     "line": 80,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      0.914,
+      -5.502,
+      1.086
+     ],
+     "name": "calc1",
+     "line": 85,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.252,
+      0.913,
+      -4.14,
+      1.087
+     ],
+     "name": "calc2",
+     "line": 86,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 92,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.659,
+      -3.5,
+      1.659,
+      -3.166
+     ],
+     "name": "example",
+     "line": 80,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      0.914,
+      -5.502,
+      1.086
+     ],
+     "name": "calc1",
+     "line": 85,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.252,
+      0.913,
+      -4.14,
+      1.087
+     ],
+     "name": "calc2",
+     "line": 86,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.656,
+      -1.5,
+      1.656,
+      -1.166
+     ],
+     "name": "not_mirthful",
+     "line": 87,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 99,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.659,
+      -3.5,
+      1.659,
+      -3.166
+     ],
+     "name": "example",
+     "line": 80,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      0.914,
+      -5.502,
+      1.086
+     ],
+     "name": "calc1",
+     "line": 85,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.252,
+      0.913,
+      -4.14,
+      1.087
+     ],
+     "name": "calc2",
+     "line": 86,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.656,
+      -1.5,
+      1.656,
+      -1.166
+     ],
+     "name": "not_mirthful",
+     "line": 87,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.234,
+      -5.499,
+      1.406
+     ],
+     "name": "calc3",
+     "line": 95,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.249,
+      1.234,
+      -4.26,
+      1.406
+     ],
+     "name": "calc4",
+     "line": 96,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 103,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.746,
+      2.992,
+      1.746,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

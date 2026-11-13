@@ -1,0 +1,55 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.3,
+      2.168,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.168,
+      3.3,
+      2.168,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.5,
+      -2.5,
+      2.5,
+      2.5
+     ],
+     "name": "circle",
+     "line": 11,
+     "type": "Circle"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "Alpha 1.7951958020513104 not between 0 and 1.",
+  "line": 19
+ }
+}

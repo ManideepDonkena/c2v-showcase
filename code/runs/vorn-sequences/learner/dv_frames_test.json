@@ -1,0 +1,216 @@
+{
+ "kind": "frames",
+ "frames": 12,
+ "rotations": [
+  {
+   "rotation": 0,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "A": 1e-06,
+      "B": 0.988752,
+      "C": 5.7e-05,
+      "D": 0.01119
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.988752
+    },
+    {
+     "id": "t2",
+     "p": {
+      "A": 0.0,
+      "B": 0.00023,
+      "C": 0.999621,
+      "D": 0.000149
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.000149
+    },
+    {
+     "id": "t3",
+     "p": {
+      "A": 1.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t4",
+     "p": {
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0,
+      "D": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t5",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t6",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 1.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t7",
+     "p": {
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0,
+      "D": 0.0
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t8",
+     "p": {
+      "A": 0.772727,
+      "B": 0.227249,
+      "C": 2e-06,
+      "D": 2.2e-05
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.772727
+    }
+   ],
+   "reply": "1: B\n2: C\n3: A\n4: B\n5: C\n6: D\n7: C\n8: A",
+   "prompt_tokens": 2555,
+   "retries": 0,
+   "missing": 0
+  },
+  {
+   "rotation": 1,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "D": 0.001752,
+      "A": 0.00199,
+      "B": 0.995983,
+      "C": 0.000275
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.995983
+    },
+    {
+     "id": "t2",
+     "p": {
+      "D": 0.034455,
+      "A": 2.1e-05,
+      "B": 0.00058,
+      "C": 0.964944
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.034455
+    },
+    {
+     "id": "t3",
+     "p": {
+      "D": 0.0,
+      "A": 1.0,
+      "B": 0.0,
+      "C": 0.0
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t4",
+     "p": {
+      "D": 0.0,
+      "A": 0.0,
+      "B": 1.0,
+      "C": 0.0
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t5",
+     "p": {
+      "D": 0.0,
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t6",
+     "p": {
+      "D": 1.0,
+      "A": 0.0,
+      "B": 0.0,
+      "C": 0.0
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t7",
+     "p": {
+      "D": 0.0,
+      "A": 0.0,
+      "B": 0.0,
+      "C": 1.0
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 1.0
+    },
+    {
+     "id": "t8",
+     "p": {
+      "D": 0.0,
+      "A": 0.676738,
+      "B": 0.323163,
+      "C": 9.9e-05
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.676738
+    }
+   ],
+   "reply": "1: C\n2: D\n3: B\n4: C\n5: D\n6: A\n7: D\n8: B",
+   "prompt_tokens": 2555,
+   "retries": 0,
+   "missing": 0
+  }
+ ]
+}

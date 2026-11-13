@@ -1,0 +1,2309 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.519,
+      -3.867,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.519,
+      -3.867,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.519,
+      -3.867,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.519,
+      -3.867,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.361,
+      -0.979,
+      1.361,
+      0.979
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.361,
+      -0.979,
+      1.361,
+      0.979
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.856,
+      -2.829,
+      0.856,
+      -2.491
+     ],
+     "name": "ad_val",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.862,
+      -2.931,
+      0.862,
+      -2.589
+     ],
+     "name": "bc_val",
+     "line": 40,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.856,
+      -2.829,
+      0.856,
+      -2.491
+     ],
+     "name": "ad_val",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.862,
+      -2.931,
+      0.862,
+      -2.589
+     ],
+     "name": "bc_val",
+     "line": 40,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.856,
+      -2.829,
+      0.856,
+      -2.491
+     ],
+     "name": "ad_val",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.862,
+      -2.931,
+      0.862,
+      -2.589
+     ],
+     "name": "bc_val",
+     "line": 40,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.073,
+      -4.498,
+      1.073,
+      -4.0
+     ],
+     "name": "det_k",
+     "line": 57,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 62,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 67,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.372,
+      -0.991,
+      1.372,
+      0.991
+     ],
+     "name": "mat1",
+     "line": 64,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.372,
+      -0.917,
+      5.141,
+      0.917
+     ],
+     "name": "mat2",
+     "line": 65,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.372,
+      -0.991,
+      1.372,
+      0.991
+     ],
+     "name": "mat1",
+     "line": 64,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.372,
+      -0.917,
+      5.141,
+      0.917
+     ],
+     "name": "mat2",
+     "line": 65,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.77,
+      -1.592,
+      0.77,
+      -1.241
+     ],
+     "name": "det1",
+     "line": 70,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.987,
+      -1.518,
+      4.526,
+      -1.167
+     ],
+     "name": "det2",
+     "line": 71,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 76,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.363,
+      -0.986,
+      1.363,
+      0.986
+     ],
+     "name": "zero_matrix",
+     "line": 67,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 86,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.363,
+      -0.986,
+      1.363,
+      0.986
+     ],
+     "name": "zero_matrix",
+     "line": 67,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.866,
+      -2.829,
+      0.866,
+      -2.486
+     ],
+     "name": "zero_ad",
+     "line": 72,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.843,
+      -3.41,
+      0.843,
+      -3.079
+     ],
+     "name": "zero_bc",
+     "line": 83,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 88,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.363,
+      -0.986,
+      1.363,
+      0.986
+     ],
+     "name": "zero_matrix",
+     "line": 67,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.866,
+      -2.829,
+      0.866,
+      -2.486
+     ],
+     "name": "zero_ad",
+     "line": 72,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.843,
+      -3.41,
+      0.843,
+      -3.079
+     ],
+     "name": "zero_bc",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.174,
+      -4.003,
+      1.174,
+      -3.66
+     ],
+     "name": "zero_diff",
+     "line": 84,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 92,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 97,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.363,
+      -0.986,
+      1.363,
+      0.986
+     ],
+     "name": "A",
+     "line": 94,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.363,
+      -0.986,
+      5.089,
+      0.986
+     ],
+     "name": "B",
+     "line": 95,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 101,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.363,
+      -0.986,
+      1.363,
+      0.986
+     ],
+     "name": "A",
+     "line": 94,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.363,
+      -0.986,
+      5.089,
+      0.986
+     ],
+     "name": "B",
+     "line": 95,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.336,
+      -3.944,
+      1.336,
+      -1.986
+     ],
+     "name": "A_plus_B",
+     "line": 100,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 108,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.363,
+      -0.986,
+      1.363,
+      0.986
+     ],
+     "name": "A",
+     "line": 94,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.363,
+      -0.986,
+      5.089,
+      0.986
+     ],
+     "name": "B",
+     "line": 95,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.336,
+      -3.944,
+      1.336,
+      -1.986
+     ],
+     "name": "A_plus_B",
+     "line": 100,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.082,
+      -1.567,
+      0.082,
+      -1.236
+     ],
+     "name": "det_A",
+     "line": 104,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.644,
+      -1.567,
+      3.808,
+      -1.236
+     ],
+     "name": "det_B",
+     "line": 105,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.099,
+      -3.845,
+      0.099,
+      -3.514
+     ],
+     "name": "det_sum",
+     "line": 106,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 112,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 115,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.372,
+      -0.986,
+      1.372,
+      0.986
+     ],
+     "name": "upper_tri",
+     "line": 114,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 119,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.82,
+      3.0,
+      2.82,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.525,
+      -3.848,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.254,
+      2.679,
+      -5.784,
+      3.153
+     ],
+     "name": "ad",
+     "line": 18,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -4.719,
+      1.719,
+      -4.224,
+      2.34
+     ],
+     "name": "bc",
+     "line": 19,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.269,
+      2.077,
+      -5.769,
+      2.429
+     ],
+     "name": "ad_text",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.674,
+      1.117,
+      -4.269,
+      1.469
+     ],
+     "name": "bc_text",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.924,
+      -3.5,
+      0.924,
+      -3.079
+     ],
+     "name": "result",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.372,
+      -0.986,
+      1.372,
+      0.986
+     ],
+     "name": "upper_tri",
+     "line": 114,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.25,
+      -1.587,
+      0.25,
+      -1.236
+     ],
+     "name": "det_upper",
+     "line": 118,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 123,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -1.372,
+      -0.986,
+      1.372,
+      0.986
+     ],
+     "name": "upper_tri",
+     "line": 114,
+     "type": "Matrix"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

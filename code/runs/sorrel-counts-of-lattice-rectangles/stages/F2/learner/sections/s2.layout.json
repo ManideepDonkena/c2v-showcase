@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 89.18,
+  "s_sp": 94.8,
+  "s_ly": 71.3,
+  "s_ed": 91.8,
+  "states": 22,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 82.87,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.79,
+   "conflict": "Text \"corner_text\" (created line 57, box [-1.888, -2.007, 1.888, -1.75]) overlaps MathTex \"w_label\" (line 13, box [-0.082, -1.863, 0.082, -1.75]) by 100%; moving it by [0.0, -0.26] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.99,
+   "conflict": "MathTex \"interior_count\" (created line 79, box [-1.109, 3.251, 1.109, 3.5]) overlaps Text \"title\" (line 6, box [-3.97, 2.995, 3.97, 3.5]) by 100%; moving it by [0.0, 0.4] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 89.18,
+   "conflict": "MathTex \"interior_count2\" (created line 100, box [-1.112, 3.251, 1.112, 3.5]) overlaps Text \"title\" (line 6, box [-3.97, 2.995, 3.97, 3.5]) by 100%; moving it by [0.0, 0.4] would clear it"
+  }
+ ]
+}

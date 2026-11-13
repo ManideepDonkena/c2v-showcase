@@ -1,0 +1,1204 @@
+[
+ {
+  "topic": "The inscribed square or rectangle problem in topology",
+  "base": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 86.04,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 87.03,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 84.03,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 74.56,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q6",
+    "q7",
+    "q8",
+    "q9",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 11,
+   "fixes": {
+    "s3": [
+     "A clear statement that finding four points on the curve that form a square with equal side lengths and right angles is an unsolved mathematical mystery for all possible shapes, not just a visual glitch.",
+     "A historical timeline overlay appearing alongside the struggling square animation, explicitly displaying the name 'Emil Artin' and the year '1911' next to a visual representation of a convex curve (like an ellipse) where the inscribed square is successfully locked in place, contrasting this solved case with the general unresolved case.",
+     "A visual demonstration showing that while the rectangle's side lengths can be continuously adjusted to match (making it a square), the specific geometric constraints of an irregular curve prevent all four vertices from simultaneously lying on the boundary, illustrating that existence is not guaranteed by simple continuity alone.",
+     "A visual comparison showing that while the rectangle case (s2) always finds a solution, the square case fails for certain jagged or irregular curves, demonstrating that 'All curves have solutions' is false.",
+     "A specific example of a curve with 4-fold rotational symmetry (like a rounded square or astroid) where an inscribed square exists, contrasted with the general case to show that while symmetry helps, it does not automatically solve the topological constraints for all irregular shapes without further proof.",
+     "A visual split-screen comparison: on one side, a jagged, fractal-like curve (like the Koch snowflake) where no inscribed square can be found, labeled 'Counterexample Found'; on the other side, a smooth, rectifiable curve with a highlighted inscribed square, labeled 'Proven True'. The narration should state that while the general case remains unsolved, mathematicians have successfully proven it holds true specifically for curves that are 'rectifiable' (having finite length)."
+    ],
+    "s4": [
+     "A visual metaphor comparing the search for an inscribed square to finding a 'stationary point' in a continuous transformation, explicitly stating that this specific mathematical guarantee is known as the Inscribed Square Problem's reliance on Fixed Point Theorems (specifically referencing the work of mathematicians like Vaughan Jones or the general class of fixed-point arguments used in topology).",
+     "A visual demonstration of packing circles into a region to approximate a shape, accompanied by an explanation that this specific geometric technique was used to solve the problem for certain types of curves."
+    ],
+    "s2": [
+     "Show a square inscribed in a circle where the square's diagonal equals the circle's diameter (2). State that for a radius of 1, the diagonal is 2. Use the Pythagorean theorem on the right triangle formed by two sides and the diagonal to calculate the side length as √2.",
+     "A visual comparison showing that while a rectangle only requires opposite sides to be equal and angles to be 90 degrees (allowing width and height to vary independently), a square forces the width and height to be identical, removing one degree of freedom and making the geometric fit significantly more restrictive."
+    ],
+    "s1": [
+     "SHOW a second curve that crosses itself (like a figure-eight) and label it 'Self-intersecting', then contrast it with the white loop by explicitly stating 'No crossing allowed' while tracing the line to prove it returns to the start without touching itself."
+    ]
+   }
+  },
+  "seconds": 128
+ },
+ {
+  "topic": "Space-filling curves and the relationship between infinite and finite mathematics",
+  "base": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 73.09,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 78.93,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 84.52,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 84.22,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q5",
+    "q8",
+    "q9",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 10,
+   "fixes": {
+    "s3": [
+     "SHOW two distinct points on the 1D line mapping to the exact same coordinate in the 2D square, with a label 'f(a) = f(b)' where a ≠ b. SAY: 'Because multiple input points share one output location, this curve cannot be a one-to-one match (bijection), even though it covers every point in the square.'",
+     "A visual demonstration showing that if the curve were injective (one-to-one), it would have to 'tear' or break continuity to fit a 1D line into a 2D square without overlapping, proving that covering every point in the area requires multiple points on the line to map to the same location.",
+     "Show two points in the 2D square that are physically adjacent (distance epsilon), but trace their origins back to the 1D line segment to reveal they originate from locations that are far apart (distance delta). Demonstrate that as you zoom in on the square, the 'closeness' of the image points does not guarantee the 'closeness' of their pre-images, thereby breaking the continuity condition for the inverse function."
+    ],
+    "s2": [
+     "A visual counter that rapidly increments the total length value (e.g., 3, 9, 27, 81...) with each recursive step, accompanied by a voiceover stating 'The length doubles at every stage, heading toward infinity,' while the curve remains trapped within the same fixed square boundary.",
+     "A visual comparison showing that while the curve's length grows without bound (infinity), it remains strictly contained within a fixed, finite boundary box, illustrating that infinite complexity can exist within finite limits.",
+     "SHOW a unit interval [0,1] with Lebesgue measure 1 alongside the filled square with area 1. SAY 'The curve maps a set of length 1 to a region of area 1, yet the image has positive measure while the domain is just a line segment, illustrating that continuous maps do not preserve measure zero sets.'",
+     "Show the length value doubling or multiplying by 3 in each step (e.g., 3, 9, 27, 81...) and explicitly state that as the number of steps approaches infinity, the total length grows without bound, contrasting this with the fixed, finite area of the square.",
+     "Show a 2D grid of pixels (representing an image or database) being traversed by the curve in a specific order, demonstrating how this continuous path allows multi-dimensional coordinates to be converted into a single linear index for efficient storage and retrieval."
+    ],
+    "s4": [
+     "SHOW the specific scaling parameters for the Hilbert curve (N=4 sub-segments, r=1/2 scaling factor) and SAY 'For the Hilbert curve, 4 segments each shrink by half. Calculating log(4)/log(2) gives exactly 2, proving it fills the 2D space just like the Peano curve.'"
+    ],
+    "s1": [
+     "A visual demonstration of the specific geometric transformation rule (e.g., rotation or reflection) applied to each sub-segment during recursion, showing how these rigid symmetry operations ensure the endpoints of adjacent segments connect perfectly to maintain a continuous path without gaps."
+    ]
+   }
+  },
+  "seconds": 130
+ },
+ {
+  "topic": "Hamming error correction codes",
+  "base": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 86.93,
+   "sections_rendered": 2
+  },
+  "learner": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 82.04,
+   "sections_rendered": 3,
+   "changed": [
+    "s2",
+    "s3"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 85.47,
+   "sections_rendered": 2,
+   "changed": [
+    "s2",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 75.76,
+   "sections_rendered": 3,
+   "changed": [
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q6",
+    "q7",
+    "q8",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 10,
+   "fixes": {
+    "s4": [
+     "A visual demonstration showing that while one bit flip is fixed (restoring '101'), two simultaneous bit flips result in an incorrect final string, illustrating the limitation to single error correction."
+    ],
+    "s2": [
+     "A visual breakdown of the Hamming(7,4) structure showing 4 data bits and 3 parity bits (P1, P2, P4) occupying positions 1, 2, and 4 respectively, explicitly stating that $2^r \\ge m + r + 1$ requires 3 parity bits for 4 data bits.",
+     "SHOW: A visual overlay of binary numbers (1, 2, 4, 8) aligning with the positions of the parity bits P1, P2, P4, etc., demonstrating that each parity bit covers a specific pattern of bit positions based on its binary index. SAY: 'Parity bits are placed at powers of two because their position numbers correspond to the binary weights needed to uniquely identify every bit's location during error detection.'",
+     "Show two valid codewords that differ by only 1 bit (distance 1) and explain that a single flip makes them indistinguishable. Then show two valid codewords that differ by 3 bits (distance 3). Demonstrate that if one bit flips in the second pair, the result is still closer to the original codeword than any other valid codeword, proving distance 3 is needed to uniquely identify and correct a single error.",
+     "A visual breakdown of the Hamming(7,4) structure showing 4 data bits and 3 parity bits totaling 7 bits. Display the calculation '3 parity bits / 7 total bits' to explicitly define the overhead ratio as 3/7.",
+     "SHOW a table or visual rule stating that for k data bits, you need r parity bits such that 2^r >= k + r + 1. For k=4, show that r=3 is required (since 2^3 = 8 >= 4+3+1=8), and then SHOW the total length n = k + r = 4 + 3 = 7.",
+     "Show two valid codewords side-by-side and count the minimum number of bit positions that differ between them (the Hamming distance). Then, demonstrate that if a single bit flips in one codeword, it moves halfway to the other codeword but does not reach it, proving that any received word with 1 error is closer to the original valid codeword than to any other valid one, thus allowing unique correction."
+    ],
+    "s3": [
+     "A visual mapping showing that the syndrome bits correspond directly to the binary weights of the bit positions (e.g., the rightmost syndrome bit represents position 1, the middle represents position 2, and the leftmost represents position 4), so that a syndrome of '101' visually sums to 4 + 1 = 5.",
+     "Show two bits flipping simultaneously (e.g., at positions 1 and 2). Demonstrate that the resulting syndrome points to a single, non-existent bit position (like position 3) or zero, illustrating that the system incorrectly 'corrects' a valid codeword into another invalid one, thereby failing to detect that an error occurred rather than just locating it.",
+     "Show two bits flipping simultaneously in the codeword (e.g., at positions 1 and 2). Demonstrate that the calculated syndrome points to a single, non-existent error location (like position 3) or zero. Explain that the system 'sees' a valid but different pattern, leading it to flip the wrong bit, thereby corrupting the data further instead of fixing it."
+    ]
+   }
+  },
+  "seconds": 132
+ },
+ {
+  "topic": "Uncertainty Principle in the Context of Fourier Transforms",
+  "base": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 72.17,
+   "sections_rendered": 3
+  },
+  "learner": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 69.38,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s3"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 71.05,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s3"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 73.69,
+   "sections_rendered": 3,
+   "changed": [
+    "s1",
+    "s2",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q5",
+    "q6",
+    "q7",
+    "q9",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 11,
+   "fixes": {
+    "s3": [
+     "A visual demonstration where the area under the curve of the time-domain pulse remains constant while its width decreases, simultaneously causing the area under the frequency-domain curve to remain constant while its width increases, explicitly illustrating that as one dimension shrinks, the other must expand to maintain a fixed minimum product value.",
+     "A visual demonstration where the time-domain pulse width is explicitly halved (e.g., from 2 units to 1 unit) while the frequency-domain spectrum width is simultaneously doubled (e.g., from 1 unit to 2 units), accompanied by text stating 'If Δt becomes 1/2, then Δω becomes 2'.",
+     "A visual demonstration that as the time-width (Δt) approaches zero, the frequency-width (Δω) approaches infinity, proving their product cannot be less than a fixed constant.",
+     "A concrete numerical example demonstrating that multiplying the specific width of the time pulse (e.g., 2 ms) by the specific width of its frequency spectrum (e.g., 100 Hz) yields a constant value (0.2), visually reinforcing that this product is the invariant quantity governed by the inequality.",
+     "A specific numerical example showing that if the time duration (Δt) is multiplied by 4, the frequency width (Δω) is divided by 4 (multiplied by 1/4), explicitly demonstrating the inverse proportionality with concrete numbers rather than just a general inequality.",
+     "Show a side-by-side comparison of the area under the curve for the product of widths (Δt·Δω) for a Gaussian pulse versus an exponential pulse. State that the Gaussian pulse achieves the absolute minimum theoretical limit (the equality case), while other shapes like the exponential pulse result in a larger product, meaning they are not 'optimally' localized.",
+     "A visual demonstration showing that while zero-padding interpolates more points in the frequency domain (making the curve smoother), it does not add new information or narrow the main spectral lobes; explicitly show two spectra with identical peak widths but different point densities to prove resolution is determined by the original signal duration, not the padded length.",
+     "Show a specific example where the frequency domain is a sharp rectangular box (brick-wall filter) and demonstrate that its inverse Fourier transform in the time domain is a sinc function (a central peak with oscillating side lobes), illustrating that a discontinuous or 'sharp' feature in one domain creates an extended, oscillatory response in the other.",
+     "SHOW the specific numerical constant '1/4π' appearing in the inequality equation on screen, replacing or clarifying the generic '1/2' shown previously. SAY that for standard deviations defined with ordinary frequency (f), the minimum product is exactly one-quarter of pi, distinguishing this mathematical precision from the angular frequency version."
+    ],
+    "s1": [
+     "Show a Dirac delta function as an infinitely thin spike in the time domain and demonstrate that its Fourier transform is a horizontal line at a constant height across all frequencies, illustrating that a single instant contains all possible frequencies equally."
+    ]
+   }
+  },
+  "seconds": 133
+ },
+ {
+  "topic": "Holomorphic dynamics and iterated complex functions",
+  "base": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 84.19,
+   "sections_rendered": 3
+  },
+  "learner": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 79.74,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 74.29,
+   "sections_rendered": 3,
+   "changed": [
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "learner_all": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 78.4,
+   "sections_rendered": 3,
+   "changed": [
+    "s2",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q5",
+    "q6",
+    "q7",
+    "q8",
+    "q9",
+    "q10",
+    "q12"
+   ],
+   "dev": 11,
+   "fixes": {
+    "s4": [
+     "A visual demonstration showing that while the grid lines remain perpendicular (preserving angles) at most points, they become singular or undefined at specific 'critical points' where the derivative is zero. To define holomorphicity on an open set U, one must explicitly state that the function possesses a complex derivative at *every single point* within that set, not just almost everywhere. Show a zoom-in on a critical point where the conformal property breaks down (angles are not preserved) to contrast with points where the derivative exists and is non-zero, emphasizing that holomorphicity requires differentiability everywhere in the domain, excluding only isolated singularities or boundaries.",
+     "A visual demonstration of the derivative as a local scaling and rotation factor: Show a small circle around the fixed point z=1 being mapped to an ellipse or scaled circle by f'(z). Explicitly calculate and display the value of the derivative f'(z) = 2z at z=1, showing that the multiplier is 2, which indicates the fixed point is repelling because the magnitude |f'(1)| > 1.",
+     "Show two different functions, such as f(z) = z^2 and g(w) = w^2 + c, connected by a smooth, invertible change of coordinates (a conjugating map h). Demonstrate that while the shapes of their orbits look different in the original planes, the pattern of convergence or divergence is identical when viewed through this transformation. Say: 'Conjugacy means the underlying dynamical behavior is structurally the same, even if the specific geometric locations differ.'"
+    ],
+    "s3": [
+     "A visual demonstration showing that for specific values of c (like c=0 or c=-1), the black filled Julia set forms a single unbroken piece, whereas for other values (like c=2), it shatters into disconnected dust. The key idea to convey is that the Mandelbrot set acts as a 'map' where every point represents a parameter c; the set is connected because the condition for the orbit of 0 remaining bounded defines a continuous region in the complex plane without holes, unlike the Julia sets which can be disconnected.",
+     "A side-by-side comparison showing that points in the Fatou set (the black interior) have stable, predictable orbits that converge to a cycle, while points on the Julia set boundary exhibit chaotic sensitivity where infinitesimally close starting points diverge rapidly.",
+     "Show two side-by-side visualizations of the filled Julia set for f(z) = z^2 + c. In the first, place c near the origin (e.g., c=0), showing a single connected black blob containing the critical point 0. In the second, move c far outside the main cardioid (e.g., c=-2), causing the critical point's orbit to escape; show the resulting filled Julia set shattering into infinitely many isolated dust-like points. State: 'When the critical point escapes, the boundary loses its connection, becoming a scattered Cantor set.'",
+     "A specific animation showing the critical point z=0 being iterated under f(z) = z^2 + c where c is inside the Mandelbrot set, demonstrating that its orbit remains confined within a finite region of the complex plane rather than escaping to infinity.",
+     "SHOW a high-resolution zoom of the Mandelbrot set boundary revealing jagged, infinitely complex fractal edges that never straighten out, contrasting this with a smooth circle. SAY: 'The boundary is not a simple smooth line; it is a rough, self-similar fractal structure where every tiny piece looks like the whole.'"
+    ],
+    "s2": [
+     "A visual demonstration showing that once an orbit point exceeds a specific threshold (like 2) relative to the parameter c, the magnitude strictly increases at each step, causing the red dot to fly off-screen rapidly, illustrating that the orbit is unbounded and escapes to infinity."
+    ],
+    "s1": [
+     "Show the calculation f(0) = 0^2 = 0 to demonstrate that the point maps to itself in a single step, defining this immediate return as a period of 1.",
+     "A visual demonstration where the red dot representing the orbit converges to the fixed point z=0 with increasing speed, accompanied by a label showing that the derivative (multiplier) at that fixed point is exactly 0, indicating that nearby points are pulled in more strongly than in standard attraction."
+    ]
+   }
+  },
+  "seconds": 133
+ },
+ {
+  "topic": "Backpropagation calculus",
+  "base": {
+   "teachquiz": 20.0,
+   "teachquiz_clean": 20.0,
+   "none": 0.0,
+   "full": 20.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 81.84,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 20.0,
+   "teachquiz_clean": 20.0,
+   "none": 0.0,
+   "full": 20.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 86.14,
+   "sections_rendered": 4,
+   "changed": [
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 20.0,
+   "teachquiz_clean": 20.0,
+   "none": 0.0,
+   "full": 20.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 78.82,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 20.0,
+   "teachquiz_clean": 20.0,
+   "none": 0.0,
+   "full": 20.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 78.92,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q5",
+    "q6",
+    "q7",
+    "q8",
+    "q9",
+    "q11",
+    "q12"
+   ],
+   "dev": 11,
+   "fixes": {
+    "s2": [
+     "A visual metaphor of a 'domino effect' or 'relay race' where the error signal is passed sequentially from one node to the next, explicitly stating that this sequential multiplication of local rates of change is the definition of the Chain Rule.",
+     "SHOW an animated arrow tracing the path of differentiation starting from the Loss node at the end and moving backward through the activation and weight nodes toward the input. SAY that just as the forward pass predicts, the error signal travels in reverse to find where it came from.",
+     "SHOW a visual analogy of a relay race baton pass: The 'error' (gradient) is the baton held by the Loss node. To get it to the Weight, it must be handed off through the Activation node. SAY: 'The derivative da/dw acts as the connector or multiplier that translates how much the activation changed relative to the weight, allowing the error signal to flow backward from the output to the specific parameter.'",
+     "SHOW a visual multiplication of the two specific gradient values (2 and 0.5) resulting in 1, SAY 'The total change is the product of the local changes along the path.'",
+     "SHOW a node with two incoming arrows from different previous nodes; SAY that the total gradient is the SUM of the individual path gradients, illustrating how contributions from parallel branches add together rather than multiply.",
+     "SHOW a generalized node labeled 'delta' (δ) attached to the output of an activation function in a multi-layer graph, distinct from the weight nodes. SAY: 'This symbol δ represents the local error signal or sensitivity at that specific neuron, acting as the bridge that passes the blame backward through the network.'"
+    ],
+    "s3": [
+     "A visual derivation showing that differentiating the squared error term with respect to the prediction variable ŷ yields a factor of 2 multiplied by the difference (ŷ - y), explicitly clarifying that the derivative is positive 2(ŷ - y) rather than negative, as the loss function increases as the gap widens.",
+     "SHOW the activation function node (σ) inserted between z and a, with its own local derivative σ'(z) appearing as a multiplier. SAY that the chain rule must now pass through this new layer, so the gradient is the product of three terms: the loss gradient, the activation's slope, and the input x.",
+     "SHOW the specific derivative formula for the squared error term with respect to its inner variable (ŷ), explicitly displaying the result as -(y - ŷ) rather than just the un-simplified or differently scaled version shown in the video, and SAY that the factor of 1/2 cancels out the exponent's 2, leaving a single negative difference.",
+     "SHOW a specific example where the activation function is simply 'a = z' (meaning the weight w is effectively 1 or identity). SAY that because the derivative of 'z' with respect to 'z' is exactly 1, the gradient passes through this node multiplied by 1. COMPARE this to a multiplier like 0.5 (which halves the signal) or 2 (which doubles it), demonstrating that a linear activation with a slope of 1 preserves the magnitude of the gradient flow without shrinking or exploding it."
+    ],
+    "s4": [
+     "A visual comparison showing that while the weight moves in the correct direction (downhill), it stops at a local valley rather than reaching the absolute lowest point of the entire landscape, illustrating that backpropagation finds *a* solution, not necessarily the *best possible* global solution."
+    ]
+   }
+  },
+  "seconds": 133
+ },
+ {
+  "topic": "Error correction codes and Hamming codes",
+  "base": {
+   "teachquiz": 6.7,
+   "teachquiz_clean": 6.7,
+   "none": 0.0,
+   "full": 6.7,
+   "evidence": 6.7,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 73.72,
+   "sections_rendered": 2
+  },
+  "learner": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 71.63,
+   "sections_rendered": 3,
+   "changed": [
+    "s2",
+    "s3"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 80.54,
+   "sections_rendered": 3,
+   "changed": [
+    "s2",
+    "s3"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 72.22,
+   "sections_rendered": 3,
+   "changed": [
+    "s1",
+    "s2",
+    "s3"
+   ],
+   "kept_by_dev": true
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q3",
+    "q5",
+    "q8",
+    "q9",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 9,
+   "fixes": {
+    "s2": [
+     "A visual comparison showing that while simple parity only detects an odd number of errors (a 'fail' state), Hamming codes use multiple overlapping parity groups to pinpoint the exact location of a single error, enabling the system to not just notice the problem but also identify and fix it.",
+     "A visual grid where specific slots are explicitly labeled with numbers 1, 2, 4, and 8 (powers of two) to demonstrate that parity bits occupy these exact mathematical positions, while data bits fill the remaining gaps.",
+     "Visualize parity bits as 'guardians' placed at specific intervals (powers of 2) that each watch over a unique subset of data bits. Show that by checking the even or odd count of 1s in these subsets, we create a unique 'fingerprint' for every bit position, allowing us to pinpoint exactly which bit is wrong rather than just knowing one exists.",
+     "A clear visual count of the parity bit slots (P1, P2, P4) distinct from the data bits (D1, D2, D3), explicitly stating that there are exactly 3 parity bits required to protect the 4 data bits in this specific configuration."
+    ],
+    "s3": [
+     "SHOW two distinct binary codewords separated by exactly three bit positions (e.g., '000' and '111'). SAY: 'To guarantee we can distinguish between a valid message and a corrupted one with one flip, the shortest path between any two valid codes must be at least 3 steps. If they were only 2 steps apart, a single error could land exactly in the middle, making it impossible to know which original message was intended.'",
+     "A visual demonstration showing two simultaneous bit flips resulting in a valid parity check (a '0' syndrome) or an ambiguous syndrome, explicitly illustrating that the code fails to distinguish between a single error and multiple errors, thereby proving it cannot correct more than one error at a time.",
+     "A clear visual mapping showing that the syndrome bits correspond directly to the binary place values of the error position (e.g., P4 represents 4, P2 represents 2, P1 represents 1), so that a syndrome of '011' is explicitly calculated as 0*4 + 1*2 + 1*1 = 3.",
+     "Show two bits flipping simultaneously (e.g., D1 and D2) and demonstrate that the resulting syndrome points to a single, incorrect valid position (like D3), proving the decoder cannot distinguish between one error at D3 and two errors at D1/D2.",
+     "A visual demonstration where a single parity bit (e.g., P2) is flipped, causing only that specific circle in the Venn diagram to turn red while the others remain green. Show that the resulting syndrome binary number corresponds exactly to the position of that parity bit itself, proving the error is detected and located within the parity section rather than being invisible or creating an uncorrectable double error."
+    ]
+   }
+  },
+  "seconds": 130
+ },
+ {
+  "topic": "Large Language Models and Transformers in Deep Learning",
+  "base": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 70.16,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 66.17,
+   "sections_rendered": 4,
+   "changed": [
+    "s1"
+   ],
+   "kept_by_dev": false
+  },
+  "generic": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 72.44,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 71.65,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q5",
+    "q6",
+    "q7",
+    "q8",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 10,
+   "fixes": {
+    "s1": [
+     "A visual comparison showing a traditional Recurrent Neural Network processing words sequentially in a rigid chain versus the Transformer's Self-Attention mechanism connecting all words simultaneously across the entire sequence, highlighting that Self-Attention is the core structural innovation replacing recurrence.",
+     "Show two identical sentences with swapped word orders (e.g., 'Cat sat' vs 'Sat cat') producing the same attention weights because the model sees the same set of words. Then, overlay a distinct color-coded wave pattern on each position to demonstrate that without this visual marker, the model cannot distinguish between the first and second positions.",
+     "A visual comparison showing that while RNNs process words one by one (low memory per step), the Transformer's self-attention mechanism must calculate relationships between every word in the sequence simultaneously, causing the computational graph and memory usage to grow quadratically as the sentence length increases.",
+     "A visual demonstration of the dot product calculation itself: show two vectors Q and K as arrows in a 2D plane, then explicitly display the arithmetic operation (1*1 + 1*-1 = 0) overlaying the vectors to prove the result is zero, contrasting it with a case where the result would be positive or negative."
+    ],
+    "s3": [
+     "A diagram of a single Transformer block showing that after the Multi-Head Attention layer processes the data, the output passes through a dense neural network (the Feed-Forward Network) before being added to the original input and normalized.",
+     "A visual comparison showing that while s3 describes the internal mechanics of a single decoder block (processing context to probability), it fails to explicitly distinguish the 'Decoder-only' architecture from an 'Encoder-Decoder' architecture. The missing idea is to SHOW two side-by-side diagrams: one with only Decoder blocks (where input and output sequences are processed by the same stack) versus one with separate Encoder and Decoder stacks connected by cross-attention, thereby clarifying that a 'Decoder-only' model relies solely on the self-attention within the decoder stack for both understanding and generation, without an external encoder component.",
+     "A visual comparison showing that while Encoder-only models map an entire input sequence to a single label (like classifying sentiment), the Decoder stack is specifically designed for sequence-to-sequence tasks where the output length differs from the input, such as translating 'The cat sat' into 'Le chat s'est assis', highlighting the cross-attention mechanism that bridges two different languages."
+    ],
+    "s2": [
+     "A visual overlay of a triangular mask grid covering the upper-right half of the attention weight matrix, accompanied by an animation showing that when calculating the attention for a specific word, the glowing connection lines to all subsequent words in the sequence are forcibly cut off or turned gray, ensuring the model only 'sees' past and current tokens.",
+     "A visual comparison showing that without normalization, the values in the attention vectors explode or vanish (represented by erratic, chaotic numbers), whereas with Layer Normalization, the values are constrained to a stable range (represented by calm, consistent numbers), ensuring the gradients flow smoothly during backpropagation."
+    ]
+   }
+  },
+  "seconds": 130
+ },
+ {
+  "topic": "Interconnections in number theory: π, primes, complex numbers, and prime regularities",
+  "base": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 78.69,
+   "sections_rendered": 3
+  },
+  "learner": {
+   "teachquiz": 13.3,
+   "teachquiz_clean": 13.3,
+   "none": 0.0,
+   "full": 13.3,
+   "evidence": 6.7,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 81.38,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 40.0,
+   "teachquiz_clean": 40.0,
+   "none": 0.0,
+   "full": 40.0,
+   "evidence": 26.7,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 81.87,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 40.0,
+   "teachquiz_clean": 40.0,
+   "none": 0.0,
+   "full": 40.0,
+   "evidence": 40.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 52.91,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q5",
+    "q7",
+    "q8",
+    "q9",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 11,
+   "fixes": {
+    "s2": [
+     "A visual overlay of a smooth curve representing $x / \\ln(x)$ that closely hugs the jagged steps of the prime counting function, demonstrating that the density of primes is inversely proportional to their natural logarithm.",
+     "A visual demonstration of how rational primes behave when mapped onto the complex integer grid (Gaussian integers). Specifically, show that primes like 5 and 13 'shatter' into two distinct Gaussian prime factors because they can be written as the sum of two squares ($a^2 + b^2$), while a prime like 7 remains indivisible (inert) because it cannot be decomposed in this way. Use the analogy of a brick wall: some bricks split into smaller pieces, but others remain solid and whole.",
+     "SHOW a vertical line drawn exactly at the coordinate x=0.5 on the complex plane, with glowing dots representing the zeros clustering precisely along this line rather than scattering randomly. SAY: 'The Riemann Hypothesis proposes that every non-trivial zero of this function sits exactly on this specific half-way line, acting as a strict geometric rule for prime distribution.'",
+     "SHOW a grid of integer coordinates on the complex plane (Gaussian integers). SAY that while primes like 3 remain indivisible 'atoms' in this grid, primes like 5 can be factored into two distinct Gaussian prime pairs, such as (1+2i) and (1-2i), demonstrating that they split rather than stay whole.",
+     "A visual demonstration contrasting the 'Critical Line' (Re(s)=1/2) with the line Re(s)=1, explicitly showing that while the function has no zeros on the latter, the hypothesis claims all non-trivial zeros are confined to the former, not the latter.",
+     "A visual demonstration of calculating the modulus (distance from the origin) of a complex number $a+bi$ using the Pythagorean theorem $\text{modulus} = \text{sqrt}(a^2 + b^2)$, specifically highlighting that for the golden ratio $\frac{1+\text{sqrt}(5)}{2}$ to be the modulus, the real part must be $\frac{1+\text{sqrt}(5)}{2}$ and the imaginary part must be 0.",
+     "Show a grid of integers arranged in arithmetic progressions (like 3, 7, 11, 15...) and overlay oscillating wave patterns (Dirichlet characters) that act as filters; explain how these waves 'ring' or resonate specifically when the input number is prime within that specific progression, allowing us to count primes in those structured lines rather than just seeing them scattered randomly.",
+     "Show the Gaussian integers Z[i] as a square grid on the complex plane. Demonstrate that primes p ≡ 3 (mod 4) cannot be written as the sum of two squares (a² + b²), meaning they do not factor into smaller Gaussian integers and thus remain 'inert' or indivisible within this specific geometric lattice, unlike primes p ≡ 1 (mod 4) which split into conjugate pairs."
+    ],
+    "s3": [
+     "A visual demonstration that the infinite sum of reciprocals of squares (the Basel problem) equals π²/6, thereby showing that the specific value of the Zeta function at s=2 connects the geometric constant π directly to the multiplicative structure of primes through Euler's product formula."
+    ],
+    "s1": [
+     "A side-by-side plot comparing the jagged step-function of prime counts against the smooth, rising curve of the logarithmic integral, demonstrating that while they diverge locally, their ratio approaches 1 as x grows large."
+    ],
+    "s4": [
+     "A visual demonstration where the infinite sum of the reciprocals of perfect squares (1 + 1/4 + 1/9...) is shown to equal a specific geometric area involving π, explicitly stating that this connection arises because the terms in the sum are derived from prime numbers."
+    ]
+   }
+  },
+  "seconds": 138
+ },
+ {
+  "topic": "Higher order derivatives",
+  "base": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 69.15,
+   "sections_rendered": 2
+  },
+  "learner": {
+   "teachquiz": 6.7,
+   "teachquiz_clean": 6.7,
+   "none": 0.0,
+   "full": 6.7,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 83.71,
+   "sections_rendered": 2,
+   "changed": [
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 40.0,
+   "teachquiz_clean": 40.0,
+   "none": 0.0,
+   "full": 40.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 75.0,
+   "sections_rendered": 3,
+   "changed": [
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 0.0,
+   "teachquiz_clean": 0.0,
+   "none": 0.0,
+   "full": 0.0,
+   "evidence": 0.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 54.05,
+   "sections_rendered": 2,
+   "changed": [
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q3",
+    "q4",
+    "q5",
+    "q6",
+    "q8",
+    "q9",
+    "q11",
+    "q12"
+   ],
+   "dev": 9,
+   "fixes": {
+    "s3": [
+     "Show the specific notation 'd^3y/dx^3' appearing clearly on screen next to the label 'Jerk' and the red curve, explicitly linking the visual concept of jerk to this standard mathematical symbol.",
+     "A concrete example showing that differentiating a cubic term (like x^3) three times results in a constant non-zero value (specifically 6), demonstrating that the 'jerk' is not always zero even if the acceleration graph appears linear or simple."
+    ],
+    "s4": [
+     "Show a concrete example of a polynomial, such as f(x) = x^3. Visually demonstrate the step-by-step differentiation process: first derivative becomes 3x^2 (degree 2), second becomes 6x (degree 1), and third becomes 6 (degree 0). Highlight that each differentiation reduces the power of the variable by one, so after n steps for a degree-n polynomial, the variable term x^0 equals 1, leaving only the constant coefficient.",
+     "A visual demonstration of the cyclic pattern of derivatives for sine and cosine functions, showing that applying the differentiation operator four times returns to the original function, accompanied by the explicit calculation steps: d/dx(sin(x)) = cos(x), d^2/dx^2(sin(x)) = -sin(x), d^3/dx^3(sin(x)) = -cos(x), and d^4/dx^4(sin(x)) = sin(x).",
+     "A visual demonstration of a function with two variables (x and y) where the order of differentiation is swapped (first differentiate with respect to x then y, versus first y then x), showing that if the mixed partial derivatives are continuous, the resulting surfaces or values are identical, illustrating that the 'path' taken through the higher-order layers does not change the final result."
+    ],
+    "s2": [
+     "Show a straight green line with a positive slope representing f''(t) corresponding to a blue curve that is curving upwards at an increasingly steady rate. Say: 'When the slope grows by the same amount every second, the acceleration is not just positive—it is constant.'",
+     "A visual demonstration of differentiating an exponential function twice: first showing that the slope of e^(2x) is 2e^(2x), and then showing that the slope of that result (the second derivative) is 4e^(2x), emphasizing that the constant factor '2' is multiplied by itself.",
+     "Show a specific point on the blue curve where it curves upward like a cup, and explicitly state that at this location, the green acceleration line is above the zero axis (positive). Contrast this with a downward-curving section where the green line is below zero. Emphasize that 'concave up' is synonymous with 'positive second derivative'.",
+     "A visual demonstration of differentiating a composite function like cos(x^2) step-by-step: first showing the outer layer (cosine) being differentiated while keeping the inner part intact, then multiplying by the derivative of the inner part (x^2), explicitly highlighting that the Chain Rule is applied before any other rules like the Product Rule are considered for subsequent steps."
+    ]
+   }
+  },
+  "seconds": 123
+ },
+ {
+  "topic": "Sum of normal distributions, Gaussian + Gaussian = Gaussian",
+  "base": {
+   "teachquiz": 40.0,
+   "teachquiz_clean": 40.0,
+   "none": 0.0,
+   "full": 40.0,
+   "evidence": 40.0,
+   "control_first_section": 0.0,
+   "control_other_topic": 0.0,
+   "mvqs": 83.13,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 53.3,
+   "teachquiz_clean": 53.3,
+   "none": 0.0,
+   "full": 53.3,
+   "evidence": 53.3,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 80.22,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 20.0,
+   "teachquiz_clean": 20.0,
+   "none": 0.0,
+   "full": 20.0,
+   "evidence": 20.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 83.85,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "learner_all": {
+   "teachquiz": 80.0,
+   "teachquiz_clean": 80.0,
+   "none": 0.0,
+   "full": 80.0,
+   "evidence": 33.3,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 73.27,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s4"
+   ],
+   "kept_by_dev": false
+  },
+  "diagnosis": {
+   "gaps": [
+    "q3",
+    "q4",
+    "q5",
+    "q6",
+    "q7",
+    "q8",
+    "q9",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 12,
+   "fixes": {
+    "s4": [
+     "SHOW two separate boxes labeled 'Variance of X' and 'Variance of Y' sitting side-by-side, then an arrow pointing to a third box labeled 'Total Variance' that contains the sum of those two numbers. SAY: 'When independent variables add up, their uncertainties (variances) also add up directly, just like the means do.'",
+     "SHOW two identical blue curves side-by-side, then dynamically merge them into a single wider green curve that is visibly broader than the originals. SAY 'When you add two independent variables with variance 1, their variances add up: 1 + 1 = 2. The new standard deviation is the square root of the total variance, which is √2.'",
+     "SHOW a visual equation overlaying the resulting green curve that explicitly adds the two input means (e.g., 'μ_sum = μ_X + μ_Y') and displays the specific arithmetic operation for the expected value of the sum. SAY: 'The center of the new combined bell is simply the sum of the centers of the original bells. To find the average outcome, you just add the individual averages together.'",
+     "SHOW a specific example where two identical Gaussian distributions (e.g., N(5, 1) and N(5, 1)) are summed, resulting in a new Gaussian curve with mean 10 and variance 2. SAY: 'Just as adding two normal variables always yields another normal variable, the shape remains Gaussian regardless of the specific means or variances.'",
+     "A visual equation overlaying the resulting green bell curve that explicitly displays 'μ_sum = μ_X + μ_Y' with the specific values plugged in (e.g., '1 + 2'), demonstrating that the new center is the arithmetic sum of the individual centers, not a weighted average or maximum.",
+     "SHOW two overlapping bell curves (one blue, one red) and visually demonstrate that their point-by-point multiplication creates a new, narrower curve that is still Gaussian. SAY: 'While adding Gaussians keeps the shape Gaussian, multiplying them also results in a Gaussian, but with a different mean and variance calculated by combining precisions (inverse variances), not just summing them.'"
+    ],
+    "s2": [
+     "Show two Gaussian curves that are perfectly correlated (e.g., Y = X) so their sum is just a scaled version of one curve, then contrast this with the independent case where the variances add. Explicitly state that independence is the required condition for the variance addition rule to hold."
+    ],
+    "s3": [
+     "Show two dice rolls: one with variance 1 and another with variance 4. Visually demonstrate that when you add the outcomes of these independent events, the total spread (variance) adds up to 5, not because they are normal, but because their fluctuations do not cancel each other out due to independence.",
+     "SHOW two identical blue curves side-by-side representing X and Y. SAY 'When we subtract independent variables, their variances ADD, not cancel.' VISUALLY demonstrate this by showing the width (variance) of the resulting distribution growing wider than either individual curve, specifically illustrating that Var(X-Y) = Var(X) + Var(-Y) = σ² + σ² = 2σ², proving that uncertainty accumulates rather than disappears."
+    ],
+    "s1": [
+     "SHOW a horizontal shift of the entire bell curve along the x-axis by adding a constant 'c' to the mean, demonstrating that the shape and width (spread) remain identical. SAY: 'Adding a constant moves the center but does not stretch or compress the distribution, so the variance stays exactly the same.'"
+    ]
+   }
+  },
+  "seconds": 139
+ },
+ {
+  "topic": "The determinant",
+  "base": {
+   "teachquiz": 60.0,
+   "teachquiz_clean": 60.0,
+   "none": 0.0,
+   "full": 60.0,
+   "evidence": 46.7,
+   "control_first_section": 20.0,
+   "control_other_topic": 0.0,
+   "mvqs": 83.19,
+   "sections_rendered": 4
+  },
+  "learner": {
+   "teachquiz": 53.3,
+   "teachquiz_clean": 53.3,
+   "none": 0.0,
+   "full": 53.3,
+   "evidence": 46.7,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 84.86,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "generic": {
+   "teachquiz": 53.3,
+   "teachquiz_clean": 53.3,
+   "none": 0.0,
+   "full": 53.3,
+   "evidence": 33.3,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 79.05,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "learner_all": {
+   "teachquiz": 60.0,
+   "teachquiz_clean": 60.0,
+   "none": 0.0,
+   "full": 60.0,
+   "evidence": 60.0,
+   "control_first_section": 0.0,
+   "control_other_topic": null,
+   "mvqs": 81.11,
+   "sections_rendered": 4,
+   "changed": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "kept_by_dev": true
+  },
+  "diagnosis": {
+   "gaps": [
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q5",
+    "q6",
+    "q7",
+    "q8",
+    "q9",
+    "q10",
+    "q11",
+    "q12"
+   ],
+   "dev": 12,
+   "fixes": {
+    "s1": [
+     "SHOW the specific column vectors of the matrix as the sides of the parallelogram and SAY that the determinant's magnitude equals the area of this shape, explicitly linking the abstract 'scaling factor' to the concrete geometric figure formed by those columns.",
+     "Show two sequential transformations applied to a unit square: first by matrix B, then by matrix A. Visually demonstrate that the final area scaling factor of the combined transformation is equal to the product of the individual area scaling factors of each step.",
+     "Show a rotation or reflection transformation where the unit square transforms into another unit square of identical size and shape, demonstrating that the area remains unchanged (scaling factor is 1), while noting that orthogonal matrices preserve lengths and angles."
+    ],
+    "s3": [
+     "Show two basis vectors that are identical (pointing in the exact same direction) and demonstrate that they fail to enclose any area, resulting in a collapsed shape with zero volume.",
+     "Show two parallel lines that never intersect (representing no solution) and one line where every point on the line is a valid solution (representing infinite solutions), demonstrating that a zero determinant means the transformation loses dimensionality, preventing a unique intersection point."
+    ],
+    "s4": [
+     "A visual mapping where the specific numbers from the matrix (1, 2, 3, 4) are plugged into the 'ad - bc' formula to calculate the area of the transformed unit square, explicitly showing that (1*4) minus (2*3) equals -2.",
+     "Show a 2x2 matrix where one row is multiplied by a scalar k (e.g., the first row becomes [ka, kb]). Visually demonstrate that the base of the corresponding parallelogram stretches by factor k while the height remains constant. Show that the area calculation changes from ad - bc to (ka)d - (kb)c, which simplifies to k(ad - bc), proving the new determinant is k times the original.",
+     "Show two 2x2 matrices that are transposes of each other (swap rows and columns). Calculate the determinant for both using the ad-bc formula. Visually demonstrate that swapping 'b' and 'c' in the matrix does not change the value of 'ad - bc', proving the determinant remains identical.",
+     "Show the specific values a=0, b=1, c=1, d=0 plugged into the formula ad - bc. Visually demonstrate that 0*0 equals 0 and 1*1 equals 1, then show the subtraction 0 - 1 resulting in -1. Compare this result to the orientation flip shown in s2, indicating that a negative area value corresponds to the reversed order of the basis vectors.",
+     "A visual counter-example showing two matrices A and B where the area of the transformed unit square by (A+B) is clearly not equal to the sum of the areas of the transformed unit squares by A and B separately, demonstrating that determinants do not distribute over matrix addition.",
+     "Show a 2x2 upper triangular matrix where b=0, visually demonstrating that the 'bc' term vanishes, leaving only the product of the diagonal elements (a*d) as the determinant."
+    ],
+    "s2": [
+     "Show two basis vectors forming a parallelogram with positive area. Then, swap their positions (swap the rows of the matrix defining them). Visually demonstrate that the new parallelogram has the exact same size but the orientation is reversed (clockwise vs counter-clockwise), and explicitly state that this reversal flips the sign of the determinant."
+    ]
+   }
+  },
+  "seconds": 132
+ }
+]

@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 86.15,
+  "s_sp": 98.0,
+  "s_ly": 38.6,
+  "s_ed": 98.2,
+  "states": 33,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 0.0,
+   "conflicts": 1
+  },
+  {
+   "level": "none kept",
+   "conflict": "Integer \"num_77\" (created line 43, box [-0.158, -0.116, 0.158, 0.116]) overlaps Text \"label\" (line 28, box [-0.946, -0.198, 0.146, 0.136]) by 96%; moving it by [0.0, 0.4] would clear it"
+  }
+ ]
+}

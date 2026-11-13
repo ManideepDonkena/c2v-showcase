@@ -1,0 +1,29 @@
+{
+ "stage": "F4",
+ "mode": "learner",
+ "features": [
+  "gate",
+  "leak_gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s3": [
+   "SHOW a central point and four specific points lighting up in sequence: two points located 6 units horizontally away (cost 6+0=6), one point located 3 units vertically up (cost 0+6=6), and one point located 3 units vertically down (cost 0+6=6). SAY that just as distance 2 required 2 sideways or 1 vertical step, distance 6 requires 6 sideways steps or 3 vertical steps."
+  ]
+ },
+ "changed": [
+  "s3"
+ ],
+ "edit_size": {
+  "s3": 0.755
+ },
+ "diagnosis": "f4",
+ "dev_before": 0.8951164090909092,
+ "dev_after": 0.8377594545454545,
+ "mvqs_before": 85.01,
+ "mvqs_after": 84.24,
+ "kept": false,
+ "served": "base"
+}

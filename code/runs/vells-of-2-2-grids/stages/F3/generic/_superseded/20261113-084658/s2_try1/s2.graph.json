@@ -1,0 +1,504 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.445,
+      3.3,
+      3.445,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.445,
+      3.3,
+      3.445,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.947,
+      1.415,
+      0.947,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.445,
+      3.3,
+      3.445,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.947,
+      1.415,
+      0.947,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.445,
+      3.3,
+      3.445,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.947,
+      1.415,
+      0.947,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.237,
+      2.352,
+      -0.087,
+      2.502
+     ],
+     "name": "mult_sign",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.113,
+      2.32,
+      0.242,
+      2.534
+     ],
+     "name": "result_mult",
+     "line": 28,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.445,
+      3.3,
+      3.445,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.947,
+      1.415,
+      0.947,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.445,
+      3.3,
+      3.445,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.947,
+      1.415,
+      0.947,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.237,
+      2.421,
+      -0.047,
+      2.434
+     ],
+     "name": "minus_sign",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.153,
+      2.324,
+      0.256,
+      2.531
+     ],
+     "name": "b_text",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.445,
+      3.3,
+      3.445,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.947,
+      1.415,
+      0.947,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.237,
+      2.421,
+      -0.047,
+      2.434
+     ],
+     "name": "minus_sign",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.153,
+      2.324,
+      0.256,
+      2.531
+     ],
+     "name": "b_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.456,
+      2.421,
+      0.646,
+      2.434
+     ],
+     "name": "minus_sign_2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.096,
+      2.32,
+      1.225,
+      2.534
+     ],
+     "name": "c_text",
+     "line": 47,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.445,
+      3.3,
+      3.445,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.947,
+      1.415,
+      0.947,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.237,
+      2.421,
+      -0.047,
+      2.434
+     ],
+     "name": "minus_sign",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.153,
+      2.324,
+      0.256,
+      2.531
+     ],
+     "name": "b_text",
+     "line": 39,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.456,
+      2.421,
+      0.646,
+      2.434
+     ],
+     "name": "minus_sign_2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.096,
+      2.32,
+      1.225,
+      2.534
+     ],
+     "name": "c_text",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.525,
+      2.287,
+      2.136,
+      2.568
+     ],
+     "name": "final_result",
+     "line": 33,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.445,
+      3.3,
+      3.445,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.947,
+      1.415,
+      -0.843,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.843,
+      1.415,
+      0.947,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.445,
+      3.3,
+      3.445,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.947,
+      1.415,
+      -0.843,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.843,
+      1.415,
+      0.947,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.849,
+      0.53,
+      0.849,
+      0.915
+     ],
+     "name": "vell_text",
+     "line": 68,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.947,
+      1.415,
+      -0.843,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.843,
+      1.415,
+      0.947,
+      2.8
+     ],
+     "name": "grid_mobject",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

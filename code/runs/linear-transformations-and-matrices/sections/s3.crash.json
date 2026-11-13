@@ -1,0 +1,452 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.97,
+      3.116,
+      2.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.97,
+      3.116,
+      2.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.97,
+      3.116,
+      2.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.6,
+      2.75,
+      -0.4
+     ],
+     "name": "i_hat",
+     "line": 18,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.1,
+      -0.25,
+      0.1,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.716,
+      -0.983,
+      2.784,
+      -0.75
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.352,
+      0.61,
+      -0.25,
+      0.89
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.97,
+      3.116,
+      2.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.1,
+      -0.25,
+      0.1,
+      0.75
+     ],
+     "name": "i_hat",
+     "line": 18,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.1,
+      -0.25,
+      0.1,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.065,
+      0.267,
+      0.065,
+      0.5
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.352,
+      0.61,
+      -0.25,
+      0.89
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.97,
+      3.116,
+      2.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.1,
+      -0.25,
+      0.1,
+      0.75
+     ],
+     "name": "i_hat",
+     "line": 18,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.6,
+      -0.25,
+      -0.4
+     ],
+     "name": "j_hat",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.065,
+      0.267,
+      0.065,
+      0.5
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.172,
+      -0.64,
+      -3.0,
+      -0.36
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.97,
+      3.116,
+      2.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.1,
+      -0.25,
+      0.1,
+      0.75
+     ],
+     "name": "i_hat",
+     "line": 18,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.6,
+      -0.25,
+      -0.4
+     ],
+     "name": "j_hat",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.065,
+      0.267,
+      0.065,
+      0.5
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.172,
+      -0.64,
+      -3.0,
+      -0.36
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.97,
+      3.116,
+      2.97,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.0,
+      -3.5,
+      6.0,
+      2.5
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.1,
+      -0.25,
+      0.1,
+      0.75
+     ],
+     "name": "i_hat",
+     "line": 18,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.75,
+      -0.6,
+      -0.25,
+      -0.4
+     ],
+     "name": "j_hat",
+     "line": 19,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.065,
+      0.267,
+      0.065,
+      0.5
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.172,
+      -0.64,
+      -3.0,
+      -0.36
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.692,
+      3.5,
+      0.692,
+      4.496
+     ],
+     "name": "matrix_brackets",
+     "line": 44,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "IndexError",
+  "message": "list index out of range",
+  "line": 53
+ }
+}

@@ -1,0 +1,22 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 29,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 29: NameError: name 'ShowCreation' is not defined\nline 59: NameError: name 'Checkmark' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 59,
+  "scope": "block",
+  "preflight": true,
+  "error": "line 59: NameError: name 'Checkmark' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

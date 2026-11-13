@@ -1,0 +1,33 @@
+{
+ "stage": "F3",
+ "mode": "generic",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s3": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s3",
+  "s4"
+ ],
+ "edit_size": {
+  "s3": 0.455,
+  "s4": 0.485
+ },
+ "diagnosis": "f3",
+ "dev_before": 0.711144,
+ "dev_after": 0.7453343333333334,
+ "mvqs_before": 79.29,
+ "mvqs_after": 81.99,
+ "kept": true,
+ "served": "revision"
+}

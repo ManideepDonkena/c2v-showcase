@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 64.45,
+  "s_sp": 87.7,
+  "s_ly": 16.4,
+  "s_ed": 57.7,
+  "states": 71,
+  "states_with_conflict": 50
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 60.17,
+   "conflicts": 27
+  },
+  {
+   "level": "shift",
+   "mvqs": 64.45,
+   "conflict": "Text \"number_52_copy\" (created line 20, box [-2.03, -0.386, -1.571, 0.386]) overlaps Text \"tens_digit_52\" (line 11, box [-1.691, -0.322, -1.309, 0.322]) by 31%; moving it by [-0.27, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"number_52_copy\" (created line 20, box [1.298, -0.386, 1.762, 0.386]) overlaps Text \"units_digit_52\" (line 12, box [1.307, -0.322, 1.693, 0.322]) by 100%; moving it by [0.55, 0.0] would clear it"
+  }
+ ]
+}

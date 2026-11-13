@@ -1,0 +1,364 @@
+{
+ "split": "test",
+ "questions": 7,
+ "none": 0.0,
+ "full": 42.8,
+ "evidence": 0.0,
+ "runs": {
+  "none": [
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what 'c' refers to in this context."
+     },
+     {
+      "id": "q4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not have a rule to calculate c from a and b."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know which side is the hypotenuse."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to find a leg using the hypotenuse."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the relationship between these sides and squares."
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the criteria for a right triangle."
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to calculate the missing leg."
+     }
+    ]
+   },
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what 'c' refers to in this context."
+     },
+     {
+      "id": "q4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not have a way to calculate this value."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know which side is the hypotenuse."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to find a missing leg."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to calculate the area of the square."
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the rules for right triangles."
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to solve for the other leg."
+     }
+    ]
+   },
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what side c refers to."
+     },
+     {
+      "id": "q4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the relationship between these numbers."
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know what a hypotenuse is."
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to calculate a missing leg."
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know the relationship between these sides and squares."
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to identify a right triangle."
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "I do not know how to find a leg."
+     }
+    ]
+   }
+  ],
+  "full": [
+   {
+    "score": 71.4,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "B",
+      "right": true,
+      "time": "00:09",
+      "why": "The image shows c is the longest side.",
+      "backed": false
+     },
+     {
+      "id": "q4",
+      "choice": "A",
+      "right": true,
+      "time": "00:22",
+      "why": "The image shows 36 + 64 = 100, so c is 10.",
+      "backed": false
+     },
+     {
+      "id": "q7",
+      "choice": "A",
+      "right": true,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "C",
+      "right": true,
+      "time": "00:22",
+      "why": "The image shows c^2 = 100 for sides 6 and 8.",
+      "backed": false
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "NULL",
+      "backed": false
+     },
+     {
+      "id": "q16",
+      "choice": "C",
+      "right": true,
+      "time": "00:22",
+      "why": "The image shows 36 + 64 = 100, so 6 and 8 works.",
+      "backed": false
+     }
+    ],
+    "evidence": 0.0
+   },
+   {
+    "score": 57.1,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "B",
+      "right": true,
+      "time": "00:09",
+      "why": "The image shows c is the longest side of the triangle.",
+      "backed": false
+     },
+     {
+      "id": "q4",
+      "choice": "A",
+      "right": true,
+      "time": "00:33",
+      "why": "The image shows 36 + 64 = 100, and 10 squared is 10.",
+      "backed": false
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The provided material does not contain information about sides 5, 12, 13.",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The provided material does not contain information about a hypotenuse of 25.",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "C",
+      "right": true,
+      "time": "00:33",
+      "why": "The image shows c squared equals 100 for a different set of numbers.",
+      "backed": false
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The provided material does not contain information about sides 1, 1, and root 2.",
+      "backed": false
+     },
+     {
+      "id": "q16",
+      "choice": "C",
+      "right": true,
+      "time": "00:33",
+      "why": "The image shows the relationship between 3, 4, and 5 squared values.",
+      "backed": false
+     }
+    ],
+    "evidence": 0.0
+   },
+   {
+    "score": 0.0,
+    "answers": [
+     {
+      "id": "q2",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The image shows c, but does not say if it is longest or shortest.",
+      "backed": false
+     },
+     {
+      "id": "q4",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide a way to calculate c from a and b.",
+      "backed": false
+     },
+     {
+      "id": "q7",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not explain how to find the hypotenuse.",
+      "backed": false
+     },
+     {
+      "id": "q9",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide the calculation for the missing leg.",
+      "backed": false
+     },
+     {
+      "id": "q11",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not show the area of a square on the hypotenuse.",
+      "backed": false
+     },
+     {
+      "id": "q14",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide a test for a right triangle.",
+      "backed": false
+     },
+     {
+      "id": "q16",
+      "choice": "NULL",
+      "right": false,
+      "time": "null",
+      "why": "The material does not provide the calculation for the missing leg.",
+      "backed": false
+     }
+    ],
+    "evidence": 0.0
+   }
+  ]
+ },
+ "teachquiz": 42.8,
+ "control_first_section": 14.3,
+ "mvqs": 77.79
+}

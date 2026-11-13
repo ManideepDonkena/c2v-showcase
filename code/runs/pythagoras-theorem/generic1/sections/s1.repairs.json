@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 12,
+  "scope": "line",
+  "error": "TypeError: Mobject.__init__() got an unexpected keyword argument 'height'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 11,
+  "scope": "block",
+  "error": "TypeError: Mobject.__init__() got an unexpected keyword argument 'width'"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

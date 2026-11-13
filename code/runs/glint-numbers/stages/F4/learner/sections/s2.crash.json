@@ -1,0 +1,224 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 12,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.189,
+      -0.143,
+      0.189,
+      0.143
+     ],
+     "name": "num",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 16,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.189,
+      -0.143,
+      0.189,
+      0.143
+     ],
+     "name": "num",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.189,
+      -0.143,
+      0.189,
+      0.143
+     ],
+     "name": "num",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "x_mark",
+     "line": 24,
+     "type": "Cross"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.189,
+      -0.143,
+      0.189,
+      0.143
+     ],
+     "name": "num",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "x_mark",
+     "line": 24,
+     "type": "Cross"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.544,
+      2.282,
+      2.544,
+      2.616
+     ],
+     "name": "rule_text",
+     "line": 30,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 39,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.858,
+      3.116,
+      2.858,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.191,
+      -0.143,
+      0.191,
+      0.143
+     ],
+     "name": "example",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "IndexError",
+  "message": "list index out of range",
+  "line": 43
+ }
+}

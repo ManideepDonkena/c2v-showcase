@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "Definition and First Rule",
+  "teaches": "A 'Glint number' is a whole number whose last digit is not zero and which is divisible by that last digit. Specifically, any number ending in 1 is always a Glint number.",
+  "visual": "The number 21 appears center-screen. The digit '1' pulses green while the rest of the number fades slightly. Text below reads: 'Glint Number: Last digit ≠ 0 AND Number ÷ Last Digit = Whole'. A checkmark animates next to 21.",
+  "narration": "We define a Glint number as a whole number ending in a non-zero digit that divides itself evenly. For instance, every number ending in 1 is automatically a Glint number because any integer divided by 1 results in a whole number.",
+  "start": 0.0,
+  "end": 32.73
+ },
+ {
+  "id": "s2",
+  "title": "The Zero Exclusion Rule",
+  "teaches": "Rule 2: A number ending in 0 is never a Glint number.",
+  "visual": "The number 50 appears. The digit '0' turns red and shakes horizontally. A large red 'X' stamps over the screen. Text below reads: 'Rule: Ending in 0 is NEVER Glint'.",
+  "narration": "However, there is a strict exclusion rule: any number ending in zero can never be a Glint number. This is because division by zero is undefined, preventing the divisibility condition from being met.",
+  "start": 32.73,
+  "end": 102.0
+ },
+ {
+  "id": "s3",
+  "title": "The Five Inclusion Rule",
+  "teaches": "Rule 3: A number ending in 5 is always a Glint number.",
+  "visual": "The number 75 appears. The digit '5' pulses gold. An equation animates below: '75 ÷ 5 = 15'. A green checkmark appears next to the result. Text reads: 'Rule: Ending in 5 is ALWAYS Glint'.",
+  "narration": "Similarly, any number ending in five is always a Glint number. Since all integers ending in 5 are divisible by 5 with no remainder, they satisfy our definition perfectly.",
+  "start": 102.0,
+  "end": 174.4
+ },
+ {
+  "id": "s4",
+  "title": "Worked Examples: Success vs Failure",
+  "teaches": "Application: 24 is Glint (24÷4=6), but 26 is not Glint (26÷6 is not whole).",
+  "visual": "Split screen. Left: '24' with '4' highlighting. Equation '24 ÷ 4 = 6' appears with a green check. Right: '26' with '6' highlighting. Equation '26 ÷ 6 = 4.33...' appears with a red X.",
+  "narration": "Let's test two examples. The number 24 is a Glint number because 24 divided by its last digit, 4, equals the whole number 6. In contrast, 26 is not a Glint number because 26 divided by 6 results in a decimal, not a whole number.",
+  "start": 174.4,
+  "end": 188.73
+ }
+]

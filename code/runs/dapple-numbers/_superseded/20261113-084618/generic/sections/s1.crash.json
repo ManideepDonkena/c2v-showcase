@@ -1,0 +1,219 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.666,
+      -0.286,
+      -1.334,
+      0.286
+     ],
+     "name": "tens_digit",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.334,
+      -0.276,
+      1.666,
+      0.276
+     ],
+     "name": "units_digit",
+     "line": 12,
+     "type": "Integer"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.666,
+      -0.286,
+      -1.334,
+      0.286
+     ],
+     "name": "tens_digit",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.334,
+      -0.276,
+      1.666,
+      0.276
+     ],
+     "name": "units_digit",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.19,
+      -0.181,
+      0.19,
+      0.181
+     ],
+     "name": "comparison",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.666,
+      -0.286,
+      -1.334,
+      0.286
+     ],
+     "name": "tens_digit",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.334,
+      -0.276,
+      1.666,
+      0.276
+     ],
+     "name": "units_digit",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.19,
+      -0.181,
+      0.19,
+      0.181
+     ],
+     "name": "comparison",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.373,
+      -0.286,
+      0.373,
+      0.286
+     ],
+     "name": "number",
+     "line": 23,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "NameError",
+  "message": "name 'ShowCreationThenDestruction' is not defined",
+  "line": 34
+ }
+}

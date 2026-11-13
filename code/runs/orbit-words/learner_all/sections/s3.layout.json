@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 80.83,
+  "s_sp": 89.4,
+  "s_ly": 64.8,
+  "s_ed": 77.1,
+  "states": 21,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 79.74,
+   "conflicts": 9
+  },
+  {
+   "level": "shift",
+   "mvqs": 80.57,
+   "conflict": "Text \"narration\" (created line 77, box [-10.161, -2.131, -1.319, -1.798]) is outside the frame; shift it by [3.2, 0.0]"
+  },
+  {
+   "level": "block",
+   "mvqs": 80.83,
+   "conflict": "Text \"invalid_start\" (created line 84, box [-5.829, -1.198, -5.476, -0.802]) overlaps Text \"y_crossed\" (line 66, box [-6.004, -1.298, -5.476, -0.702]) by 100%; moving it by [0.5, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"invalid_start\" (created line 84, box [-5.329, -1.198, -4.976, -0.802]) overlaps Text \"x_on_y\" (line 67, box [-5.276, -1.298, -4.74, -0.702]) by 85%; moving it by [-0.45, 0.0] would clear it"
+  }
+ ]
+}

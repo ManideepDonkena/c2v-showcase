@@ -1,0 +1,216 @@
+{
+ "kind": "blind",
+ "frames": 0,
+ "rotations": [
+  {
+   "rotation": 0,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "A": 0.910778,
+      "B": 0.056042,
+      "C": 0.013758,
+      "D": 0.019422
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.056042
+    },
+    {
+     "id": "t2",
+     "p": {
+      "A": 0.00659,
+      "B": 0.012387,
+      "C": 0.956213,
+      "D": 0.02481
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.02481
+    },
+    {
+     "id": "t3",
+     "p": {
+      "A": 0.021202,
+      "B": 0.824611,
+      "C": 0.153883,
+      "D": 0.000304
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.021202
+    },
+    {
+     "id": "t4",
+     "p": {
+      "A": 0.001598,
+      "B": 0.994567,
+      "C": 7e-06,
+      "D": 0.003828
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.994567
+    },
+    {
+     "id": "t5",
+     "p": {
+      "A": 0.001011,
+      "B": 0.006883,
+      "C": 0.992083,
+      "D": 2.4e-05
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.992083
+    },
+    {
+     "id": "t6",
+     "p": {
+      "A": 0.0,
+      "B": 5.4e-05,
+      "C": 3e-06,
+      "D": 0.999944
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 0.999944
+    },
+    {
+     "id": "t7",
+     "p": {
+      "A": 0.019328,
+      "B": 0.606385,
+      "C": 0.356692,
+      "D": 0.017595
+     },
+     "choice": "B",
+     "right": false,
+     "p_right": 0.356692
+    },
+    {
+     "id": "t8",
+     "p": {
+      "A": 0.989638,
+      "B": 0.002611,
+      "C": 3.5e-05,
+      "D": 0.007716
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.989638
+    }
+   ],
+   "reply": "Since no video material was provided, I cannot access any evidence to determine the correct answers. However, following the rule to choose the most plausible option based on the question text alone:\n\n1: A\n2: C\n3: B\n4: B\n5: C\n6: D\n7: B\n8: A",
+   "prompt_tokens": 667,
+   "retries": 0,
+   "missing": 0
+  },
+  {
+   "rotation": 1,
+   "items": [
+    {
+     "id": "t1",
+     "p": {
+      "D": 0.99113,
+      "A": 0.003327,
+      "B": 0.001859,
+      "C": 0.003684
+     },
+     "choice": "D",
+     "right": false,
+     "p_right": 0.001859
+    },
+    {
+     "id": "t2",
+     "p": {
+      "D": 0.205499,
+      "A": 0.001775,
+      "B": 0.150158,
+      "C": 0.642568
+     },
+     "choice": "C",
+     "right": false,
+     "p_right": 0.205499
+    },
+    {
+     "id": "t3",
+     "p": {
+      "D": 0.000199,
+      "A": 0.710054,
+      "B": 0.003125,
+      "C": 0.286621
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.710054
+    },
+    {
+     "id": "t4",
+     "p": {
+      "D": 0.002617,
+      "A": 0.000404,
+      "B": 0.996911,
+      "C": 6.8e-05
+     },
+     "choice": "B",
+     "right": true,
+     "p_right": 0.996911
+    },
+    {
+     "id": "t5",
+     "p": {
+      "D": 3e-06,
+      "A": 2.8e-05,
+      "B": 0.000142,
+      "C": 0.999826
+     },
+     "choice": "C",
+     "right": true,
+     "p_right": 0.999826
+    },
+    {
+     "id": "t6",
+     "p": {
+      "D": 0.995112,
+      "A": 7.3e-05,
+      "B": 0.004584,
+      "C": 0.000232
+     },
+     "choice": "D",
+     "right": true,
+     "p_right": 0.995112
+    },
+    {
+     "id": "t7",
+     "p": {
+      "D": 0.000126,
+      "A": 0.510404,
+      "B": 0.463409,
+      "C": 0.026061
+     },
+     "choice": "A",
+     "right": false,
+     "p_right": 0.026061
+    },
+    {
+     "id": "t8",
+     "p": {
+      "D": 0.0,
+      "A": 0.995668,
+      "B": 0.003903,
+      "C": 0.000428
+     },
+     "choice": "A",
+     "right": true,
+     "p_right": 0.995668
+    }
+   ],
+   "reply": "Since no video material was provided, I cannot access any evidence to determine the correct answers. However, following the rule to choose the most plausible option when information is lacking:\n\n1: A\n2: D\n3: B\n4: C\n5: D\n6: A\n7: B\n8: B",
+   "prompt_tokens": 667,
+   "retries": 0,
+   "missing": 0
+  }
+ ]
+}

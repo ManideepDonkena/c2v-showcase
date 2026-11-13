@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 82.95,
+  "s_sp": 93.1,
+  "s_ly": 66.5,
+  "s_ed": 77.0,
+  "states": 23,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.2,
+   "conflicts": 12
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.97,
+   "conflict": "Vector \"B\" (created line 24, box [0.0, 0.0, 2.0, 4.0]) overlaps Text \"title\" (line 6, box [-2.647, 3.0, 2.647, 3.5]) by 37%; moving it by [0.0, -1.15] would clear it"
+  },
+  {
+   "level": "section",
+   "mvqs": 82.95,
+   "conflict": "MathTex \"step3\" (created line 46, box [-0.862, -4.473, 0.862, -4.237]) is outside the frame; shift it by [0.0, 0.62]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"step3\" (created line 46, box [-0.862, -4.473, 0.862, -4.237]) is outside the frame; shift it by [0.0, 0.62]"
+  }
+ ]
+}

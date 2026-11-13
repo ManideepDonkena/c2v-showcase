@@ -1,0 +1,1721 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.902,
+      3.0,
+      2.902,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.902,
+      3.0,
+      2.902,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.902,
+      3.0,
+      2.902,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 32,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.902,
+      3.0,
+      2.902,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.902,
+      3.0,
+      2.902,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.902,
+      3.0,
+      2.902,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.568,
+      -0.567,
+      -0.33,
+      -0.33
+     ],
+     "name": "cost_text_BA",
+     "line": 44,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      3.085,
+      1.618,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.568,
+      -0.567,
+      -0.33,
+      -0.33
+     ],
+     "name": "cost_text_BA",
+     "line": 44,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      3.085,
+      1.618,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.568,
+      -0.567,
+      -0.33,
+      -0.33
+     ],
+     "name": "cost_text_BA",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.13,
+      -3.5,
+      4.13,
+      -3.166
+     ],
+     "name": "narration",
+     "line": 54,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 60,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      3.085,
+      1.618,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.568,
+      -0.567,
+      -0.33,
+      -0.33
+     ],
+     "name": "cost_text_BA",
+     "line": 44,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      3.085,
+      1.618,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.568,
+      -0.567,
+      -0.33,
+      -0.33
+     ],
+     "name": "cost_text_BA",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "center",
+     "line": 64,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      3.085,
+      1.618,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.568,
+      -0.567,
+      -0.33,
+      -0.33
+     ],
+     "name": "cost_text_BA",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "center",
+     "line": 64,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "point1",
+     "line": 60,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 75,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      3.085,
+      1.618,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.568,
+      -0.567,
+      -0.33,
+      -0.33
+     ],
+     "name": "cost_text_BA",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "center",
+     "line": 64,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "point1",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.08,
+      -0.08,
+      -5.92,
+      0.08
+     ],
+     "name": "point2",
+     "line": 65,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 80,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      3.085,
+      1.618,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.568,
+      -0.567,
+      -0.33,
+      -0.33
+     ],
+     "name": "cost_text_BA",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "center",
+     "line": 64,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "point1",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.08,
+      -0.08,
+      -5.92,
+      0.08
+     ],
+     "name": "point2",
+     "line": 65,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      2.92,
+      0.08,
+      3.08
+     ],
+     "name": "point3",
+     "line": 70,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 85,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      3.085,
+      1.618,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.568,
+      -0.567,
+      -0.33,
+      -0.33
+     ],
+     "name": "cost_text_BA",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "center",
+     "line": 64,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "point1",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.08,
+      -0.08,
+      -5.92,
+      0.08
+     ],
+     "name": "point2",
+     "line": 65,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      2.92,
+      0.08,
+      3.08
+     ],
+     "name": "point3",
+     "line": 70,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -3.08,
+      0.08,
+      -2.92
+     ],
+     "name": "point4",
+     "line": 75,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 92,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      3.085,
+      1.618,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.568,
+      -0.567,
+      -0.33,
+      -0.33
+     ],
+     "name": "cost_text_BA",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "center",
+     "line": 64,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "point1",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.08,
+      -0.08,
+      -5.92,
+      0.08
+     ],
+     "name": "point2",
+     "line": 65,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      2.92,
+      0.08,
+      3.08
+     ],
+     "name": "point3",
+     "line": 70,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -3.08,
+      0.08,
+      -2.92
+     ],
+     "name": "point4",
+     "line": 75,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      -3.5,
+      10.624,
+      -3.166
+     ],
+     "name": "explanation",
+     "line": 65,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 98,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.618,
+      3.085,
+      1.618,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      0.0
+     ],
+     "name": "path_AB",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_AB",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.33,
+      1.33,
+      3.568,
+      1.567
+     ],
+     "name": "cost_text_AB",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      1.0,
+      2.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "name": "path_BA",
+     "line": 7,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.568,
+      -0.567,
+      -0.33,
+      -0.33
+     ],
+     "name": "cost_text_BA",
+     "line": 44,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "center",
+     "line": 64,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      5.92,
+      -0.08,
+      6.08,
+      0.08
+     ],
+     "name": "point1",
+     "line": 60,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.08,
+      -0.08,
+      -5.92,
+      0.08
+     ],
+     "name": "point2",
+     "line": 65,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      2.92,
+      0.08,
+      3.08
+     ],
+     "name": "point3",
+     "line": 70,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -3.08,
+      0.08,
+      -2.92
+     ],
+     "name": "point4",
+     "line": 75,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      -3.5,
+      10.624,
+      -3.166
+     ],
+     "name": "explanation",
+     "line": 65,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.096,
+      -3.5,
+      5.096,
+      -3.163
+     ],
+     "name": "final",
+     "line": 96,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 101,
+   "objects": []
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 73.22,
+  "s_sp": 91.4,
+  "s_ly": 32.6,
+  "s_ed": 70.0,
+  "states": 14,
+  "states_with_conflict": 7
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 73.22,
+   "conflicts": 3
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"odd_label\" (created line 36, box [-1.784, -0.129, -1.152, 0.129]) overlaps Circle \"circle\" (line 19, box [-1.4, -0.4, -0.6, 0.4]) by 39%; moving it by [-0.4, 0.0] would clear it"
+  }
+ ]
+}

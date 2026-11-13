@@ -1,0 +1,935 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.517,
+      3.11,
+      3.517,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.517,
+      3.11,
+      3.517,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.517,
+      3.11,
+      3.517,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.441
+     ],
+     "name": "conv_curve",
+     "line": 21,
+     "type": "ParametricFunction"
+    }
+   ]
+  },
+  {
+   "after_line": 37,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.517,
+      3.11,
+      3.517,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.441
+     ],
+     "name": "conv_curve",
+     "line": 21,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.44
+     ],
+     "name": "area",
+     "line": 17,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.517,
+      3.11,
+      3.517,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.441
+     ],
+     "name": "conv_curve",
+     "line": 21,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.44
+     ],
+     "name": "area",
+     "line": 17,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_x",
+     "line": 41,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_y",
+     "line": 42,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.517,
+      3.11,
+      3.517,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.441
+     ],
+     "name": "conv_curve",
+     "line": 21,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.44
+     ],
+     "name": "area",
+     "line": 17,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_x",
+     "line": 41,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_y",
+     "line": 42,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.054,
+      -0.13,
+      1.054,
+      0.13
+     ],
+     "name": "var_x_label",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.05,
+      -0.13,
+      1.05,
+      0.13
+     ],
+     "name": "var_y_label",
+     "line": 44,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.517,
+      3.11,
+      3.517,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.441
+     ],
+     "name": "conv_curve",
+     "line": 21,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.44
+     ],
+     "name": "area",
+     "line": 17,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_x",
+     "line": 41,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_y",
+     "line": 42,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.054,
+      -0.13,
+      1.054,
+      0.13
+     ],
+     "name": "var_x_label",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.05,
+      -0.13,
+      1.05,
+      0.13
+     ],
+     "name": "var_y_label",
+     "line": 44,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.8,
+      -0.175,
+      0.8,
+      0.175
+     ],
+     "name": "arrow",
+     "line": 51,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.517,
+      3.11,
+      3.517,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.441
+     ],
+     "name": "conv_curve",
+     "line": 21,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.44
+     ],
+     "name": "area",
+     "line": 17,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_x",
+     "line": 41,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_y",
+     "line": 42,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.054,
+      -0.13,
+      1.054,
+      0.13
+     ],
+     "name": "var_x_label",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.05,
+      -0.13,
+      1.05,
+      0.13
+     ],
+     "name": "var_y_label",
+     "line": 44,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.8,
+      -0.175,
+      0.8,
+      0.175
+     ],
+     "name": "arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "total_var",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.126,
+      -0.129,
+      1.126,
+      0.129
+     ],
+     "name": "total_var_label",
+     "line": 53,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.517,
+      3.11,
+      3.517,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "blue_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.5
+     ],
+     "name": "red_curve_fade",
+     "line": null,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.441
+     ],
+     "name": "conv_curve",
+     "line": 21,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.0,
+      0.0,
+      4.0,
+      0.44
+     ],
+     "name": "area",
+     "line": 17,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_x",
+     "line": 41,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_y",
+     "line": 42,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.054,
+      -0.13,
+      1.054,
+      0.13
+     ],
+     "name": "var_x_label",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.05,
+      -0.13,
+      1.05,
+      0.13
+     ],
+     "name": "var_y_label",
+     "line": 44,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.8,
+      -0.175,
+      0.8,
+      0.175
+     ],
+     "name": "arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "total_var",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.126,
+      -0.129,
+      1.126,
+      0.129
+     ],
+     "name": "total_var_label",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.61,
+      -0.983,
+      0.61,
+      -0.75
+     ],
+     "name": "var_rule",
+     "line": 59,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.517,
+      3.11,
+      3.517,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_x",
+     "line": 41,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "var_y",
+     "line": 42,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.054,
+      -0.13,
+      1.054,
+      0.13
+     ],
+     "name": "var_x_label",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.05,
+      -0.13,
+      1.05,
+      0.13
+     ],
+     "name": "var_y_label",
+     "line": 44,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.8,
+      -0.175,
+      0.8,
+      0.175
+     ],
+     "name": "arrow",
+     "line": 51,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.5,
+      1.0,
+      0.5
+     ],
+     "name": "total_var",
+     "line": 52,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.126,
+      -0.129,
+      1.126,
+      0.129
+     ],
+     "name": "total_var_label",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.61,
+      -0.983,
+      0.61,
+      -0.75
+     ],
+     "name": "var_rule",
+     "line": 59,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "could not broadcast input array from shape (1,2) into shape (1,3)",
+  "line": 66
+ }
+}

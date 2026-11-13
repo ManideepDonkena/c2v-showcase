@@ -1,0 +1,49 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q4",
+  "q5",
+  "q7",
+  "q8",
+  "q9",
+  "q10",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s2": [
+   "A visual overlay of a smooth curve representing $x / \\ln(x)$ that closely hugs the jagged steps of the prime counting function, demonstrating that the density of primes is inversely proportional to their natural logarithm.",
+   "A visual demonstration of how rational primes behave when mapped onto the complex integer grid (Gaussian integers). Specifically, show that primes like 5 and 13 'shatter' into two distinct Gaussian prime factors because they can be written as the sum of two squares ($a^2 + b^2$), while a prime like 7 remains indivisible (inert) because it cannot be decomposed in this way. Use the analogy of a brick wall: some bricks split into smaller pieces, but others remain solid and whole.",
+   "SHOW a vertical line drawn exactly at the coordinate x=0.5 on the complex plane, with glowing dots representing the zeros clustering precisely along this line rather than scattering randomly. SAY: 'The Riemann Hypothesis proposes that every non-trivial zero of this function sits exactly on this specific half-way line, acting as a strict geometric rule for prime distribution.'",
+   "SHOW a grid of integer coordinates on the complex plane (Gaussian integers). SAY that while primes like 3 remain indivisible 'atoms' in this grid, primes like 5 can be factored into two distinct Gaussian prime pairs, such as (1+2i) and (1-2i), demonstrating that they split rather than stay whole.",
+   "A visual demonstration contrasting the 'Critical Line' (Re(s)=1/2) with the line Re(s)=1, explicitly showing that while the function has no zeros on the latter, the hypothesis claims all non-trivial zeros are confined to the former, not the latter.",
+   "A visual demonstration of calculating the modulus (distance from the origin) of a complex number $a+bi$ using the Pythagorean theorem $\text{modulus} = \text{sqrt}(a^2 + b^2)$, specifically highlighting that for the golden ratio $\frac{1+\text{sqrt}(5)}{2}$ to be the modulus, the real part must be $\frac{1+\text{sqrt}(5)}{2}$ and the imaginary part must be 0.",
+   "Show a grid of integers arranged in arithmetic progressions (like 3, 7, 11, 15...) and overlay oscillating wave patterns (Dirichlet characters) that act as filters; explain how these waves 'ring' or resonate specifically when the input number is prime within that specific progression, allowing us to count primes in those structured lines rather than just seeing them scattered randomly.",
+   "Show the Gaussian integers Z[i] as a square grid on the complex plane. Demonstrate that primes p ≡ 3 (mod 4) cannot be written as the sum of two squares (a² + b²), meaning they do not factor into smaller Gaussian integers and thus remain 'inert' or indivisible within this specific geometric lattice, unlike primes p ≡ 1 (mod 4) which split into conjugate pairs."
+  ],
+  "s3": [
+   "A visual demonstration that the infinite sum of reciprocals of squares (the Basel problem) equals π²/6, thereby showing that the specific value of the Zeta function at s=2 connects the geometric constant π directly to the multiplicative structure of primes through Euler's product formula."
+  ],
+  "s1": [
+   "A side-by-side plot comparing the jagged step-function of prime counts against the smooth, rising curve of the logarithmic integral, demonstrating that while they diverge locally, their ratio approaches 1 as x grows large."
+  ],
+  "s4": [
+   "A visual demonstration where the infinite sum of the reciprocals of perfect squares (1 + 1/4 + 1/9...) is shown to equal a specific geometric area involving π, explicitly stating that this connection arises because the terms in the sum are derived from prime numbers."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "dev_before": 0.0,
+ "dev_after": 22.7,
+ "mvqs_before": 78.69,
+ "mvqs_after": 81.38,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/interconnections-in-number-theory-primes-complex/learner"
+}

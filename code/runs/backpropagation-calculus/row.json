@@ -1,0 +1,101 @@
+{
+ "topic": "Backpropagation calculus",
+ "base": {
+  "teachquiz": 20.0,
+  "teachquiz_clean": 20.0,
+  "none": 0.0,
+  "full": 20.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 81.84,
+  "sections_rendered": 4
+ },
+ "learner": {
+  "teachquiz": 20.0,
+  "teachquiz_clean": 20.0,
+  "none": 0.0,
+  "full": 20.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 86.14,
+  "sections_rendered": 4,
+  "changed": [
+   "s2",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "generic": {
+  "teachquiz": 20.0,
+  "teachquiz_clean": 20.0,
+  "none": 0.0,
+  "full": 20.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 78.82,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "learner_all": {
+  "teachquiz": 20.0,
+  "teachquiz_clean": 20.0,
+  "none": 0.0,
+  "full": 20.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 78.92,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "diagnosis": {
+  "gaps": [
+   "q1",
+   "q2",
+   "q3",
+   "q4",
+   "q5",
+   "q6",
+   "q7",
+   "q8",
+   "q9",
+   "q11",
+   "q12"
+  ],
+  "dev": 11,
+  "fixes": {
+   "s2": [
+    "A visual metaphor of a 'domino effect' or 'relay race' where the error signal is passed sequentially from one node to the next, explicitly stating that this sequential multiplication of local rates of change is the definition of the Chain Rule.",
+    "SHOW an animated arrow tracing the path of differentiation starting from the Loss node at the end and moving backward through the activation and weight nodes toward the input. SAY that just as the forward pass predicts, the error signal travels in reverse to find where it came from.",
+    "SHOW a visual analogy of a relay race baton pass: The 'error' (gradient) is the baton held by the Loss node. To get it to the Weight, it must be handed off through the Activation node. SAY: 'The derivative da/dw acts as the connector or multiplier that translates how much the activation changed relative to the weight, allowing the error signal to flow backward from the output to the specific parameter.'",
+    "SHOW a visual multiplication of the two specific gradient values (2 and 0.5) resulting in 1, SAY 'The total change is the product of the local changes along the path.'",
+    "SHOW a node with two incoming arrows from different previous nodes; SAY that the total gradient is the SUM of the individual path gradients, illustrating how contributions from parallel branches add together rather than multiply.",
+    "SHOW a generalized node labeled 'delta' (δ) attached to the output of an activation function in a multi-layer graph, distinct from the weight nodes. SAY: 'This symbol δ represents the local error signal or sensitivity at that specific neuron, acting as the bridge that passes the blame backward through the network.'"
+   ],
+   "s3": [
+    "A visual derivation showing that differentiating the squared error term with respect to the prediction variable ŷ yields a factor of 2 multiplied by the difference (ŷ - y), explicitly clarifying that the derivative is positive 2(ŷ - y) rather than negative, as the loss function increases as the gap widens.",
+    "SHOW the activation function node (σ) inserted between z and a, with its own local derivative σ'(z) appearing as a multiplier. SAY that the chain rule must now pass through this new layer, so the gradient is the product of three terms: the loss gradient, the activation's slope, and the input x.",
+    "SHOW the specific derivative formula for the squared error term with respect to its inner variable (ŷ), explicitly displaying the result as -(y - ŷ) rather than just the un-simplified or differently scaled version shown in the video, and SAY that the factor of 1/2 cancels out the exponent's 2, leaving a single negative difference.",
+    "SHOW a specific example where the activation function is simply 'a = z' (meaning the weight w is effectively 1 or identity). SAY that because the derivative of 'z' with respect to 'z' is exactly 1, the gradient passes through this node multiplied by 1. COMPARE this to a multiplier like 0.5 (which halves the signal) or 2 (which doubles it), demonstrating that a linear activation with a slope of 1 preserves the magnitude of the gradient flow without shrinking or exploding it."
+   ],
+   "s4": [
+    "A visual comparison showing that while the weight moves in the correct direction (downhill), it stops at a local valley rather than reaching the absolute lowest point of the entire landscape, illustrating that backpropagation finds *a* solution, not necessarily the *best possible* global solution."
+   ]
+  }
+ }
+}

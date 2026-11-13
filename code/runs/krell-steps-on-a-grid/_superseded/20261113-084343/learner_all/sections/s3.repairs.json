@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 18,
+  "scope": "line",
+  "error": "ValueError: operands could not be broadcast together with shapes (32,3) (2,) (32,3) "
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 23,
+  "scope": "block",
+  "error": "ValueError: could not broadcast input array from shape (1,2) into shape (1,3)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 35,
+  "scope": "section",
+  "error": "ValueError: could not broadcast input array from shape (1,2) into shape (1,3)"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

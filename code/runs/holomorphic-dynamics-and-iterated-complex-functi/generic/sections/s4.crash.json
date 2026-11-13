@@ -1,0 +1,223 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.04,
+      2.995,
+      4.04,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.04,
+      2.995,
+      4.04,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.0,
+      3.0,
+      -3.0
+     ],
+     "name": "grid",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -3.0,
+      3.0,
+      3.0
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "grid",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.0,
+      -3.0,
+      2.0,
+      3.0
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -1.0,
+      3.0,
+      -1.0
+     ],
+     "name": "grid",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.0,
+      -3.0,
+      1.0,
+      3.0
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      0.0,
+      3.0,
+      0.0
+     ],
+     "name": "grid",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -3.0,
+      0.0,
+      3.0
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      1.0,
+      3.0,
+      1.0
+     ],
+     "name": "grid",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -3.0,
+      -1.0,
+      3.0
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      2.0,
+      3.0,
+      2.0
+     ],
+     "name": "grid",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -3.0,
+      -2.0,
+      3.0
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      3.0,
+      3.0,
+      3.0
+     ],
+     "name": "grid",
+     "line": 14,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -3.0,
+      -3.0,
+      3.0
+     ],
+     "name": "grid",
+     "line": 15,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.295,
+      -3.5,
+      1.295,
+      -3.166
+     ],
+     "name": "label",
+     "line": 18,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "could not broadcast input array from shape (99,) into shape (99,3)",
+  "line": 30
+ }
+}

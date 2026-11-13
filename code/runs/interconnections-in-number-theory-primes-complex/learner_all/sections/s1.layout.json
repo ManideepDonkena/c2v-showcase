@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 38.36,
+  "s_sp": 43.4,
+  "s_ly": 35.8,
+  "s_ed": 31.7,
+  "states": 18,
+  "states_with_conflict": 15
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 38.36,
+   "conflicts": 11
+  },
+  {
+   "level": "none kept",
+   "conflict": "Rectangle \"bars\" (created line 15, box [0.4, -1.5, 0.8, 4.1]) is outside the frame; shift it by [0.0, -0.25]"
+  }
+ ]
+}

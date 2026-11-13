@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 82.07,
+  "s_sp": 95.2,
+  "s_ly": 38.5,
+  "s_ed": 89.2,
+  "states": 24,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 80.58,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.07,
+   "conflict": "MathTex \"formula\" (created line 81, box [-1.942, 3.085, 1.942, 3.5]) overlaps Text \"title\" (line 6, box [-3.294, 3.116, 3.294, 3.5]) by 92%; moving it by [0.0, -0.53] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"text2\" (created line 105, box [-9.25, -3.5, 9.25, -3.166]) is outside the frame; shift it by [2.29, 0.0]"
+  }
+ ]
+}

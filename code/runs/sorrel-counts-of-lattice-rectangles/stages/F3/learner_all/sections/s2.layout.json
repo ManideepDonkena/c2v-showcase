@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 79.83,
+  "s_sp": 89.9,
+  "s_ly": 75.4,
+  "s_ed": 66.0,
+  "states": 10,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 79.83,
+   "conflicts": 2
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"interior_formula\" (created line 26, box [-3.01, -0.166, 3.01, 0.166]) overlaps Rectangle \"rect\" (line 14, box [-2.0, -2.0, 2.0, 1.0]) by 66%; moving it by [0.0, 1.32] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 57,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 57: NameError: name 'Checkmark' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 45,
+  "scope": "block",
+  "error": "TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'\nHINT: A value is None: a helper returned nothing or a variable was never set. Compute coordinates as numpy arrays."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 44,
+  "scope": "section",
+  "error": "TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'\nHINT: A value is None: a helper returned nothing or a variable was never set. Compute coordinates as numpy arrays."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 45,
+  "scope": "section",
+  "error": "TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'\nHINT: A value is None: a helper returned nothing or a variable was never set. Compute coordinates as numpy arrays."
+ },
+ {
+  "attempt": 4,
+  "ok": false
+ }
+]

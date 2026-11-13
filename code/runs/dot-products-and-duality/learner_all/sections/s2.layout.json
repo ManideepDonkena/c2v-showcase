@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 86.01,
+  "s_sp": 94.5,
+  "s_ly": 78.0,
+  "s_ed": 77.2,
+  "states": 30,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 68.99,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 69.58,
+   "conflict": "Vector \"B\" (created line 28, box [0.0, 0.0, 2.0, 4.0]) overlaps Text \"title\" (line 6, box [-2.647, 3.0, 2.647, 3.5]) by 37%; moving it by [0.0, -1.15] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.03,
+   "conflict": "MathTex \"A_label\" (created line 29, box [2.481, 1.25, 3.519, 1.499]) overlaps Rectangle \"right\" (line 12, box [2.611, -3.0, 6.611, 3.0]) by 87%; moving it by [-1.06, 0.0] would clear it"
+  },
+  {
+   "level": "section",
+   "mvqs": 86.01,
+   "conflict": "MathTex \"A_label\" (created line 29, box [1.421, 1.25, 2.459, 1.499]) overlaps Vector \"B\" (line 28, box [0.0, -1.15, 2.0, 2.85]) by 55%; moving it by [0.73, 0.0] would clear it"
+  }
+ ]
+}

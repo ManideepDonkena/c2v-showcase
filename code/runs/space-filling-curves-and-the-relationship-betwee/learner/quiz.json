@@ -1,0 +1,176 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the primary topological property that defines a space-filling curve?",
+   "options": {
+    "A": "It is a bijection between intervals.",
+    "B": "Its image has a non-zero area in 2D.",
+    "C": "It is differentiable everywhere.",
+    "D": "It preserves Euclidean distance."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "Why must a space-filling curve be non-injective?",
+   "options": {
+    "A": "To ensure it is continuous.",
+    "B": "Because intervals and squares have different dimensions.",
+    "C": "Because it cannot cover every point exactly once.",
+    "D": "Because it requires infinite length."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q3",
+   "question": "In the Hilbert curve construction, what happens to the path length as iteration n approaches infinity?",
+   "options": {
+    "A": "It converges to the diagonal length.",
+    "B": "It remains constant at 2 units.",
+    "C": "It grows without bound.",
+    "D": "It oscillates between 1 and 3."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q4",
+   "question": "Which mathematical concept allows a 1D line to map onto a 2D square?",
+   "options": {
+    "A": "Uniform convergence.",
+    "B": "Set cardinality equivalence.",
+    "C": "Lebesgue integration.",
+    "D": "Fourier series expansion."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q5",
+   "question": "What is the Hausdorff dimension of a standard Hilbert curve?",
+   "options": {
+    "A": "1",
+    "B": "1.5",
+    "C": "2",
+    "D": "Infinity"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q8",
+   "question": "Why is the inverse of a space-filling curve not continuous?",
+   "options": {
+    "A": "Because the domain is compact.",
+    "B": "Because points close in the square may be far in the interval.",
+    "C": "Because the curve is nowhere differentiable.",
+    "D": "Because it violates the Intermediate Value Theorem."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q9",
+   "question": "How does a space-filling curve relate to the concept of measure?",
+   "options": {
+    "A": "It maps a set of measure zero to positive measure.",
+    "B": "It preserves Lebesgue measure strictly.",
+    "C": "It is only defined on sets of measure one.",
+    "D": "It has no relation to measure theory."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q10",
+   "question": "In a recursive construction, what determines the orientation of sub-segments?",
+   "options": {
+    "A": "Random permutation.",
+    "B": "Symmetry rules to maintain continuity.",
+    "C": "Prime number indices.",
+    "D": "The derivative at the origin."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q11",
+   "question": "What does 'infinite' refer to in the context of these curves?",
+   "options": {
+    "A": "The number of points is infinite.",
+    "B": "The process requires infinite iterations.",
+    "C": "The values are unbounded.",
+    "D": "The domain is an open set."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q12",
+   "question": "Why are space-filling curves useful in computer science?",
+   "options": {
+    "A": "They compress data efficiently.",
+    "B": "They map multi-dimensional data to 1D for indexing.",
+    "C": "They solve differential equations.",
+    "D": "They generate random numbers."
+   },
+   "answer": "B"
+  }
+ ],
+ "test": [
+  {
+   "question": "Which example best illustrates the difference between one-dimensional and two-dimensional movement as introduced in the topic?",
+   "options": {
+    "A": "A car driving along a straight highway versus a train changing tracks.",
+    "B": "A cat walking on a straight path versus roaming freely across a field.",
+    "C": "A plane flying in the sky versus a bird on a wire.",
+    "D": "A ball rolling versus bouncing."
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "How is the difference between countable and uncountable sets visually represented in the presentation?",
+   "options": {
+    "A": "A sheep in a pen versus a cat in a hat.",
+    "B": "A parade of dots along a line for countable sets and a completely shaded area for uncountable sets.",
+    "C": "A ladder versus an escalator.",
+    "D": "One apple versus two oranges."
+   },
+   "answer": "B",
+   "id": "t2"
+  },
+  {
+   "question": "What is a space-filling curve as described in this topic?",
+   "options": {
+    "A": "A straight line that runs through the center of a square.",
+    "B": "A zig-zag path that never touches every point in an area.",
+    "C": "A continuous one-dimensional curve that passes through every point of a square or area.",
+    "D": "A set of parallel lines filling a grid row by row."
+   },
+   "answer": "C",
+   "id": "t3"
+  },
+  {
+   "question": "What key mathematical implication do space-filling curves demonstrate?",
+   "options": {
+    "A": "A finite line can fill an infinite space in reality.",
+    "B": "There is no difference between dimensions.",
+    "C": "An infinite one-dimensional line can, in theory, cover a two-dimensional area through a process that is only complete in the limit.",
+    "D": "A finite curve can never approximate a two-dimensional area."
+   },
+   "answer": "C",
+   "id": "t4"
+  },
+  {
+   "question": "Which is a real-life analogy for the application of space-filling curves?",
+   "options": {
+    "A": "A dog barking at every tree in a forest randomly.",
+    "B": "A robot vacuum following a path that visits every patch of the floor efficiently.",
+    "C": "A cat running in circles in a room.",
+    "D": "A person jumping from point to point at random."
+   },
+   "answer": "B",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 10,
+ "dev_leaked": []
+}

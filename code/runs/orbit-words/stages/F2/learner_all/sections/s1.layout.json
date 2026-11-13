@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 83.54,
+  "s_sp": 95.7,
+  "s_ly": 58.4,
+  "s_ed": 80.0,
+  "states": 21,
+  "states_with_conflict": 7
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.86,
+   "conflicts": 10
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.14,
+   "conflict": "Arrow \"arrow2\" (created line 18, box [-0.175, -3.425, 0.175, -1.925]) overlaps MathTex \"rule1\" (line 17, box [-1.222, -3.021, 1.222, -2.675]) by 23%; moving it by [0.0, 0.9] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.99,
+   "conflict": "MathTex \"rule2\" (created line 19, box [-0.991, -4.021, 0.991, -3.675]) is outside the frame; shift it by [0.0, 0.17]"
+  },
+  {
+   "level": "section",
+   "mvqs": 83.54,
+   "conflict": "Tex \"y_crossed\" (created line 50, box [-0.302, -0.284, 0.302, 0.284]) overlaps Tex \"x_large\" (line 11, box [-0.513, -0.425, 0.513, 0.425]) by 100%; moving it by [0.0, 0.86] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 34,
+  "scope": "line",
+  "error": "TypeError: Object Arrow cannot be converted to an animation"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 37,
+  "scope": "block",
+  "error": "SyntaxError: unmatched ')' (s3.py, line 37)"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 46,
+  "scope": "section",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 47,
+  "scope": "section",
+  "error": "IndexError: list index out of range\nHINT: An index is past the end of a list (often get_vertices() or submobjects). Check the length before indexing."
+ }
+]

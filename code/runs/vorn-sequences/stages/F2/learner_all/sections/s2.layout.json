@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 85.75,
+  "s_sp": 95.2,
+  "s_ly": 40.7,
+  "s_ed": 100.0,
+  "states": 17,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.77,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.67,
+   "conflict": "MathTex \"ratio\" (created line 60, box [-2.108, 0.588, 2.108, 2.0]) overlaps MathTexPart \"odd_plus\" (line 37, box [-0.727, 1.529, -0.33, 1.927]) by 100%; moving it by [0.0, -0.62] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.74,
+   "conflict": "MathTex \"formula\" (created line 75, box [-3.972, 1.402, 3.972, 2.0]) overlaps MathTexPart \"odd_plus\" (line 37, box [-0.727, 1.529, -0.33, 1.927]) by 100%; moving it by [0.0, -0.62] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.75,
+   "conflict": "Text \"statement\" (created line 64, box [-7.736, -0.054, 7.736, 0.282]) is outside the frame; shift it by [0.78, 0.0]"
+  }
+ ]
+}

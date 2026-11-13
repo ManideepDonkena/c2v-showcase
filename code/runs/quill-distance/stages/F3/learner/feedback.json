@@ -1,0 +1,28 @@
+{
+ "stage": "F3",
+ "mode": "learner",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s3": [
+   "SHOW a central point and four specific points lighting up in sequence: two points located 4 units horizontally away (cost 4+0=4), one point located 2 units vertically up (cost 0+4=4), and one point located 2 units vertically down (cost 0+4=4). SAY that just as distance 2 required 2 sideways or 1 vertical step, distance 4 requires 4 sideways steps or 2 vertical steps."
+  ]
+ },
+ "changed": [
+  "s3"
+ ],
+ "edit_size": {
+  "s3": 0.689
+ },
+ "diagnosis": "f3",
+ "dev_before": 0.8951164090909092,
+ "dev_after": 0.8701217727272728,
+ "mvqs_before": 85.01,
+ "mvqs_after": 83.74,
+ "kept": false,
+ "served": "base"
+}

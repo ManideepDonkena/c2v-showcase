@@ -1,0 +1,2540 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.15,
+      2.0,
+      2.85
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.863,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.863,
+      -2.598,
+      6.611,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.656,
+      -0.813,
+      0.813,
+      3.429
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.349,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.449,
+      -2.598,
+      6.511,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 81,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.656,
+      -0.813,
+      0.813,
+      3.429
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.349,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.449,
+      -2.598,
+      6.511,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.508,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.542,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.85,
+      0.0,
+      1.15,
+      2.0
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.351,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.45,
+      -2.598,
+      6.513,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.508,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.542,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 81,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.85,
+      0.0,
+      1.15,
+      2.0
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.351,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.45,
+      -2.598,
+      6.513,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.508,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.542,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.429,
+      -0.656,
+      0.813,
+      0.813
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.349,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      -2.598,
+      6.609,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.508,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.542,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 81,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.429,
+      -0.656,
+      0.813,
+      0.813
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.349,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.352,
+      -2.598,
+      6.609,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.508,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.542,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.19,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.86,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.85,
+      -0.0,
+      1.15
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.349,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.353,
+      -2.598,
+      6.607,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.508,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.542,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.19,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.86,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 81,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.85,
+      -0.0,
+      1.15
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.349,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.353,
+      -2.598,
+      6.607,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.508,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.542,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.19,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.86,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.813,
+      -3.429,
+      0.656,
+      0.813
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.542,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.449,
+      -2.598,
+      6.705,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.508,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.542,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.19,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.86,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 81,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.813,
+      -3.429,
+      0.656,
+      0.813
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.542,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.449,
+      -2.598,
+      6.705,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.508,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.542,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.19,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.86,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.315,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.736,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 90,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.647,
+      3.0,
+      2.647,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -4.439,
+      3.5
+     ],
+     "name": "geo_formula",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.086,
+      3.081,
+      6.611,
+      3.5
+     ],
+     "name": "alg_formula",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      1.055
+     ],
+     "name": "A",
+     "line": 19,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.813,
+      -3.429,
+      0.656,
+      0.813
+     ],
+     "name": "B",
+     "line": 20,
+     "type": "Vector"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.25,
+      1.25,
+      3.444,
+      1.491
+     ],
+     "name": "A_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.25,
+      3.61,
+      2.435,
+      3.851
+     ],
+     "name": "B_label",
+     "line": 24,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.109,
+      -5.862,
+      -1.891
+     ],
+     "name": "Ax",
+     "line": 27,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.604,
+      -2.61,
+      -5.869,
+      -2.359
+     ],
+     "name": "Ay",
+     "line": 28,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.542,
+      -2.105,
+      6.611,
+      -1.895
+     ],
+     "name": "Bx",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.449,
+      -2.598,
+      6.705,
+      -2.355
+     ],
+     "name": "By",
+     "line": 30,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.508,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.542,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.19,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.86,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.315,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.736,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.433,
+      -3.5,
+      2.433,
+      -3.238
+     ],
+     "name": "final_text",
+     "line": 89,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.508,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.542,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.19,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.86,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.189,
+      3.207,
+      -3.317,
+      3.378
+     ],
+     "name": "geo_text",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      6.861,
+      3.205,
+      7.734,
+      3.376
+     ],
+     "name": "alg_text",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "Visualizing Vectors",
+  "teaches": "Definition of a vector as a directed line segment with magnitude and direction.",
+  "visual": "A 2D coordinate grid appears. A point labeled 'P' is plotted at (3, 4). An arrow animates from the origin (0,0) to P. The components '3i + 4j' appear next to the arrow.",
+  "narration": "In linear algebra, a vector is not just a number but a quantity with both magnitude and direction. We represent it graphically as an arrow pointing from the origin to specific coordinates in space.",
+  "start": 0.0,
+  "end": 10.8
+ },
+ {
+  "id": "s2",
+  "title": "Vector Addition",
+  "teaches": "The head-to-tail method of vector addition.",
+  "visual": "Two vectors, A (red) and B (blue), appear. Vector B animates so its tail touches the head of A. A new green vector C appears connecting the start of A to the end of B, labeled 'A + B'.",
+  "narration": "Vectors can be combined through addition using the head-to-tail method. By placing the tail of the second vector at the head of the first, the resultant vector connects the starting point to the final endpoint.",
+  "start": 10.8,
+  "end": 29.27
+ },
+ {
+  "id": "s3",
+  "title": "Scalar Multiplication",
+  "teaches": "How scalars change magnitude and direction.",
+  "visual": "A single black vector V is shown. A slider labeled 'k' appears. As k increases from 1 to 2, the vector stretches double its length. As k becomes -1, the vector flips direction but keeps the same length.",
+  "narration": "Multiplying a vector by a scalar changes its magnitude. If the scalar is positive, the direction remains the same; if negative, the vector points in the exact opposite direction.",
+  "start": 29.27,
+  "end": 53.6
+ },
+ {
+  "id": "s4",
+  "title": "Linear Combinations",
+  "teaches": "Basis vectors spanning a plane.",
+  "visual": "Two orthogonal basis vectors i (red) and j (blue) are fixed. A third vector v (green) appears, dynamically decomposing into components along i and j, showing v = 2i + 3j.",
+  "narration": "Any vector in a 2D plane can be expressed as a linear combination of basis vectors. This means we can build any vector by scaling and adding the fundamental unit vectors of the coordinate system.",
+  "start": 53.6,
+  "end": 71.4
+ }
+]

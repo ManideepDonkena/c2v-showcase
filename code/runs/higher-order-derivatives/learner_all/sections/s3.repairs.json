@@ -1,0 +1,20 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 11,
+  "scope": "line",
+  "error": "TypeError: Mobject.__init__() got an unexpected keyword argument 'include_tip'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 15,
+  "scope": "block",
+  "error": "IndentationError: unexpected indent (s3.py, line 15)"
+ },
+ {
+  "attempt": 2,
+  "ok": true
+ }
+]

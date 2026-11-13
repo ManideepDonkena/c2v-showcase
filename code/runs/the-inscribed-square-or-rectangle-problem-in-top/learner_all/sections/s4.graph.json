@@ -1,0 +1,956 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.242,
+      3.0,
+      2.242,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 12,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.242,
+      3.0,
+      2.242,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "curve",
+     "line": 11,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.242,
+      3.0,
+      2.242,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -1.88,
+      2.78,
+      2.08
+     ],
+     "name": "curve",
+     "line": 11,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.242,
+      3.0,
+      2.242,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -1.88,
+      2.78,
+      2.08
+     ],
+     "name": "curve",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -1.8,
+      3.0,
+      1.8
+     ],
+     "name": "path1",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -1.8,
+      3.0,
+      1.8
+     ],
+     "name": "path2",
+     "line": 25,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.242,
+      3.0,
+      2.242,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -1.88,
+      2.78,
+      2.08
+     ],
+     "name": "curve",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -1.8,
+      3.0,
+      1.8
+     ],
+     "name": "path1",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -1.8,
+      3.0,
+      1.8
+     ],
+     "name": "path2",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "intersection",
+     "line": 29,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.242,
+      3.0,
+      2.242,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.08,
+      -1.88,
+      2.78,
+      2.08
+     ],
+     "name": "curve",
+     "line": 11,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -1.8,
+      3.0,
+      1.8
+     ],
+     "name": "path1",
+     "line": 24,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -1.8,
+      3.0,
+      1.8
+     ],
+     "name": "path2",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": "intersection",
+     "line": 29,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.403,
+      -0.587,
+      2.403,
+      -0.33
+     ],
+     "name": "brouwer_text",
+     "line": 34,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 39,
+   "objects": []
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.348,
+      0.131,
+      0.348,
+      0.376
+     ],
+     "name": "timeline",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.814,
+      -0.376,
+      0.814,
+      -0.119
+     ],
+     "name": "timeline",
+     "line": 44,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -0.348,
+      0.131,
+      0.348,
+      0.376
+     ],
+     "name": "timeline",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.814,
+      -0.376,
+      0.814,
+      -0.119
+     ],
+     "name": "timeline",
+     "line": 44,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -1.25,
+      2.0,
+      1.25
+     ],
+     "name": "ellipse",
+     "line": 50,
+     "type": "Ellipse"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "square_in_ellipse",
+     "line": 51,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": []
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.75,
+      1.0,
+      0.75
+     ],
+     "name": "rect",
+     "line": 59,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -0.75,
+      0.75,
+      0.75
+     ],
+     "name": "square",
+     "line": 60,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 64,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -0.75,
+      1.0,
+      0.75
+     ],
+     "name": "rect",
+     "line": 59,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.75,
+      -0.75,
+      0.75,
+      0.75
+     ],
+     "name": "square",
+     "line": 60,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.63,
+      -1.278,
+      0.63,
+      -1.0
+     ],
+     "name": "rect_label",
+     "line": 61,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.454,
+      -1.268,
+      0.454,
+      -1.0
+     ],
+     "name": "square_label",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": []
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Geom",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "rounded_square",
+     "line": 71,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "inscribed_square",
+     "line": 76,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 81,
+   "objects": []
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "smooth_curve",
+     "line": 92,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 99,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "smooth_curve",
+     "line": 92,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.853,
+      -1.25,
+      1.853,
+      -0.916
+     ],
+     "name": "fractal_label",
+     "line": 97,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.973,
+      2.25,
+      0.973,
+      2.491
+     ],
+     "name": "smooth_label",
+     "line": 98,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 103,
+   "objects": []
+  },
+  {
+   "after_line": 106,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.65,
+      3.243,
+      1.65,
+      3.5
+     ],
+     "name": null,
+     "line": 106,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 112,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.65,
+      3.243,
+      1.65,
+      3.5
+     ],
+     "name": null,
+     "line": 106,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 103,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "inscribed_square_in_circle",
+     "line": 111,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 122,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.65,
+      3.243,
+      1.65,
+      3.5
+     ],
+     "name": null,
+     "line": 106,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 103,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "inscribed_square_in_circle",
+     "line": 111,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "diag",
+     "line": 117,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      -1.0
+     ],
+     "name": "side1",
+     "line": 118,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "side2",
+     "line": 119,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 123,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.65,
+      3.243,
+      1.65,
+      3.5
+     ],
+     "name": null,
+     "line": 106,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "circle",
+     "line": 103,
+     "type": "Circle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.707,
+      -0.707,
+      0.707,
+      0.707
+     ],
+     "name": "inscribed_square_in_circle",
+     "line": 111,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "diag",
+     "line": 117,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.0,
+      -1.0,
+      1.0,
+      -1.0
+     ],
+     "name": "side1",
+     "line": 118,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.0,
+      -1.0,
+      1.0,
+      1.0
+     ],
+     "name": "side2",
+     "line": 119,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.282,
+      1.25,
+      0.282,
+      1.426
+     ],
+     "name": "diag_label",
+     "line": 120,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.384,
+      -1.499,
+      0.384,
+      -1.25
+     ],
+     "name": "side_label",
+     "line": 121,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 127,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.65,
+      3.243,
+      1.65,
+      3.5
+     ],
+     "name": null,
+     "line": 106,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 137,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.65,
+      3.243,
+      1.65,
+      3.5
+     ],
+     "name": null,
+     "line": 106,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 142,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.65,
+      3.243,
+      1.65,
+      3.5
+     ],
+     "name": null,
+     "line": 106,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.278,
+      2.25,
+      1.278,
+      2.587
+     ],
+     "name": "eight_label",
+     "line": 141,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 147,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.65,
+      3.243,
+      1.65,
+      3.5
+     ],
+     "name": null,
+     "line": 106,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.278,
+      2.25,
+      1.278,
+      2.587
+     ],
+     "name": "eight_label",
+     "line": 141,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "normal_loop",
+     "line": 146,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 152,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.65,
+      3.243,
+      1.65,
+      3.5
+     ],
+     "name": null,
+     "line": 106,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.278,
+      2.25,
+      1.278,
+      2.587
+     ],
+     "name": "eight_label",
+     "line": 141,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.0,
+      -2.0,
+      2.0,
+      2.0
+     ],
+     "name": "normal_loop",
+     "line": 146,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.587,
+      -2.584,
+      1.587,
+      -2.25
+     ],
+     "name": "no_crossing",
+     "line": 151,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 156,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.65,
+      3.243,
+      1.65,
+      3.5
+     ],
+     "name": null,
+     "line": 106,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 79.33,
+  "s_sp": 91.7,
+  "s_ly": 51.9,
+  "s_ed": 76.9,
+  "states": 13,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 77.59,
+   "conflicts": 8
+  },
+  {
+   "level": "section",
+   "mvqs": 77.77,
+   "conflict": "Text \"grid1_num_label\" (created line 63, box [-6.904, 3.75, -4.498, 4.055]) overlaps Text \"grid1_label\" (line 14, box [-6.026, 3.75, -5.093, 4.007]) by 100%; moving it by [0.0, -0.45] would clear it"
+  },
+  {
+   "level": "section",
+   "mvqs": 78.18,
+   "conflict": "Text \"grid1_num_label\" (created line 58, box [-6.904, 3.7, -4.498, 4.005]) overlaps Text \"grid1_label\" (line 14, box [-6.026, 3.75, -5.093, 4.007]) by 99%; moving it by [0.0, -0.4] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.33,
+   "conflict": "Text \"grid1_num_label\" (created line 63, box [-6.904, 3.3, -4.498, 3.605]) overlaps Matrix \"grid1\" (line 11, box [-6.611, 2.179, -4.508, 3.5]) by 57%; moving it by [0.0, 0.35] would clear it"
+  }
+ ]
+}

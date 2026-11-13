@@ -1,0 +1,1048 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.321,
+      -3.5,
+      5.075,
+      -2.893
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.514,
+      -4.007,
+      0.267,
+      -3.75
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 34,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.321,
+      -3.5,
+      5.075,
+      -2.893
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.514,
+      -4.007,
+      0.267,
+      -3.75
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.017,
+      3.0,
+      1.5
+     ],
+     "name": "pulse",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      1.75,
+      0.875,
+      2.007
+     ],
+     "name": "pulse_label",
+     "line": 21,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.321,
+      -3.5,
+      5.075,
+      -2.893
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.514,
+      -4.007,
+      0.267,
+      -3.75
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.017,
+      3.0,
+      1.5
+     ],
+     "name": "pulse",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      1.75,
+      0.875,
+      2.007
+     ],
+     "name": "pulse_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.324,
+      -3.5,
+      3.078,
+      -2.893
+     ],
+     "name": "freq_axis",
+     "line": 24,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.964,
+      -4.068,
+      0.718,
+      -3.75
+     ],
+     "name": "freq_label",
+     "line": 26,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.321,
+      -3.5,
+      5.075,
+      -2.893
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.514,
+      -4.007,
+      0.267,
+      -3.75
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.017,
+      3.0,
+      1.5
+     ],
+     "name": "pulse",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      1.75,
+      0.875,
+      2.007
+     ],
+     "name": "pulse_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.324,
+      -3.5,
+      3.078,
+      -2.893
+     ],
+     "name": "freq_axis",
+     "line": 24,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.964,
+      -4.068,
+      0.718,
+      -3.75
+     ],
+     "name": "freq_label",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.5,
+      0.0,
+      1.5
+     ],
+     "name": "spike",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.415,
+      1.75,
+      1.415,
+      2.071
+     ],
+     "name": "spike_label",
+     "line": 30,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.321,
+      -3.5,
+      5.075,
+      -2.893
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.514,
+      -4.007,
+      0.267,
+      -3.75
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.017,
+      3.0,
+      1.5
+     ],
+     "name": "pulse",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      1.75,
+      0.875,
+      2.007
+     ],
+     "name": "pulse_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.324,
+      -3.5,
+      3.078,
+      -2.893
+     ],
+     "name": "freq_axis",
+     "line": 24,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.964,
+      -4.068,
+      0.718,
+      -3.75
+     ],
+     "name": "freq_label",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.5,
+      0.0,
+      1.5
+     ],
+     "name": "spike",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.415,
+      1.75,
+      1.415,
+      2.071
+     ],
+     "name": "spike_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.182,
+      -5.833,
+      3.5
+     ],
+     "name": "word1",
+     "line": 44,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.321,
+      -3.5,
+      5.075,
+      -2.893
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.514,
+      -4.007,
+      0.267,
+      -3.75
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.017,
+      3.0,
+      1.5
+     ],
+     "name": "pulse",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      1.75,
+      0.875,
+      2.007
+     ],
+     "name": "pulse_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.324,
+      -3.5,
+      3.078,
+      -2.893
+     ],
+     "name": "freq_axis",
+     "line": 24,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.964,
+      -4.068,
+      0.718,
+      -3.75
+     ],
+     "name": "freq_label",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.5,
+      0.0,
+      1.5
+     ],
+     "name": "spike",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.415,
+      1.75,
+      1.415,
+      2.071
+     ],
+     "name": "spike_label",
+     "line": 30,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.321,
+      -3.5,
+      5.075,
+      -2.893
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.514,
+      -4.007,
+      0.267,
+      -3.75
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.017,
+      3.0,
+      1.5
+     ],
+     "name": "pulse",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      1.75,
+      0.875,
+      2.007
+     ],
+     "name": "pulse_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.324,
+      -3.5,
+      3.078,
+      -2.893
+     ],
+     "name": "freq_axis",
+     "line": 24,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.964,
+      -4.068,
+      0.718,
+      -3.75
+     ],
+     "name": "freq_label",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.5,
+      0.0,
+      1.5
+     ],
+     "name": "spike",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.415,
+      1.75,
+      1.415,
+      2.071
+     ],
+     "name": "spike_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.243,
+      -5.504,
+      3.5
+     ],
+     "name": "word2",
+     "line": 49,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.321,
+      -3.5,
+      5.075,
+      -2.893
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.514,
+      -4.007,
+      0.267,
+      -3.75
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.017,
+      3.0,
+      1.5
+     ],
+     "name": "pulse",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      1.75,
+      0.875,
+      2.007
+     ],
+     "name": "pulse_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.324,
+      -3.5,
+      3.078,
+      -2.893
+     ],
+     "name": "freq_axis",
+     "line": 24,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.964,
+      -4.068,
+      0.718,
+      -3.75
+     ],
+     "name": "freq_label",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.5,
+      0.0,
+      1.5
+     ],
+     "name": "spike",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.415,
+      1.75,
+      1.415,
+      2.071
+     ],
+     "name": "spike_label",
+     "line": 30,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 55,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.321,
+      -3.5,
+      5.075,
+      -2.893
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.514,
+      -4.007,
+      0.267,
+      -3.75
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.017,
+      3.0,
+      1.5
+     ],
+     "name": "pulse",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      1.75,
+      0.875,
+      2.007
+     ],
+     "name": "pulse_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.324,
+      -3.5,
+      3.078,
+      -2.893
+     ],
+     "name": "freq_axis",
+     "line": 24,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.964,
+      -4.068,
+      0.718,
+      -3.75
+     ],
+     "name": "freq_label",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.5,
+      0.0,
+      1.5
+     ],
+     "name": "spike",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.415,
+      1.75,
+      1.415,
+      2.071
+     ],
+     "name": "spike_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.238,
+      -5.39,
+      3.5
+     ],
+     "name": "word3",
+     "line": 54,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.821,
+      3.116,
+      1.821,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -5.321,
+      -3.5,
+      5.075,
+      -2.893
+     ],
+     "name": "time_axis",
+     "line": 11,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.514,
+      -4.007,
+      0.267,
+      -3.75
+     ],
+     "name": "time_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      0.017,
+      3.0,
+      1.5
+     ],
+     "name": "pulse",
+     "line": 16,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.875,
+      1.75,
+      0.875,
+      2.007
+     ],
+     "name": "pulse_label",
+     "line": 21,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.324,
+      -3.5,
+      3.078,
+      -2.893
+     ],
+     "name": "freq_axis",
+     "line": 24,
+     "type": "NumberLine"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.964,
+      -4.068,
+      0.718,
+      -3.75
+     ],
+     "name": "freq_label",
+     "line": 26,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      -1.5,
+      0.0,
+      1.5
+     ],
+     "name": "spike",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.415,
+      1.75,
+      1.415,
+      2.071
+     ],
+     "name": "spike_label",
+     "line": 30,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 60,
+   "objects": []
+  }
+ ],
+ "error": null
+}

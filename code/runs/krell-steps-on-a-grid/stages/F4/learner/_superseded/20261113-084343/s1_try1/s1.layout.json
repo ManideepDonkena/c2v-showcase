@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 81.26,
+  "s_sp": 93.9,
+  "s_ly": 26.9,
+  "s_ed": 96.5,
+  "states": 17,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 75.4,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.26,
+   "conflict": "Dot \"P\" (created line 24, box [2.32, 3.54, 2.48, 3.7]) overlaps Text \"title\" (line 6, box [-3.624, 3.41, 3.624, 3.8]) by 100%; moving it by [0.0, -0.44] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"label_P\" (created line 25, box [2.68, 3.9, 3.415, 4.205]) is outside the frame; shift it by [0.0, -0.36]"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "kind": "f3",
+ "fixes": {
+  "s1": [
+   "SHOW a triangle with sides labeled '2', '3', and '4' (identifying 4 as longest and 2 as shortest). SAY: 'Check the rule: Is twice the longest side at most three times the shortest?' SHOW the calculation '2 × 4 ≤ 3 × 2' animating in, which resolves to '8 ≤ 6'. SHOW a red X or pulse red to indicate the condition fails."
+  ]
+ },
+ "items": {
+  "q1": 3.4e-05,
+  "q2": 0.9759709999999999,
+  "q3": 0.999952,
+  "q4": 0.999959,
+  "q5": 0.9992505,
+  "q6": 0.9900835,
+  "q7": 0.9983795,
+  "q8": 0.999972,
+  "q9": 0.015628,
+  "q10": 0.9999955,
+  "q11": 0.999992
+ },
+ "qmap": {
+  "q1": "s1",
+  "q2": "s2",
+  "q3": "s1",
+  "q4": "s3",
+  "q5": "s1",
+  "q6": "s1",
+  "q7": "s1",
+  "q8": "s4",
+  "q9": "s1",
+  "q10": "s4",
+  "q11": "s3"
+ },
+ "ochiai": {
+  "s1": 0.5773502691896258,
+  "s2": 0.0,
+  "s3": 0.0,
+  "s4": 0.0
+ },
+ "chosen": [
+  "s1"
+ ],
+ "k": 2,
+ "failing": [
+  "q1",
+  "q9"
+ ],
+ "refused": [
+  {
+   "item": "q1",
+   "idea": "SHOW the inequality 'Longest side ≤ 1.5 × Shortest side' explicitly alongside the triangle, and SAY that this ratio is the defining condition for mirthfulness.",
+   "why": "copies"
+  }
+ ],
+ "dev": 11
+}

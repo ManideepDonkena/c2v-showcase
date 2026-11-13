@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 46,
+  "scope": "line",
+  "error": "TypeError: VMobject.scale() got an unexpected keyword argument 'scale_tips'"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 46,
+  "scope": "block",
+  "error": "TypeError: VMobject.scale() got an unexpected keyword argument 'scale_tips'"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 46,
+  "scope": "section",
+  "error": "TypeError: VMobject.scale() got an unexpected keyword argument 'scale_tips'"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 46,
+  "scope": "section",
+  "error": "TypeError: VMobject.scale() got an unexpected keyword argument 'scale_tips'"
+ }
+]

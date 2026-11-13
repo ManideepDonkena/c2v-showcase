@@ -1,0 +1,3598 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": "p1_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": "p2_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": "p4_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 39,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": "p1_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": "p2_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": "p4_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      2.607,
+      -1.939,
+      2.9
+     ],
+     "name": "p1_cover",
+     "line": 27,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": "p1_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": "p2_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": "p4_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      2.607,
+      -1.939,
+      2.9
+     ],
+     "name": "p1_cover",
+     "line": 27,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      1.607,
+      -1.939,
+      1.9
+     ],
+     "name": "p2_cover",
+     "line": 36,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 43,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": "p1_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": "p2_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": "p4_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      2.607,
+      -1.939,
+      2.9
+     ],
+     "name": "p1_cover",
+     "line": 27,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      1.607,
+      -1.939,
+      1.9
+     ],
+     "name": "p2_cover",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      0.607,
+      -1.939,
+      0.9
+     ],
+     "name": "p4_cover",
+     "line": 37,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 47,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": "p1_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": "p2_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": "p4_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      2.607,
+      -1.939,
+      2.9
+     ],
+     "name": "p1_cover",
+     "line": 27,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      1.607,
+      -1.939,
+      1.9
+     ],
+     "name": "p2_cover",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      0.607,
+      -1.939,
+      0.9
+     ],
+     "name": "p4_cover",
+     "line": 37,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": "p1_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": "p2_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": "p4_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      2.607,
+      -1.939,
+      2.9
+     ],
+     "name": "p1_cover",
+     "line": 27,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      1.607,
+      -1.939,
+      1.9
+     ],
+     "name": "p2_cover",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      0.607,
+      -1.939,
+      0.9
+     ],
+     "name": "p4_cover",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.167,
+      -4.492,
+      -1.833
+     ],
+     "name": "simple",
+     "line": 50,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.19,
+      -2.167,
+      6.611,
+      -1.833
+     ],
+     "name": "hamming",
+     "line": 51,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": "p1_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": "p2_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": "p4_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      2.607,
+      -1.939,
+      2.9
+     ],
+     "name": "p1_cover",
+     "line": 27,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      1.607,
+      -1.939,
+      1.9
+     ],
+     "name": "p2_cover",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      0.607,
+      -1.939,
+      0.9
+     ],
+     "name": "p4_cover",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.167,
+      -4.492,
+      -1.833
+     ],
+     "name": "simple",
+     "line": 50,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.19,
+      -2.167,
+      6.611,
+      -1.833
+     ],
+     "name": "hamming",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.088,
+      -2.695,
+      -4.015,
+      -2.417
+     ],
+     "name": "fail",
+     "line": 53,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": "p1_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": "p2_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": "p4_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      2.607,
+      -1.939,
+      2.9
+     ],
+     "name": "p1_cover",
+     "line": 27,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      1.607,
+      -1.939,
+      1.9
+     ],
+     "name": "p2_cover",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      0.607,
+      -1.939,
+      0.9
+     ],
+     "name": "p4_cover",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.167,
+      -4.492,
+      -1.833
+     ],
+     "name": "simple",
+     "line": 50,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.19,
+      -2.167,
+      6.611,
+      -1.833
+     ],
+     "name": "hamming",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.088,
+      -2.695,
+      -4.015,
+      -2.417
+     ],
+     "name": "fail",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.598,
+      -2.699,
+      7.203,
+      -2.417
+     ],
+     "name": "fix",
+     "line": 62,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 68,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": "p1_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": "p2_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": "p4_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      2.607,
+      -1.939,
+      2.9
+     ],
+     "name": "p1_cover",
+     "line": 27,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      1.607,
+      -1.939,
+      1.9
+     ],
+     "name": "p2_cover",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      0.607,
+      -1.939,
+      0.9
+     ],
+     "name": "p4_cover",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.167,
+      -4.492,
+      -1.833
+     ],
+     "name": "simple",
+     "line": 50,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.19,
+      -2.167,
+      6.611,
+      -1.833
+     ],
+     "name": "hamming",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.088,
+      -2.695,
+      -4.015,
+      -2.417
+     ],
+     "name": "fail",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.598,
+      -2.699,
+      7.203,
+      -2.417
+     ],
+     "name": "fix",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.074,
+      -3.5,
+      2.074,
+      -3.163
+     ],
+     "name": "summary",
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.849,
+      3.0,
+      2.849,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.049,
+      3.4,
+      -2.951,
+      3.6
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      2.9,
+      -2.94,
+      3.1
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      2.397,
+      -2.938,
+      2.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.066,
+      1.899,
+      -2.934,
+      2.101
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.06,
+      1.397,
+      -2.94,
+      1.603
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.062,
+      0.897,
+      -2.938,
+      1.103
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.064,
+      0.396,
+      -2.936,
+      0.604
+     ],
+     "name": "grid_mobs",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      3.1,
+      -2.6,
+      3.9
+     ],
+     "name": "p1_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.6,
+      -2.6,
+      3.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      2.1,
+      -2.6,
+      2.9
+     ],
+     "name": "p2_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.6,
+      -2.6,
+      2.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      1.1,
+      -2.6,
+      1.9
+     ],
+     "name": "p4_slot",
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.6,
+      -2.6,
+      1.4
+     ],
+     "name": null,
+     "line": 18,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.4,
+      0.1,
+      -2.6,
+      0.9
+     ],
+     "name": null,
+     "line": 14,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.174,
+      3.38,
+      -2.826,
+      3.62
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.194,
+      2.88,
+      -2.806,
+      3.12
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.177,
+      2.379,
+      -2.823,
+      2.621
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      1.879,
+      -2.802,
+      2.121
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.185,
+      1.381,
+      -2.815,
+      1.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.198,
+      0.878,
+      -2.802,
+      1.122
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.107,
+      0.381,
+      -2.893,
+      0.619
+     ],
+     "name": null,
+     "line": 19,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      2.607,
+      -1.939,
+      2.9
+     ],
+     "name": "p1_cover",
+     "line": 27,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      1.607,
+      -1.939,
+      1.9
+     ],
+     "name": "p2_cover",
+     "line": 36,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.061,
+      0.607,
+      -1.939,
+      0.9
+     ],
+     "name": "p4_cover",
+     "line": 37,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.167,
+      -4.492,
+      -1.833
+     ],
+     "name": "simple",
+     "line": 50,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.19,
+      -2.167,
+      6.611,
+      -1.833
+     ],
+     "name": "hamming",
+     "line": 51,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.088,
+      -2.695,
+      -4.015,
+      -2.417
+     ],
+     "name": "fail",
+     "line": 53,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.598,
+      -2.699,
+      7.203,
+      -2.417
+     ],
+     "name": "fix",
+     "line": 62,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.074,
+      -3.5,
+      2.074,
+      -3.163
+     ],
+     "name": "summary",
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

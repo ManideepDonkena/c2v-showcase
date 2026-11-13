@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 63.98,
+  "s_sp": 79.3,
+  "s_ly": 16.7,
+  "s_ed": 70.0,
+  "states": 12,
+  "states_with_conflict": 6
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 54.71,
+   "conflicts": 16
+  },
+  {
+   "level": "block",
+   "mvqs": 63.98,
+   "conflict": "MathTex \"swapped\" (created line 22, box [-0.336, -0.257, 0.336, 0.257]) overlaps MathTex \"num_52\" (line 11, box [-0.099, -0.171, 0.099, 0.171]) by 100%; moving it by [0.0, 0.58] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"swapped\" (created line 22, box [-0.336, -0.257, 0.336, 0.257]) overlaps MathTex \"num_52\" (line 11, box [-0.099, -0.171, 0.099, 0.171]) by 100%; moving it by [0.0, 0.58] would clear it"
+  }
+ ]
+}

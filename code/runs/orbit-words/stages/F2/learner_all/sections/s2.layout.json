@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 70.32,
+  "s_sp": 82.9,
+  "s_ly": 50.7,
+  "s_ed": 62.5,
+  "states": 16,
+  "states_with_conflict": 10
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 70.32,
+   "conflicts": 14
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"no_y\" (created line 38, box [-6.86, 1.714, -5.438, 2.032]) overlaps Text \"bracket_text\" (line 33, box [-6.257, 1.519, -6.042, 1.757]) by 18%; moving it by [0.0, 0.19] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 71.87,
+  "s_sp": 88.3,
+  "s_ly": 26.2,
+  "s_ed": 75.0,
+  "states": 12,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.79,
+   "conflicts": 3
+  },
+  {
+   "level": "block",
+   "mvqs": 71.83,
+   "conflict": "MathTex \"z0_label\" (created line 31, box [0.18, 0.305, 0.373, 0.452]) overlaps MathTex \"origin_label\" (line 25, box [0.18, 0.18, 0.743, 0.351]) by 31%; moving it by [0.0, 0.2] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 71.84,
+   "conflict": "MathTex \"z0_label\" (created line 31, box [0.18, 0.305, 0.373, 0.452]) overlaps MathTex \"origin_label\" (line 25, box [0.18, 0.18, 0.743, 0.351]) by 31%; moving it by [0.0, 0.2] would clear it"
+  },
+  {
+   "level": "section",
+   "mvqs": 71.87,
+   "conflict": "MathTex \"z0_label\" (created line 31, box [0.18, 0.305, 0.373, 0.452]) overlaps MathTex \"origin_label\" (line 25, box [0.18, 0.18, 0.743, 0.351]) by 31%; moving it by [0.0, 0.2] would clear it"
+  }
+ ]
+}

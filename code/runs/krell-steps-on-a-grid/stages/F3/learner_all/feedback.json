@@ -1,0 +1,47 @@
+{
+ "stage": "F3",
+ "mode": "learner_all",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s1": [
+   "SHOW a specific numeric example starting from the origin (0, 0). SAY: 'Let's apply the rule to (0, 0). First, swap to get (0, 0), then add 1 to the second number to land on (0, 1). Now take that result (0, 1) and step again: swap to get (1, 0), then add 1 to the second number to land on (1, 1).' This explicitly demonstrates that two steps from (0,0) result in (1,1), which is the specific instance of the general identity (+1, +1) shown in s4.",
+   "SHOW the point (0,0) and an arrow labeled 'Step 3' leading to a new point. SAY 'The third step takes us from (1,2) to (2,3)' and display the label '(2,3)' at that final position."
+  ],
+  "s2": [
+   "SHOW a specific numeric example starting from the origin (0, 0). SAY: 'Let's apply the rule to (0, 0). First, swap to get (0, 0), then add 1 to the second number to land on (0, 1). Now take that result (0, 1) and step again: swap to get (1, 0), then add 1 to the second number to land on (1, 1).' This explicitly demonstrates that two steps from (0,0) result in (1,1), which is the specific instance of the general identity (+1, +1) shown in s4.",
+   "SHOW the point (0,0) and an arrow labeled 'Step 3' leading to a new point. SAY 'The third step takes us from (1,2) to (2,3)' and display the label '(2,3)' at that final position."
+  ],
+  "s3": [
+   "SHOW a specific numeric example starting from the origin (0, 0). SAY: 'Let's apply the rule to (0, 0). First, swap to get (0, 0), then add 1 to the second number to land on (0, 1). Now take that result (0, 1) and step again: swap to get (1, 0), then add 1 to the second number to land on (1, 1).' This explicitly demonstrates that two steps from (0,0) result in (1,1), which is the specific instance of the general identity (+1, +1) shown in s4.",
+   "SHOW the point (0,0) and an arrow labeled 'Step 3' leading to a new point. SAY 'The third step takes us from (1,2) to (2,3)' and display the label '(2,3)' at that final position."
+  ],
+  "s4": [
+   "SHOW a specific numeric example starting from the origin (0, 0). SAY: 'Let's apply the rule to (0, 0). First, swap to get (0, 0), then add 1 to the second number to land on (0, 1). Now take that result (0, 1) and step again: swap to get (1, 0), then add 1 to the second number to land on (1, 1).' This explicitly demonstrates that two steps from (0,0) result in (1,1), which is the specific instance of the general identity (+1, +1) shown in s4.",
+   "SHOW the point (0,0) and an arrow labeled 'Step 3' leading to a new point. SAY 'The third step takes us from (1,2) to (2,3)' and display the label '(2,3)' at that final position."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "edit_size": {
+  "s1": 0.702,
+  "s2": 0.689,
+  "s3": 0.722,
+  "s4": 0.68
+ },
+ "diagnosis": "f3",
+ "dev_before": 0.711144,
+ "dev_after": 0.7600490833333334,
+ "mvqs_before": 79.29,
+ "mvqs_after": 79.66,
+ "kept": true,
+ "served": "revision"
+}

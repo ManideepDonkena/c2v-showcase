@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 88.63,
+  "s_sp": 94.0,
+  "s_ly": 73.1,
+  "s_ed": 90.0,
+  "states": 20,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 76.98,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.09,
+   "conflict": "MathTex \"rot_label\" (created line 60, box [-1.169, -3.5, 1.169, -3.251]) overlaps MathTex \"area_label\" (line 34, box [-0.718, -3.5, 0.718, -3.274]) by 100%; moving it by [0.0, 0.38] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 77.9,
+   "conflict": "MathTex \"rot_label\" (created line 55, box [-1.169, -3.12, 1.169, -2.871]) overlaps MathTex \"det_label\" (line 24, box [-2.189, -3.024, 2.189, -2.775]) by 61%; moving it by [0.0, -0.3] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 88.63,
+   "conflict": "MathTex \"rot_label\" (created line 60, box [-1.169, -2.82, 1.169, -2.571]) overlaps MathTex \"det_label\" (line 39, box [-2.189, -3.024, 2.189, -2.775]) by 18%; moving it by [0.0, 0.19] would clear it"
+  }
+ ]
+}

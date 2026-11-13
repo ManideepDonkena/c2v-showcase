@@ -1,0 +1,33 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q3",
+  "q6",
+  "q8",
+  "q9",
+  "q10",
+  "q11"
+ ],
+ "fixes": {
+  "s1": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s4": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s3": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s1",
+  "s3",
+  "s4"
+ ],
+ "dev_before": 33.3,
+ "dev_after": 66.7,
+ "mvqs_before": 86.03,
+ "mvqs_after": 80.67,
+ "kept": false,
+ "dir": "/home/mani/c2v-lab/runs/lumen-clocks/generic"
+}

@@ -1,0 +1,36 @@
+{
+ "title": "Brisk Folds: Halving Lists with Sum Preservation",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "The Folding Mechanism",
+   "teaches": "Definition of a brisk fold: pairing first/last, second/second-to-last, etc., and summing them.",
+   "visual": "A list [1, 2, 3, 4] appears. Arrows connect index 0 to 3 (1+4) and index 1 to 2 (2+3). The numbers collapse into two new blocks: [5, 5].",
+   "narration": "A brisk fold pairs the first element with the last, the second with the second-to-last, and sums each pair. For even-length lists, every number finds a partner; for odd-length lists, the middle element remains unpaired at the end."
+  },
+  {
+   "id": "s2",
+   "title": "Odd-Length Edge Case",
+   "teaches": "Handling of the middle element in odd-length lists during a brisk fold.",
+   "visual": "List [1, 2, 3] appears. Arrows connect 1+3=4. The '2' slides alone to the right end. Result: [4, 2]. Label 'Middle stays' highlights the unpaired element.",
+   "narration": "When the list has odd length, all elements except the exact middle one are paired and summed. The middle number does not fold; it simply moves to the end of the new list as a standalone value."
+  },
+  {
+   "id": "s3",
+   "title": "Rule 1: Total Preservation",
+   "teaches": "The invariant that the sum of elements remains constant after folding.",
+   "visual": "Side-by-side comparison: [1, 2, 3, 4] (sum=10) folds to [5, 5] (sum=10). Animated counters show both sums equaling 10. A checkmark appears with 'Total Preserved'.",
+   "narration": "Crucially, a brisk fold preserves the total sum of the original list. Since we only add existing numbers together without discarding any, the aggregate value remains invariant across folds."
+  },
+  {
+   "id": "s4",
+   "title": "Rule 2: Length Reduction",
+   "teaches": "The structural change: length roughly halves after one brisk fold.",
+   "visual": "List [1, 2, 3, 4, 5, 6] (length 6) folds to [7, 7, 7] (length 3). An arrow labeled 'Length / 2' connects the two states. Visual emphasis on the halving effect.",
+   "narration": "Each brisk fold roughly halves the length of the list. This compression property makes brisk folds useful for reducing data size while maintaining its essential numerical sum."
+  }
+ ],
+ "topic": "Brisk folds of a list",
+ "grade": "undergraduate students",
+ "source": "A brisk fold folds a list of numbers in half and adds the numbers that land on each other: first + last, second + second-to-last, and so on; in a list of odd length the middle number stays alone at the end. Rules: (1) a fold keeps the total. (2) A fold roughly halves the length. Worked example: brisk fold of [1, 2, 3, 4] is [5, 5]; of [1, 2, 3] it is [4, 2]."
+}

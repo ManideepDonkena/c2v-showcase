@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 77.52,
+  "s_sp": 91.2,
+  "s_ly": 59.8,
+  "s_ed": 66.6,
+  "states": 20,
+  "states_with_conflict": 6
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 77.52,
+   "conflicts": 8
+  },
+  {
+   "level": "none kept",
+   "conflict": "Line \"path_a\" (created line 35, box [-3.0, -2.0, -1.5, 0.0]) overlaps MathTex \"a_label\" (line 19, box [-3.083, -0.523, -2.917, -0.33]) by 50%; moving it by [0.23, 0.0] would clear it"
+  }
+ ]
+}

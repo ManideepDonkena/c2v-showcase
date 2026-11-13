@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 61.55,
+  "s_sp": 80.1,
+  "s_ly": 28.8,
+  "s_ed": 52.5,
+  "states": 24,
+  "states_with_conflict": 19
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 61.55,
+   "conflicts": 23
+  },
+  {
+   "level": "none kept",
+   "conflict": "Dot \"p3\" (created line 29, box [-0.08, 0.92, 0.08, 1.08]) overlaps MathTex \"calc3\" (line 26, box [-0.494, 0.893, 0.494, 1.08]) by 100%; moving it by [0.0, 0.31] would clear it"
+  }
+ ]
+}

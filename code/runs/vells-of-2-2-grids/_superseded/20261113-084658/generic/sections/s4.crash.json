@@ -1,0 +1,231 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.947,
+      -0.693,
+      0.947,
+      0.693
+     ],
+     "name": "grid1_mob",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.036,
+      0.943,
+      1.036,
+      1.276
+     ],
+     "name": "grid1_label",
+     "line": 13,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.947,
+      -0.693,
+      0.947,
+      0.693
+     ],
+     "name": "grid1_mob",
+     "line": 12,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.036,
+      0.943,
+      1.036,
+      1.276
+     ],
+     "name": "grid1_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.977,
+      -1.41,
+      1.977,
+      -1.193
+     ],
+     "name": "vell1",
+     "line": 16,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 29,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.944,
+      -0.697,
+      0.944,
+      0.697
+     ],
+     "name": "grid2_mob",
+     "line": 26,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.229,
+      0.947,
+      1.229,
+      1.284
+     ],
+     "name": "grid2_label",
+     "line": 27,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.751,
+      3.0,
+      2.751,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.944,
+      -0.697,
+      0.944,
+      0.697
+     ],
+     "name": "grid2_mob",
+     "line": 26,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.229,
+      0.947,
+      1.229,
+      1.284
+     ],
+     "name": "grid2_label",
+     "line": 27,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.977,
+      -1.415,
+      1.977,
+      -1.197
+     ],
+     "name": "vell2",
+     "line": 35,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "latex error converting to dvi. See log output above or the log file: media/Tex/0ac01e63fb6e75e2.log",
+  "line": 44
+ }
+}

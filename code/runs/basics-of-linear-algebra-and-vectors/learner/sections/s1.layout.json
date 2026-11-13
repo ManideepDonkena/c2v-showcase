@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 76.8,
+  "s_sp": 91.2,
+  "s_ly": 46.0,
+  "s_ed": 73.3,
+  "states": 9,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 59.51,
+   "conflicts": 6
+  },
+  {
+   "level": "shift",
+   "mvqs": 61.42,
+   "conflict": "Dot \"point_P\" (created line 22, box [2.92, 3.92, 3.08, 4.08]) is outside the frame; shift it by [0.0, -0.23]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 66.81,
+   "conflict": "Tex \"label_P\" (created line 23, box [3.18, 4.18, 3.327, 4.35]) is outside the frame; shift it by [0.0, -0.5]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.8,
+   "conflict": "Arrow \"vector_OP\" (created line 26, box [0.0, 0.0, 3.0, 4.0]) overlaps Text \"title\" (line 6, box [-2.249, 3.0, 2.249, 3.5]) by 50%; moving it by [0.0, -1.15] would clear it"
+  }
+ ]
+}

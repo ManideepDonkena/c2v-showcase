@@ -1,0 +1,13 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": null,
+  "scope": "section",
+  "error": "has no at \u2502\n\u2502    761 \u2502                                                                     \u2502\n\u2502    762 \u2502   @property                                                         \u2502\n\u2502    763 \u2502   def width(self) -> float:                                         \u2502\n\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256f\nAttributeError: Square object has no attribute 'move_corner_to'\n"
+ },
+ {
+  "attempt": 1,
+  "ok": true
+ }
+]

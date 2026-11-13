@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 12,
+  "scope": "line",
+  "error": "NameError: name 'BRACKET' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 11,
+  "scope": "block",
+  "error": "TypeError: Mobject.__init__() got an unexpected keyword argument 'bracket_style'"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 18,
+  "scope": "section",
+  "error": "NameError: name 'BRACKET' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 18,
+  "scope": "section",
+  "error": "NameError: name 'BRACKET' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ }
+]

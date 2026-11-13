@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 70.78,
+  "s_sp": 80.2,
+  "s_ly": 33.5,
+  "s_ed": 80.0,
+  "states": 6,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 70.78,
+   "conflicts": 1
+  },
+  {
+   "level": "none kept",
+   "conflict": "Integer \"initial_group\" (created line 12, box [-0.66, -2.5, -0.553, -2.326]) overlaps Integer \"initial_group\" (line 12, box [-0.66, -2.5, -0.553, -2.326]) by 100%; moving it by [0.26, 0.0] would clear it"
+  }
+ ]
+}

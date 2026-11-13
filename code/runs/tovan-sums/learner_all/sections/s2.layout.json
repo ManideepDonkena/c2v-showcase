@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 83.03,
+  "s_sp": 96.0,
+  "s_ly": 49.7,
+  "s_ed": 83.6,
+  "states": 22,
+  "states_with_conflict": 6
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 81.66,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.06,
+   "conflict": "MathTex \"expand\" (created line 15, box [-7.671, 2.262, -4.681, 2.677]) is outside the frame; shift it by [0.71, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.91,
+   "conflict": "MathTex \"eq_result\" (created line 51, box [-7.786, -4.332, -4.553, -4.0]) is outside the frame; shift it by [0.82, 0.48]"
+  },
+  {
+   "level": "section",
+   "mvqs": 83.03,
+   "conflict": "MathTex \"comm_left\" (created line 42, box [-6.611, 3.189, -4.774, 3.5]) overlaps MathTex \"left_eq\" (line 11, box [-6.611, 3.177, -5.74, 3.5]) by 96%; moving it by [0.0, 0.46] would clear it"
+  }
+ ]
+}

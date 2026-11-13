@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "The Attention Mechanism",
+  "teaches": "How transformers use self-attention to weigh the importance of different words in a sequence.",
+  "visual": "A sentence 'The cat sat on the mat' appears. As the word 'sat' is highlighted, glowing lines connect it strongly to 'cat' and 'mat', while lines to other words fade. A weight matrix overlays the text, showing high values for semantically related pairs.",
+  "narration": "Unlike older models that read sequentially, Transformers process all words simultaneously using self-attention. This mechanism calculates how much focus each word should pay to every other word in the sentence, capturing context instantly.",
+  "start": 0.0,
+  "end": 16.87
+ },
+ {
+  "id": "s2",
+  "title": "Multi-Head Attention Layers",
+  "teaches": "The concept of parallel attention heads capturing different types of relationships.",
+  "visual": "The single attention view splits into four parallel streams labeled 'Head 1' through 'Head 4'. Head 1 highlights subject-verb links, Head 2 highlights adjective-noun links. The streams then merge back into a unified vector representation.",
+  "narration": "To capture diverse linguistic patterns, transformers use multiple 'attention heads' in parallel. Each head learns to focus on different aspects of the data, such as grammar or syntax, allowing the model to understand complex relationships from multiple perspectives.",
+  "start": 16.87,
+  "end": 41.67
+ },
+ {
+  "id": "s3",
+  "title": "The Decoder Stack & Probability",
+  "teaches": "How the model converts context into a probability distribution over the vocabulary.",
+  "visual": "A stack of decoder blocks processes the merged vectors. The output flows into a dense layer, then splits into a bar chart where each bar represents a word in the dictionary. The tallest bar corresponds to the next predicted word 'there'.",
+  "narration": "The processed information passes through a deep stack of layers to generate a probability distribution for the next token. The model doesn't just pick one answer; it calculates the likelihood of every possible word in its vocabulary based on the context.",
+  "start": 41.67,
+  "end": 75.47
+ },
+ {
+  "id": "s4",
+  "title": "Autoregressive Generation",
+  "teaches": "The iterative process of generating text token by token.",
+  "visual": "The word 'there' is appended to the sentence. The entire sequence slides forward, and new attention lines form for the new context. The bar chart updates, highlighting 'is' as the next highest probability. This loop repeats rapidly to complete the sentence.",
+  "narration": "Finally, the model generates text autoregressively by feeding its own output back into the input. It predicts one token at a time, constantly updating its context, which allows it to construct coherent and long-form responses.",
+  "start": 75.47,
+  "end": 97.73
+ }
+]

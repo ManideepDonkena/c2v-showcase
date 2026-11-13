@@ -1,0 +1,4168 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 23,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 31,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 36,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 50,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 52,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 56,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 61,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 73,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 73,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.548,
+      -2.049,
+      -1.452
+     ],
+     "name": "step",
+     "line": 66,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 73,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.548,
+      -2.049,
+      -1.452
+     ],
+     "name": "step",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.548,
+      -1.993,
+      -2.452
+     ],
+     "name": "step",
+     "line": 67,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 73,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.548,
+      -2.049,
+      -1.452
+     ],
+     "name": "step",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.548,
+      -1.993,
+      -2.452
+     ],
+     "name": "step",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -4.55,
+      -2.519,
+      -3.45
+     ],
+     "name": "step",
+     "line": 68,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 78,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.548,
+      -2.049,
+      -1.452
+     ],
+     "name": "step",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.548,
+      -1.993,
+      -2.452
+     ],
+     "name": "step",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -4.55,
+      -2.519,
+      -3.45
+     ],
+     "name": "step",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.5,
+      -2.598,
+      -3.243
+     ],
+     "name": "mixed_text",
+     "line": 77,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 83,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.548,
+      -2.049,
+      -1.452
+     ],
+     "name": "step",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.548,
+      -1.993,
+      -2.452
+     ],
+     "name": "step",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -4.55,
+      -2.519,
+      -3.45
+     ],
+     "name": "step",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.5,
+      -2.598,
+      -3.243
+     ],
+     "name": "mixed_text",
+     "line": 77,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.818,
+      1.275,
+      6.611,
+      1.725
+     ],
+     "name": "exp_func",
+     "line": 82,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 89,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.548,
+      -2.049,
+      -1.452
+     ],
+     "name": "step",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.548,
+      -1.993,
+      -2.452
+     ],
+     "name": "step",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -4.55,
+      -2.519,
+      -3.45
+     ],
+     "name": "step",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.5,
+      -2.598,
+      -3.243
+     ],
+     "name": "mixed_text",
+     "line": 77,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.818,
+      1.275,
+      6.611,
+      1.725
+     ],
+     "name": "exp_func",
+     "line": 82,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.723,
+      0.304,
+      6.706,
+      1.025
+     ],
+     "name": "d1",
+     "line": 86,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 91,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.548,
+      -2.049,
+      -1.452
+     ],
+     "name": "step",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.548,
+      -1.993,
+      -2.452
+     ],
+     "name": "step",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -4.55,
+      -2.519,
+      -3.45
+     ],
+     "name": "step",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.5,
+      -2.598,
+      -3.243
+     ],
+     "name": "mixed_text",
+     "line": 77,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.818,
+      1.275,
+      6.611,
+      1.725
+     ],
+     "name": "exp_func",
+     "line": 82,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.723,
+      0.304,
+      6.706,
+      1.025
+     ],
+     "name": "d1",
+     "line": 86,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.645,
+      -0.713,
+      6.784,
+      0.054
+     ],
+     "name": "d2",
+     "line": 87,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 96,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.548,
+      -2.049,
+      -1.452
+     ],
+     "name": "step",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.548,
+      -1.993,
+      -2.452
+     ],
+     "name": "step",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -4.55,
+      -2.519,
+      -3.45
+     ],
+     "name": "step",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.5,
+      -2.598,
+      -3.243
+     ],
+     "name": "mixed_text",
+     "line": 77,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.818,
+      1.275,
+      6.611,
+      1.725
+     ],
+     "name": "exp_func",
+     "line": 82,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.723,
+      0.304,
+      6.706,
+      1.025
+     ],
+     "name": "d1",
+     "line": 86,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.645,
+      -0.713,
+      6.784,
+      0.054
+     ],
+     "name": "d2",
+     "line": 87,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.249,
+      -3.0,
+      3.249,
+      -2.666
+     ],
+     "name": "concave_text",
+     "line": 95,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 101,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.548,
+      -2.049,
+      -1.452
+     ],
+     "name": "step",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.548,
+      -1.993,
+      -2.452
+     ],
+     "name": "step",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -4.55,
+      -2.519,
+      -3.45
+     ],
+     "name": "step",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.5,
+      -2.598,
+      -3.243
+     ],
+     "name": "mixed_text",
+     "line": 77,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.818,
+      1.275,
+      6.611,
+      1.725
+     ],
+     "name": "exp_func",
+     "line": 82,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.723,
+      0.304,
+      6.706,
+      1.025
+     ],
+     "name": "d1",
+     "line": 86,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.645,
+      -0.713,
+      6.784,
+      0.054
+     ],
+     "name": "d2",
+     "line": 87,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.249,
+      -3.0,
+      3.249,
+      -2.666
+     ],
+     "name": "concave_text",
+     "line": 95,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.679,
+      3.182,
+      6.611,
+      3.5
+     ],
+     "name": "chain_text",
+     "line": 100,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 111,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.548,
+      -2.049,
+      -1.452
+     ],
+     "name": "step",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.548,
+      -1.993,
+      -2.452
+     ],
+     "name": "step",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -4.55,
+      -2.519,
+      -3.45
+     ],
+     "name": "step",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.5,
+      -2.598,
+      -3.243
+     ],
+     "name": "mixed_text",
+     "line": 77,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.818,
+      1.275,
+      6.611,
+      1.725
+     ],
+     "name": "exp_func",
+     "line": 82,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.723,
+      0.304,
+      6.706,
+      1.025
+     ],
+     "name": "d1",
+     "line": 86,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.645,
+      -0.713,
+      6.784,
+      0.054
+     ],
+     "name": "d2",
+     "line": 87,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.249,
+      -3.0,
+      3.249,
+      -2.666
+     ],
+     "name": "concave_text",
+     "line": 95,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.679,
+      3.182,
+      6.611,
+      3.5
+     ],
+     "name": "chain_text",
+     "line": 100,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -0.849,
+      -0.485
+     ],
+     "name": "step",
+     "line": 105,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 111,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.103,
+      3.0,
+      3.103,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "axes",
+     "line": 10,
+     "type": "Axes"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -2.55,
+      4.8,
+      3.85
+     ],
+     "name": "f2_graph",
+     "line": 15,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      3.33,
+      6.093,
+      3.855
+     ],
+     "name": "f2_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -4.8,
+      -3.5,
+      4.8,
+      1.3
+     ],
+     "name": "f3_graph",
+     "line": 28,
+     "type": "ParametricFunction"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.05,
+      1.55,
+      6.208,
+      2.075
+     ],
+     "name": "f3_label",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.302,
+      0.966,
+      5.956,
+      1.3
+     ],
+     "name": "jerk_label",
+     "line": 30,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.169,
+      -0.599,
+      6.09,
+      0.716
+     ],
+     "name": "notation",
+     "line": 35,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.145,
+      -3.836,
+      3.5
+     ],
+     "name": "example_text",
+     "line": 40,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.275,
+      -4.954,
+      1.725
+     ],
+     "name": "step1",
+     "line": 45,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.765,
+      0.576,
+      -4.8,
+      1.025
+     ],
+     "name": "step2",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.732,
+      -0.094,
+      -4.833,
+      0.326
+     ],
+     "name": "step3",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.664,
+      -0.764,
+      -4.901,
+      -0.344
+     ],
+     "name": "step4",
+     "line": 48,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.338,
+      3.163,
+      6.611,
+      3.5
+     ],
+     "name": "sine_cycle",
+     "line": 60,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -2.687,
+      -0.485
+     ],
+     "name": "step",
+     "line": 65,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.548,
+      -2.049,
+      -1.452
+     ],
+     "name": "step",
+     "line": 66,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.548,
+      -1.993,
+      -2.452
+     ],
+     "name": "step",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -4.55,
+      -2.519,
+      -3.45
+     ],
+     "name": "step",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -3.5,
+      -2.598,
+      -3.243
+     ],
+     "name": "mixed_text",
+     "line": 77,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.818,
+      1.275,
+      6.611,
+      1.725
+     ],
+     "name": "exp_func",
+     "line": 82,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.723,
+      0.304,
+      6.706,
+      1.025
+     ],
+     "name": "d1",
+     "line": 86,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.645,
+      -0.713,
+      6.784,
+      0.054
+     ],
+     "name": "d2",
+     "line": 87,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.249,
+      -3.0,
+      3.249,
+      -2.666
+     ],
+     "name": "concave_text",
+     "line": 95,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.679,
+      3.182,
+      6.611,
+      3.5
+     ],
+     "name": "chain_text",
+     "line": 100,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -1.515,
+      -0.849,
+      -0.485
+     ],
+     "name": "step",
+     "line": 105,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -2.281,
+      -3.652,
+      -1.719
+     ],
+     "name": "step",
+     "line": 106,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 115,
+   "objects": []
+  }
+ ],
+ "error": null
+}

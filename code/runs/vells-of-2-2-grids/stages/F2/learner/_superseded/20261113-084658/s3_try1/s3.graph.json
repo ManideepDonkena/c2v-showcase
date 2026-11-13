@@ -1,0 +1,655 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.091,
+      3.3,
+      3.091,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 37,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.091,
+      3.3,
+      3.091,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.036,
+      1.139,
+      1.036,
+      2.7
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 39,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.091,
+      3.3,
+      3.091,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.036,
+      1.139,
+      1.036,
+      2.7
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.52,
+      1.6,
+      0.516,
+      2.189
+     ],
+     "name": "line1",
+     "line": 16,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 42,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.091,
+      3.3,
+      3.091,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.036,
+      1.139,
+      1.036,
+      2.7
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.52,
+      1.6,
+      0.516,
+      2.189
+     ],
+     "name": "line1",
+     "line": 16,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.536,
+      1.139,
+      4.615,
+      2.7
+     ],
+     "name": "grid2",
+     "line": 24,
+     "type": "Matrix"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.091,
+      3.3,
+      3.091,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.036,
+      1.139,
+      1.036,
+      2.7
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.52,
+      1.6,
+      0.516,
+      2.189
+     ],
+     "name": "line1",
+     "line": 16,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.536,
+      1.139,
+      4.615,
+      2.7
+     ],
+     "name": "grid2",
+     "line": 24,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.077,
+      1.549,
+      4.099,
+      1.6
+     ],
+     "name": "line2",
+     "line": 29,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 64,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.091,
+      3.3,
+      3.091,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.036,
+      1.139,
+      1.036,
+      2.7
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.52,
+      1.6,
+      0.516,
+      2.189
+     ],
+     "name": "line1",
+     "line": 16,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.536,
+      1.139,
+      4.615,
+      2.7
+     ],
+     "name": "grid2",
+     "line": 24,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.077,
+      1.549,
+      4.099,
+      1.6
+     ],
+     "name": "line2",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.506,
+      1.549,
+      0.538,
+      2.24
+     ],
+     "name": "line_b_c_1",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.077,
+      1.6,
+      4.113,
+      2.189
+     ],
+     "name": "line_b_c_2",
+     "line": 44,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 71,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.091,
+      3.3,
+      3.091,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.036,
+      1.139,
+      1.036,
+      2.7
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.52,
+      1.6,
+      0.516,
+      2.189
+     ],
+     "name": "line1",
+     "line": 16,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.536,
+      1.139,
+      4.615,
+      2.7
+     ],
+     "name": "grid2",
+     "line": 24,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.077,
+      1.549,
+      4.099,
+      1.6
+     ],
+     "name": "line2",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.506,
+      1.549,
+      0.538,
+      2.24
+     ],
+     "name": "line_b_c_1",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.077,
+      1.6,
+      4.113,
+      2.189
+     ],
+     "name": "line_b_c_2",
+     "line": 44,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.45,
+      0.002,
+      6.961,
+      0.339
+     ],
+     "name": "rule_text",
+     "line": 68,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.091,
+      3.3,
+      3.091,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.036,
+      1.139,
+      1.036,
+      2.7
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.52,
+      1.6,
+      0.516,
+      2.189
+     ],
+     "name": "line1",
+     "line": 16,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.536,
+      1.139,
+      4.615,
+      2.7
+     ],
+     "name": "grid2",
+     "line": 24,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.077,
+      1.549,
+      4.099,
+      1.6
+     ],
+     "name": "line2",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.506,
+      1.549,
+      0.538,
+      2.24
+     ],
+     "name": "line_b_c_1",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.077,
+      1.6,
+      4.113,
+      2.189
+     ],
+     "name": "line_b_c_2",
+     "line": 44,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.45,
+      0.002,
+      6.961,
+      0.339
+     ],
+     "name": "rule_text",
+     "line": 68,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.816,
+      -0.631,
+      3.328,
+      -0.298
+     ],
+     "name": "pos_matters",
+     "line": 75,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.091,
+      3.3,
+      3.091,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -1.036,
+      1.139,
+      1.036,
+      2.7
+     ],
+     "name": "grid1",
+     "line": 11,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.52,
+      1.6,
+      0.516,
+      2.189
+     ],
+     "name": "line1",
+     "line": 16,
+     "type": "Line"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.536,
+      1.139,
+      4.615,
+      2.7
+     ],
+     "name": "grid2",
+     "line": 24,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.077,
+      1.549,
+      4.099,
+      1.6
+     ],
+     "name": "line2",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.506,
+      1.549,
+      0.538,
+      2.24
+     ],
+     "name": "line_b_c_1",
+     "line": 37,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.077,
+      1.6,
+      4.113,
+      2.189
+     ],
+     "name": "line_b_c_2",
+     "line": 44,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.45,
+      0.002,
+      6.961,
+      0.339
+     ],
+     "name": "rule_text",
+     "line": 68,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.816,
+      -0.631,
+      3.328,
+      -0.298
+     ],
+     "name": "pos_matters",
+     "line": 75,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.82,
+      -1.265,
+      5.332,
+      -0.931
+     ],
+     "name": "not_adjacent",
+     "line": 80,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 86,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.091,
+      3.3,
+      3.091,
+      3.8
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

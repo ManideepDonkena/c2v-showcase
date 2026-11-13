@@ -1,0 +1,168 @@
+{
+ "topic": "Krell steps on a grid",
+ "sections": [
+  {
+   "id": "s1",
+   "before": {
+    "mvqs": 72.2,
+    "conflicts": 2,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3994,
+      "output_tokens": 3000
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDKvwf5wdvCead1HfTW"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "Point P (3,5) and its label sit on top of the title because y=5 lies above the grid's range; the grid fills the top of the frame",
+     "change": "Scaled the grid to 0.55 and centred it at DOWN*0.75 so P (y≈2.0) and Q (y≈1.45) sit below the title. The grid now ends above the narration line."
+    },
+    {
+     "kind": "overlap",
+     "where": "Arrow shifted down by 0.62 and label_P shifted down, so the arrow is detached from P and crosses the title",
+     "change": "Removed the ad-hoc shifts so the arrow runs from P to Q. Placed label_P at the upper-left of P so it does not collide with the Swap label."
+    },
+    {
+     "kind": "overlap",
+     "where": "swap_label overlaps the title and label_P",
+     "change": "With the new grid placement, Swap sits above the arrow, below the title and clear of label_P."
+    },
+    {
+     "kind": "overlap",
+     "where": "formula placed with to_edge(UP) on top of the title",
+     "change": "Moved the formula to the bottom edge, where the narration was before it faded out."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 82.3,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s2",
+   "before": {
+    "mvqs": 80.9,
+    "conflicts": 1,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 3939,
+      "output_tokens": 2292
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDNhtfkAbyjxoZKTN8N"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "off_screen",
+     "where": "narration Text at bottom (about 21.9 units wide)",
+     "change": "Scaled the narration to fit within 13 units of width, kept it at the bottom edge and drew it above the grid."
+    },
+    {
+     "kind": "other",
+     "where": "Arrow from (x, y) to (y, x+1)",
+     "change": "Removed the arbitrary -0.37*RIGHT shift so the arrow starts at the old point and ends at the new point."
+    },
+    {
+     "kind": "overlap",
+     "where": "(x, y) label above the yellow point, crossed by the up-left arrow",
+     "change": "Placed the (x, y) label up-right of the point so the arrow does not pass through it."
+    },
+    {
+     "kind": "other",
+     "where": "Checkmark positioned next to yx1_text after yx1_text was faded out, so it floated near the title",
+     "change": "Positioned the checkmark to the right of the visible 'x + 1' label of the new point."
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 80.7,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s3",
+   "before": {
+    "mvqs": 84.8,
+    "conflicts": 0,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4005,
+      "output_tokens": 1816
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDR7PrX9dnuoGKAHS5U"
+    }
+   ],
+   "issues": [],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 84.8,
+    "conflicts": 0,
+    "timing": 0
+   }
+  },
+  {
+   "id": "s4",
+   "before": {
+    "mvqs": 77.5,
+    "conflicts": 2,
+    "timing": 0
+   },
+   "requests": [
+    {
+     "model": "claude-opus-5-5",
+     "usage": {
+      "input_tokens": 4112,
+      "output_tokens": 2651
+     },
+     "stop_reason": "end_turn",
+     "request_id": "req_011CgzDSyNTo5ezLp8aJxRKQ"
+    }
+   ],
+   "issues": [
+    {
+     "kind": "overlap",
+     "where": "label2 ('Step 2') at the top, shifted up into the title and also sitting just above label1",
+     "change": "Removed the upward shift; placed label2 up and to the right of the middle of arrow2 (next_to(arrow2.get_center(), UR, buff=0.4)), so it clears the title, label1 and net_label"
+    },
+    {
+     "kind": "overlap",
+     "where": "label_B '(3, 2)' below point B, crossed by the dashed net_arrow",
+     "change": "Placed label_B down and to the right of B (next_to(B, DR, buff=0.1)) so the dashed line no longer runs through it"
+    }
+   ],
+   "kept": true,
+   "attempt": 0,
+   "after": {
+    "mvqs": 90.1,
+    "conflicts": 0,
+    "timing": 0
+   }
+  }
+ ],
+ "input_tokens": 16050,
+ "output_tokens": 9759
+}

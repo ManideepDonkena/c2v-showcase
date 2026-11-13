@@ -1,0 +1,21 @@
+\begin{table*}[!tbp]\centering\footnotesize
+\caption{Metric ladder on NOVEL-12. 10 topics, 40 videos. Each row adds one change to the row above; points on a 0--100 scale. The first three columns use each topic's base video only, since its repairs are near-copies of it. Scored: base videos that get a score (-- : the student already knew everything). Own $-$ other: a topic's video minus another topic's video on the same quiz. Agreement: rank correlation of two measurements of the same base videos. Learner $-$ \ldots: mean change over topics, the versions paired by topic. Ties: topics where learner and base score the same.}\label{tab:ladder_novel}
+\setlength{\tabcolsep}{4pt}\begin{tabular}{@{}llrrrrrrr@{}}\toprule & & \multicolumn{3}{c}{Does it measure teaching?} & \multicolumn{4}{c}{Does the learner repair help?}\\
+\cmidrule(lr){3-5}\cmidrule(lr){6-9}
+& Measure & Scored & \hd{Own $-$\\other ($\uparrow$)} & \hd{Agree-\\ment ($\uparrow$)} & \hd{Learner\\$-$ base} & \hd{Learner\\$-$ generic} & \hd{Learner $-$\\every section} & Ties ($\downarrow$)\\\midrule
+M0 & TeachQuiz (Code2Video) & 10/10 & +45.4 & -- & 0.0 & +2.1 & +12.9 & 2/10 \\
+M1 & + answers matched in order & 10/10 & +48.3 & 0.67 & $-$2.9 & +1.7 & +11.7 & 0/10 \\
+M2 & + must choose (no NULL) & 10/10 & +42.5 & 0.21 & +3.8 & +3.8 & +3.8 & 4/10 \\
+M3 & + gain over what it knew & 10/10 & +74.5 & 0.43 & +6.8 & +5.5 & +7.0 & 4/10 \\
+M4 & + dense silent video & 10/10 & +30.7 & -0.08 & +2.0 & +9.0 & +4.0 & 3/10 \\
+M5 & + motion bonus (D-VGAIN) & 10/10 & +32.5 & 0.07 & +1.4 & +10.2 & +8.4 & 2/10 \\
+M6 & + confidence, not right/wrong & 10/10 & +23.7 & 0.18 & +4.5 & +7.4 & +4.9 & 0/10 \\
+M7 & + two option orders & 10/10 & +25.8 & -- & $-$0.5 & +3.4 & $-$1.4 & 0/10 \\
+M8 & + only questions it did not know & 10/10 & +26.1 & -- & +9.8 & +8.0 & +9.6 & 0/10 \\
+M9 & M7 on 3 frames per section & 10/10 & +64.4 & -- & +6.1 & +6.1 & +9.6 & 0/10 \\
+\midrule
+\multicolumn{9}{c}{\textit{Raw difference in confidence, not normalised (for reference)}}\\
+R7 & Dense video minus no video & 10/10 & +11.7 & -0.32 & +0.7 & +1.9 & $-$2.0 & 0/10 \\
+R9 & 3 frames minus no video & 10/10 & +36.3 & 0.30 & +2.0 & +2.7 & +4.6 & 0/10 \\
+\bottomrule\end{tabular}
+\end{table*}

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "The Lumen Circle",
+  "teaches": "Defining the structure of a lumen clock with 7 marks.",
+  "visual": "A circle appears with 7 evenly spaced tick marks labeled 0 through 6. The numbers are placed clockwise starting from the top (12 o'clock position). A hand points to mark 0 initially.",
+  "narration": "Welcome to the Lumen clock, a unique timekeeping device based on modulo 7 arithmetic. It features exactly seven marks, numbered 0 to 6, arranged in a circle.",
+  "start": 0.0,
+  "end": 35.13
+ },
+ {
+  "id": "s2",
+  "title": "The Two-Mark Rule",
+  "teaches": "Explaining the movement rule: one tick = +2 marks.",
+  "visual": "An animated hand starts at mark 0. It jumps forward two positions to mark 2, then another two to mark 4. Arrows indicate the direction of movement. The text '+2' appears briefly above each jump.",
+  "narration": "In a lumen clock, one tick advances the hand by exactly two marks. This means we skip every other number as we move clockwise around the circle.",
+  "start": 35.13,
+  "end": 64.87
+ },
+ {
+  "id": "s3",
+  "title": "Wrapping Around",
+  "teaches": "Demonstrating the wrap-around mechanic using the worked example.",
+  "visual": "The hand starts at mark 3. It jumps to mark 5, then jumps past mark 6 and lands on mark 0. A curved arrow illustrates the wrap from 6 back to 0. Text '3 → 5 → 0' appears.",
+  "narration": "When the hand passes mark 6, it wraps around to 0. For example, starting at 3, two ticks take us to 5, and the next tick lands us on 0.",
+  "start": 64.87,
+  "end": 103.47
+ },
+ {
+  "id": "s4",
+  "title": "The Full Cycle",
+  "teaches": "Showing that 7 ticks return the hand to start and visit all marks.",
+  "visual": "A rapid sequence shows the hand visiting every mark: 0→2→4→6→1→3→5→0. After returning to 0, a checkmark appears next to each visited number to show they were all covered.",
+  "narration": "After exactly seven ticks, the hand returns to its starting position. Crucially, this process ensures that every single mark from 0 to 6 is visited before the cycle repeats.",
+  "start": 103.47,
+  "end": 127.0
+ }
+]

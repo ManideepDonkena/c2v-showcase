@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 68.25,
+  "s_sp": 79.5,
+  "s_ly": 45.4,
+  "s_ed": 64.7,
+  "states": 34,
+  "states_with_conflict": 20
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 64.39,
+   "conflicts": 33
+  },
+  {
+   "level": "shift",
+   "mvqs": 65.7,
+   "conflict": "Polygon \"triangle\" (created line 12, box [-1.5, -0.5, 4.5, 4.5]) overlaps Text \"title\" (line 6, box [-1.746, 2.992, 1.746, 3.5]) by 93%; moving it by [0.0, -1.66] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 66.18,
+   "conflict": "MathTex \"a_label\" (created line 17, box [-1.557, 1.637, -1.443, 1.75]) overlaps Polygon \"triangle\" (line 12, box [-1.5, -2.16, 4.5, 2.84]) by 50%; moving it by [-0.21, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 68.25,
+   "conflict": "MathTex \"c_label\" (created line 19, box [4.452, 2.25, 4.548, 2.363]) overlaps Polygon \"triangle\" (line 12, box [-1.5, -2.16, 4.5, 2.84]) by 50%; moving it by [0.2, 0.0] would clear it"
+  }
+ ]
+}

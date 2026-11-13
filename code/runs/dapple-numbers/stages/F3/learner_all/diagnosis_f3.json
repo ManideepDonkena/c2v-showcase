@@ -1,0 +1,51 @@
+{
+ "kind": "f3",
+ "fixes": {
+  "s1": [
+   "SHOW the number '32' with its tens digit '3' and units digit '2' highlighted. SAY that since 3 is strictly greater than 2, the condition holds. SHOW a green checkmark or golden glow around '32' to confirm it is a dapple number."
+  ]
+ },
+ "items": {
+  "q1": 0.4994325,
+  "q2": 0.9999935,
+  "q3": 0.9982355,
+  "q4": 1.0,
+  "q5": 0.9999735000000001,
+  "q6": 0.9999990000000001,
+  "q7": 0.9998955,
+  "q8": 0.9999635,
+  "q9": 0.993158,
+  "q10": 0.502559,
+  "q11": 1.0,
+  "q12": 0.9943445
+ },
+ "qmap": {
+  "q1": "s1",
+  "q2": "s3",
+  "q3": "s1",
+  "q4": "s4",
+  "q5": "s2",
+  "q6": "s1",
+  "q7": "s1",
+  "q8": "s4",
+  "q9": "s3",
+  "q10": "s1",
+  "q11": "s1",
+  "q12": "s1"
+ },
+ "ochiai": {
+  "s1": 0.3779644730092272,
+  "s2": 0.0,
+  "s3": 0.0,
+  "s4": 0.0
+ },
+ "chosen": [
+  "s1"
+ ],
+ "k": 2,
+ "failing": [
+  "q1"
+ ],
+ "refused": [],
+ "dev": 12
+}

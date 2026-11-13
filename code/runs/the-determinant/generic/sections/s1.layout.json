@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 78.47,
+  "s_sp": 92.1,
+  "s_ly": 45.0,
+  "s_ed": 78.0,
+  "states": 10,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 74.16,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.75,
+   "conflict": "Text \"matrix_label\" (created line 30, box [-7.314, 1.358, -3.647, 1.618]) is outside the frame; shift it by [0.35, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.32,
+   "conflict": "MathTex \"j_label\" (created line 21, box [-0.409, 0.528, 0.434, 1.731]) overlaps Square \"square\" (line 12, box [-1.5, -1.5, 1.5, 1.5]) by 80%; moving it by [0.0, 1.12] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 78.47,
+   "conflict": "MathTex \"j_label\" (created line 21, box [0.711, 2.768, 1.554, 3.971]) overlaps Text \"title\" (line 6, box [-2.979, 3.0, 2.979, 3.5]) by 41%; moving it by [0.0, -1.12] would clear it"
+  }
+ ]
+}

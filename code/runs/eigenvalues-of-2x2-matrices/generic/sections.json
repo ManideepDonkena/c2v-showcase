@@ -1,0 +1,29 @@
+[
+ {
+  "id": "s1",
+  "title": "The Concept of Invariance",
+  "teaches": "An eigenvector is a vector that does not change direction when a linear transformation is applied.",
+  "visual": "A standard basis vector v (arrow from origin to (1,1)) appears on the left. A 2x2 matrix M transforms it into Av (a stretched arrow in the same direction). The original vector and transformed vector are highlighted in contrasting colors, with a dashed line showing they lie on the same infinite line through the origin.",
+  "narration": "When we apply a linear transformation to certain special vectors, their direction remains unchanged. These unique vectors are called eigenvectors, and they reveal the fundamental axes along which the transformation acts.",
+  "start": 0.0,
+  "end": 23.13
+ },
+ {
+  "id": "s2",
+  "title": "Defining the Eigenvalue",
+  "teaches": "The eigenvalue is the scalar factor by which the eigenvector is scaled.",
+  "visual": "The scene zooms in on the relationship between vector v and Av. The equation 'Av = λv' appears prominently. The scalar λ animates onto the screen with a value (e.g., 2), visually demonstrating that the length of Av is exactly twice the length of v, while the direction stays identical.",
+  "narration": "The relationship between an eigenvector and its transformed version is defined by a simple scalar multiplier, known as the eigenvalue. If the eigenvalue is greater than one, the vector stretches; if less than one, it shrinks.",
+  "start": 23.13,
+  "end": 42.47
+ },
+ {
+  "id": "s4",
+  "title": "Geometric Interpretation",
+  "teaches": "Eigenvalues indicate scaling factors along invariant directions.",
+  "visual": "A 2x2 matrix is applied to a unit circle. The circle deforms into an ellipse. The major and minor axes of the ellipse are highlighted, labeled with their corresponding eigenvalues. Arrows show how the original basis vectors map onto these new principal axes.",
+  "narration": "Geometrically, eigenvalues tell us how much space is stretched or compressed along specific invariant directions. By analyzing them, we can understand the core behavior of any linear transformation without computing every single point.",
+  "start": 42.47,
+  "end": 63.73
+ }
+]

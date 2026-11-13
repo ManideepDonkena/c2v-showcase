@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 68.75,
+  "s_sp": 87.4,
+  "s_ly": 29.4,
+  "s_ed": 64.0,
+  "states": 10,
+  "states_with_conflict": 6
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 68.75,
+   "conflicts": 3
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"label_h\" (created line 29, box [-0.323, -0.675, 1.323, -0.312]) overlaps Tex \"label_A\" (line 11, box [-0.171, -0.687, 0.171, -0.33]) by 96%; moving it by [0.0, 0.49] would clear it"
+  }
+ ]
+}

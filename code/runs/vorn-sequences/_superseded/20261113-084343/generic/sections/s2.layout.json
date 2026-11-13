@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 89.27,
+  "s_sp": 97.4,
+  "s_ly": 52.8,
+  "s_ed": 100.0,
+  "states": 11,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 82.83,
+   "conflicts": 7
+  },
+  {
+   "level": "shift",
+   "mvqs": 85.85,
+   "conflict": "Text \"rule\" (created line 19, box [-7.904, 2.061, -4.338, 2.358]) is outside the frame; shift it by [0.94, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 89.11,
+   "conflict": "MathTex \"calc3\" (created line 26, box [-7.82, 0.964, -2.542, 1.561]) is outside the frame; shift it by [0.86, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 89.27,
+   "conflict": "SurroundingRectangle \"highlight3\" (created line 34, box [-7.16, 0.764, -1.482, 1.761]) is outside the frame; shift it by [0.2, 0.0]"
+  }
+ ]
+}

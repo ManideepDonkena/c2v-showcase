@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 34,
+  "scope": "line",
+  "error": "NameError: name 'ShowCreation' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 37,
+  "scope": "block",
+  "error": "NameError: name 'ShowCreation' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 61,
+  "scope": "section",
+  "error": "TypeError: Object <bound method Mobject.shift of MathTex('\\\\hat{y}')> cannot be converted to an animation"
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

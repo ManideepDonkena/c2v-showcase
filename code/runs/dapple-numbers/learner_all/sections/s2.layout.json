@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 74.01,
+  "s_sp": 93.5,
+  "s_ly": 35.7,
+  "s_ed": 67.1,
+  "states": 104,
+  "states_with_conflict": 57
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 72.81,
+   "conflicts": 37
+  },
+  {
+   "level": "shift",
+   "mvqs": 73.18,
+   "conflict": "Integer \"mob\" (created line 14, box [7.345, -0.114, 7.655, 0.114]) is outside the frame; shift it by [-0.69, 0.0]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.01,
+   "conflict": "Text \"dapple_label\" (created line 30, box [6.264, -0.698, 7.356, -0.364]) is outside the frame; shift it by [-0.4, 0.0]"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"not_dapple_label\" (created line 40, box [-2.081, -0.698, 2.081, -0.364]) overlaps Text \"dapple_label\" (line 30, box [-1.636, -0.698, -0.544, -0.364]) by 100%; moving it by [0.0, 0.48] would clear it"
+  }
+ ]
+}

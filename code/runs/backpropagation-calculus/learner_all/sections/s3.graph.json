@@ -1,0 +1,2557 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 12,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 16,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    }
+   ]
+  },
+  {
+   "after_line": 26,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.64,
+      -3.5,
+      0.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 38,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 43,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      1.16,
+      -3.525,
+      1.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 46,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.16,
+      -3.525,
+      3.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 51,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.16,
+      -3.525,
+      3.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.405,
+      -3.5,
+      1.405,
+      -3.089
+     ],
+     "name": "mult",
+     "line": 50,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.16,
+      -3.525,
+      3.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.405,
+      -3.5,
+      1.405,
+      -3.089
+     ],
+     "name": "mult",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -1.9,
+      -1.6,
+      -1.1
+     ],
+     "name": "sum_node",
+     "line": 55,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.3,
+      -1.575,
+      -1.7,
+      -1.425
+     ],
+     "name": "arrow1",
+     "line": 56,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.075,
+      -1.8,
+      -1.925,
+      -1.2
+     ],
+     "name": "arrow2",
+     "line": 57,
+     "type": "Arrow"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.16,
+      -3.525,
+      3.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.405,
+      -3.5,
+      1.405,
+      -3.089
+     ],
+     "name": "mult",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -1.9,
+      -1.6,
+      -1.1
+     ],
+     "name": "sum_node",
+     "line": 55,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.3,
+      -1.575,
+      -1.7,
+      -1.425
+     ],
+     "name": "arrow1",
+     "line": 56,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.075,
+      -1.8,
+      -1.925,
+      -1.2
+     ],
+     "name": "arrow2",
+     "line": 57,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.123,
+      -2.582,
+      -1.877,
+      -2.15
+     ],
+     "name": "delta",
+     "line": 62,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.16,
+      -3.525,
+      3.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.405,
+      -3.5,
+      1.405,
+      -3.089
+     ],
+     "name": "mult",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -1.9,
+      -1.6,
+      -1.1
+     ],
+     "name": "sum_node",
+     "line": 55,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.3,
+      -1.575,
+      -1.7,
+      -1.425
+     ],
+     "name": "arrow1",
+     "line": 56,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.075,
+      -1.8,
+      -1.925,
+      -1.2
+     ],
+     "name": "arrow2",
+     "line": 57,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.123,
+      -2.582,
+      -1.877,
+      -2.15
+     ],
+     "name": "delta",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.845,
+      1.485,
+      1.845,
+      2.85
+     ],
+     "name": "dL_dy",
+     "line": 67,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 75,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.16,
+      -3.525,
+      3.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.405,
+      -3.5,
+      1.405,
+      -3.089
+     ],
+     "name": "mult",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -1.9,
+      -1.6,
+      -1.1
+     ],
+     "name": "sum_node",
+     "line": 55,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.3,
+      -1.575,
+      -1.7,
+      -1.425
+     ],
+     "name": "arrow1",
+     "line": 56,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.075,
+      -1.8,
+      -1.925,
+      -1.2
+     ],
+     "name": "arrow2",
+     "line": 57,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.123,
+      -2.582,
+      -1.877,
+      -2.15
+     ],
+     "name": "delta",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.845,
+      1.485,
+      1.845,
+      2.85
+     ],
+     "name": "dL_dy",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.996,
+      3.131,
+      -4.946,
+      3.729
+     ],
+     "name": "act_node",
+     "line": 73,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.16,
+      -3.525,
+      3.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.405,
+      -3.5,
+      1.405,
+      -3.089
+     ],
+     "name": "mult",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -1.9,
+      -1.6,
+      -1.1
+     ],
+     "name": "sum_node",
+     "line": 55,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.3,
+      -1.575,
+      -1.7,
+      -1.425
+     ],
+     "name": "arrow1",
+     "line": 56,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.075,
+      -1.8,
+      -1.925,
+      -1.2
+     ],
+     "name": "arrow2",
+     "line": 57,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.123,
+      -2.582,
+      -1.877,
+      -2.15
+     ],
+     "name": "delta",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.845,
+      1.485,
+      1.845,
+      2.85
+     ],
+     "name": "dL_dy",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.996,
+      3.131,
+      -4.946,
+      3.729
+     ],
+     "name": "act_node",
+     "line": 73,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.696,
+      3.115,
+      -3.479,
+      3.745
+     ],
+     "name": "sigma_prime",
+     "line": 78,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.16,
+      -3.525,
+      3.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.405,
+      -3.5,
+      1.405,
+      -3.089
+     ],
+     "name": "mult",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -1.9,
+      -1.6,
+      -1.1
+     ],
+     "name": "sum_node",
+     "line": 55,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.3,
+      -1.575,
+      -1.7,
+      -1.425
+     ],
+     "name": "arrow1",
+     "line": 56,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.075,
+      -1.8,
+      -1.925,
+      -1.2
+     ],
+     "name": "arrow2",
+     "line": 57,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.123,
+      -2.582,
+      -1.877,
+      -2.15
+     ],
+     "name": "delta",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.845,
+      1.485,
+      1.845,
+      2.85
+     ],
+     "name": "dL_dy",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.996,
+      3.131,
+      -4.946,
+      3.729
+     ],
+     "name": "act_node",
+     "line": 73,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.696,
+      3.115,
+      -3.479,
+      3.745
+     ],
+     "name": "sigma_prime",
+     "line": 78,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.127,
+      -0.523,
+      2.127,
+      0.523
+     ],
+     "name": "chain_rule",
+     "line": 83,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 89,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.16,
+      -3.525,
+      3.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.405,
+      -3.5,
+      1.405,
+      -3.089
+     ],
+     "name": "mult",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -1.9,
+      -1.6,
+      -1.1
+     ],
+     "name": "sum_node",
+     "line": 55,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.3,
+      -1.575,
+      -1.7,
+      -1.425
+     ],
+     "name": "arrow1",
+     "line": 56,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.075,
+      -1.8,
+      -1.925,
+      -1.2
+     ],
+     "name": "arrow2",
+     "line": 57,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.123,
+      -2.582,
+      -1.877,
+      -2.15
+     ],
+     "name": "delta",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.845,
+      1.485,
+      1.845,
+      2.85
+     ],
+     "name": "dL_dy",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.996,
+      3.131,
+      -4.946,
+      3.729
+     ],
+     "name": "act_node",
+     "line": 73,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.696,
+      3.115,
+      -3.479,
+      3.745
+     ],
+     "name": "sigma_prime",
+     "line": 78,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.127,
+      -0.523,
+      2.127,
+      0.523
+     ],
+     "name": "chain_rule",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.684,
+      -3.5,
+      0.684,
+      -3.229
+     ],
+     "name": "identity",
+     "line": 88,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 94,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.16,
+      -3.525,
+      3.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.405,
+      -3.5,
+      1.405,
+      -3.089
+     ],
+     "name": "mult",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -1.9,
+      -1.6,
+      -1.1
+     ],
+     "name": "sum_node",
+     "line": 55,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.3,
+      -1.575,
+      -1.7,
+      -1.425
+     ],
+     "name": "arrow1",
+     "line": 56,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.075,
+      -1.8,
+      -1.925,
+      -1.2
+     ],
+     "name": "arrow2",
+     "line": 57,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.123,
+      -2.582,
+      -1.877,
+      -2.15
+     ],
+     "name": "delta",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.845,
+      1.485,
+      1.845,
+      2.85
+     ],
+     "name": "dL_dy",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.996,
+      3.131,
+      -4.946,
+      3.729
+     ],
+     "name": "act_node",
+     "line": 73,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.696,
+      3.115,
+      -3.479,
+      3.745
+     ],
+     "name": "sigma_prime",
+     "line": 78,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.127,
+      -0.523,
+      2.127,
+      0.523
+     ],
+     "name": "chain_rule",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.684,
+      -3.5,
+      0.684,
+      -3.229
+     ],
+     "name": "identity",
+     "line": 88,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.934,
+      -3.564,
+      1.562,
+      -3.166
+     ],
+     "name": "one_mult",
+     "line": 93,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 99,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.243,
+      3.0,
+      3.243,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.229,
+      -4.331,
+      3.5
+     ],
+     "name": "a_node",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.46,
+      1.724,
+      -4.482,
+      2.979
+     ],
+     "name": "da_dw",
+     "line": 15,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.232,
+      2.152,
+      -3.994,
+      2.55
+     ],
+     "name": "x_val",
+     "line": 20,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.395,
+      2.826,
+      6.611,
+      3.5
+     ],
+     "name": "loss_node",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.158,
+      1.32,
+      6.848,
+      2.576
+     ],
+     "name": "dL_da",
+     "line": 29,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.36,
+      -3.5,
+      2.64,
+      -3.15
+     ],
+     "name": "arrow",
+     "line": 34,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      3.16,
+      -3.525,
+      3.56,
+      -3.125
+     ],
+     "name": "baton",
+     "line": 34,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.405,
+      -3.5,
+      1.405,
+      -3.089
+     ],
+     "name": "mult",
+     "line": 50,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.4,
+      -1.9,
+      -1.6,
+      -1.1
+     ],
+     "name": "sum_node",
+     "line": 55,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.3,
+      -1.575,
+      -1.7,
+      -1.425
+     ],
+     "name": "arrow1",
+     "line": 56,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -2.075,
+      -1.8,
+      -1.925,
+      -1.2
+     ],
+     "name": "arrow2",
+     "line": 57,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.123,
+      -2.582,
+      -1.877,
+      -2.15
+     ],
+     "name": "delta",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.845,
+      1.485,
+      1.845,
+      2.85
+     ],
+     "name": "dL_dy",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.996,
+      3.131,
+      -4.946,
+      3.729
+     ],
+     "name": "act_node",
+     "line": 73,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.696,
+      3.115,
+      -3.479,
+      3.745
+     ],
+     "name": "sigma_prime",
+     "line": 78,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.127,
+      -0.523,
+      2.127,
+      0.523
+     ],
+     "name": "chain_rule",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.684,
+      -3.5,
+      0.684,
+      -3.229
+     ],
+     "name": "identity",
+     "line": 88,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.934,
+      -3.564,
+      1.562,
+      -3.166
+     ],
+     "name": "one_mult",
+     "line": 93,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.7,
+      0.7,
+      2.3,
+      1.3
+     ],
+     "name": "local_min",
+     "line": 89,
+     "type": "Circle"
+    }
+   ]
+  },
+  {
+   "after_line": 102,
+   "objects": []
+  }
+ ],
+ "error": null
+}

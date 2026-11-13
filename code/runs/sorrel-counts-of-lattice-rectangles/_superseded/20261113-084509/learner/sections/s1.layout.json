@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 71.52,
+  "s_sp": 89.6,
+  "s_ly": 42.2,
+  "s_ed": 60.9,
+  "states": 13,
+  "states_with_conflict": 2
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.52,
+   "conflicts": 4
+  },
+  {
+   "level": "none kept",
+   "conflict": "Dot \"None\" (created line 125, box [-0.08, 2.92, 0.08, 3.08]) overlaps Text \"title2\" (line 90, box [-3.49, 3.0, 3.49, 3.5]) by 50%; moving it by [0.0, -0.23] would clear it"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "mode": "learner",
+ "gaps": [
+  "q1",
+  "q2",
+  "q4",
+  "q6",
+  "q9",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s3": [
+   "Show the number 45 with the digit '5' pulsing gold. Display the equation '45 ÷ 5 = 9' appearing below it, followed by a green checkmark to visually confirm that dividing by 5 results in a whole number."
+  ],
+  "s2": [
+   "Show the number 30 with its last digit '0' turning red and shaking, accompanied by a large red 'X' stamp and text stating that ending in 0 means it is NEVER a Glint number.",
+   "Show the number 10 with its last digit '0' turning red and shaking, accompanied by the text 'Division by Zero is Impossible' to explicitly link the visual rejection of zero-ending numbers to the mathematical impossibility of dividing by zero."
+  ],
+  "s1": [
+   "Show the number 31 with the '1' pulsing green and text stating 'Ends in 1 = Always Glint'. Then show the number 27 with the '7' pulsing green, the equation '27 ÷ 7 = 3.85...' appearing with a red X, and text stating 'Ends in 7 is NOT always Glint'. This demonstrates that while ending in 1 guarantees a glint number, other endings do not.",
+   "Show the number 22 with the last digit '2' pulsing. Display the division equation '22 ÷ 2 = 11' with a green checkmark to demonstrate that it IS a Glint number, contrasting it with the failure case of 26 shown in s4.",
+   "Show the number 21 with its last digit '1' pulsing green and a checkmark, while simultaneously showing the number 24 with its last digit '4' pulsing green and a checkmark. State that both are Glint numbers to demonstrate that they can be odd or even, proving that being even is not a requirement."
+  ],
+  "s4": [
+   "Show the division '26 ÷ 6' resulting in a decimal (e.g., 4.33...), explicitly contrasting it with the whole number result of '24 ÷ 4 = 6' to demonstrate that the quotient must be a whole number."
+  ]
+ },
+ "changed": [
+  "s1"
+ ],
+ "dev_before": 50.0,
+ "dev_after": 60.0,
+ "mvqs_before": 89.84,
+ "mvqs_after": 85.31,
+ "kept": true,
+ "dir": "/home/mani/c2v-lab/runs/glint-numbers/learner"
+}

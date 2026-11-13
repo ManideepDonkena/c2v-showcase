@@ -1,0 +1,509 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.666,
+      -0.286,
+      -1.334,
+      0.286
+     ],
+     "name": "tens_digit",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.334,
+      -0.276,
+      1.666,
+      0.276
+     ],
+     "name": "units_digit",
+     "line": 12,
+     "type": "Integer"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.666,
+      -0.286,
+      -1.334,
+      0.286
+     ],
+     "name": "tens_digit",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.334,
+      -0.276,
+      1.666,
+      0.276
+     ],
+     "name": "units_digit",
+     "line": 12,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.19,
+      -0.381,
+      0.19,
+      -0.019
+     ],
+     "name": "greater_than",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.19,
+      -0.381,
+      0.19,
+      -0.019
+     ],
+     "name": "greater_than",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.666,
+      -0.286,
+      -1.334,
+      0.286
+     ],
+     "name": "tens_digit",
+     "line": 11,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.334,
+      -0.276,
+      1.666,
+      0.276
+     ],
+     "name": "units_digit",
+     "line": 12,
+     "type": "Integer"
+    }
+   ]
+  },
+  {
+   "after_line": 35,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.373,
+      0.434,
+      0.373,
+      1.006
+     ],
+     "name": "number_text",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.373,
+      -0.286,
+      0.373,
+      0.286
+     ],
+     "name": "pulse",
+     "line": 26,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.678,
+      2.992,
+      2.678,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.373,
+      0.434,
+      0.373,
+      1.006
+     ],
+     "name": "number_text",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.373,
+      -0.286,
+      0.373,
+      0.286
+     ],
+     "name": "pulse",
+     "line": 26,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.266,
+      -0.158,
+      1.266,
+      0.184
+     ],
+     "name": "condition",
+     "line": 44,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": []
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.672,
+      -0.286,
+      -1.328,
+      0.286
+     ],
+     "name": "tens_digit_2",
+     "line": 49,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.363,
+      -0.276,
+      1.637,
+      0.276
+     ],
+     "name": "units_digit_2",
+     "line": 53,
+     "type": "Integer"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.672,
+      -0.286,
+      -1.328,
+      0.286
+     ],
+     "name": "tens_digit_2",
+     "line": 49,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.363,
+      -0.276,
+      1.637,
+      0.276
+     ],
+     "name": "units_digit_2",
+     "line": 53,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.19,
+      -0.381,
+      0.19,
+      -0.019
+     ],
+     "name": "greater_than_2",
+     "line": 57,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.672,
+      -0.286,
+      -1.328,
+      0.286
+     ],
+     "name": "tens_digit_2",
+     "line": 49,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.363,
+      -0.276,
+      1.637,
+      0.276
+     ],
+     "name": "units_digit_2",
+     "line": 53,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.19,
+      -0.381,
+      0.19,
+      -0.019
+     ],
+     "name": "greater_than_2",
+     "line": 57,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": []
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.637,
+      -0.276,
+      -1.363,
+      0.276
+     ],
+     "name": "tens_digit_3",
+     "line": 72,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.328,
+      -0.286,
+      1.672,
+      0.286
+     ],
+     "name": "units_digit_3",
+     "line": 73,
+     "type": "Integer"
+    }
+   ]
+  },
+  {
+   "after_line": 78,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.637,
+      -0.276,
+      -1.363,
+      0.276
+     ],
+     "name": "tens_digit_3",
+     "line": 72,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.328,
+      -0.286,
+      1.672,
+      0.286
+     ],
+     "name": "units_digit_3",
+     "line": 73,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.19,
+      -0.381,
+      0.19,
+      -0.019
+     ],
+     "name": "less_than",
+     "line": 77,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -1.637,
+      -0.276,
+      -1.363,
+      0.276
+     ],
+     "name": "tens_digit_3",
+     "line": 72,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.328,
+      -0.286,
+      1.672,
+      0.286
+     ],
+     "name": "units_digit_3",
+     "line": 73,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.19,
+      -0.381,
+      0.19,
+      -0.019
+     ],
+     "name": "less_than",
+     "line": 77,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.482,
+      -0.5,
+      0.518,
+      0.5
+     ],
+     "name": "cross",
+     "line": 81,
+     "type": "Cross"
+    }
+   ]
+  },
+  {
+   "after_line": 89,
+   "objects": []
+  }
+ ],
+ "error": null
+}

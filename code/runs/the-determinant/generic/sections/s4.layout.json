@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 76.31,
+  "s_sp": 93.8,
+  "s_ly": 48.0,
+  "s_ed": 66.0,
+  "states": 10,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 68.52,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 76.31,
+   "conflict": "MathTex \"bc_text\" (created line 33, box [-0.106, 0.409, 0.147, 0.629]) overlaps MathTex \"ad_text\" (line 32, box [-0.156, 0.409, 0.156, 0.629]) by 100%; moving it by [0.0, 0.37] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"ad_text\" (created line 26, box [-0.235, 0.354, 0.235, 0.683]) overlaps Matrix \"matrix\" (line 12, box [-1.314, 0.639, 1.314, 2.5]) by 13%; moving it by [0.0, -0.19] would clear it"
+  }
+ ]
+}

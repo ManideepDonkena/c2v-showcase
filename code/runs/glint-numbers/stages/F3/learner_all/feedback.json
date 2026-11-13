@@ -1,0 +1,43 @@
+{
+ "stage": "F3",
+ "mode": "learner_all",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s1": [
+   "SHOW the number 10 with its last digit '0' turning red and shaking, accompanied by a large red 'X'. SAY: 'Ending in 0 is NEVER Glint.'",
+   "Show the number 22 with its last digit '2' pulsing. Display the equation '22 ÷ 2 = 11' with a green checkmark to demonstrate that it IS a Glint number, contrasting this success with the failure of non-divisible numbers like 26 shown in s4."
+  ],
+  "s2": [
+   "SHOW the number 10 with its last digit '0' turning red and shaking, accompanied by a large red 'X'. SAY: 'Ending in 0 is NEVER Glint.'",
+   "Show the number 22 with its last digit '2' pulsing. Display the equation '22 ÷ 2 = 11' with a green checkmark to demonstrate that it IS a Glint number, contrasting this success with the failure of non-divisible numbers like 26 shown in s4."
+  ],
+  "s3": [
+   "SHOW the number 10 with its last digit '0' turning red and shaking, accompanied by a large red 'X'. SAY: 'Ending in 0 is NEVER Glint.'",
+   "Show the number 22 with its last digit '2' pulsing. Display the equation '22 ÷ 2 = 11' with a green checkmark to demonstrate that it IS a Glint number, contrasting this success with the failure of non-divisible numbers like 26 shown in s4."
+  ],
+  "s4": [
+   "SHOW the number 10 with its last digit '0' turning red and shaking, accompanied by a large red 'X'. SAY: 'Ending in 0 is NEVER Glint.'",
+   "Show the number 22 with its last digit '2' pulsing. Display the equation '22 ÷ 2 = 11' with a green checkmark to demonstrate that it IS a Glint number, contrasting this success with the failure of non-divisible numbers like 26 shown in s4."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2"
+ ],
+ "edit_size": {
+  "s1": 0.761,
+  "s2": 0.801
+ },
+ "diagnosis": "f3",
+ "dev_before": 0.8030970999999999,
+ "dev_after": 0.7916924,
+ "mvqs_before": 89.84,
+ "mvqs_after": 86.43,
+ "kept": false,
+ "served": "base"
+}

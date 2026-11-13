@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "The Geometric Definition",
+  "teaches": "The dot product measures the projection of one vector onto another, scaled by their magnitudes.",
+  "visual": "Two vectors, A (blue) and B (red), originate from the origin. Vector A remains stationary while Vector B rotates around the origin. As B rotates, a dashed yellow line drops perpendicularly from the tip of B to the line containing A, illustrating the projection length 'proj_A(B)'. The angle theta between them is highlighted in green.",
+  "narration": "Consider two vectors, A and B. Their dot product isn't just an algebraic sum; it reveals how much one vector extends in the direction of the other. Specifically, it equals the magnitude of A times the projection of B onto A.",
+  "start": 0.0,
+  "end": 19.27
+ },
+ {
+  "id": "s2",
+  "title": "Algebraic Equivalence",
+  "teaches": "The geometric definition (|A||B|cosθ) is mathematically equivalent to the component-wise sum (A·B = Σa_i b_i).",
+  "visual": "The scene splits. On the left, the geometric formula '|A||B|cos(θ)' appears next to the rotating vectors. On the right, the algebraic formula 'A_x B_x + A_y B_y' appears. As the numbers for components (e.g., A=(3,1), B=(2,4)) update dynamically as B rotates, both formulas calculate the exact same result in real-time, converging to a single value.",
+  "narration": "While the geometric view gives us intuition about angles and projections, the algebraic view allows for computation. Remarkably, these two definitions are identical: the product of magnitudes and cosine equals the sum of component products.",
+  "start": 19.27,
+  "end": 42.33
+ },
+ {
+  "id": "s3",
+  "title": "Duality via Linear Functionals",
+  "teaches": "Fixing vector A defines a linear functional that maps any vector B to a scalar, representing the dot product as a measurement tool.",
+  "visual": "Vector A is fixed. A grid of points appears in the plane. As we pick different test vectors B (green arrows) from the origin to various points on the grid, the length of B changes, but its projection onto A remains constant along lines perpendicular to A. These lines form a family of parallel level sets (contours). The value 'A·B' is displayed for each B, showing that all B's on the same contour yield the same dot product.",
+  "narration": "Now, fix vector A. It acts as a ruler or a linear functional. Any vector B you choose is measured by how far it reaches along A's direction. All vectors ending on the line perpendicular to A produce the same dot product value.",
+  "start": 42.33,
+  "end": 66.07
+ },
+ {
+  "id": "s4",
+  "title": "The Duality Isomorphism",
+  "teaches": "There is a one-to-one correspondence between vectors and linear functionals; every functional can be represented by a unique vector via the dot product.",
+  "visual": "On the left, a generic linear functional L (represented by parallel contour lines) appears. On the right, a vector A' emerges. The animation morphs the contour lines of L until they perfectly align with the perpendicular level sets of the dot product defined by A'. The text 'L(B) = A' · B' flashes, confirming that the functional L is exactly the dot product with vector A'.",
+  "narration": "This reveals the core of duality: every linear measurement (functional) corresponds to a unique vector. You can always find a vector A such that measuring any B via your functional is identical to taking the dot product with A.",
+  "start": 66.07,
+  "end": 78.0
+ }
+]

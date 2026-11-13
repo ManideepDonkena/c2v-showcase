@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 59.73,
+  "s_sp": 62.2,
+  "s_ly": 59.6,
+  "s_ed": 55.7,
+  "states": 42,
+  "states_with_conflict": 31
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 57.46,
+   "conflicts": 98
+  },
+  {
+   "level": "block",
+   "mvqs": 59.64,
+   "conflict": "MathTex \"num_45\" (created line 28, box [-0.457, -1.843, 0.457, -1.157]) overlaps MathTex \"num_75\" (line 11, box [-0.459, -1.848, 0.459, -1.152]) by 100%; moving it by [0.0, 0.84] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 59.73,
+   "conflict": "VMobjectFromSVGPath \"digit_0\" (created line 45, box [0.038, -1.843, 0.457, -1.157]) overlaps MathTex \"num_75\" (line 11, box [0.381, -1.848, 1.299, -1.152]) by 18%; moving it by [-0.23, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "VMobjectFromSVGPath \"digit_0\" (created line 45, box [-0.192, -1.843, 0.227, -1.157]) overlaps MathTex \"num_45\" (line 28, box [-0.457, -1.843, 0.457, -1.157]) by 100%; moving it by [0.8, 0.0] would clear it"
+  }
+ ]
+}

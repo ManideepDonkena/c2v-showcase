@@ -1,0 +1,214 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.412,
+      3.0,
+      4.412,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 16,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.412,
+      3.0,
+      4.412,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.299,
+      -6.032,
+      1.701
+     ],
+     "name": "num_24",
+     "line": 11,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.412,
+      3.0,
+      4.412,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.299,
+      -6.032,
+      1.701
+     ],
+     "name": "num_24",
+     "line": 11,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.425,
+      1.199,
+      -5.932,
+      1.796
+     ],
+     "name": "highlight_4",
+     "line": 12,
+     "type": "SurroundingRectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.412,
+      3.0,
+      4.412,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.299,
+      -6.032,
+      1.701
+     ],
+     "name": "num_24",
+     "line": 11,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.425,
+      1.199,
+      -5.932,
+      1.796
+     ],
+     "name": "highlight_4",
+     "line": 12,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.062,
+      0.564,
+      -5.58,
+      0.799
+     ],
+     "name": "eq_24",
+     "line": 13,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.412,
+      3.0,
+      4.412,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.299,
+      -6.032,
+      1.701
+     ],
+     "name": "num_24",
+     "line": 11,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -6.425,
+      1.199,
+      -5.932,
+      1.796
+     ],
+     "name": "highlight_4",
+     "line": 12,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.062,
+      0.564,
+      -5.58,
+      0.799
+     ],
+     "name": "eq_24",
+     "line": 13,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.28,
+      0.531,
+      -5.005,
+      0.832
+     ],
+     "name": "check",
+     "line": 14,
+     "type": "Tex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "latex error converting to dvi. See log output above or the log file: media/Tex/ea85079f29a3df61.log",
+  "line": 28
+ }
+}

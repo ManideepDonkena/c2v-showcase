@@ -1,0 +1,27 @@
+{
+ "score": {
+  "mvqs": 86.96,
+  "s_sp": 99.8,
+  "s_ly": 35.3,
+  "s_ed": 100.0,
+  "states": 3,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 60.85,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.56,
+   "conflict": "Text \"label\" (created line 8, box [0.41, -0.171, 1.59, 0.171]) overlaps Square \"box\" (line 7, box [-1.0, -1.0, 1.0, 1.0]) by 50%; moving it by [0.74, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.96,
+   "conflict": "Text \"note\" (created line 9, box [-1.292, -0.25, 3.292, 0.05]) overlaps Square \"box\" (line 7, box [-1.0, -1.0, 1.0, 1.0]) by 43%; moving it by [0.0, -1.2] would clear it"
+  }
+ ]
+}

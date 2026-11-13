@@ -1,0 +1,37 @@
+{
+ "mode": "generic",
+ "gaps": [
+  "q1",
+  "q2",
+  "q3",
+  "q5",
+  "q6",
+  "q7",
+  "q8",
+  "q9",
+  "q11",
+  "q12"
+ ],
+ "fixes": {
+  "s2": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s1": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s3": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3"
+ ],
+ "dev_before": 9.1,
+ "dev_after": 0.0,
+ "mvqs_before": 85.5,
+ "mvqs_after": 77.09,
+ "kept": false,
+ "dir": "/home/mani/c2v-lab/runs/dot-products-and-duality/generic"
+}

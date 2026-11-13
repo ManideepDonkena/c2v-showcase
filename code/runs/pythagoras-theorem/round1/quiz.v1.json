@@ -1,0 +1,162 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the formula for the Pythagorean theorem?",
+   "options": {
+    "A": "a + b = c",
+    "B": "a² + b² = c²",
+    "C": "2a + 2b = c",
+    "D": "a × b = c"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "Why must the triangle be a right triangle?",
+   "options": {
+    "A": "To use angles",
+    "B": "For area calc",
+    "C": "It only works for 90°",
+    "D": "For perimeter"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q6",
+   "question": "Sides are 6, 8, 10. Is it right?",
+   "options": {
+    "A": "Yes",
+    "B": "No",
+    "C": "Maybe",
+    "D": "Unknown"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q8",
+   "question": "Legs are 9 and 12. Find hypotenuse.",
+   "options": {
+    "A": "13",
+    "B": "14",
+    "C": "15",
+    "D": "16"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q10",
+   "question": "Hypotenuse is 10, one leg is 6. Find other leg.",
+   "options": {
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "9"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q13",
+   "question": "A=3, B=4. Student says C=7. Why wrong?",
+   "options": {
+    "A": "Added sides",
+    "B": "Squared wrong",
+    "C": "Wrong formula",
+    "D": "Calc error"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q15",
+   "question": "Legs 8, 15. Find hypotenuse.",
+   "options": {
+    "A": "16",
+    "B": "17",
+    "C": "18",
+    "D": "23"
+   },
+   "answer": "B"
+  }
+ ],
+ "test": [
+  {
+   "id": "q2",
+   "question": "In a right triangle, which side is 'c'?",
+   "options": {
+    "A": "The shortest side",
+    "B": "The longest side",
+    "C": "The vertical side",
+    "D": "The horizontal side"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q4",
+   "question": "If a=3 and b=4, what is c?",
+   "options": {
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q7",
+   "question": "Sides are 5, 12, 13. Find hypotenuse.",
+   "options": {
+    "A": "13",
+    "B": "14",
+    "C": "15",
+    "D": "16"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q9",
+   "question": "Hypotenuse is 25, one leg is 7. Find other leg.",
+   "options": {
+    "A": "18",
+    "B": "20",
+    "C": "24",
+    "D": "26"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q11",
+   "question": "Sides 3, 4, 5. Area of square on hyp?",
+   "options": {
+    "A": "9",
+    "B": "16",
+    "C": "25",
+    "D": "30"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q14",
+   "question": "Sides 1, 1, √2. Is it right?",
+   "options": {
+    "A": "Yes",
+    "B": "No",
+    "C": "Maybe",
+    "D": "Unknown"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q16",
+   "question": "Hypotenuse 5, leg 4. Find other leg.",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   },
+   "answer": "C"
+  }
+ ],
+ "written": 16,
+ "kept": 14
+}

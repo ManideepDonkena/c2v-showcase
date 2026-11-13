@@ -1,0 +1,991 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 15,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      2.382,
+      -4.885,
+      2.85
+     ],
+     "name": "func_text",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 21,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      2.382,
+      -4.885,
+      2.85
+     ],
+     "name": "func_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.706,
+      1.195,
+      -4.79,
+      1.882
+     ],
+     "name": "first_deriv",
+     "line": 19,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      2.382,
+      -4.885,
+      2.85
+     ],
+     "name": "func_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.706,
+      1.195,
+      -4.79,
+      1.882
+     ],
+     "name": "first_deriv",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.723,
+      0.009,
+      -4.773,
+      0.695
+     ],
+     "name": "second_deriv",
+     "line": 25,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      2.382,
+      -4.885,
+      2.85
+     ],
+     "name": "func_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.706,
+      1.195,
+      -4.79,
+      1.882
+     ],
+     "name": "first_deriv",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.723,
+      0.009,
+      -4.773,
+      0.695
+     ],
+     "name": "second_deriv",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.554,
+      -1.178,
+      -4.942,
+      -0.491
+     ],
+     "name": "third_deriv",
+     "line": 31,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 40,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      2.382,
+      -4.885,
+      2.85
+     ],
+     "name": "func_text",
+     "line": 12,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.706,
+      1.195,
+      -4.79,
+      1.882
+     ],
+     "name": "first_deriv",
+     "line": 19,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.723,
+      0.009,
+      -4.773,
+      0.695
+     ],
+     "name": "second_deriv",
+     "line": 25,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.554,
+      -1.178,
+      -4.942,
+      -0.491
+     ],
+     "name": "third_deriv",
+     "line": 31,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.962,
+      -2.015,
+      -3.194,
+      -1.678
+     ],
+     "name": "const_text",
+     "line": 37,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -5.596,
+      3.5
+     ],
+     "name": "sin_func",
+     "line": 47,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -5.596,
+      3.5
+     ],
+     "name": "sin_func",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.528,
+      2.253,
+      -5.68,
+      2.585
+     ],
+     "name": "cos_func",
+     "line": 52,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -5.596,
+      3.5
+     ],
+     "name": "sin_func",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.528,
+      2.253,
+      -5.68,
+      2.585
+     ],
+     "name": "cos_func",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.658,
+      1.421,
+      -5.549,
+      1.753
+     ],
+     "name": "neg_sin",
+     "line": 57,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 64,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -5.596,
+      3.5
+     ],
+     "name": "sin_func",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.528,
+      2.253,
+      -5.68,
+      2.585
+     ],
+     "name": "cos_func",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.658,
+      1.421,
+      -5.549,
+      1.753
+     ],
+     "name": "neg_sin",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.677,
+      0.589,
+      -5.531,
+      0.921
+     ],
+     "name": "neg_cos",
+     "line": 62,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.085,
+      -5.596,
+      3.5
+     ],
+     "name": "sin_func",
+     "line": 47,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.528,
+      2.253,
+      -5.68,
+      2.585
+     ],
+     "name": "cos_func",
+     "line": 52,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.658,
+      1.421,
+      -5.549,
+      1.753
+     ],
+     "name": "neg_sin",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.677,
+      0.589,
+      -5.531,
+      0.921
+     ],
+     "name": "neg_cos",
+     "line": 62,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.51,
+      -0.243,
+      -5.698,
+      0.089
+     ],
+     "name": "back_to_sin",
+     "line": 67,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 73,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 79,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.009,
+      2.466,
+      3.009,
+      2.85
+     ],
+     "name": "mixed_text",
+     "line": 76,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 85,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.009,
+      2.466,
+      3.009,
+      2.85
+     ],
+     "name": "mixed_text",
+     "line": 76,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.032,
+      -4.242,
+      3.5
+     ],
+     "name": "func_xy",
+     "line": 83,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 91,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.009,
+      2.466,
+      3.009,
+      2.85
+     ],
+     "name": "mixed_text",
+     "line": 76,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.032,
+      -4.242,
+      3.5
+     ],
+     "name": "func_xy",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.215,
+      1.736,
+      -4.638,
+      2.532
+     ],
+     "name": "diff_xy",
+     "line": 89,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 97,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.009,
+      2.466,
+      3.009,
+      2.85
+     ],
+     "name": "mixed_text",
+     "line": 76,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.032,
+      -4.242,
+      3.5
+     ],
+     "name": "func_xy",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.215,
+      1.736,
+      -4.638,
+      2.532
+     ],
+     "name": "diff_xy",
+     "line": 89,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.215,
+      0.441,
+      -4.638,
+      1.236
+     ],
+     "name": "diff_yx",
+     "line": 95,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 103,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.009,
+      2.466,
+      3.009,
+      2.85
+     ],
+     "name": "mixed_text",
+     "line": 76,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      3.032,
+      -4.242,
+      3.5
+     ],
+     "name": "func_xy",
+     "line": 83,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.215,
+      1.736,
+      -4.638,
+      2.532
+     ],
+     "name": "diff_xy",
+     "line": 89,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.215,
+      0.441,
+      -4.638,
+      1.236
+     ],
+     "name": "diff_yx",
+     "line": 95,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.006,
+      -0.396,
+      -3.847,
+      -0.059
+     ],
+     "name": "equal_text",
+     "line": 101,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 107,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.009,
+      2.466,
+      3.009,
+      2.85
+     ],
+     "name": "mixed_text",
+     "line": 76,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 112,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.009,
+      2.466,
+      3.009,
+      2.85
+     ],
+     "name": "mixed_text",
+     "line": 76,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.34,
+      2.642,
+      0.34,
+      3.5
+     ],
+     "name": "general",
+     "line": 110,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 118,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.648,
+      3.0,
+      5.648,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.009,
+      2.466,
+      3.009,
+      2.85
+     ],
+     "name": "mixed_text",
+     "line": 76,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.34,
+      2.642,
+      0.34,
+      3.5
+     ],
+     "name": "general",
+     "line": 110,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.071,
+      2.007,
+      3.071,
+      2.392
+     ],
+     "name": "abstract",
+     "line": 116,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 121,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.009,
+      2.466,
+      3.009,
+      2.85
+     ],
+     "name": "mixed_text",
+     "line": 76,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

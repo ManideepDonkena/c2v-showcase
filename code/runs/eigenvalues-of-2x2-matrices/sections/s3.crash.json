@@ -1,0 +1,67 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.299,
+      3.0,
+      3.299,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.299,
+      3.0,
+      3.299,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -7.348,
+      2.555,
+      -6.861,
+      2.794
+     ],
+     "name": "A_label",
+     "line": 13,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.849,
+      -4.321,
+      3.5
+     ],
+     "name": "A",
+     "line": 11,
+     "type": "Matrix"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "NameError",
+  "message": "name 'BRACKET' is not defined",
+  "line": 18
+ }
+}

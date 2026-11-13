@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "The Right Triangle Setup",
+  "teaches": "Identifying the hypotenuse and legs of a right-angled triangle.",
+  "visual": "A large right-angled triangle appears in the center. The two shorter sides (legs) are labeled 'a' and 'b' in blue, while the longest side opposite the right angle is labeled 'c' (hypotenuse) in red. A small square symbol animates into the corner to explicitly mark the 90-degree angle.",
+  "narration": "Every right-angled triangle has a special relationship between its three sides. The two shorter sides touching the right angle are called legs, while the longest side opposite the right angle is known as the hypotenuse.",
+  "start": 0.0,
+  "end": 25.33
+ },
+ {
+  "id": "s2",
+  "title": "Constructing the Squares",
+  "teaches": "Visualizing the area of squares built on each side.",
+  "visual": "Three squares are constructed outwardly from the triangle's sides. A blue square forms on side 'a', a green square on side 'b', and a red square on the hypotenuse 'c'. The squares grow dynamically from zero size to their full dimensions, highlighting that we are dealing with areas.",
+  "narration": "Imagine building a perfect square on each of the three sides. The area of these squares depends on the length of the side they are built upon. We will compare the size of the two smaller squares against the largest one.",
+  "start": 25.33,
+  "end": 51.2
+ },
+ {
+  "id": "s3",
+  "title": "The Area Connection",
+  "teaches": "Understanding that the sum of the areas of the two smaller squares equals the area of the largest square.",
+  "visual": "The blue and green squares (on sides a and b) become semi-transparent. Their contents flow like liquid into the red square (on side c), perfectly filling it without spilling over. Numbers appear: if a=3 and b=4, the areas 9 and 16 merge to fill the area 25 of the red square.",
+  "narration": "Here is the magic: if you add the area of the blue square and the green square together, it exactly equals the area of the big red square. This means the combined space of the two smaller squares matches the largest one perfectly.",
+  "start": 51.2,
+  "end": 72.07
+ },
+ {
+  "id": "s4",
+  "title": "The Formula Revealed",
+  "teaches": "Stating the algebraic formula a² + b² = c².",
+  "visual": "The geometric shapes fade slightly into the background. Large, bold text appears in the foreground: 'a² + b² = c²'. The variables 'a', 'b', and 'c' pulse briefly to connect them back to the triangle sides shown earlier. The equation remains on screen for emphasis.",
+  "narration": "This relationship is called the Pythagoras Theorem. It states that the square of the hypotenuse is equal to the sum of the squares of the other two sides. So, simply put: a squared plus b squared equals c squared.",
+  "start": 72.07,
+  "end": 100.93
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "s1",
+  "title": "Defining the Sorrel Count",
+  "teaches": "The definition of sorrel count as interior points minus edge points.",
+  "visual": "A grid appears with a rectangle drawn from (0,0) to (4,2). Points strictly inside are highlighted in blue and counted '8'. Points on the boundary are highlighted in red and counted '10'. The formula 'Sorrel Count = Inside - Edge' appears prominently.",
+  "narration": "We define the sorrel count of a lattice rectangle as the number of grid points strictly inside it, minus the number of grid points lying on its edges. This metric distinguishes between the interior density and the boundary constraints of the shape.",
+  "start": 0.0,
+  "end": 28.6
+ },
+ {
+  "id": "s2",
+  "title": "The Formula for w × h Rectangles",
+  "teaches": "The algebraic derivation: (w-1)(h-1) - 2(w+h).",
+  "visual": "A generic rectangle labeled 'w' and 'h' expands. Text overlays show the interior count formula '(w-1)×(h-1)' appearing above the shape, and the edge count formula '2×(w+h)' appearing below. These combine into the final expression for the sorrel count.",
+  "narration": "For any rectangle of width w and height h, there are (w-1) times (h-1) points strictly inside. The number of points on the edges is always 2 times (w plus h), accounting for all four sides.",
+  "start": 28.6,
+  "end": 73.73
+ },
+ {
+  "id": "s3",
+  "title": "Symmetry Rule",
+  "teaches": "Swapping width and height preserves the sorrel count.",
+  "visual": "A 4x2 rectangle is shown with its calculated sorrel count. It rotates 90 degrees to become a 2x4 rectangle. The interior and edge point counts update dynamically but result in the same final sorrel count, proving symmetry.",
+  "narration": "Observe that swapping the width and height dimensions preserves the sorrel count entirely. This is because the algebraic expression remains invariant under the exchange of w and h.",
+  "start": 73.73,
+  "end": 108.93
+ },
+ {
+  "id": "s4",
+  "title": "Worked Example: 3x3 Square",
+  "teaches": "Application of rules to a specific case, highlighting negative counts.",
+  "visual": "A 3x3 square grid is drawn. Interior points (4) are counted and subtracted by edge points (12). The result '-8' appears in bold red text. A rule box pops up: 'Small rectangles have negative sorrel counts.'",
+  "narration": "Consider a 3 by 3 square: it has 4 interior points and 12 edge points, yielding a sorrel count of -8. This demonstrates that small rectangles often result in negative sorrel counts due to the dominance of boundary points.",
+  "start": 108.93,
+  "end": 125.67
+ }
+]

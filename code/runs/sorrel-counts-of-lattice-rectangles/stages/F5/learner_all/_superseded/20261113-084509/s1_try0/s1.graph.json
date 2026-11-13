@@ -1,0 +1,3562 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      2.992,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 17,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      2.992,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      2.992,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      4.0,
+      2.0
+     ],
+     "name": "rect",
+     "line": 21,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      2.992,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      4.0,
+      2.0
+     ],
+     "name": "rect",
+     "line": 21,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      0.92,
+      4.08,
+      1.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": "point1",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": "point2",
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.897,
+      -0.543,
+      2.103,
+      -0.2
+     ],
+     "name": "inside_count",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.634,
+      0.829,
+      -0.2,
+      1.171
+     ],
+     "name": "edge_count",
+     "line": 58,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 65,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      2.992,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      4.0,
+      2.0
+     ],
+     "name": "rect",
+     "line": 21,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      0.92,
+      4.08,
+      1.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": "point1",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": "point2",
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.897,
+      -0.543,
+      2.103,
+      -0.2
+     ],
+     "name": "inside_count",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.634,
+      0.829,
+      -0.2,
+      1.171
+     ],
+     "name": "edge_count",
+     "line": 58,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.666,
+      -3.5,
+      3.666,
+      -3.065
+     ],
+     "name": "formula",
+     "line": 63,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.011,
+      2.992,
+      3.011,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      4.0,
+      2.0
+     ],
+     "name": "rect",
+     "line": 21,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      0.92,
+      4.08,
+      1.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": "point1",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": "point2",
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.897,
+      -0.543,
+      2.103,
+      -0.2
+     ],
+     "name": "inside_count",
+     "line": 57,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.634,
+      0.829,
+      -0.2,
+      1.171
+     ],
+     "name": "edge_count",
+     "line": 58,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.666,
+      -3.5,
+      3.666,
+      -3.065
+     ],
+     "name": "formula",
+     "line": 63,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.206,
+      -2.765,
+      2.206,
+      -2.432
+     ],
+     "name": "explanation",
+     "line": 69,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 78,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      0.92,
+      4.08,
+      1.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": "point1",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": "point2",
+     "line": 51,
+     "type": "Dot"
+    }
+   ]
+  },
+  {
+   "after_line": 91,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      0.92,
+      4.08,
+      1.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": "point1",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": "point2",
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.49,
+      3.0,
+      3.49,
+      3.5
+     ],
+     "name": "title2",
+     "line": 90,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 100,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      0.92,
+      4.08,
+      1.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": "point1",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": "point2",
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.49,
+      3.0,
+      3.49,
+      3.5
+     ],
+     "name": "title2",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -2.5,
+      -2.5,
+      2.5,
+      2.5
+     ],
+     "name": "grid2",
+     "line": 85,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 110,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      0.92,
+      4.08,
+      1.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": "point1",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": "point2",
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.49,
+      3.0,
+      3.49,
+      3.5
+     ],
+     "name": "title2",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -2.5,
+      -2.5,
+      2.5,
+      2.5
+     ],
+     "name": "grid2",
+     "line": 85,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "rect2",
+     "line": 103,
+     "type": "Rectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 139,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      0.92,
+      4.08,
+      1.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": "point1",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": "point2",
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.49,
+      3.0,
+      3.49,
+      3.5
+     ],
+     "name": "title2",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -2.5,
+      -2.5,
+      2.5,
+      2.5
+     ],
+     "name": "grid2",
+     "line": 85,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "rect2",
+     "line": 103,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 94,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 117,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 117,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": "point",
+     "line": 117,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      2.92,
+      0.08,
+      3.08
+     ],
+     "name": null,
+     "line": 94,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      2.92,
+      1.08,
+      3.08
+     ],
+     "name": null,
+     "line": 125,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      2.92,
+      2.08,
+      3.08
+     ],
+     "name": null,
+     "line": 125,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      2.92,
+      3.08,
+      3.08
+     ],
+     "name": null,
+     "line": 125,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      2.92,
+      0.08,
+      3.08
+     ],
+     "name": "point1",
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      2.92,
+      3.08,
+      3.08
+     ],
+     "name": "point2",
+     "line": 131,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.39,
+      -0.537,
+      1.61,
+      -0.2
+     ],
+     "name": "inside_count2",
+     "line": 137,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      1.334,
+      -0.2,
+      1.666
+     ],
+     "name": "edge_count2",
+     "line": 138,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 145,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      0.92,
+      4.08,
+      1.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": "point1",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": "point2",
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.49,
+      3.0,
+      3.49,
+      3.5
+     ],
+     "name": "title2",
+     "line": 90,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -2.5,
+      -2.5,
+      2.5,
+      2.5
+     ],
+     "name": "grid2",
+     "line": 85,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "rect2",
+     "line": 103,
+     "type": "Rectangle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 94,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 117,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 117,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": "point",
+     "line": 117,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      2.92,
+      0.08,
+      3.08
+     ],
+     "name": null,
+     "line": 94,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      2.92,
+      1.08,
+      3.08
+     ],
+     "name": null,
+     "line": 125,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      2.92,
+      2.08,
+      3.08
+     ],
+     "name": null,
+     "line": 125,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      2.92,
+      3.08,
+      3.08
+     ],
+     "name": null,
+     "line": 125,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      2.92,
+      0.08,
+      3.08
+     ],
+     "name": "point1",
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      2.92,
+      3.08,
+      3.08
+     ],
+     "name": "point2",
+     "line": 131,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.39,
+      -0.537,
+      1.61,
+      -0.2
+     ],
+     "name": "inside_count2",
+     "line": 137,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.628,
+      1.334,
+      -0.2,
+      1.666
+     ],
+     "name": "edge_count2",
+     "line": 138,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.668,
+      -3.5,
+      3.668,
+      -3.065
+     ],
+     "name": "formula2",
+     "line": 143,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 149,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 11,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": "point",
+     "line": 35,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": null,
+     "line": 44,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 45,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      -0.08,
+      4.08,
+      0.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      0.92,
+      4.08,
+      1.08
+     ],
+     "name": null,
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": "point1",
+     "line": 50,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.92,
+      1.92,
+      4.08,
+      2.08
+     ],
+     "name": "point2",
+     "line": 51,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      0.92,
+      1.08,
+      1.08
+     ],
+     "name": null,
+     "line": 94,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": null,
+     "line": 117,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": null,
+     "line": 117,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      1.92,
+      2.08,
+      2.08
+     ],
+     "name": "point",
+     "line": 117,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      2.92,
+      0.08,
+      3.08
+     ],
+     "name": null,
+     "line": 94,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      2.92,
+      1.08,
+      3.08
+     ],
+     "name": null,
+     "line": 125,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      -0.08,
+      1.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      2.92,
+      2.08,
+      3.08
+     ],
+     "name": null,
+     "line": 125,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      -0.08,
+      2.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      2.92,
+      3.08,
+      3.08
+     ],
+     "name": null,
+     "line": 125,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 126,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      -0.08,
+      0.08,
+      0.08
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      -0.08,
+      3.08,
+      0.08
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      0.92,
+      0.08,
+      1.08
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      0.92,
+      3.08,
+      1.08
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      1.92,
+      0.08,
+      2.08
+     ],
+     "name": null,
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      1.92,
+      3.08,
+      2.08
+     ],
+     "name": null,
+     "line": 131,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.08,
+      2.92,
+      0.08,
+      3.08
+     ],
+     "name": "point1",
+     "line": 130,
+     "type": "Dot"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      2.92,
+      2.92,
+      3.08,
+      3.08
+     ],
+     "name": "point2",
+     "line": 131,
+     "type": "Dot"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

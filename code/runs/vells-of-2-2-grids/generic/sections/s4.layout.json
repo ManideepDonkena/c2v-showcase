@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 88.47,
+  "s_sp": 94.7,
+  "s_ly": 55.7,
+  "s_ed": 100.0,
+  "states": 8,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 74.82,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.63,
+   "conflict": "MathTex \"vell2\" (created line 29, box [-1.977, -1.989, 1.977, -1.771]) overlaps MathTex \"vell1\" (line 17, box [-1.977, -1.983, 1.977, -1.766]) by 97%; moving it by [0.0, -0.36] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 88.47,
+   "conflict": "MathTex \"equal\" (created line 36, box [-1.936, 3.281, 1.936, 3.5]) overlaps Text \"title\" (line 6, box [-2.751, 3.0, 2.751, 3.5]) by 100%; moving it by [0.0, 0.37] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"check\" (created line 42, box [2.436, 3.468, 2.815, 4.053]) is outside the frame; shift it by [0.0, -0.2]"
+  }
+ ]
+}

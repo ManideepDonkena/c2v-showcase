@@ -1,0 +1,30 @@
+{
+ "stage": "F5",
+ "mode": "learner",
+ "features": [
+  "gate",
+  "leak_gate",
+  "minimal_edit",
+  "preflight",
+  "safe_patch",
+  "sbfl"
+ ],
+ "fixes": {
+  "s1": [
+   "A whole number is 'dapple' if its tens digit is strictly greater than its units digit. For example, the number 61 is dapple because the tens digit 6 is strictly greater than the units digit 1; this is confirmed by a green checkmark around 61. Conversely, the number 16 is not dapple because the tens digit 1 is not greater than the units digit 6."
+  ]
+ },
+ "changed": [
+  "s1"
+ ],
+ "edit_size": {
+  "s1": 0.387
+ },
+ "diagnosis": "f4",
+ "dev_before": 0.9156295416666667,
+ "dev_after": 0.890904625,
+ "mvqs_before": 82.62,
+ "mvqs_after": 79.71,
+ "kept": false,
+ "served": "base"
+}

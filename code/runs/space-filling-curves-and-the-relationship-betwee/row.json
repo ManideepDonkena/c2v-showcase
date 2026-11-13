@@ -1,0 +1,102 @@
+{
+ "topic": "Space-filling curves and the relationship between infinite and finite mathematics",
+ "base": {
+  "teachquiz": 0.0,
+  "teachquiz_clean": 0.0,
+  "none": 0.0,
+  "full": 0.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 73.09,
+  "sections_rendered": 4
+ },
+ "learner": {
+  "teachquiz": 0.0,
+  "teachquiz_clean": 0.0,
+  "none": 0.0,
+  "full": 0.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 78.93,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "generic": {
+  "teachquiz": 0.0,
+  "teachquiz_clean": 0.0,
+  "none": 0.0,
+  "full": 0.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 84.52,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "learner_all": {
+  "teachquiz": 0.0,
+  "teachquiz_clean": 0.0,
+  "none": 0.0,
+  "full": 0.0,
+  "evidence": 0.0,
+  "control_first_section": 0.0,
+  "control_other_topic": null,
+  "mvqs": 84.22,
+  "sections_rendered": 4,
+  "changed": [
+   "s1",
+   "s2",
+   "s3",
+   "s4"
+  ],
+  "kept_by_dev": true
+ },
+ "diagnosis": {
+  "gaps": [
+   "q1",
+   "q2",
+   "q3",
+   "q4",
+   "q5",
+   "q8",
+   "q9",
+   "q10",
+   "q11",
+   "q12"
+  ],
+  "dev": 10,
+  "fixes": {
+   "s3": [
+    "SHOW two distinct points on the 1D line mapping to the exact same coordinate in the 2D square, with a label 'f(a) = f(b)' where a ≠ b. SAY: 'Because multiple input points share one output location, this curve cannot be a one-to-one match (bijection), even though it covers every point in the square.'",
+    "A visual demonstration showing that if the curve were injective (one-to-one), it would have to 'tear' or break continuity to fit a 1D line into a 2D square without overlapping, proving that covering every point in the area requires multiple points on the line to map to the same location.",
+    "Show two points in the 2D square that are physically adjacent (distance epsilon), but trace their origins back to the 1D line segment to reveal they originate from locations that are far apart (distance delta). Demonstrate that as you zoom in on the square, the 'closeness' of the image points does not guarantee the 'closeness' of their pre-images, thereby breaking the continuity condition for the inverse function."
+   ],
+   "s2": [
+    "A visual counter that rapidly increments the total length value (e.g., 3, 9, 27, 81...) with each recursive step, accompanied by a voiceover stating 'The length doubles at every stage, heading toward infinity,' while the curve remains trapped within the same fixed square boundary.",
+    "A visual comparison showing that while the curve's length grows without bound (infinity), it remains strictly contained within a fixed, finite boundary box, illustrating that infinite complexity can exist within finite limits.",
+    "SHOW a unit interval [0,1] with Lebesgue measure 1 alongside the filled square with area 1. SAY 'The curve maps a set of length 1 to a region of area 1, yet the image has positive measure while the domain is just a line segment, illustrating that continuous maps do not preserve measure zero sets.'",
+    "Show the length value doubling or multiplying by 3 in each step (e.g., 3, 9, 27, 81...) and explicitly state that as the number of steps approaches infinity, the total length grows without bound, contrasting this with the fixed, finite area of the square.",
+    "Show a 2D grid of pixels (representing an image or database) being traversed by the curve in a specific order, demonstrating how this continuous path allows multi-dimensional coordinates to be converted into a single linear index for efficient storage and retrieval."
+   ],
+   "s4": [
+    "SHOW the specific scaling parameters for the Hilbert curve (N=4 sub-segments, r=1/2 scaling factor) and SAY 'For the Hilbert curve, 4 segments each shrink by half. Calculating log(4)/log(2) gives exactly 2, proving it fills the 2D space just like the Peano curve.'"
+   ],
+   "s1": [
+    "A visual demonstration of the specific geometric transformation rule (e.g., rotation or reflection) applied to each sub-segment during recursion, showing how these rigid symmetry operations ensure the endpoints of adjacent segments connect perfectly to maintain a continuous path without gaps."
+   ]
+  }
+ }
+}

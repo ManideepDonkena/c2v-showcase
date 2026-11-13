@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 73.37,
+  "s_sp": 86.4,
+  "s_ly": 42.3,
+  "s_ed": 72.3,
+  "states": 26,
+  "states_with_conflict": 12
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 73.02,
+   "conflicts": 11
+  },
+  {
+   "level": "section",
+   "mvqs": 73.37,
+   "conflict": "MathTex \"label\" (created line 20, box [-6.866, -0.083, -6.784, 0.083]) overlaps MathTex \"grid\" (line 17, box [-6.859, -0.069, -6.791, 0.069]) by 100%; moving it by [0.22, 0.0] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"label\" (created line 25, box [-6.866, -0.083, -6.784, 0.083]) overlaps MathTex \"grid\" (line 17, box [-6.859, -0.069, -6.791, 0.069]) by 100%; moving it by [0.22, 0.0] would clear it"
+  }
+ ]
+}

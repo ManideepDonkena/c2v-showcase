@@ -1,0 +1,8395 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 19,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    }
+   ]
+  },
+  {
+   "after_line": 27,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 57,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 67,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      2.751,
+      -5.499,
+      3.009
+     ],
+     "name": "chaos",
+     "line": 65,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 70,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.178,
+      2.749,
+      6.611,
+      2.971
+     ],
+     "name": "structure",
+     "line": 72,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.552,
+      3.0,
+      2.552,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.1,
+      -3.5,
+      6.0,
+      2.6
+     ],
+     "name": "axes",
+     "line": 12,
+     "type": "Axes"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 80,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -5.838,
+      -3.89,
+      -5.7,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.69,
+      -3.895,
+      -4.541,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.623,
+      -3.89,
+      -3.3,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.475,
+      -3.895,
+      -2.141,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.317,
+      -3.891,
+      -0.991,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.168,
+      -3.895,
+      0.168,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.991,
+      -3.895,
+      1.317,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      2.14,
+      -3.895,
+      2.476,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.291,
+      -3.89,
+      3.632,
+      -3.65
+     ],
+     "name": null,
+     "line": 24,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      4.44,
+      -3.895,
+      4.791,
+      -3.65
+     ],
+     "name": "t",
+     "line": 24,
+     "type": "Text"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

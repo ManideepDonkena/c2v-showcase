@@ -1,0 +1,14 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 18,
+  "scope": "section",
+  "preflight": true,
+  "error": "does not accept the keyword 'bracket_style' in this Manim\nline 96: TypeError: Matrix() does not accept the keyword 'bracket_style' in this Manim\nline 160: TypeError: Matrix() does not accept the keyword 'bracket_style' in this Manim\nline 161: TypeError: Matrix() does not accept the keyword 'bracket_style' in this Manim\nHINT: Remove that keyword argument; set the property after creating the object."
+ },
+ {
+  "attempt": 1,
+  "ok": true
+ }
+]

@@ -1,0 +1,209 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the result of 3 ⊕ 4?",
+   "options": {
+    "A": "12",
+    "B": "19",
+    "C": "7",
+    "D": "24"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "Why is 0 considered a neutral element for the tovan sum?",
+   "options": {
+    "A": "It doubles the result",
+    "B": "It leaves b unchanged",
+    "C": "It makes the sum zero",
+    "D": "It swaps a and b"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q3",
+   "question": "What is (-1) ⊕ 5?",
+   "options": {
+    "A": "-6",
+    "B": "4",
+    "C": "-1",
+    "D": "0"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q4",
+   "question": "Which property allows you to say 2 ⊕ 5 = 5 ⊕ 2?",
+   "options": {
+    "A": "Associativity",
+    "B": "Commutativity",
+    "C": "Distributivity",
+    "D": "Identity"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q6",
+   "question": "What is 0 ⊕ (-1)?",
+   "options": {
+    "A": "-1",
+    "B": "0",
+    "C": "1",
+    "D": "-2"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q8",
+   "question": "What is 2 ⊕ (3 ⊕ 4)?",
+   "options": {
+    "A": "35",
+    "B": "11",
+    "C": "19",
+    "D": "23"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q9",
+   "question": "Which statement is a common misconception about ⊕?",
+   "options": {
+    "A": "It is commutative",
+    "B": "It equals standard multiplication",
+    "C": "0 is neutral",
+    "D": "-1 swallows"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q10",
+   "question": "Calculate 4 ⊕ (-1) ⊕ 2.",
+   "options": {
+    "A": "5",
+    "B": "-1",
+    "C": "6",
+    "D": "0"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q11",
+   "question": "What is 1 ⊕ (-1)?",
+   "options": {
+    "A": "0",
+    "B": "-1",
+    "C": "1",
+    "D": "2"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q12",
+   "question": "Why does (-1) ⊕ b always equal -1?",
+   "options": {
+    "A": "Because b is zero",
+    "B": "Because a is one",
+    "C": "The formula yields -1",
+    "D": "Because b is negative"
+   },
+   "answer": "C"
+  }
+ ],
+ "test": [
+  {
+   "question": "What is 1 ⊕ 4 (tovan sum)?",
+   "options": {
+    "A": "5",
+    "B": "9",
+    "C": "4",
+    "D": "10"
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "What is 3 ⊕ 3?",
+   "options": {
+    "A": "6",
+    "B": "9",
+    "C": "15",
+    "D": "12"
+   },
+   "answer": "C",
+   "id": "t2"
+  },
+  {
+   "question": "Which number is neutral for the tovan sum (n ⊕ b = b for every b)?",
+   "options": {
+    "A": "0",
+    "B": "-1",
+    "C": "2",
+    "D": "1"
+   },
+   "answer": "A",
+   "id": "t3"
+  },
+  {
+   "question": "What is (-1) ⊕ 9?",
+   "options": {
+    "A": "-9",
+    "B": "-1",
+    "C": "8",
+    "D": "9"
+   },
+   "answer": "B",
+   "id": "t4"
+  },
+  {
+   "question": "What is 2 ⊕ 2 ⊕ 2, worked left to right?",
+   "options": {
+    "A": "26",
+    "B": "18",
+    "C": "12",
+    "D": "6"
+   },
+   "answer": "A",
+   "id": "t5"
+  },
+  {
+   "question": "Is 5 ⊕ 7 equal to 7 ⊕ 5?",
+   "options": {
+    "A": "Only when one is 0",
+    "B": "Only for odd numbers",
+    "C": "No, never",
+    "D": "Yes, always"
+   },
+   "answer": "D",
+   "id": "t6"
+  },
+  {
+   "question": "What is 0 ⊕ 6?",
+   "options": {
+    "A": "12",
+    "B": "7",
+    "C": "0",
+    "D": "6"
+   },
+   "answer": "D",
+   "id": "t7"
+  },
+  {
+   "question": "A student says 2 ⊕ 3 = 5. What did they forget?",
+   "options": {
+    "A": "To subtract 1",
+    "B": "To swap the numbers",
+    "C": "To add the product 2×3",
+    "D": "To square the result"
+   },
+   "answer": "C",
+   "id": "t8"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 10,
+ "dev_leaked": []
+}

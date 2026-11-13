@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 89.13,
+  "s_sp": 91.6,
+  "s_ly": 66.6,
+  "s_ed": 100.0,
+  "states": 13,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 74.26,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 88.83,
+   "conflict": "MathTex \"c_label\" (created line 18, box [0.452, 3.25, 0.548, 3.363]) overlaps Text \"title\" (line 6, box [-1.746, 2.992, 1.746, 3.5]) by 100%; moving it by [0.0, 0.4] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 88.91,
+   "conflict": "Text \"rule_text2\" (created line 38, box [-1.964, -4.084, 1.964, -3.75]) is outside the frame; shift it by [0.0, 0.23]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 89.13,
+   "conflict": "Text \"question2\" (created line 61, box [-2.224, -4.084, 2.224, -3.75]) is outside the frame; shift it by [0.0, 0.23]"
+  }
+ ]
+}

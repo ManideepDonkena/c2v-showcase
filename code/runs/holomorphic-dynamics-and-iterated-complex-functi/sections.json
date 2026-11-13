@@ -1,0 +1,29 @@
+[
+ {
+  "id": "s1",
+  "title": "The Orbit of a Point",
+  "teaches": "Definition of an orbit under iteration.",
+  "visual": "A complex plane with a fixed point z=0 and a moving red dot representing z_0. The function f(z) = z^2 is displayed. The red dot jumps from z_0 to z_1, then z_2, tracing a path that spirals outward as its magnitude doubles each step.",
+  "narration": "We begin by observing the orbit of a single point under iteration. Starting with an initial value z_0, we repeatedly apply the function f(z) = z^2 to generate a sequence: z_1 = f(z_0), z_2 = f(z_1), and so on.",
+  "start": 0.0,
+  "end": 14.73
+ },
+ {
+  "id": "s2",
+  "title": "The Unit Circle Boundary",
+  "teaches": "Distinction between bounded and unbounded orbits based on initial magnitude.",
+  "visual": "A unit circle is drawn in blue. Points inside the circle (|z| < 1) are colored green and their orbits shrink toward zero. Points outside (|z| > 1) are colored red and their orbits explode to infinity. Points exactly on the circle remain on the boundary.",
+  "narration": "Notice how the magnitude of z determines its fate. If |z_0| < 1, the orbit converges to zero; if |z_0| > 1, it diverges to infinity. The unit circle acts as a critical boundary separating these two distinct behaviors.",
+  "start": 14.73,
+  "end": 33.47
+ },
+ {
+  "id": "s4",
+  "title": "Holomorphicity and Conformality",
+  "teaches": "Why holomorphic functions preserve angles locally.",
+  "visual": "A small grid of orthogonal lines is overlaid on the complex plane. As a point moves through the iteration f(z) = z^2 + c, the grid distorts but remains locally perpendicular (conformal). Labels appear showing 'Angle Preserved' at various points away from critical points.",
+  "narration": "Finally, we recall that holomorphic functions are conformal, meaning they preserve angles locally. This property ensures that the geometric structure of small neighborhoods is rotated and scaled, but never sheared, during iteration.",
+  "start": 33.47,
+  "end": 49.73
+ }
+]

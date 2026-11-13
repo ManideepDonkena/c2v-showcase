@@ -1,0 +1,52 @@
+{
+ "mode": "learner_all",
+ "gaps": [
+  "q1",
+  "q2",
+  "q5",
+  "q10",
+  "q11"
+ ],
+ "fixes": {
+  "s1": [
+   "A visual breakdown showing that for any dimension 'n', there are exactly (n-1) intervals between grid points along that side. Therefore, a width of 'w' contains (w-1) interior horizontal steps and a height of 'h' contains (h-1) interior vertical steps. The total interior points form a grid of these steps, explicitly demonstrating the multiplication (w-1) × (h-1).",
+   "A visual breakdown showing that the top and bottom edges each contain (w+1) points and the left and right edges each contain (h+1) points, but because the four corner points are counted twice in this sum, you must subtract 4 to get the correct total of 2w + 2h + 4 - 4 = 2(w+h).",
+   "Show a 2x3 rectangle grid. Explicitly calculate interior points as (2-1)×(3-1) = 2 and edge points as 2×(2+3) = 10. Demonstrate the subtraction 2 - 10 to visually yield -8, correcting the claim that the count is 1.",
+   "Show a 5x2 rectangle grid. Visually count and display '6' for the interior points using the (w-1)×(h-1) rule, and '14' for the edge points using the 2×(w+h) rule. Then explicitly calculate 6 minus 14 to show the result is -8.",
+   "Show two rectangles side-by-side: one labeled '4x2' with a calculated Sorrel Count of -6, and another labeled '2x4' with a calculated Sorrel Count of -6. Visually highlight that the final number is identical in both cases to demonstrate that swapping dimensions does not change the result."
+  ],
+  "s2": [
+   "A visual breakdown showing that for any dimension 'n', there are exactly (n-1) intervals between grid points along that side. Therefore, a width of 'w' contains (w-1) interior horizontal steps and a height of 'h' contains (h-1) interior vertical steps. The total interior points form a grid of these steps, explicitly demonstrating the multiplication (w-1) × (h-1).",
+   "A visual breakdown showing that the top and bottom edges each contain (w+1) points and the left and right edges each contain (h+1) points, but because the four corner points are counted twice in this sum, you must subtract 4 to get the correct total of 2w + 2h + 4 - 4 = 2(w+h).",
+   "Show a 2x3 rectangle grid. Explicitly calculate interior points as (2-1)×(3-1) = 2 and edge points as 2×(2+3) = 10. Demonstrate the subtraction 2 - 10 to visually yield -8, correcting the claim that the count is 1.",
+   "Show a 5x2 rectangle grid. Visually count and display '6' for the interior points using the (w-1)×(h-1) rule, and '14' for the edge points using the 2×(w+h) rule. Then explicitly calculate 6 minus 14 to show the result is -8.",
+   "Show two rectangles side-by-side: one labeled '4x2' with a calculated Sorrel Count of -6, and another labeled '2x4' with a calculated Sorrel Count of -6. Visually highlight that the final number is identical in both cases to demonstrate that swapping dimensions does not change the result."
+  ],
+  "s3": [
+   "A visual breakdown showing that for any dimension 'n', there are exactly (n-1) intervals between grid points along that side. Therefore, a width of 'w' contains (w-1) interior horizontal steps and a height of 'h' contains (h-1) interior vertical steps. The total interior points form a grid of these steps, explicitly demonstrating the multiplication (w-1) × (h-1).",
+   "A visual breakdown showing that the top and bottom edges each contain (w+1) points and the left and right edges each contain (h+1) points, but because the four corner points are counted twice in this sum, you must subtract 4 to get the correct total of 2w + 2h + 4 - 4 = 2(w+h).",
+   "Show a 2x3 rectangle grid. Explicitly calculate interior points as (2-1)×(3-1) = 2 and edge points as 2×(2+3) = 10. Demonstrate the subtraction 2 - 10 to visually yield -8, correcting the claim that the count is 1.",
+   "Show a 5x2 rectangle grid. Visually count and display '6' for the interior points using the (w-1)×(h-1) rule, and '14' for the edge points using the 2×(w+h) rule. Then explicitly calculate 6 minus 14 to show the result is -8.",
+   "Show two rectangles side-by-side: one labeled '4x2' with a calculated Sorrel Count of -6, and another labeled '2x4' with a calculated Sorrel Count of -6. Visually highlight that the final number is identical in both cases to demonstrate that swapping dimensions does not change the result."
+  ],
+  "s4": [
+   "A visual breakdown showing that for any dimension 'n', there are exactly (n-1) intervals between grid points along that side. Therefore, a width of 'w' contains (w-1) interior horizontal steps and a height of 'h' contains (h-1) interior vertical steps. The total interior points form a grid of these steps, explicitly demonstrating the multiplication (w-1) × (h-1).",
+   "A visual breakdown showing that the top and bottom edges each contain (w+1) points and the left and right edges each contain (h+1) points, but because the four corner points are counted twice in this sum, you must subtract 4 to get the correct total of 2w + 2h + 4 - 4 = 2(w+h).",
+   "Show a 2x3 rectangle grid. Explicitly calculate interior points as (2-1)×(3-1) = 2 and edge points as 2×(2+3) = 10. Demonstrate the subtraction 2 - 10 to visually yield -8, correcting the claim that the count is 1.",
+   "Show a 5x2 rectangle grid. Visually count and display '6' for the interior points using the (w-1)×(h-1) rule, and '14' for the edge points using the 2×(w+h) rule. Then explicitly calculate 6 minus 14 to show the result is -8.",
+   "Show two rectangles side-by-side: one labeled '4x2' with a calculated Sorrel Count of -6, and another labeled '2x4' with a calculated Sorrel Count of -6. Visually highlight that the final number is identical in both cases to demonstrate that swapping dimensions does not change the result."
+  ]
+ },
+ "changed": [
+  "s1",
+  "s2",
+  "s3",
+  "s4"
+ ],
+ "dev_before": 56.2,
+ "dev_after": 43.8,
+ "mvqs_before": 80.25,
+ "mvqs_after": 71.42,
+ "kept": false,
+ "dir": "/home/mani/c2v-lab/runs/sorrel-counts-of-lattice-rectangles/learner_all"
+}

@@ -1,0 +1,21 @@
+{
+ "score": {
+  "mvqs": 70.38,
+  "s_sp": 87.0,
+  "s_ly": 26.3,
+  "s_ed": 72.1,
+  "states": 17,
+  "states_with_conflict": 5
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 70.38,
+   "conflicts": 8
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"swap_label\" (created line 45, box [2.788, 3.255, 3.612, 3.576]) overlaps Text \"title\" (line 6, box [-3.624, 3.11, 3.624, 3.5]) by 76%; moving it by [0.0, 0.4] would clear it"
+  }
+ ]
+}

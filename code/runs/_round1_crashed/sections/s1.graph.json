@@ -1,0 +1,1311 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    }
+   ]
+  },
+  {
+   "after_line": 44,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      -0.071,
+      3.243,
+      0.071
+     ],
+     "name": "label_a",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.319,
+      0.057,
+      -2.1
+     ],
+     "name": "label_b",
+     "line": 33,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 48,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      -0.071,
+      3.243,
+      0.071
+     ],
+     "name": "label_a",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.319,
+      0.057,
+      -2.1
+     ],
+     "name": "label_b",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "hypotenuse",
+     "line": 29,
+     "type": "Line"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      -0.071,
+      3.243,
+      0.071
+     ],
+     "name": "label_a",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.319,
+      0.057,
+      -2.1
+     ],
+     "name": "label_b",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "hypotenuse",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.061,
+      2.1,
+      0.061,
+      2.241
+     ],
+     "name": "label_c",
+     "line": 34,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 53,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      -0.071,
+      3.243,
+      0.071
+     ],
+     "name": "label_a",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.319,
+      0.057,
+      -2.1
+     ],
+     "name": "label_b",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "hypotenuse",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.061,
+      2.1,
+      0.061,
+      2.241
+     ],
+     "name": "label_c",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.85,
+      1.85,
+      3.15,
+      2.15
+     ],
+     "name": "right_angle",
+     "line": 37,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 59,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      -0.071,
+      3.243,
+      0.071
+     ],
+     "name": "label_a",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.319,
+      0.057,
+      -2.1
+     ],
+     "name": "label_b",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "hypotenuse",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.061,
+      2.1,
+      0.061,
+      2.241
+     ],
+     "name": "label_c",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.85,
+      1.85,
+      3.15,
+      2.15
+     ],
+     "name": "right_angle",
+     "line": 37,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.08,
+      -3.5,
+      6.08,
+      -3.166
+     ],
+     "name": "narration",
+     "line": 44,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 63,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      -0.071,
+      3.243,
+      0.071
+     ],
+     "name": "label_a",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.319,
+      0.057,
+      -2.1
+     ],
+     "name": "label_b",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "hypotenuse",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.061,
+      2.1,
+      0.061,
+      2.241
+     ],
+     "name": "label_c",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.85,
+      1.85,
+      3.15,
+      2.15
+     ],
+     "name": "right_angle",
+     "line": 37,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      -0.071,
+      3.243,
+      0.071
+     ],
+     "name": "label_a",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.319,
+      0.057,
+      -2.1
+     ],
+     "name": "label_b",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "hypotenuse",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.061,
+      2.1,
+      0.061,
+      2.241
+     ],
+     "name": "label_c",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.85,
+      1.85,
+      3.15,
+      2.15
+     ],
+     "name": "right_angle",
+     "line": 37,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -4.842,
+      -3.5,
+      4.842,
+      -3.166
+     ],
+     "name": "explanation",
+     "line": 67,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      -0.071,
+      3.243,
+      0.071
+     ],
+     "name": "label_a",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.319,
+      0.057,
+      -2.1
+     ],
+     "name": "label_b",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "hypotenuse",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.061,
+      2.1,
+      0.061,
+      2.241
+     ],
+     "name": "label_c",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.85,
+      1.85,
+      3.15,
+      2.15
+     ],
+     "name": "right_angle",
+     "line": 37,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      -0.071,
+      3.243,
+      0.071
+     ],
+     "name": "label_a",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.319,
+      0.057,
+      -2.1
+     ],
+     "name": "label_b",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "hypotenuse",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.061,
+      2.1,
+      0.061,
+      2.241
+     ],
+     "name": "label_c",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.85,
+      1.85,
+      3.15,
+      2.15
+     ],
+     "name": "right_angle",
+     "line": 37,
+     "type": "Square"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.459,
+      -3.5,
+      5.459,
+      -3.166
+     ],
+     "name": "explanation2",
+     "line": 75,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 80,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      -0.071,
+      3.243,
+      0.071
+     ],
+     "name": "label_a",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.319,
+      0.057,
+      -2.1
+     ],
+     "name": "label_b",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "hypotenuse",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.061,
+      2.1,
+      0.061,
+      2.241
+     ],
+     "name": "label_c",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.85,
+      1.85,
+      3.15,
+      2.15
+     ],
+     "name": "right_angle",
+     "line": 37,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 87,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -4.065,
+      2.995,
+      4.065,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "triangle",
+     "line": 22,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "leg_a",
+     "line": 25,
+     "type": "Line"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      -2.0
+     ],
+     "name": "leg_b",
+     "line": 26,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      3.1,
+      -0.071,
+      3.243,
+      0.071
+     ],
+     "name": "label_a",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.057,
+      -2.319,
+      0.057,
+      -2.1
+     ],
+     "name": "label_b",
+     "line": 33,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -3.0,
+      -2.0,
+      3.0,
+      2.0
+     ],
+     "name": "hypotenuse",
+     "line": 29,
+     "type": "Line"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.061,
+      2.1,
+      0.061,
+      2.241
+     ],
+     "name": "label_c",
+     "line": 34,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      2.85,
+      1.85,
+      3.15,
+      2.15
+     ],
+     "name": "right_angle",
+     "line": 37,
+     "type": "Square"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,115 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.962,
+      3.0,
+      2.962,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.962,
+      3.0,
+      2.962,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.728,
+      2.73,
+      -1.597,
+      2.996
+     ],
+     "name": "orig_mob",
+     "line": 14,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.097,
+      2.73,
+      -0.938,
+      2.996
+     ],
+     "name": "orig_mob",
+     "line": 14,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.438,
+      2.726,
+      -0.273,
+      3.0
+     ],
+     "name": "orig_mob",
+     "line": 14,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.227,
+      2.728,
+      0.404,
+      2.998
+     ],
+     "name": "orig_mob",
+     "line": 14,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.904,
+      2.726,
+      1.063,
+      3.0
+     ],
+     "name": "orig_mob",
+     "line": 14,
+     "type": "Integer"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.563,
+      2.726,
+      1.728,
+      3.0
+     ],
+     "name": "orig_mob",
+     "line": 14,
+     "type": "Integer"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "AttributeError",
+  "message": "Integer object has no attribute 'tex_string'",
+  "line": 29
+ }
+}

@@ -1,0 +1,1694 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.5,
+      0.5,
+      0.5
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    }
+   ]
+  },
+  {
+   "after_line": 25,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.5,
+      0.5,
+      0.5
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "i_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 17,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.716,
+      -0.483,
+      0.784,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.352,
+      0.61,
+      -0.25,
+      0.89
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -0.5,
+      -0.5,
+      0.5,
+      0.5
+     ],
+     "name": "square",
+     "line": 12,
+     "type": "Square"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.25,
+      -0.062,
+      0.75,
+      0.063
+     ],
+     "name": "i_hat",
+     "line": 16,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.062,
+      0.25,
+      0.063,
+      0.75
+     ],
+     "name": "j_hat",
+     "line": 17,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.716,
+      -0.483,
+      0.784,
+      -0.25
+     ],
+     "name": "i_label",
+     "line": 20,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.352,
+      0.61,
+      -0.25,
+      0.89
+     ],
+     "name": "j_label",
+     "line": 21,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 60,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 66,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.056,
+      -3.5,
+      3.056,
+      -3.166
+     ],
+     "name": "narration1",
+     "line": 64,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 69,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 74,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.121,
+      -3.5,
+      3.121,
+      -3.163
+     ],
+     "name": "narration2",
+     "line": 72,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 77,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 82,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.723,
+      -3.5,
+      2.723,
+      -3.166
+     ],
+     "name": "narration3",
+     "line": 80,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 85,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 90,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.146,
+      -3.5,
+      3.146,
+      -3.163
+     ],
+     "name": "narration4",
+     "line": 88,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 98,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.115,
+      -3.5,
+      3.115,
+      -3.166
+     ],
+     "name": "narration5",
+     "line": 52,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 101,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 106,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.835,
+      -3.5,
+      2.835,
+      -3.166
+     ],
+     "name": "narration6",
+     "line": 104,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 109,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 114,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      -6.611,
+      1.968,
+      -4.45,
+      3.5
+     ],
+     "name": "matrix",
+     "line": 29,
+     "type": "Matrix"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.964,
+      1.458,
+      -3.297,
+      1.718
+     ],
+     "name": "matrix_label",
+     "line": 31,
+     "type": "Text"
+    },
+    {
+     "kind": "Geom",
+     "box": [
+      0.0,
+      0.0,
+      3.0,
+      3.0
+     ],
+     "name": "parallelogram",
+     "line": 42,
+     "type": "Polygon"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.021,
+      -0.434,
+      1.979,
+      -0.25
+     ],
+     "name": "area_label",
+     "line": 46,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.035,
+      -3.5,
+      2.035,
+      -3.166
+     ],
+     "name": "narration7",
+     "line": 109,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 117,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.979,
+      3.0,
+      2.979,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    }
+   ]
+  },
+  {
+   "after_line": 120,
+   "objects": [
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      2.0,
+      1.0
+     ],
+     "name": "new_i",
+     "line": 38,
+     "type": "Vector"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.0,
+      0.0,
+      1.0,
+      2.0
+     ],
+     "name": "new_j",
+     "line": 39,
+     "type": "Vector"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

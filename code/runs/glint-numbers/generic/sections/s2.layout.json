@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 86.43,
+  "s_sp": 97.8,
+  "s_ly": 37.8,
+  "s_ed": 100.0,
+  "states": 11,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 84.01,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 86.43,
+   "conflict": "Text \"rule_text\" (created line 19, box [-2.544, -1.667, 2.544, -1.333]) overlaps Cross \"cross\" (line 17, box [-2.0, -2.0, 2.0, 2.0]) by 78%; moving it by [0.0, -0.82] would clear it"
+  }
+ ]
+}

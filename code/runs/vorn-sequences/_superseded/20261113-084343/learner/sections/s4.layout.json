@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 91.39,
+  "s_sp": 99.2,
+  "s_ly": 58.9,
+  "s_ed": 100.0,
+  "states": 11,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 73.19,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 91.39,
+   "conflict": "Arrow \"arrow\" (created line 23, box [-4.373, -0.675, -1.809, -0.325]) overlaps MathTex \"terms_group\" (line 12, box [-5.45, -0.749, -3.696, -0.251]) by 27%; moving it by [0.0, -0.57] would clear it"
+  }
+ ]
+}

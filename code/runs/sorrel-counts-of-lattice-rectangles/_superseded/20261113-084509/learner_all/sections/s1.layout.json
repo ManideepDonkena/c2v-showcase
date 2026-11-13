@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 57.43,
+  "s_sp": 61.2,
+  "s_ly": 75.7,
+  "s_ed": 38.9,
+  "states": 38,
+  "states_with_conflict": 29
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 55.05,
+   "conflicts": 76
+  },
+  {
+   "level": "block",
+   "mvqs": 57.43,
+   "conflict": "MathTex \"None\" (created line 59, box [-6.611, 3.002, -0.14, 3.5]) overlaps Text \"title\" (line 6, box [-3.011, 2.992, 3.011, 3.5]) by 46%; moving it by [0.0, -0.66] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"None\" (created line 63, box [1.692, 2.342, 6.611, 2.84]) overlaps MathTex \"count_edge\" (line 49, box [1.783, 2.28, 2.217, 2.623]) by 81%; moving it by [0.0, 0.43] would clear it"
+  }
+ ]
+}

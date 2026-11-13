@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 84.69,
+  "s_sp": 96.8,
+  "s_ly": 55.6,
+  "s_ed": 83.8,
+  "states": 21,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 83.72,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.69,
+   "conflict": "Text \"final\" (created line 192, box [-4.325, -3.5, 4.325, -3.166]) overlaps MathTex \"sorrel_text9\" (line 185, box [1.389, -3.334, 2.611, -3.152]) by 92%; moving it by [0.0, -0.32] would clear it"
+  }
+ ]
+}

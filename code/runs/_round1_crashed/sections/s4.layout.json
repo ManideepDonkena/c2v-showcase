@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 83.98,
+  "s_sp": 95.4,
+  "s_ly": 47.2,
+  "s_ed": 89.4,
+  "states": 17,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 80.1,
+   "conflicts": 5
+  },
+  {
+   "level": "shift",
+   "mvqs": 80.66,
+   "conflict": "Text \"narration4\" (created line 50, box [-2.066, -3.367, 2.066, -3.03]) overlaps Text \"narration1\" (line 37, box [-2.025, -3.5, 2.025, -3.166]) by 60%; moving it by [0.0, 0.35] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.97,
+   "conflict": "Text \"narration4\" (created line 50, box [-2.066, -3.017, 2.066, -2.68]) overlaps Text \"narration3\" (line 49, box [-1.845, -3.02, 1.845, -2.686]) by 99%; moving it by [0.0, 0.48] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 83.98,
+   "conflict": "Text \"narration1\" (created line 37, box [-2.025, -3.5, 2.025, -3.166]) overlaps Text \"narration5\" (line 25, box [-2.355, -3.5, 2.355, -3.166]) by 100%; moving it by [0.0, 0.48] would clear it"
+  }
+ ]
+}

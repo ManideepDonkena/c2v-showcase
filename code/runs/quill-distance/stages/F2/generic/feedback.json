@@ -1,0 +1,32 @@
+{
+ "stage": "F2",
+ "mode": "generic",
+ "features": [
+  "gate",
+  "preflight",
+  "safe_patch"
+ ],
+ "fixes": {
+  "s3": [
+   "teach this section's point more clearly and completely"
+  ],
+  "s2": [
+   "teach this section's point more clearly and completely"
+  ]
+ },
+ "changed": [
+  "s2",
+  "s3"
+ ],
+ "edit_size": {
+  "s2": 0.545,
+  "s3": 0.642
+ },
+ "diagnosis": "f0",
+ "dev_before": 45.5,
+ "dev_after": 22.7,
+ "mvqs_before": 85.01,
+ "mvqs_after": 84.54,
+ "kept": false,
+ "served": "base"
+}

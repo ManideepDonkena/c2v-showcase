@@ -1,0 +1,38 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 23,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 23: NameError: name 'Checkmark' is not defined\nline 60: NameError: name 'Checkmark' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 60,
+  "scope": "block",
+  "preflight": true,
+  "error": "line 60: NameError: name 'Checkmark' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 60,
+  "scope": "section",
+  "preflight": true,
+  "error": "line 60: NameError: name 'Checkmark' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 61,
+  "scope": "section",
+  "preflight": true,
+  "error": "line 61: NameError: name 'Checkmark' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 4,
+  "ok": true
+ }
+]

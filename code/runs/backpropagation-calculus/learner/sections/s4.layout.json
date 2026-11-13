@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 87.95,
+  "s_sp": 94.5,
+  "s_ly": 53.5,
+  "s_ed": 100.0,
+  "states": 10,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 71.57,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 87.95,
+   "conflict": "MathTex \"result\" (created line 13, box [-6.622, 1.792, -5.613, 2.446]) overlaps MathTex \"grad2\" (line 12, box [-6.622, 1.942, -5.613, 2.596]) by 77%; moving it by [0.0, -0.65] would clear it"
+  }
+ ]
+}

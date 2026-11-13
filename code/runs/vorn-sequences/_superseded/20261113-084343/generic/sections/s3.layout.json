@@ -1,0 +1,22 @@
+{
+ "score": {
+  "mvqs": 84.24,
+  "s_sp": 95.6,
+  "s_ly": 40.9,
+  "s_ed": 94.2,
+  "states": 12,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 82.59,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 84.24,
+   "conflict": "MathTex \"calc2\" (created line 51, box [-1.448, -3.514, 1.448, -3.203]) overlaps Text \"rule_text\" (line 7, box [-2.225, -3.5, 2.225, -3.203]) by 95%; moving it by [0.0, -0.45] would clear it"
+  }
+ ]
+}

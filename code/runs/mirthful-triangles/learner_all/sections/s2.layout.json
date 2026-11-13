@@ -1,0 +1,27 @@
+{
+ "score": {
+  "mvqs": 89.66,
+  "s_sp": 98.4,
+  "s_ly": 52.3,
+  "s_ed": 100.0,
+  "states": 50,
+  "states_with_conflict": 0
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 88.82,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 89.24,
+   "conflict": "MathTex \"ineq3\" (created line 84, box [-4.299, 0.123, -2.217, 0.343]) overlaps Triangle \"triangle3\" (line 71, box [-2.598, -1.5, 2.598, 3.0]) by 18%; moving it by [-0.53, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 89.66,
+   "conflict": "Text \"q\" (created line 154, box [-5.9, -1.584, 5.9, -1.25]) overlaps MathTex \"labels6\" (line 147, box [-1.952, -1.337, -1.512, -1.0]) by 25%; moving it by [0.0, -0.24] would clear it"
+  }
+ ]
+}

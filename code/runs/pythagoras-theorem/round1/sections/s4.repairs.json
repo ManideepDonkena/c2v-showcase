@@ -1,0 +1,30 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 24,
+  "scope": "line",
+  "error": "TypeError: Animation only works on Mobjects"
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 22,
+  "scope": "block",
+  "error": "TypeError: Object <function _AnimationBuilder.__getattr__.<locals>.update_target at 0x78f811ff44a0> cannot be converted to an animation"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 24,
+  "scope": "section",
+  "error": "TypeError: Animation only works on Mobjects"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 21,
+  "scope": "section",
+  "error": "TypeError: Animation only works on Mobjects"
+ }
+]

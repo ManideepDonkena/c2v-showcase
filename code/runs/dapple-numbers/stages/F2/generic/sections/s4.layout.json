@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 66.97,
+  "s_sp": 87.0,
+  "s_ly": 27.3,
+  "s_ed": 60.0,
+  "states": 12,
+  "states_with_conflict": 8
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 66.44,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 66.62,
+   "conflict": "MathTex \"digit_2\" (created line 21, box [0.217, 2.219, 0.383, 2.495]) overlaps MathTex \"digit_5\" (line 16, box [0.217, 2.219, 0.383, 2.495]) by 100%; moving it by [0.32, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 66.8,
+   "conflict": "MathTex \"digit_2\" (created line 21, box [0.537, 2.219, 0.703, 2.495]) overlaps MathTex \"digit_5\" (line 16, box [0.537, 2.219, 0.703, 2.495]) by 100%; moving it by [0.32, 0.0] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 66.97,
+   "conflict": "MathTex \"digit_2\" (created line 21, box [0.857, 2.219, 1.023, 2.495]) overlaps MathTex \"digit_5\" (line 16, box [0.857, 2.219, 1.023, 2.495]) by 100%; moving it by [0.32, 0.0] would clear it"
+  }
+ ]
+}

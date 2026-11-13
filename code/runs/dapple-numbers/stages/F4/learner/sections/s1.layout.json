@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 80.85,
+  "s_sp": 97.6,
+  "s_ly": 17.8,
+  "s_ed": 95.0,
+  "states": 12,
+  "states_with_conflict": 1
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 78.9,
+   "conflicts": 1
+  },
+  {
+   "level": "shift",
+   "mvqs": 80.85,
+   "conflict": "MathTex \"number_text\" (created line 32, box [-0.373, -0.286, 0.373, 0.286]) overlaps MathTex \"pulse\" (line None, box [-0.373, -0.286, 0.373, 0.286]) by 100%; moving it by [0.0, 0.72] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"condition\" (created line 44, box [-1.266, -0.158, 1.266, 0.184]) overlaps MathTex \"pulse\" (line None, box [-0.373, -0.286, 0.373, 0.286]) by 59%; moving it by [0.0, 0.59] would clear it"
+  }
+ ]
+}

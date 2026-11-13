@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 82.52,
+  "s_sp": 97.3,
+  "s_ly": 31.7,
+  "s_ed": 91.8,
+  "states": 22,
+  "states_with_conflict": 3
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 82.21,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 82.22,
+   "conflict": "Text \"not_glint_13\" (created line 63, box [-0.773, -0.85, 0.773, -0.593]) overlaps MathTex \"div_13\" (line 7, box [-1.617, -0.944, 1.617, -0.593]) by 100%; moving it by [0.0, 0.41] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 82.36,
+   "conflict": "Text \"not_glint_13\" (created line 63, box [-0.773, -0.44, 0.773, -0.183]) overlaps MathTex \"example_13\" (line 54, box [-0.432, -0.343, 0.432, 0.343]) by 34%; moving it by [0.0, -0.31] would clear it"
+  },
+  {
+   "level": "section",
+   "mvqs": 82.52,
+   "conflict": "Text \"not_glint_13\" (created line 62, box [-0.773, -0.54, 0.773, -0.283]) overlaps MathTex \"example_13\" (line 51, box [-0.432, -0.343, 0.432, 0.343]) by 13%; moving it by [0.0, -0.21] would clear it"
+  }
+ ]
+}

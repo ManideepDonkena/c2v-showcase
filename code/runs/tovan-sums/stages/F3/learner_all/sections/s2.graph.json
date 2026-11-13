@@ -1,0 +1,2545 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 12,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      2.933,
+      -4.991,
+      3.5
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 20,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      2.933,
+      -4.991,
+      3.5
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "zero",
+     "line": 15,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.073,
+      -0.12,
+      0.073,
+      0.12
+     ],
+     "name": "zero_label",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      2.933,
+      -4.991,
+      3.5
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 28,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.961,
+      2.956,
+      -5.641,
+      3.477
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 33,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.961,
+      2.956,
+      -5.641,
+      3.477
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.022,
+      2.933,
+      6.611,
+      3.5
+     ],
+     "name": "right_expr",
+     "line": 32,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 41,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.961,
+      2.956,
+      -5.641,
+      3.477
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.022,
+      2.933,
+      6.611,
+      3.5
+     ],
+     "name": "right_expr",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "zero_c",
+     "line": 37,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.073,
+      -0.12,
+      0.073,
+      0.12
+     ],
+     "name": "zero_label_r",
+     "line": 39,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 45,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.961,
+      2.956,
+      -5.641,
+      3.477
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.022,
+      2.933,
+      6.611,
+      3.5
+     ],
+     "name": "right_expr",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 49,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.961,
+      2.956,
+      -5.641,
+      3.477
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.656,
+      2.956,
+      5.977,
+      3.477
+     ],
+     "name": "right_expr",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 54,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.961,
+      2.956,
+      -5.641,
+      3.477
+     ],
+     "name": "left_expr",
+     "line": 11,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      5.656,
+      2.956,
+      5.977,
+      3.477
+     ],
+     "name": "right_expr",
+     "line": 32,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.01,
+      -3.5,
+      1.01,
+      -3.243
+     ],
+     "name": "comm_text",
+     "line": 53,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 58,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 72,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.1,
+      -0.3,
+      -0.5,
+      0.3
+     ],
+     "name": "chain",
+     "line": 61,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "chain",
+     "line": 58,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -0.3,
+      1.1,
+      0.3
+     ],
+     "name": "chain",
+     "line": 63,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.118,
+      -0.723,
+      0.118
+     ],
+     "name": "labels",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.194,
+      -0.116,
+      0.194,
+      0.116
+     ],
+     "name": "labels",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.73,
+      -0.116,
+      0.87,
+      0.116
+     ],
+     "name": "labels",
+     "line": 69,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 78,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.1,
+      -0.3,
+      -0.5,
+      0.3
+     ],
+     "name": "chain",
+     "line": 61,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "chain",
+     "line": 58,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -0.3,
+      1.1,
+      0.3
+     ],
+     "name": "chain",
+     "line": 63,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.118,
+      -0.723,
+      0.118
+     ],
+     "name": "labels",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.194,
+      -0.116,
+      0.194,
+      0.116
+     ],
+     "name": "labels",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.73,
+      -0.116,
+      0.87,
+      0.116
+     ],
+     "name": "labels",
+     "line": 69,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "merged_1",
+     "line": 76,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.194,
+      -0.116,
+      0.194,
+      0.116
+     ],
+     "name": "merged_label_1",
+     "line": 77,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 84,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.1,
+      -0.3,
+      -0.5,
+      0.3
+     ],
+     "name": "chain",
+     "line": 61,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "chain",
+     "line": 58,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -0.3,
+      1.1,
+      0.3
+     ],
+     "name": "chain",
+     "line": 63,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.118,
+      -0.723,
+      0.118
+     ],
+     "name": "labels",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.194,
+      -0.116,
+      0.194,
+      0.116
+     ],
+     "name": "labels",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.73,
+      -0.116,
+      0.87,
+      0.116
+     ],
+     "name": "labels",
+     "line": 69,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "merged_1",
+     "line": 76,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.194,
+      -0.116,
+      0.194,
+      0.116
+     ],
+     "name": "merged_label_1",
+     "line": 77,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "final_circle",
+     "line": 82,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.194,
+      -0.116,
+      0.194,
+      0.116
+     ],
+     "name": "final_label",
+     "line": 78,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 89,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -1.1,
+      -0.3,
+      -0.5,
+      0.3
+     ],
+     "name": "chain",
+     "line": 61,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "chain",
+     "line": 58,
+     "type": "Circle"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.5,
+      -0.3,
+      1.1,
+      0.3
+     ],
+     "name": "chain",
+     "line": 63,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.877,
+      -0.118,
+      -0.723,
+      0.118
+     ],
+     "name": "labels",
+     "line": 67,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.194,
+      -0.116,
+      0.194,
+      0.116
+     ],
+     "name": "labels",
+     "line": 68,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.73,
+      -0.116,
+      0.87,
+      0.116
+     ],
+     "name": "labels",
+     "line": 69,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "merged_1",
+     "line": 76,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.194,
+      -0.116,
+      0.194,
+      0.116
+     ],
+     "name": "merged_label_1",
+     "line": 77,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "final_circle",
+     "line": 82,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.194,
+      -0.116,
+      0.194,
+      0.116
+     ],
+     "name": "final_label",
+     "line": 78,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -3.311,
+      -3.5,
+      3.311,
+      -3.166
+     ],
+     "name": "explain_text",
+     "line": 88,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 93,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 97,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.797,
+      2.902,
+      2.797,
+      3.5
+     ],
+     "name": "formula",
+     "line": 96,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 101,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.797,
+      2.902,
+      2.797,
+      3.5
+     ],
+     "name": "formula",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.145,
+      2.004,
+      2.145,
+      2.602
+     ],
+     "name": "step1",
+     "line": 100,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 105,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.797,
+      2.902,
+      2.797,
+      3.5
+     ],
+     "name": "formula",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.145,
+      2.004,
+      2.145,
+      2.602
+     ],
+     "name": "step1",
+     "line": 100,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.913,
+      1.107,
+      1.913,
+      1.704
+     ],
+     "name": "step2",
+     "line": 104,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 109,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.797,
+      2.902,
+      2.797,
+      3.5
+     ],
+     "name": "formula",
+     "line": 96,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -2.145,
+      2.004,
+      2.145,
+      2.602
+     ],
+     "name": "step1",
+     "line": 100,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.913,
+      1.107,
+      1.913,
+      1.704
+     ],
+     "name": "step2",
+     "line": 104,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.656,
+      0.409,
+      0.656,
+      0.807
+     ],
+     "name": "step3",
+     "line": 108,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 113,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 116,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.337,
+      2.902,
+      1.337,
+      3.5
+     ],
+     "name": "paren_expr",
+     "line": 115,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 121,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.337,
+      2.902,
+      1.337,
+      3.5
+     ],
+     "name": "paren_expr",
+     "line": 115,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.1,
+      -0.1,
+      0.1,
+      0.1
+     ],
+     "name": "highlight",
+     "line": 120,
+     "type": "SurroundingRectangle"
+    }
+   ]
+  },
+  {
+   "after_line": 126,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.337,
+      2.902,
+      1.337,
+      3.5
+     ],
+     "name": "paren_expr",
+     "line": 115,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.1,
+      -0.1,
+      0.1,
+      0.1
+     ],
+     "name": "highlight",
+     "line": 120,
+     "type": "SurroundingRectangle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.303,
+      -3.5,
+      1.303,
+      -3.238
+     ],
+     "name": "paren_text",
+     "line": 125,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 129,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 134,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.155,
+      3.018,
+      1.155,
+      3.5
+     ],
+     "name": "final_title",
+     "line": 133,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 144,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -1.155,
+      3.018,
+      1.155,
+      3.5
+     ],
+     "name": "final_title",
+     "line": 133,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.447,
+      0.598,
+      -2.507,
+      0.864
+     ],
+     "name": "rules",
+     "line": 138,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.27,
+      0.152,
+      -2.683,
+      0.358
+     ],
+     "name": "rules",
+     "line": 139,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      -0.355,
+      -2.342,
+      -0.088
+     ],
+     "name": "rules",
+     "line": 140,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -5.73,
+      -0.864,
+      -3.224,
+      -0.595
+     ],
+     "name": "rules",
+     "line": 141,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 147,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -3.289,
+      3.0,
+      3.289,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven",
+     "line": 16,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label",
+     "line": 18,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      -0.3,
+      -0.3,
+      0.3,
+      0.3
+     ],
+     "name": "seven_c",
+     "line": 36,
+     "type": "Circle"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -0.075,
+      -0.122,
+      0.075,
+      0.122
+     ],
+     "name": "seven_label_r",
+     "line": 38,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": null
+}

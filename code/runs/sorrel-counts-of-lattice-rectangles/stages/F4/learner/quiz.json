@@ -1,0 +1,187 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the formula for the number of grid points strictly inside a w × h rectangle?",
+   "options": {
+    "A": "(w-1)×(h-1)",
+    "B": "w×h",
+    "C": "2×(w+h)",
+    "D": "w+h-2"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q2",
+   "question": "What is the formula for the number of grid points on the edges of a w × h rectangle?",
+   "options": {
+    "A": "w×h",
+    "B": "(w-1)×(h-1)",
+    "C": "2×(w+h)",
+    "D": "2×w + 2×h - 4"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q3",
+   "question": "Calculate the sorrel count for a 3 × 3 square.",
+   "options": {
+    "A": "-8",
+    "B": "4",
+    "C": "12",
+    "D": "0"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q5",
+   "question": "If you swap the width and height of a rectangle, what happens to its sorrel count?",
+   "options": {
+    "A": "It doubles",
+    "B": "It becomes negative",
+    "C": "It stays the same",
+    "D": "It increases by 2"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q6",
+   "question": "Why do small rectangles often have negative sorrel counts?",
+   "options": {
+    "A": "They have no inside points",
+    "B": "Edge points exceed inside points",
+    "C": "The formula is invalid",
+    "D": "Points are counted twice"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q10",
+   "question": "A student claims a 2 × 3 rectangle has a sorrel count of 1. What is the error?",
+   "options": {
+    "A": "Inside points are 1",
+    "B": "Edge points are 10",
+    "C": "Count should be -9",
+    "D": "Count should be -7"
+   },
+   "answer": "D"
+  },
+  {
+   "id": "q11",
+   "question": "What is the sorrel count for a 5 × 2 rectangle?",
+   "options": {
+    "A": "-7",
+    "B": "7",
+    "C": "-9",
+    "D": "0"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q12",
+   "question": "Which statement is a common misconception about sorrel counts?",
+   "options": {
+    "A": "They can be negative",
+    "B": "Swapping dimensions changes the count",
+    "C": "Inside points are always positive",
+    "D": "Edge points include corners"
+   },
+   "answer": "B"
+  }
+ ],
+ "test": [
+  {
+   "question": "What is the sorrel count of a 4 × 4 square?",
+   "options": {
+    "A": "-16",
+    "B": "-7",
+    "C": "7",
+    "D": "9"
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "What is the sorrel count of a 2 × 5 rectangle?",
+   "options": {
+    "A": "10",
+    "B": "4",
+    "C": "-4",
+    "D": "-10"
+   },
+   "answer": "D",
+   "id": "t2"
+  },
+  {
+   "question": "How many grid points are strictly inside a 5 × 3 rectangle?",
+   "options": {
+    "A": "16",
+    "B": "8",
+    "C": "15",
+    "D": "6"
+   },
+   "answer": "B",
+   "id": "t3"
+  },
+  {
+   "question": "How many grid points lie on the edges of a 5 × 3 rectangle?",
+   "options": {
+    "A": "15",
+    "B": "20",
+    "C": "8",
+    "D": "16"
+   },
+   "answer": "D",
+   "id": "t4"
+  },
+  {
+   "question": "A 3 × 7 and a 7 × 3 rectangle: how do their sorrel counts compare?",
+   "options": {
+    "A": "The 7 × 3 one is larger",
+    "B": "The 3 × 7 one is larger",
+    "C": "They are equal",
+    "D": "One is the negative of the other"
+   },
+   "answer": "C",
+   "id": "t5"
+  },
+  {
+   "question": "What is the sorrel count of a 1 × 1 square?",
+   "options": {
+    "A": "-4",
+    "B": "0",
+    "C": "1",
+    "D": "-1"
+   },
+   "answer": "A",
+   "id": "t6"
+  },
+  {
+   "question": "For which rectangle is the sorrel count positive?",
+   "options": {
+    "A": "8 × 8",
+    "B": "2 × 2",
+    "C": "3 × 4",
+    "D": "1 × 9"
+   },
+   "answer": "A",
+   "id": "t7"
+  },
+  {
+   "question": "The sorrel count is...",
+   "options": {
+    "A": "all grid points of the rectangle",
+    "B": "the area minus the perimeter",
+    "C": "points inside minus points on the edges",
+    "D": "points on the edges minus points inside"
+   },
+   "answer": "C",
+   "id": "t8"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 8,
+ "dev_leaked": []
+}

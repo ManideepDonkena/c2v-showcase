@@ -1,0 +1,286 @@
+{
+ "states": [
+  {
+   "after_line": 7,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.934,
+      3.0,
+      2.934,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 13,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.934,
+      3.0,
+      2.934,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    }
+   ]
+  },
+  {
+   "after_line": 18,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.934,
+      3.0,
+      2.934,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": "A",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.736,
+      0.421,
+      2.264,
+      0.67
+     ],
+     "name": "label_A",
+     "line": 17,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 24,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.934,
+      3.0,
+      2.934,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": "A",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.736,
+      0.421,
+      2.264,
+      0.67
+     ],
+     "name": "label_A",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.071,
+      1.071,
+      1.929,
+      1.929
+     ],
+     "name": "step1_arrow",
+     "line": 22,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.164,
+      2.179,
+      1.836,
+      2.403
+     ],
+     "name": "step1_label",
+     "line": 23,
+     "type": "MathTex"
+    }
+   ]
+  },
+  {
+   "after_line": 30,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.934,
+      3.0,
+      2.934,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Deco",
+     "box": [
+      -7.0,
+      -4.0,
+      7.0,
+      4.0
+     ],
+     "name": "grid",
+     "line": 11,
+     "type": "NumberPlane"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.92,
+      0.92,
+      2.08,
+      1.08
+     ],
+     "name": "A",
+     "line": 16,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.736,
+      0.421,
+      2.264,
+      0.67
+     ],
+     "name": "label_A",
+     "line": 17,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      1.071,
+      1.071,
+      1.929,
+      1.929
+     ],
+     "name": "step1_arrow",
+     "line": 22,
+     "type": "Arrow"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      1.164,
+      2.179,
+      1.836,
+      2.403
+     ],
+     "name": "step1_label",
+     "line": 23,
+     "type": "MathTex"
+    },
+    {
+     "kind": "Mark",
+     "box": [
+      0.92,
+      1.92,
+      1.08,
+      2.08
+     ],
+     "name": "B_inter",
+     "line": 28,
+     "type": "Dot"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      0.521,
+      2.33,
+      1.479,
+      2.579
+     ],
+     "name": "label_B_inter",
+     "line": 29,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "ValueError",
+  "message": "operands could not be broadcast together with shapes (2,) (3,) ",
+  "line": 34
+ }
+}

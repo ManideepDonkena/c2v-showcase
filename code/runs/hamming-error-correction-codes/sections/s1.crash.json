@@ -1,0 +1,55 @@
+{
+ "states": [
+  {
+   "after_line": 8,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.613,
+      3.0,
+      2.613,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    }
+   ]
+  },
+  {
+   "after_line": 14,
+   "objects": [
+    {
+     "kind": "Text",
+     "box": [
+      -2.613,
+      3.0,
+      2.613,
+      3.5
+     ],
+     "name": "title",
+     "line": 6,
+     "type": "Text"
+    },
+    {
+     "kind": "Text",
+     "box": [
+      -6.611,
+      1.357,
+      -6.059,
+      1.643
+     ],
+     "name": "original",
+     "line": 12,
+     "type": "MathTex"
+    }
+   ]
+  }
+ ],
+ "error": {
+  "type": "OSError",
+  "message": "From: /home/mani/c2v-lab, could not find assets/lightning.svg at either of these locations: ['assets/lightning.svg', 'assets/lightning.svg', 'assets/lightning.svg.svg']",
+  "line": 18
+ }
+}

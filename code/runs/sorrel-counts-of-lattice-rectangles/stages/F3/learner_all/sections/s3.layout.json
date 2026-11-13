@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 80.19,
+  "s_sp": 91.7,
+  "s_ly": 64.0,
+  "s_ed": 71.8,
+  "states": 17,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 74.14,
+   "conflicts": 4
+  },
+  {
+   "level": "shift",
+   "mvqs": 75.48,
+   "conflict": "MathTex \"interior_label\" (created line 22, box [-1.11, -1.499, 1.11, -1.25]) overlaps Rectangle \"rect\" (line 12, box [-1.0, -2.0, 1.0, 2.0]) by 90%; moving it by [0.0, -0.9] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 79.11,
+   "conflict": "MathTex \"generic\" (created line 74, box [-2.822, 3.189, 2.822, 3.5]) overlaps Text \"title\" (line 6, box [-1.8, 3.0, 1.8, 3.5]) by 63%; moving it by [0.0, 0.46] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 80.19,
+   "conflict": "MathTex \"ex_interior\" (created line 92, box [-1.748, 3.15, 1.748, 3.399]) overlaps Text \"title\" (line 6, box [-1.8, 3.0, 1.8, 3.5]) by 100%; moving it by [0.0, 0.5] would clear it"
+  }
+ ]
+}

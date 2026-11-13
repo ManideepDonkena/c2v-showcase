@@ -1,0 +1,187 @@
+{
+ "dev": [
+  {
+   "id": "q1",
+   "question": "What is the fundamental mathematical relationship between the width of a signal in time and its width in frequency?",
+   "options": {
+    "A": "They are independent of each other.",
+    "B": "Their product is bounded by a constant.",
+    "C": "Their sum is always equal to one.",
+    "D": "One is the derivative of the other."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q2",
+   "question": "If a pulse in time becomes twice as narrow, what happens to the width of its Fourier transform in frequency?",
+   "options": {
+    "A": "It becomes half as wide.",
+    "B": "It remains unchanged.",
+    "C": "It becomes twice as wide.",
+    "D": "It becomes four times as wide."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q3",
+   "question": "Which function shape minimizes the product of its time width and frequency width?",
+   "options": {
+    "A": "Rectangular pulse",
+    "B": "Gaussian function",
+    "C": "Sine wave",
+    "D": "Dirac delta"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q4",
+   "question": "Why can a signal not be perfectly localized in both time and frequency simultaneously?",
+   "options": {
+    "A": "Due to measurement noise.",
+    "B": "Because of quantum effects.",
+    "C": "Mathematical constraints of Fourier pairs.",
+    "D": "Because of aliasing errors."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "q5",
+   "question": "Consider a signal with a standard deviation in time σ_t = 2 ms. If its frequency spectrum has σ_f = 100 Hz, what is the product σ_t * σ_f?",
+   "options": {
+    "A": "0.2",
+    "B": "0.5",
+    "C": "2.0",
+    "D": "50"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q6",
+   "question": "What is the Fourier transform of a Dirac delta function δ(t)?",
+   "options": {
+    "A": "A constant (flat spectrum)",
+    "B": "Another delta function",
+    "C": "Zero everywhere",
+    "D": "A sine wave"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q7",
+   "question": "If you increase the duration of a time-domain window by a factor of 4, how does the main lobe width of its spectral leakage change?",
+   "options": {
+    "A": "It decreases by a factor of 4.",
+    "B": "It decreases by a factor of 2.",
+    "C": "It increases by a factor of 2.",
+    "D": "It remains the same."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "q9",
+   "question": "A signal is defined as s(t) = e^(-|t|). Its Fourier transform magnitude decays as 1/(1+f²). Is this signal optimally localized?",
+   "options": {
+    "A": "Yes, it is optimal.",
+    "B": "No, Gaussian is better.",
+    "C": "It depends on the bandwidth.",
+    "D": "It is undefined."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q10",
+   "question": "In digital signal processing, if you zero-pad a time-domain signal to double its length, what happens to the frequency resolution?",
+   "options": {
+    "A": "It improves significantly.",
+    "B": "It stays exactly the same.",
+    "C": "It becomes worse.",
+    "D": "It doubles."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q11",
+   "question": "If a frequency spectrum is a perfect rectangle (brick-wall filter), what does the time-domain signal look like?",
+   "options": {
+    "A": "A Gaussian pulse.",
+    "B": "A sinc function.",
+    "C": "An exponential decay.",
+    "D": "A constant DC value."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q12",
+   "question": "What is the lower bound of the product σ_t * σ_f for any square-integrable function?",
+   "options": {
+    "A": "0",
+    "B": "1/4π",
+    "C": "1/2",
+    "D": "∞"
+   },
+   "answer": "B"
+  }
+ ],
+ "test": [
+  {
+   "question": "Which of the following best illustrates the difference between a sine wave and a square pulse as discussed in the context of waves and signals?",
+   "options": {
+    "A": "Both are equally localized in time and frequency.",
+    "B": "A sine wave is periodic and spread out, while a square pulse is localized in time.",
+    "C": "A square pulse is periodic with indefinite frequency, and a sine wave is localized in time.",
+    "D": "Both are highly localized in the frequency domain."
+   },
+   "answer": "B",
+   "id": "t1"
+  },
+  {
+   "question": "What does the Fourier Transform allow us to do with a signal?",
+   "options": {
+    "A": "Transform a function from one unit system to another.",
+    "B": "Convert a signal between its time/space domain and frequency domain representations.",
+    "C": "Compress a signal to reduce its spread in all domains.",
+    "D": "Eliminate uncertainty in the measurement of signals."
+   },
+   "answer": "B",
+   "id": "t2"
+  },
+  {
+   "question": "When discussing the spread or uncertainty of a function, what does a larger variance in the time domain usually mean about its Fourier transform?",
+   "options": {
+    "A": "The transformed function will also have a larger variance.",
+    "B": "The spread in the frequency domain decreases as the spread in time increases.",
+    "C": "The variance remains unchanged in both domains.",
+    "D": "The spread in the frequency domain increases as the spread in time increases."
+   },
+   "answer": "B",
+   "id": "t3"
+  },
+  {
+   "question": "According to the uncertainty principle shown with the cheetah and whale examples, what happens to the frequency spread as a signal becomes more localized in time?",
+   "options": {
+    "A": "It becomes more localized in frequency as well.",
+    "B": "Its frequency spread narrows.",
+    "C": "Its frequency spread remains unchanged.",
+    "D": "Its frequency spread widens."
+   },
+   "answer": "D",
+   "id": "t4"
+  },
+  {
+   "question": "Why is it impossible for a musical instrument to generate a pulse that is perfectly localized in both time and frequency, as shown in the applications section?",
+   "options": {
+    "A": "Instruments are limited by mechanical constraints, not physical laws.",
+    "B": "Because to be highly localized in time, the signal must be spread out in frequency, and vice versa, due to the uncertainty principle.",
+    "C": "Because sound cannot be both loud and quiet at the same time.",
+    "D": "It is possible; limitations are only technological."
+   },
+   "answer": "B",
+   "id": "t5"
+  }
+ ],
+ "test_source": "official",
+ "test_leaked": [],
+ "written": 12,
+ "known": 11,
+ "dev_leaked": []
+}

@@ -1,0 +1,60 @@
+{
+ "kind": "f4",
+ "fixes": {
+  "s3": [
+   "SHOW the point (4, 6) and an arrow labeled 'Step 1' leading to a new point. SAY 'The first step takes us from (4, 6) to (6, 7)' and display the label '(6, 7)' at that final position."
+  ]
+ },
+ "items": {
+  "q1": 0.9990049999999999,
+  "q2": 0.030448,
+  "q3": 0.999962,
+  "q4": 0.9991295,
+  "q5": 0.9999994999999999,
+  "q6": 0.0074335,
+  "q7": 0.0012915,
+  "q8": 0.9985554999999999,
+  "q9": 0.5020065,
+  "q10": 0.9982685,
+  "q11": 0.9976545,
+  "q12": 0.9999739999999999
+ },
+ "qmap": {
+  "q1": "s1",
+  "q2": "s4",
+  "q3": "s1",
+  "q4": "s3",
+  "q5": "s4",
+  "q6": "s3",
+  "q7": "s1",
+  "q8": "s3",
+  "q9": "s3",
+  "q10": "s1",
+  "q11": "s4",
+  "q12": "s1"
+ },
+ "ochiai": {
+  "s1": 0.2581988897471611,
+  "s2": 0.0,
+  "s3": 0.2886751345948129,
+  "s4": 0.3333333333333333
+ },
+ "chosen": [
+  "s4",
+  "s3"
+ ],
+ "k": 2,
+ "failing": [
+  "q2",
+  "q6",
+  "q7"
+ ],
+ "refused": [
+  {
+   "item": "q2",
+   "idea": "SHOW a specific numeric example starting from the origin (0, 0). SAY: 'Let's apply the rule to (0, 0). First, swap to get (0, 0), then add 1 to the second number to land on (0, 1). Now take that result (0, 1) and step again: swap to get (1, 0), then add 1 to the second number to land on (1, 1).' This explicitly demonstrates that two steps from (0,0) result in (1,1), which is the specific instance of the general identity (+1, +1) shown in s4.",
+   "why": "leaks a number or an option of the DEV item"
+  }
+ ],
+ "dev": 12
+}

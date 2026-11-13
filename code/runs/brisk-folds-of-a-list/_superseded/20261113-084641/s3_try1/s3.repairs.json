@@ -1,0 +1,35 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 51,
+  "scope": "line",
+  "preflight": true,
+  "error": "line 51: NameError: name 'ShowCreation' is not defined\nHINT: A name is used before it is defined, or a math symbol was written as Python. Define it, or put it in a string."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 74,
+  "scope": "block",
+  "error": "TypeError: Animation only works on Mobjects"
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 74,
+  "scope": "section",
+  "error": "TypeError: Animation only works on Mobjects"
+ },
+ {
+  "attempt": 3,
+  "ok": false,
+  "line": 75,
+  "scope": "section",
+  "error": "TypeError: Animation only works on Mobjects"
+ },
+ {
+  "attempt": 4,
+  "ok": false
+ }
+]

@@ -1,0 +1,31 @@
+{
+ "score": {
+  "mvqs": 81.12,
+  "s_sp": 94.8,
+  "s_ly": 41.2,
+  "s_ed": 85.0,
+  "states": 16,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 80.56,
+   "conflicts": 3
+  },
+  {
+   "level": "shift",
+   "mvqs": 80.69,
+   "conflict": "Text \"narration_2\" (created line 55, box [-2.892, -4.084, 1.071, -3.75]) is outside the frame; shift it by [0.0, 0.23]"
+  },
+  {
+   "level": "shift",
+   "mvqs": 81.12,
+   "conflict": "Text \"rule3\" (created line 79, box [-2.431, 0.916, 3.923, 1.249]) overlaps MathTex \"num_75\" (line 11, box [-0.185, 0.855, 0.185, 1.145]) by 79%; moving it by [0.0, 0.38] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "Text \"rule3\" (created line 79, box [-2.431, 1.296, 3.923, 1.629]) overlaps Text \"rule2\" (line 74, box [-2.431, 1.499, 3.747, 1.833]) by 38%; moving it by [0.0, -0.28] would clear it"
+  }
+ ]
+}

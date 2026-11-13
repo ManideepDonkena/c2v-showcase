@@ -1,0 +1,27 @@
+[
+ {
+  "attempt": 0,
+  "ok": false,
+  "line": 21,
+  "scope": "line",
+  "error": "ValueError: operands could not be broadcast together with shapes (32,3) (2,) (32,3) \nHINT: Manim points are 3-D: write [x, y, 0], never (x, y)."
+ },
+ {
+  "attempt": 1,
+  "ok": false,
+  "line": 26,
+  "scope": "block",
+  "error": "ValueError: operands could not be broadcast together with shapes (2,) (3,) \nHINT: Manim points are 3-D: write [x, y, 0], never (x, y)."
+ },
+ {
+  "attempt": 2,
+  "ok": false,
+  "line": 38,
+  "scope": "section",
+  "error": "ValueError: operands could not be broadcast together with shapes (2,) (3,) \nHINT: Manim points are 3-D: write [x, y, 0], never (x, y)."
+ },
+ {
+  "attempt": 3,
+  "ok": true
+ }
+]

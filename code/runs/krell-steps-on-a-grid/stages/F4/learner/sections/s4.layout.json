@@ -1,0 +1,26 @@
+{
+ "score": {
+  "mvqs": 77.51,
+  "s_sp": 90.4,
+  "s_ly": 56.7,
+  "s_ed": 70.0,
+  "states": 8,
+  "states_with_conflict": 4
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 77.33,
+   "conflicts": 2
+  },
+  {
+   "level": "shift",
+   "mvqs": 77.51,
+   "conflict": "MathTex \"label2\" (created line 39, box [1.117, 2.467, 2.311, 2.915]) overlaps MathTex \"label1\" (line 31, box [0.696, 2.42, 1.875, 2.868]) by 57%; moving it by [0.0, 0.55] would clear it"
+  },
+  {
+   "level": "none kept",
+   "conflict": "MathTex \"label2\" (created line 39, box [1.117, 3.017, 2.311, 3.465]) overlaps Text \"title\" (line 6, box [-2.934, 3.3, 2.934, 3.8]) by 36%; moving it by [0.0, -0.32] would clear it"
+  }
+ ]
+}

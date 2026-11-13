@@ -1,0 +1,32 @@
+{
+ "score": {
+  "mvqs": 74.05,
+  "s_sp": 84.7,
+  "s_ly": 62.5,
+  "s_ed": 64.0,
+  "states": 35,
+  "states_with_conflict": 21
+ },
+ "history": [
+  {
+   "level": "start",
+   "mvqs": 72.85,
+   "conflicts": 62
+  },
+  {
+   "level": "shift",
+   "mvqs": 72.91,
+   "conflict": "MathTex \"calc4\" (created line 57, box [-3.41, -2.607, -2.59, -2.393]) overlaps MathTex \"side_labels3\" (line 54, box [-3.266, -2.743, -2.813, -2.4]) by 60%; moving it by [0.0, 0.36] would clear it"
+  },
+  {
+   "level": "block",
+   "mvqs": 74.0,
+   "conflict": "MathTex \"calc4\" (created line 57, box [-3.41, -2.247, -2.59, -2.033]) overlaps Triangle \"tri3\" (line 51, box [-3.039, -2.15, -0.961, -0.35]) by 29%; moving it by [0.0, -0.27] would clear it"
+  },
+  {
+   "level": "shift",
+   "mvqs": 74.05,
+   "conflict": "MathTex \"calc6\" (created line 77, box [-3.408, -2.604, -2.592, -2.396]) overlaps MathTex \"side_labels3\" (line 54, box [-3.266, -2.743, -2.813, -2.4]) by 59%; moving it by [0.0, 0.35] would clear it"
+  }
+ ]
+}
