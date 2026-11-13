@@ -45,6 +45,77 @@ Rules:
 - Give every object you show a variable name.
 Return only the Python code."""
 
+# Code2Video's layout (showlab/Code2Video, MIT licence: prompts/base_class.py and prompts/stage3.py): a fixed
+# template with the title on top, short lecture lines fixed on the left, and a 6x6 grid of anchors (A1-F6) on the right
+# where every animated object is placed. Used when "anchor" is in FEATURES (the anchor-layout study).
+TEACHING_SCENE = """class TeachingScene(Scene):
+    def setup_layout(self, title_text, lecture_lines):
+        self.camera.background_color = "#000000"
+        self.title = Text(title_text, font_size=28, color=WHITE).to_edge(UP)
+        self.add(self.title)
+        lecture_texts = [Text(line, font_size=22, color=WHITE) for line in lecture_lines]
+        self.lecture = VGroup(*lecture_texts).arrange(DOWN, aligned_edge=LEFT).scale(0.8)
+        self.lecture.to_edge(LEFT, buff=0.2)
+        self.add(self.lecture)
+        self.grid = {}
+        rows = ["A", "B", "C", "D", "E", "F"]
+        cols = ["1", "2", "3", "4", "5", "6"]
+        for i, row in enumerate(rows):
+            for j, col in enumerate(cols):
+                self.grid[f"{row}{col}"] = np.array([0.5 + j * 1, 2.2 - i * 1, 0])
+
+    def place_at_grid(self, mobject, grid_pos, scale_factor=1.0):
+        mobject.scale(scale_factor)
+        mobject.move_to(self.grid[grid_pos])
+        return mobject
+
+    def place_in_area(self, mobject, top_left, bottom_right, scale_factor=1.0):
+        tl, br = self.grid[top_left], self.grid[bottom_right]
+        mobject.scale(scale_factor)
+        mobject.move_to(np.array([(tl[0] + br[0]) / 2, (tl[1] + br[1]) / 2, 0]))
+        return mobject
+"""
+
+CODE_ANCHOR = """You are an expert Manim animator using Manim Community Edition. Write the Manim code for ONE section of an
+educational video, using Code2Video's layout template.
+
+Video: {title}
+Section {id}: {stitle}
+It teaches: {teaches}
+What to animate: {visual}
+Narration: {narration}
+{extra}
+1. Basic requirements:
+- Use the TeachingScene base class below without modification; copy it into the file exactly.
+- Lecture lines: write 2 to 4 short lecture lines (at most 7 words each) that carry the narration's key points.
+- Each lecture line has a matching color with its animation elements. Apply ONLY color changes to lecture lines: no
+  scaling, translation or Transform.
+
+2. Visual anchor system (MANDATORY): a 6x6 grid (A1-F6) on the right side only.
+lecture |  A1  A2  A3  A4  A5  A6
+        |  B1  B2  B3  B4  B5  B6
+        |  C1  C2  C3  C4  C5  C6
+        |  D1  D2  D3  D4  D5  D6
+        |  E1  E2  E3  E4  E5  E6
+        |  F1  F2  F3  F4  F5  F6
+- Point: self.place_at_grid(obj, 'B2', scale_factor=0.8). Area: self.place_in_area(obj, 'A1', 'C3', scale_factor=0.7).
+- NEVER use .to_edge(), .move_to() or manual positioning for animated objects.
+- Avoid occlusions; every label within 1 grid unit of its object; FadeOut what is no longer needed.
+
+3. Structure, exactly:
+from manim import *
+
+{base}
+class {cls}(TeachingScene):
+    def construct(self):
+        self.setup_layout("{stitle}", [... your lecture lines ...])
+        # === Animation for Lecture Line 1 ===
+        ...
+
+4. Constraints: 15 to 25 seconds in total; light, distinguishable hexadecimal colors; Text for words, MathTex only for
+formulas; no 3D, no files, no other imports. Give every object you show a variable name.
+Return only the Python code."""
+
 FIX_BLOCK = """This Manim section fails or has a layout fault. Fix ONLY the lines shown (lines {a} to {b}).
 
 Problem: {problem}
@@ -179,9 +250,10 @@ def strip_fence(text):
 
 
 def write_code(p, section, extra="", seed=0):
+    template = CODE_ANCHOR if "anchor" in FEATURES else CODE
     text = llm.ask(
         llm.CODER,
-        CODE.format(
+        template.format(
             title=p["title"],
             id=section["id"],
             stitle=section["title"],
@@ -190,6 +262,7 @@ def write_code(p, section, extra="", seed=0):
             narration=section["narration"],
             extra=extra + (SOURCE.format(source=p["source"]) if p.get("source") else ""),
             cls=cls_of(section),
+            **({"base": TEACHING_SCENE} if "anchor" in FEATURES else {}),
         ),
         temperature=0.2,
         seed=seed,

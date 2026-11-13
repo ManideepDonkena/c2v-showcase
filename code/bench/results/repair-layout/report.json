@@ -1,0 +1,96 @@
+{
+ "revisions": 4,
+ "rows": [
+  {
+   "topic": "krell-steps-on-a-grid",
+   "sections_edited": [
+    "s3"
+   ],
+   "base": {
+    "mvqs_mean": 78.9,
+    "conflicts": 5,
+    "timing": 0,
+    "broken_attachments": 1
+   },
+   "learner": {
+    "mvqs_mean": 78.0,
+    "conflicts": 11,
+    "timing": 0,
+    "broken_attachments": 4
+   }
+  },
+  {
+   "topic": "tovan-sums",
+   "sections_edited": [
+    "s3",
+    "s4"
+   ],
+   "base": {
+    "mvqs_mean": 85.0,
+    "conflicts": 0,
+    "timing": 1,
+    "broken_attachments": 1
+   },
+   "learner": {
+    "mvqs_mean": 81.3,
+    "conflicts": 3,
+    "timing": 0,
+    "broken_attachments": 6
+   }
+  },
+  {
+   "topic": "sorrel-counts-of-lattice-rectangles",
+   "sections_edited": [
+    "s2"
+   ],
+   "base": {
+    "mvqs_mean": 81.7,
+    "conflicts": 4,
+    "timing": 0,
+    "broken_attachments": 1
+   },
+   "learner": {
+    "mvqs_mean": 82.0,
+    "conflicts": 4,
+    "timing": 0,
+    "broken_attachments": 1
+   }
+  },
+  {
+   "topic": "quill-distance",
+   "sections_edited": [
+    "s3"
+   ],
+   "base": {
+    "mvqs_mean": 85.0,
+    "conflicts": 0,
+    "timing": 0,
+    "broken_attachments": 3
+   },
+   "learner": {
+    "mvqs_mean": 84.9,
+    "conflicts": 0,
+    "timing": 0,
+    "broken_attachments": 3
+   }
+  }
+ ],
+ "layout_fixes_kept_in_phase3_log": {
+  "shift": 249,
+  "block": 17,
+  "section": 17
+ },
+ "totals": {
+  "base": {
+   "conflicts": 9,
+   "timing": 1,
+   "broken_attachments": 6
+  },
+  "learner": {
+   "conflicts": 18,
+   "timing": 0,
+   "broken_attachments": 14
+  }
+ },
+ "worse": 2
+}

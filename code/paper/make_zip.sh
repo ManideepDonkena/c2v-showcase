@@ -9,14 +9,14 @@ stamp=$(date +%Y%m%d-%H%M)
 tmp=$(mktemp -d)
 dst="$tmp/c2v-paper"
 mkdir -p "$dst/sections" "$dst/tables" "$dst/figures" "$dst/pdf"
-cp main.tex report.tex long_report.tex preamble.tex refs.bib README_COMPILE.md "$dst/"
+cp *.tex refs.bib README_COMPILE.md "$dst/"   # papers, preamble and the generated prompts, costs and study numbers
 cp sections/*.tex "$dst/sections/"
 cp tables/*.tex "$dst/tables/"
 cp figures/*.pdf figures/IMAGE_PROMPTS.md "$dst/figures/"
 for f in figures/*.png figures/*.jpg; do [ -f "$f" ] && cp "$f" "$dst/figures/"; done
 cp main.pdf report.pdf long_report.pdf "$dst/pdf/"
 # the result files behind the final numbers, frozen with the PDFs
-for d in layout-study novel12-ladder mmmc-n12-seed0-ladder noise-model; do
+for d in layout-study novel12-ladder mmmc-n12-seed0-ladder noise-model novel12-stages claude-gen repair-layout; do
   [ -d "../bench/results/$d" ] && mkdir -p "$dst/results/$d" && cp ../bench/results/$d/*.json ../bench/results/$d/*.md "$dst/results/$d/" 2>/dev/null || true
 done
 cp tables/pilot_frozen.json "$dst/results/" 2>/dev/null || true

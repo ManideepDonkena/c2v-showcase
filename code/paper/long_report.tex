@@ -1,6 +1,8 @@
 \documentclass[11pt]{article}
 \usepackage[margin=1in]{geometry}
 \input{preamble}
+\input{repair_layout_numbers}
+\input{claude_gen_numbers}
 \usepackage[section]{placeins}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning,shapes.geometric,fit,calc}
@@ -16,10 +18,11 @@
 \large A detailed account of the problem, the earlier work, what we tried, what broke, what we built, and what we
 found}
 \author{Manideep}
-\date{Working report, 13 November 2026}
+\date{13 November 2026}
 
 \begin{document}
 \maketitle
+\begin{center}\small Videos, code, data and reproduction package: \url{https://github.com/ManideepDonkena/c2v-showcase}\end{center}
 
 \begin{inshort}
 Computers can now write short animated maths lessons by themselves. We wanted to make such a lesson \emph{better} by
@@ -31,7 +34,7 @@ mistake threw away answers, the student refused instead of forgetting, and it al
 layout scored better), and barely moved when \ClaudeFaults{} visible faults were fixed. We built a measure that reads what the student already knows, a
 benchmark of invented concepts that no model has seen, an admission check for videos, and two model-free checks for when
 objects are on screen and what they are attached to. The repair features are built and their rules fixed in advance.
-The pilot's repair loop (F0) gave no gain beyond noise; the stages that add features are still running.
+On these concepts the repair loop gave no gain beyond noise at any of its six stages.
 \end{inshort}
 
 \paperfig{fig_overview.png}{F1}{\textbf{Overview.} Top: TeachQuiz asks the student to forget the topic; instead it refuses, it already knows
@@ -530,10 +533,13 @@ quiz, and every on-screen string was checked in code to be unchanged. It fixed \
   \item \ClaudeCrowded{} crowded scenes;
   \item \ClaudeUnreadable{} unreadable texts.
 \end{itemize}
-The layout score barely moved. Worse, our own layout repair caused some of the faults: to clear an overlap it
-inserts \texttt{name.shift(v)}, which moves one object and leaves behind what it belongs to. It had inserted
-\ShiftsIn{} such shifts; Claude removed \ShiftsRemoved{}, and \ShiftNotes{} of its fix notes name a shift as the
-cause (for example, an arrow that no longer starts at its point).
+The layout score barely moved. To clear an overlap, our layout repair inserts \texttt{name.shift(v)}, which moves
+one object. It had inserted \ShiftsIn{} such shifts; Claude removed \ShiftsRemoved{}, and \ShiftNotes{} of its fix
+notes name a shift as the cause of a fault (for example, highlight boxes moved off the digits they mark). Our
+attachment check does not confirm this for the labels it can see: with every shift removed, the base videos have
+as many broken attachments as with them (\texttt{bench/shift\_attach.py}). Those come from the coder's own
+placement. The check skips boxes anchored to a text glyph, such as the boxes on the digits, so it cannot count that
+case.
 
 \paragraph{Two checks without a model.}
 \begin{itemize}
@@ -554,7 +560,8 @@ Claude-fixed at least as good on \LSWins{} of \LSN{} concepts, so the rule is \t
 
 \textbf{Cleaner videos did not clearly teach more.} By every layout check, Claude's versions were cleaner. Lasting
 conflicts fell from \LSOursConflicts{} to \LSClaudeConflicts{}, and broken attachments from \LSOursAttach{} to
-\LSClaudeAttach{}. But Claude-fixed was behind ours on \LSLosses{} of \LSN{} concepts. One concept carries the
+\LSClaudeAttach{}. (These counts predate a fix to the tracker. With the fix they repeat exactly: 27 for ours, 27 with
+timing fixes and 4 for Claude-fixed; nothing else changes.) But Claude-fixed was behind ours on \LSLosses{} of \LSN{} concepts. One concept carries the
 mean: on \emph{\LSTopTopic}, Claude-fixed gained \LSTopDiff{} points. Without it, the mean difference is
 \LSDiffWithoutTop{} points. The timing fixes alone changed only 3 of the 10 videos, and the gain stayed the same
 (\LSAutoMNine{} against \LSOursMNine{}).
@@ -584,6 +591,39 @@ falls by 26 points. No single concept's change in M9 is beyond noise, and the st
 \label{fig:layout_examples}
 \end{figure}
 
+\paragraph{Code2Video's layout and ours.} Code2Video keeps the screen simple on purpose. Its coder must start every
+scene from a fixed template (their \texttt{prompts/base\_class.py}): the title at the top, the planner's short
+lecture lines fixed on the left, and a 6$\times$6 grid of anchor points (A1 to F6) on the right half. Every animated object
+is placed on one anchor or on a block of anchors (\texttt{place\_at\_grid}, \texttt{place\_in\_area}), never
+by hand; a label must sit within one cell of its object; the lecture lines may only change colour. An occupancy table
+records which anchors are taken, and a critic model looks at the rendered video and fixes overlaps, text hidden by
+animation and empty space. In their ablation, removing the anchors dropped their aesthetics score from 82.8 to 45.2.
+
+Our coder has none of these limits. It may place any object anywhere on the whole screen, move text, and transform
+one object into another; our layout check reads the positions from the code afterwards and repairs what it finds.
+That freedom lets a lesson show more, but every extra object is another chance to collide.
+
+\begin{table}[!htbp]\centering\footnotesize
+\caption{Two ways to lay out a scene. Code2Video's rules are from its prompts (\texttt{prompts/base\_class.py},
+\texttt{stage3.py}, \texttt{stage4.py}); ours from \texttt{c2vlab/generate.py} and \texttt{c2vlab/layout.py}.}
+\label{tab:layout_designs}
+\begin{tabular}{@{}p{0.2\textwidth}p{0.37\textwidth}p{0.37\textwidth}@{}}\toprule
+ & Code2Video & Ours \\\midrule
+Screen & title on top, lecture lines on the left, animation on the right & the whole screen, no fixed regions \\
+Placement & on a 6$\times$6 anchor grid only & anywhere (\texttt{next\_to}, \texttt{arrange}, \texttt{shift}) \\
+Text & short lecture lines; only their colour changes & on-screen text may move and transform \\
+Labels & within one grid cell of their object & no rule; checked afterwards \\
+Layout check & a vision model watches the rendered video & positions read from the code (SGA), no model \\
+Layout repair & the critic rewrites placements on the grid & shift, then a block, then the whole scene \\\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Does the simpler layout have fewer faults?} To test this on our concepts, we added Code2Video's template and
+anchor rules to our coder as an option (\texttt{anchor} in \texttt{generate.FEATURES}; their base class and rules,
+MIT licence) and generated the 10 admitted NOVEL-12 videos again, once with the local coder and once with Claude Sonnet
+5.5. Everything else stays the same: the code check, our layout repair, admission, the student and the measures. This
+study was still running at submission, so its results are not reported here.
+
 \subsection{Step 3: improving the pipeline, one feature at a time (F0--F5)}
 
 \paperfig{fig_pipeline.png}{F2}{\textbf{Illustration of the pipeline.} Given a topic (and, for an invented concept, its definition card),
@@ -592,13 +632,7 @@ and the layout before the base video is rendered. The learner-feedback loop then
 quiz, finds the weak section like a debugger, makes a small edit there, and keeps the revision only if it passes the
 gate. The final quiz (TEST) is never seen by any step.}{pipelinefull}
 
-\textbf{Status: F0 is scored; F1 to F5 are built, with rules fixed in advance, and still running.} The runs need about
-14 hours of generation on the shared machine.
-
-\textbf{The pilot's loop (F0) did not clearly help.} Its learner repair scores \NMRepair{} points of M9 above the base
-video, ahead on \NMRepairPos{} of \NMRepairN{} concepts. It scores \NMRepairGeneric{} points above the generic repair of
-the same size. Neither difference is beyond noise. With 10 concepts, the study can only detect a difference of about
-\NMRepairMDE{} points, so a small benefit of the repair remains possible.
+\textbf{Status: all six stages are scored on the admitted NOVEL-12 concepts.} The results follow the list of stages.
 
 With a measure
 that works and topics the student cannot know, we test improvements to the repair loop. Each stage
@@ -640,6 +674,40 @@ Figure~\ref{fig:sbfl}). A section is suspicious when the practice questions it s
 it is edited first.}{localise}
 \imageslot{debugger.png}{P6}{Finding the weak section the way a debugger finds a bug.}
 
+\paragraph{What the stages showed.} Table~\ref{tab:stages} gives every stage on both measures.
+
+\textbf{No feature made the student's answers count.} The rule fixed in advance says a feature helps if it raises the
+learner repair's lead over the generic repair of the same size. That lead is \NMRepairGeneric{} points at F0 and
+\NMStageOneGeneric{}, \NMStageTwoGeneric{}, \NMStageThreeGeneric{}, \NMStageFourGeneric{} and \NMStageFiveGeneric{}
+points at F1 to F5. None of these rises beyond noise.
+
+\textbf{The gate refused most revisions.} From F1 on, a revision that fails the gate is not used, and the base video is
+scored instead. The gate kept the learner revision on only 1 to 5 of the 10 concepts per stage, so most learner videos
+are the base video.
+
+\textbf{The kept revisions help on 3 frames, not on the dense video.} The learner repair scores \NMStageOne{},
+\NMStageTwo{}, \NMStageThree{}, \NMStageFour{} and \NMStageFive{} points of M9 above the base video at F1 to F5. Of
+the 17 revisions the gate kept, 16 raised M9. On the dense video (M7), the learner repair is at or below the base video
+at every stage. Some gains rest on very little: on \emph{Tovan sums}, every kept revision fixes the same single answer.
+
+\textbf{None of these differences holds across concepts.} That test needs at least six concepts to move in the same
+direction, and the gate let at most five change. A test that swaps questions instead passes for a few comparisons, but
+none survives the correction for ten comparisons.
+
+\textbf{Two features did what they were built for.} Checking the code before rendering (F2) raised the rewritten
+sections that rendered from 25 to 28 of 32. Small edits (F5) changed about 23\% of a section's lines, against about
+70\% for the rewrites of F2 to F4.
+
+\textbf{The repair does not fix layout, and can make it worse.} The repair loop changes what a section teaches; it
+never aims at layout. After each edit, the layout repair runs on the edited section (in phase~3 it kept
+\RLShiftFixes{} shifts and \RLModelFixes{} model rewrites), but it only fixes what the layout score sees. In
+\RLWorse{} of the \RLRevisions{} revisions the F5 gate kept, the edit added faults: lasting conflicts rose from
+\RLConflictsBase{} to \RLConflictsLearner{} and broken attachments from \RLAttachBase{} to \RLAttachLearner{} over
+those revisions. The gate let them through, because it only asks that the layout score fall by less than 5 points,
+and the score fell by less.
+
+\input{tables/stages}
+
 
 %=====================================================================================================================
 \section{Results so far, and what they mean}\label{sec:results-long}
@@ -668,21 +736,35 @@ it is edited first.}{localise}
   one student.
   \item \textbf{The layout score barely sees the faults a viewer sees.}
   Claude fixed \ClaudeFaults{} visible faults in \ClaudeSections{} sections while the layout score barely moved;
-  Claude's notes trace \ShiftNotes{} faults to a shift our layout repair inserted (Section~\ref{sec:quality}).
+  Claude's notes name a shift our layout repair inserted as the cause of \ShiftNotes{} faults; the broken
+  attachments our check can count come from the coder's placement, not from the shifts (Section~\ref{sec:quality}).
   \item \textbf{Cleaner layout did not clearly teach more.} The rule fixed in advance is \LSGate{}: Claude-fixed minus
   ours is \LSDiff{} points of M9, and Claude-fixed is at least as good on only \LSWins{} of \LSN{} concepts
   (Table~\ref{tab:layout_study}). One concept carries the mean; without it, the difference is \LSDiffWithoutTop{}
   points. The study can detect only effects of about \NMLayoutMDE{} points or more, so smaller effects remain
   possible.
-  \item \textbf{Which pipeline features help} is only partly answered. The pilot's loop (F0) gave no gain beyond noise:
-  \NMRepair{} points of M9 over the base video, ahead on \NMRepairPos{} of \NMRepairN{} concepts. F1 to F5 are built,
-  with rules fixed in advance, and their runs continue after this report.
+  \item \textbf{The repair loop gave no gain beyond noise at any stage.} The learner repair beat the base video by
+  \NMStageFour{} to \NMStageTwo{} points of M9 at F1 to F5, and the generic repair by \NMStageFourGeneric{} to
+  \NMStageFiveGeneric{} points. None of these holds across concepts, and the gate refused most revisions
+  (Table~\ref{tab:stages}).
 \end{enumerate}
 
 \paragraph{Rules fixed before the results.} A measure is usable if it scores most videos, a topic's own video
 scores higher than another topic's video, and two measurements of the same videos agree. The learner repair helps if
 it beats the generic repair of the same size; finding the weak section matters if it also beats rewriting every
 section. We wrote these rules before seeing the NOVEL-12 results so that the results cannot shape them.
+
+%=====================================================================================================================
+\section{What the studies cost}\label{sec:costs}
+
+\textbf{Most of the work cost nothing per token.} The planner, the coder, the student and the judge are open models
+that ran on our own GPUs through Ollama. Their cost is machine time, not money.
+
+\textbf{The paid parts are the Claude studies.} Table~\ref{tab:costs} lists every paid request, counted from the
+token numbers the runs saved. The generator study logs each Claude request with its tokens, its price and how long it
+took, in \texttt{runs/ledger\_claude.jsonl}, and stops by itself at a fixed budget.
+
+\input{costs}
 
 %=====================================================================================================================
 \section{Limits, and what comes next}
@@ -705,15 +787,20 @@ section. We wrote these rules before seeing the NOVEL-12 results so that the res
   \item \textbf{The local coder.} After one retry, \AdmTotal{} minus \AdmComplete{} videos were still incomplete and
   only \AdmClean{} were clean. Stronger code models are the obvious next step; the Claude-fixed versions show how much a
   strong model changes.
-  \item \textbf{The repair is only partly evaluated on NOVEL-12.} The pilot's loop (F0) is scored, and its gain is within
-  noise. F1 to F5 are built and documented, with rules fixed in advance; their runs continue after this report.
+  \item \textbf{The repair study is small.} With 10 concepts and the gate refusing most revisions, the study can only
+  detect a difference of about \NMStageFiveMDE{} points at F5. Smaller benefits of the repair remain possible.
+  \item \textbf{The repair loop is blind to most layout faults.} Its layout step fixes only what the layout score
+  reads from the code, and its gate checks only the layout score. Our two model-free checks (timing leftovers, broken attachments) report faults but do not stop a revision;
+  the Claude layout fixer is a reference, not part of the loop. A gate that refuses any new conflict or broken
+  attachment, and a placement rule that keeps a label next to its shape (as Code2Video's anchor grid does), are the
+  next steps.
   \item \textbf{The checks have limits.} The attachment check skips labels anchored to a text glyph; the timing check
   covers two kinds of fault. A strong model found many more kinds.
 \end{itemize}
 
 \paragraph{Future work.}
 \begin{enumerate}
-  \item Finish F1 to F5 on the admitted NOVEL-12 concepts with the rules already fixed.
+  \item Repeat the repair study on more invented concepts, so that a gain of a few points could be detected.
   \item Make the layout repair attachment-safe: move a label together with its anchor, or change its
   \texttt{next\_to} direction, instead of shifting it alone.
   \item If the layout rule passes, compare layout fixers on the 40 base sections one choice at a time: the method,
@@ -759,8 +846,35 @@ section. We wrote these rules before seeing the NOVEL-12 results so that the res
 \end{description}
 
 \appendix
-\section{The NOVEL-12 cards, with one TEST question each}\label{app:cards}
+\section{The NOVEL-12 benchmark}\label{app:cards}
+\textbf{What it is.} NOVEL-12 has 12 invented mathematical concepts, such as \emph{Tovan sums} and \emph{Krell steps on
+a grid}. No model has seen them, so a student can only learn them from the video. Each concept has a card: a
+definition, its rules and one worked example. The planner, the coder and the practice-quiz writer see the card; no step
+of the pipeline sees the final quiz.
+
+\textbf{The final quiz (TEST).} Each concept has 8 multiple-choice questions with options A to D, 96 in all. They were
+written from the card only, by a model family the pipeline does not use (Claude). Every numeric answer is computed by
+code, so the key cannot be wrong, and the right letter is spread evenly over A to D with a fixed seed. No teacher has
+reviewed the questions yet.
+
+\textbf{The practice quiz (DEV).} The planner writes 12 practice questions per concept from the card. The student
+answers them without the video, and the questions it already gets right are dropped. Only DEV drives the repair loop.
+
+\textbf{How hard it is for the student.} Without the video, \texttt{gemma4:26b} answers \novelpriorGemmaAcc\% of TEST
+right, against \novelcardGemmaAcc\% when it reads the card. So there is room to learn, and a perfect lesson can reach
+about the card's score.
+
+\textbf{Admission.} A video enters the studies only if every section renders and its layout passes the check.
+\AdmComplete{} of the \AdmTotal{} base videos were admitted; the results use those concepts.
+
+\textbf{Files.} \texttt{bench/novel/cards.json} (cards), \texttt{bench/novel/questions.json} (TEST),
+\texttt{bench/novel/build.py} (how both were made and how the answers are computed).
+
+\subsection*{The cards, with one TEST question each}
 \input{tables/novel_cards}
+
+\section{The agents and their prompts}\label{app:prompts}
+\input{prompts}
 
 \section{How to reproduce everything}
 All runs are local (Ollama) and resume where they stopped; every step saves its output in \texttt{runs/<topic>/}.

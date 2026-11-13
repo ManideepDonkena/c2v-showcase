@@ -1,0 +1,68 @@
+{
+ "rows": [
+  {
+   "study": "Layout side study: Claude fixes layout and timing",
+   "model": "claude-opus-5-5",
+   "in": 153362,
+   "out": 86917,
+   "calls": 40,
+   "units": 10,
+   "unit": "videos",
+   "usd": 2.35
+  },
+  {
+   "study": "Claude as a second student (NOVEL-12)",
+   "model": "claude-haiku-5-5",
+   "in": 1694132,
+   "out": 127547,
+   "calls": 320,
+   "units": 320,
+   "unit": "quiz requests",
+   "usd": 0.23
+  },
+  {
+   "study": "Claude as a second student (NOVEL-12)",
+   "model": "claude-sonnet-5-5",
+   "in": 1694132,
+   "out": 24570,
+   "calls": 320,
+   "units": 320,
+   "unit": "quiz requests",
+   "usd": 3.63
+  },
+  {
+   "study": "Generator study: Claude plans, codes and repairs",
+   "model": "claude-haiku-5-5",
+   "in": 11954,
+   "out": 74449,
+   "calls": 13,
+   "units": 3,
+   "unit": "concepts",
+   "usd_logged": 0.038419,
+   "usd": 0.04
+  },
+  {
+   "study": "Generator study: Claude plans, codes and repairs",
+   "model": "claude-sonnet-5-5",
+   "in": 25511,
+   "out": 32642,
+   "calls": 25,
+   "units": 4,
+   "unit": "concepts",
+   "usd_logged": 0.377442,
+   "usd": 0.38
+  },
+  {
+   "study": "Generator study: Claude plans, codes and repairs",
+   "model": "claude-opus-5-5",
+   "in": 4044,
+   "out": 17334,
+   "calls": 6,
+   "units": 3,
+   "unit": "concepts",
+   "usd_logged": 0.362856,
+   "usd": 0.36
+  }
+ ],
+ "total_usd": 6.99
+}
