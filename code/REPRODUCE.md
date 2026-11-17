@@ -1,6 +1,6 @@
 # Reproducing the paper
 
-This folder is the research repository at commit `1ddc4c8`. It contains the code, the benchmark, every result file
+This folder is the research repository at commit `8a6bb7f`. It contains the code, the benchmark, every result file
 the tables are built from, and the per-video caches (`runs/`) without the rendered media.
 
 ## 1. Rebuild the tables and numbers (no models needed)
@@ -53,7 +53,7 @@ and can be restarted. With the caches included here, re-running a step re-uses t
 ## 3. Known differences
 
 - The lasting-conflict counts in the paper's tables were measured before a tracker fix. With the fix (commit
-  `7fe58c4`, included here), `bench/layout_study.py` gives 27 for our videos, 27 with timing fixes and 4 for the
+  `937336d`, included here), `bench/layout_study.py` gives 27 for our videos, 27 with timing fixes and 4 for the
   Claude-fixed versions, instead of 31, 29 and 4. MVQS, the attachment counts and the conclusions are unchanged.
 - The student is not fully repeatable at temperature 0. Repeated questions move the confidence a little;
   `bench/results/noise-repeats/` and the noise model measure how much.

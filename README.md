@@ -76,7 +76,7 @@ which versions exist.
 
 ## The code
 
-[`code/`](code/) is the implementation as of the paper's results (commit `1ddc4c8` of the research repository),
+[`code/`](code/) is the implementation as of the paper's results (commit `8a6bb7f` of the research repository),
 with the benchmark, every result file and the per-video caches. [`code/REPRODUCE.md`](code/REPRODUCE.md) explains how
 to rebuild the tables and re-run the studies, with the exact model versions.
 
